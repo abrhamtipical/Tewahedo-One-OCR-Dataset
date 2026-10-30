@@ -1,0 +1,1013 @@
+{
+ "title": "Full Kidase",
+ "language": "English",
+ "source": "Full Kidase.pdf (PDF pages 8-420; page numbers are the PDF page numbers)",
+ "ids": "Entry ids are shared between the two files: pNNN-NN = PDF page, entry order on that page.",
+ "uncertain_marker": "Text between ⟦? and ?⟧ is a word the transcriber could not read with confidence.",
+ "division": {
+  "id": "d16",
+  "kind": "anaphora",
+  "name_geez": "ቅዳሴ ጎርጎርዮስ ካልዕ",
+  "name_english": "Anaphora of St. Gregory II",
+  "pages": [
+   {
+    "pdf_page": 408,
+    "printed_page_geez": "፫፻፺፱",
+    "printed_page": 399,
+    "section_geez": "ቅዳሴ ጎርጎርዮስ ካልዕ",
+    "section_english": "Anaphora of St. Gregory II",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p408-01",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "THE ANAPHAORA OF ST. GREGORY II",
+      "uncertain": false
+     },
+     {
+      "id": "p408-02",
+      "kind": "paragraph",
+      "number": 1,
+      "geez_numeral": "፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "The Anaphora of St. Gregory II ; may his prayer and blessing be with us all Christian people, world without end Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p408-03",
+      "kind": "paragraph",
+      "number": 2,
+      "geez_numeral": "፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "Priest: The Lord be with you all.\nPeople: And with Your spirit.\nPriest: You give thanks unto our God.\nPeople: It is right, it is just.\nPriest: Lift up your hearts.\nPeople: We have lifted them up unto the Lord our God.",
+      "uncertain": false
+     },
+     {
+      "id": "p408-04",
+      "kind": "paragraph",
+      "number": 3,
+      "geez_numeral": "፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "Priest: we thank you, Lord; we glorify you and praise you.\nYour name is blessed, and we bless you. Your name is praised and we praise you.",
+      "uncertain": false
+     },
+     {
+      "id": "p408-05",
+      "kind": "paragraph",
+      "number": 4,
+      "geez_numeral": "፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "You are more glorious than the glorified, than the terrible, your greatness is unspeakable, you are glorious and we do glorify you.",
+      "uncertain": false
+     }
+    ],
+    "division": "d16"
+   },
+   {
+    "pdf_page": 409,
+    "printed_page_geez": "፬፻",
+    "printed_page": 400,
+    "section_geez": "ቅዳሴ ጎርጎርዮስ ካልዕ",
+    "section_english": "Anaphora of St. Gregory II",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p409-01",
+      "kind": "paragraph",
+      "number": 5,
+      "geez_numeral": "፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "You are above the saints, Your glory is wonderful, thousand and ten thousands of angels hallow You, the watchful who do not sleep glorify You.",
+      "uncertain": false
+     },
+     {
+      "id": "p409-02",
+      "kind": "paragraph",
+      "number": 6,
+      "geez_numeral": "፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "The eight terrible ones who desire to draw near unto you flee away because of the flame of fire for they may not draw near unto You. They fear and are afraid because of the coal of fire which goes out from Your mouth. All of them together sanctify and praise You with one voice.",
+      "uncertain": false
+     },
+     {
+      "id": "p409-03",
+      "kind": "paragraph",
+      "number": 7,
+      "geez_numeral": "፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "And we also, Your humble servants, do also like them, stretching forth our hands, raising them up in the sign of the cross, and glorify You and praise You. But those, the Seraphim and Cherubim, have wings, each has six wings.",
+      "uncertain": false
+     },
+     {
+      "id": "p409-04",
+      "kind": "paragraph",
+      "number": 8,
+      "geez_numeral": "፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon:* You that are sitting, stand up.",
+      "uncertain": false
+     },
+     {
+      "id": "p409-05",
+      "kind": "paragraph",
+      "number": 9,
+      "geez_numeral": "፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "Priest: All of them together hallow You and praise You with one voice, one with the other, this with that, the other with the other, and say: Holy holy holy, perfect Lord of hosts.",
+      "uncertain": false
+     },
+     {
+      "id": "p409-06",
+      "kind": "paragraph",
+      "number": 10,
+      "geez_numeral": "፲",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon:* You answer.",
+      "uncertain": false
+     },
+     {
+      "id": "p409-07",
+      "kind": "paragraph",
+      "number": 11,
+      "geez_numeral": "፲፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People:* Holy holy holy, perfect Lord of hosts, heaven and earth are full of the holiness of Your glory.",
+      "uncertain": false
+     }
+    ],
+    "division": "d16"
+   },
+   {
+    "pdf_page": 410,
+    "printed_page_geez": "፬፻፩",
+    "printed_page": 401,
+    "section_geez": "ቅዳሴ ጎርጎርዮስ ካልዕ",
+    "section_english": "Anaphora of St. Gregory II",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p410-01",
+      "kind": "paragraph",
+      "number": 12,
+      "geez_numeral": "፲፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest:* He is covered with the curtain of clouds. The Saviour was born from a holy virgin. The Lord appeared and the true Sun of righteousness arose.",
+      "uncertain": false
+     },
+     {
+      "id": "p410-02",
+      "kind": "paragraph",
+      "number": 13,
+      "geez_numeral": "፲፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "We believe in the Father who sent, and in the Son who was sent, and we believe in the Holy Spirit, the life-giver.",
+      "uncertain": false
+     },
+     {
+      "id": "p410-03",
+      "kind": "paragraph",
+      "number": 14,
+      "geez_numeral": "፲፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "And we say that He who destroyed death and broke the iron chains rose from the dead and raised the dead and, descending into Hades, He loosened the prisoners and preached liberty to them.",
+      "uncertain": false
+     },
+     {
+      "id": "p410-04",
+      "kind": "paragraph",
+      "number": 15,
+      "geez_numeral": "፲፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon:* Look to the east.",
+      "uncertain": false
+     },
+     {
+      "id": "p410-05",
+      "kind": "paragraph",
+      "number": 16,
+      "geez_numeral": "፲፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest :* We thank You and glorify You, who remove darkness and give light and You are the true Saviour, because through the love of your Son and Your love He gave his body in that night.",
+      "uncertain": false
+     },
+     {
+      "id": "p410-06",
+      "kind": "paragraph",
+      "number": 17,
+      "geez_numeral": "፲፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon:* Let us give heed.",
+      "uncertain": false
+     },
+     {
+      "id": "p410-07",
+      "kind": "paragraph",
+      "number": 18,
+      "geez_numeral": "፲፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest:* Though he was God, all this came upon him; when they seized him he received upon himself the spitting of the unclean and bore all the woes of the prison house.",
+      "uncertain": false
+     }
+    ],
+    "division": "d16"
+   },
+   {
+    "pdf_page": 411,
+    "printed_page_geez": "፬፻፪",
+    "printed_page": 402,
+    "section_geez": "ቅዳሴ ጎርጎርዮስ ካልዕ",
+    "section_english": "Anaphora of St. Gregory II",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p411-01",
+      "kind": "paragraph",
+      "number": 19,
+      "geez_numeral": "፲፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "All these things He carried though He was Lord and God, He carried all on behalf of us, on behalf of the poor and needy, on behalf of the prophets and apostles, on behalf of the martyrs and faithful:",
+      "uncertain": false
+     },
+     {
+      "id": "p411-02",
+      "kind": "paragraph",
+      "number": 20,
+      "geez_numeral": "፳",
+      "continued": null,
+      "heading_note": null,
+      "english": "On behalf of the bishops and priests, on behalf of the deacons and anagnosts, on behalf of the windows and orphans, on behalf of the virgins, monks and young men:",
+      "uncertain": false
+     },
+     {
+      "id": "p411-03",
+      "kind": "paragraph",
+      "number": 21,
+      "geez_numeral": "፳፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "On behalf of the sinners and the scattered. So that He may gather the scattered. Justify the sinners bring back the wicked and declare His resurrection.",
+      "uncertain": false
+     },
+     {
+      "id": "p411-04",
+      "kind": "paragraph",
+      "number": 22,
+      "geez_numeral": "፳፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "O Lord, we speak of those whose names we know, but You know those whose names we do not know and You understands them, and everything is naked before You.",
+      "uncertain": false
+     },
+     {
+      "id": "p411-05",
+      "kind": "paragraph",
+      "number": 23,
+      "geez_numeral": "፳፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon:* for the sake of the blessed … (Anaphora of the Apostles No. 6-9)",
+      "uncertain": false
+     },
+     {
+      "id": "p411-06",
+      "kind": "paragraph",
+      "number": 24,
+      "geez_numeral": "፳፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Asst. priest: Prayer of Benediction. (Anaphora of the Apostles No. 10-21)*",
+      "uncertain": false
+     },
+     {
+      "id": "p411-07",
+      "kind": "paragraph",
+      "number": 25,
+      "geez_numeral": "፳፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Asst. Deacon:* Lord, Pity and have mercy upon the patriarchs, archbishops, bishops, priests, deacons and all the Christian people.",
+      "uncertain": false
+     },
+     {
+      "id": "p411-08",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d16"
+   },
+   {
+    "pdf_page": 412,
+    "printed_page_geez": "፬፻፫",
+    "printed_page": 403,
+    "section_geez": "ቅዳሴ ጎርጎርዮስ ካልዕ",
+    "section_english": "Anaphora of St. Gregory II",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p412-01",
+      "kind": "paragraph",
+      "number": 26,
+      "geez_numeral": "፳፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest:* (We speak) of these and all through our Lord and our Saviour Jesus Christ, Your beloved Son whom You have loved and whom you did send before.",
+      "uncertain": false
+     },
+     {
+      "id": "p412-02",
+      "kind": "paragraph",
+      "number": 27,
+      "geez_numeral": "፳፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "As You have gathered this bread which had been scattered on the mountains and the little hills and being gathered together it became one whole bread, so also gather us, through Your divinity, from all evil thoughts into perfect faith.",
+      "uncertain": false
+     },
+     {
+      "id": "p412-03",
+      "kind": "paragraph",
+      "number": 28,
+      "geez_numeral": "፳፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "And as You did unite water with wine, and wine was united with water, and after having been united and mixed it is impossible for the one to be separated from the other, so also gather us, through Your divinity, from all evil thoughts into perfect faith.",
+      "uncertain": false
+     },
+     {
+      "id": "p412-04",
+      "kind": "paragraph",
+      "number": 29,
+      "geez_numeral": "፳፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "*At this time he shall offer incense.*\n*People:* Remember us, Lord, in Your kingdom ... (*Anaphora of the Apostles* No. 34)",
+      "uncertain": false
+     },
+     {
+      "id": "p412-05",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p412-06",
+      "kind": "paragraph",
+      "number": 30,
+      "geez_numeral": "፴",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest:* And unite, O Lord, our humanity with Your divinity, Your greatness with our humility, and our humility with Your greatness:",
+      "uncertain": false
+     },
+     {
+      "id": "p412-07",
+      "kind": "paragraph",
+      "number": 31,
+      "geez_numeral": "፴፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon:* Priests, raise up your hands.",
+      "uncertain": false
+     },
+     {
+      "id": "p412-08",
+      "kind": "paragraph",
+      "number": 32,
+      "geez_numeral": "፴፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest:* That we may offer unto you this (pointing) offering which You did grant unto Your disciples:",
+      "uncertain": false
+     }
+    ],
+    "division": "d16"
+   },
+   {
+    "pdf_page": 413,
+    "printed_page_geez": "፬፻፬",
+    "printed_page": 404,
+    "section_geez": "ቅዳሴ ጎርጎርዮስ ካልዕ",
+    "section_english": "Anaphora of St. Gregory II",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p413-01",
+      "kind": "paragraph",
+      "number": 33,
+      "geez_numeral": "፴፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People:* We believe that this is He, truly we believe.",
+      "uncertain": false
+     },
+     {
+      "id": "p413-02",
+      "kind": "paragraph",
+      "number": 34,
+      "geez_numeral": "፴፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest:* Saying, Take, eat, this (*pointing*) bread is my body which will be broken for you and given for the remission of sin and for eternal life. Amen.\n(*benediction three times*).",
+      "uncertain": false
+     },
+     {
+      "id": "p413-03",
+      "kind": "paragraph",
+      "number": 35,
+      "geez_numeral": "፴፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People:* Amen amen amen, we believe and confess, we glorify You, O our Lord and our God; that this is he we truly believe.",
+      "uncertain": false
+     },
+     {
+      "id": "p413-04",
+      "kind": "paragraph",
+      "number": 36,
+      "geez_numeral": "፴፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest:* Likewise You did speak to them about the cup saying, Take, drink, this (*pointing*) cup is my blood which will be shed for you and given for the remission of sin and for eternal life. Amen. (*benediction three times*)\n*Then he shall move the cup with his right hand in the sign of the cross.*",
+      "uncertain": false
+     },
+     {
+      "id": "p413-05",
+      "kind": "paragraph",
+      "number": 37,
+      "geez_numeral": "፴፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People:* Amen amen amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p413-06",
+      "kind": "paragraph",
+      "number": 38,
+      "geez_numeral": "፴፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest:* And You did say unto them, Whenever you eat of this bread and drink of this cup do this in remembrance of me: (*benediction once over the bread, once over the cup, and once more over both*) proclaim my death believing in my resurrection.",
+      "uncertain": false
+     }
+    ],
+    "division": "d16"
+   },
+   {
+    "pdf_page": 414,
+    "printed_page_geez": "፬፻፭",
+    "printed_page": 405,
+    "section_geez": "ቅዳሴ ጎርጎርዮስ ካልዕ",
+    "section_english": "Anaphora of St. Gregory II",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p414-01",
+      "kind": "paragraph",
+      "number": 39,
+      "geez_numeral": "፴፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People:* Amen, Lord have pity upon us, Lord spare us, Lord have mercy upon us.",
+      "uncertain": false
+     },
+     {
+      "id": "p414-02",
+      "kind": "paragraph",
+      "number": 40,
+      "geez_numeral": "፵",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest:* And keep my remembrance.",
+      "uncertain": false
+     },
+     {
+      "id": "p414-03",
+      "kind": "paragraph",
+      "number": 41,
+      "geez_numeral": "፵፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People:* We proclaim Your death, Lord, and Your holy resurrection; we believe Your ascension and Your second advent. We glorify You and confess You, we offer our prayer unto You and supplicate You, O our Lord and our God.",
+      "uncertain": false
+     },
+     {
+      "id": "p414-04",
+      "kind": "paragraph",
+      "number": 42,
+      "geez_numeral": "፵፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon:* With all the heart let us beseech the Lord our God that he grant unto us the good communion of the Holy Spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p414-05",
+      "kind": "paragraph",
+      "number": 43,
+      "geez_numeral": "፵፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People:* As it was, is and shall be unto generations of generations, world without end.",
+      "uncertain": false
+     },
+     {
+      "id": "p414-06",
+      "kind": "paragraph",
+      "number": 44,
+      "geez_numeral": "፵፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest:* We offer it unto You in glory and praise, in thanksgiving and greatness, that it may be to all who take of it for rejoicing and happiness, for healing and help, for the renewal of the body and cure of the spirit and soul; and all of them together give thanks unto You with one voice, world without end.",
+      "uncertain": false
+     },
+     {
+      "id": "p414-07",
+      "kind": "paragraph",
+      "number": 45,
+      "geez_numeral": "፵፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest:* Grant us to be united through Your Holy spirit and heal us by this oblation that we may live in You for ever.\n*People: The people shall repeat his words.*",
+      "uncertain": false
+     }
+    ],
+    "division": "d16"
+   },
+   {
+    "pdf_page": 415,
+    "printed_page_geez": "፬፻፮",
+    "printed_page": 406,
+    "section_geez": "ቅዳሴ ጎርጎርዮስ ካልዕ",
+    "section_english": "Anaphora of St. Gregory II",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p415-01",
+      "kind": "paragraph",
+      "number": 46,
+      "geez_numeral": "፵፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest:* Blessed be the name of the Lord, and blessed be he that comes in the name of the Lord, and let the name of his glory be blessed. So be it, so be it, so be it blessed.\n*People: The people shall repeat his words.*",
+      "uncertain": false
+     },
+     {
+      "id": "p415-02",
+      "kind": "paragraph",
+      "number": 47,
+      "geez_numeral": "፵፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest* Send the grace of the Holy Spirit upon us.\n*People: The people shall repeat his words.*",
+      "uncertain": false
+     },
+     {
+      "id": "p415-03",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p415-04",
+      "kind": "paragraph",
+      "number": 48,
+      "geez_numeral": "፵፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon:* Stand up for prayer.\n*People:* Lord have mercy upon us.\n*Priest:* Peace be unto you all.\n*People:* And with Your spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p415-05",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p415-06",
+      "kind": "paragraph",
+      "number": 49,
+      "geez_numeral": "፵፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest:* *Prayer of Fraction.*\n*We give thanks unto You, O Lord Jesus Christ the Lord of powers, the Lord of authorities, and the Lord of mercies*",
+      "uncertain": false
+     },
+     {
+      "id": "p415-07",
+      "kind": "paragraph",
+      "number": 50,
+      "geez_numeral": "፶",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Because You have made us worthy of this Your holy and pure mystery that we may glorify and praise You who dwell with the saints, and whose glory is wonderful for ever, Lord almighty, Lord our God.*",
+      "uncertain": false
+     },
+     {
+      "id": "p415-08",
+      "kind": "paragraph",
+      "number": 51,
+      "geez_numeral": "፶፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon:* You pray.\n*People:* Our father who are in heaven .... (*Anaphora of the Apostles No.* 60)",
+      "uncertain": false
+     },
+     {
+      "id": "p415-09",
+      "kind": "paragraph",
+      "number": 52,
+      "geez_numeral": "፶፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest:* O almighty God, we offer our prayer unto thee and supplicate You, because You have have made us worthy of this pure and holy mystery.",
+      "uncertain": false
+     }
+    ],
+    "division": "d16"
+   },
+   {
+    "pdf_page": 416,
+    "printed_page_geez": "፬፻፯",
+    "printed_page": 407,
+    "section_geez": "ቅዳሴ ጎርጎርዮስ ካልዕ",
+    "section_english": "Anaphora of St. Gregory II",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p416-01",
+      "kind": "paragraph",
+      "number": 53,
+      "geez_numeral": "፶፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "Through Your divinity You dwell upon this bread which we receive, so let it be to those who receive of it for rejoicing and gladness, for healing and help and everlasting life, for the renewal of the body and cure of the spirit and soul. Add them to Your inheritance in Your heavenly kingdom.",
+      "uncertain": false
+     },
+     {
+      "id": "p416-02",
+      "kind": "paragraph",
+      "number": 54,
+      "geez_numeral": "፶፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "Through Your only-begotten Son, through whom to You with Him and with the Holy Spirit be glory and dominion, both now and ever and world without end . Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p416-03",
+      "kind": "paragraph",
+      "number": 55,
+      "geez_numeral": "፶፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: According to Your mercy, Our God, and not according o our sins. (*to be repeated thrice*).\n(*Again*) The hosts of the angels of the Saviour of the world stand before the Saviour of the world and they encircle the Saviour of the world, even the body and the blood of the Saviour of the world. Let us draw near the face of the Saviour of the world. In the faith which is of him we believe in the birth of Christ.",
+      "uncertain": false
+     },
+     {
+      "id": "p416-04",
+      "kind": "paragraph",
+      "number": 56,
+      "geez_numeral": "፶፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Asst. Deacon*: Princes you open the gates,.",
+      "uncertain": false
+     },
+     {
+      "id": "p416-05",
+      "kind": "paragraph",
+      "number": 57,
+      "geez_numeral": "፶፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: You who are standing, bow your heads.",
+      "uncertain": false
+     }
+    ],
+    "division": "d16"
+   },
+   {
+    "pdf_page": 417,
+    "printed_page_geez": "፬፻፰",
+    "printed_page": 408,
+    "section_geez": "ቅዳሴ ጎርጎርዮስ ካልዕ",
+    "section_english": "Anaphora of St. Gregory II",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p417-01",
+      "kind": "paragraph",
+      "number": 58,
+      "geez_numeral": "፶፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest :* O Creator of great lights, it is Jesus Christ alone who divided the light from darkness. Keep Your people who have bowed their head unto You and who wait for blessing and good hope from You, so that You mayest keep and bless them and cause their children to grow; and as often as they receive the holy communion grant it to be to them for blessing, through Jesus Christ our Lord, through whom to You with him and with Holy Spirit be glory and dominion, both now and ever and world without end. Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p417-02",
+      "kind": "paragraph",
+      "number": 59,
+      "geez_numeral": "፶፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: Worship the Lord with fear.\n*People :* Before You, Lord, we worship , and You do we glorify.",
+      "uncertain": false
+     },
+     {
+      "id": "p417-03",
+      "kind": "paragraph",
+      "number": 60,
+      "geez_numeral": "፷",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest : Prayer of Penitence. (Anaphora of the Apostles No. 72-88)*",
+      "uncertain": false
+     },
+     {
+      "id": "p417-04",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p417-05",
+      "kind": "paragraph",
+      "number": 61,
+      "geez_numeral": "፷፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: Give heed.\n*Priest:* Holy things for the holy.\n*People*: One is the holy Father, one is the holy Son, one is the Holy Spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p417-06",
+      "kind": "paragraph",
+      "number": 62,
+      "geez_numeral": "፷፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest* : The Lord be with you all.\n*People* : And with Your spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p417-07",
+      "kind": "paragraph",
+      "number": 63,
+      "geez_numeral": "፷፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "*At this time the priest shall lift up the whole Host with his hand and say:*\n*O Lord Christ have compassion upon us, three times in a loud (chant and fifteen times in a low chant)*\n*The people shall repeat his words.*\n*Then the priest shall repeat them three times and the people twice*",
+      "uncertain": false
+     }
+    ],
+    "division": "d16"
+   },
+   {
+    "pdf_page": 418,
+    "printed_page_geez": "፬፻፱",
+    "printed_page": 409,
+    "section_geez": "ቅዳሴ ጎርጎርዮስ ካልዕ",
+    "section_english": "Anaphora of St. Gregory II",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p418-01",
+      "kind": "paragraph",
+      "number": 64,
+      "geez_numeral": "፷፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon:* You that are penitent, bow your heads.",
+      "uncertain": false
+     },
+     {
+      "id": "p418-02",
+      "kind": "paragraph",
+      "number": 65,
+      "geez_numeral": "፷፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Then he shall turn to the people and say:*\n*Priest*: Lord our God .... (*Anaphora of the Apostles No. 95-138)*",
+      "uncertain": false
+     },
+     {
+      "id": "p418-03",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p418-04",
+      "kind": "paragraph",
+      "number": 66,
+      "geez_numeral": "፷፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "*After receiving the Holy Communion.*\n*Priest : Pilot of the soul.* Again we supplicate the almighty Lord our God, Father of our Lord and our Saviour Jesus Christ. You are eternal God and Your name is great and holy .",
+      "uncertain": false
+     },
+     {
+      "id": "p418-05",
+      "kind": "paragraph",
+      "number": 67,
+      "geez_numeral": "፷፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "You are glorified by the high ones, and the humble praise You. We thank and glorify You because You have made us worthy of this holy communion which we have received.",
+      "uncertain": false
+     },
+     {
+      "id": "p418-06",
+      "kind": "paragraph",
+      "number": 68,
+      "geez_numeral": "፷፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "Fulfil it to us through Your faith, to be for life and salvation, so that we may thank and glorify You at every time and at every hour, O almighty Lord our God.",
+      "uncertain": false
+     },
+     {
+      "id": "p418-07",
+      "kind": "paragraph",
+      "number": 69,
+      "geez_numeral": "፷፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon* : You pray .",
+      "uncertain": false
+     },
+     {
+      "id": "p418-08",
+      "kind": "paragraph",
+      "number": 70,
+      "geez_numeral": "፸",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest:* O almighty God, we pray You and beseech You to sanctify us by the Holy Spirit. O Lord, make this to be to us for blessing that we may thank and glorify You at every time and at every hour.",
+      "uncertain": false
+     }
+    ],
+    "division": "d16"
+   },
+   {
+    "pdf_page": 419,
+    "printed_page_geez": "፬፻፲",
+    "printed_page": 410,
+    "section_geez": "ቅዳሴ ጎርጎርዮስ ካልዕ",
+    "section_english": "Anaphora of St. Gregory II",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p419-01",
+      "kind": "paragraph",
+      "number": 71,
+      "geez_numeral": "፸፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "Through Your only-begotten Son, through whom to You with him and with the Holy Spirit be glory and dominion, both now and ever and world without end.\n*People:* Amen",
+      "uncertain": false
+     },
+     {
+      "id": "p419-02",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p419-03",
+      "kind": "paragraph",
+      "number": 72,
+      "geez_numeral": "፸፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest: The Laying on of the Hand.*\nOur Lord and our God and our Saviour Jesus Christ, bless us and sanctify us; make us worthy to go back to our homes joyfully without sin or blemish.",
+      "uncertain": false
+     },
+     {
+      "id": "p419-04",
+      "kind": "paragraph",
+      "number": 73,
+      "geez_numeral": "፸፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "Let Your body and Your blood which we have received from Your honourable table be for our life.",
+      "uncertain": false
+     },
+     {
+      "id": "p419-05",
+      "kind": "paragraph",
+      "number": 74,
+      "geez_numeral": "፸፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "O Lord, send Your Holy Spirit unto us that he may guide us in purity and faith.\nThe Son of God prepared his body and blood in the world that we may receive them and live with him.",
+      "uncertain": false
+     },
+     {
+      "id": "p419-06",
+      "kind": "paragraph",
+      "number": 75,
+      "geez_numeral": "፸፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "He has brought us near to Him towards his holy altar through His mercy that we may be called servants of God and the dwelling-place of the most high.\nLet us all draw near him before his face in supplication, worship, purity and faith.",
+      "uncertain": false
+     },
+     {
+      "id": "p419-07",
+      "kind": "paragraph",
+      "number": 76,
+      "geez_numeral": "፸፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "May his holy body and his precious blood which we have received at the hands of the priests who offer prayer be to us for life, remission of sin, resurrection from the dead and the inheritance of the kingdom of heaven, world without end. Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p419-08",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *\nTHE END",
+      "uncertain": false
+     }
+    ],
+    "division": "d16"
+   }
+  ],
+  "first_pdf_page": 408,
+  "last_pdf_page": 419,
+  "page_count": 12,
+  "entry_count": 85
+ }
+}

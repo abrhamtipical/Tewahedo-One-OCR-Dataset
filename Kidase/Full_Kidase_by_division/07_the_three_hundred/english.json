@@ -1,0 +1,1989 @@
+{
+ "title": "Full Kidase",
+ "language": "English",
+ "source": "Full Kidase.pdf (PDF pages 8-420; page numbers are the PDF page numbers)",
+ "ids": "Entry ids are shared between the two files: pNNN-NN = PDF page, entry order on that page.",
+ "uncertain_marker": "Text between ⟦? and ?⟧ is a word the transcriber could not read with confidence.",
+ "division": {
+  "id": "d07",
+  "kind": "anaphora",
+  "name_geez": "ቅዳሴ ዘሠለስቱ ምእት",
+  "name_english": "Anaphora of the Three Hundred",
+  "pages": [
+   {
+    "pdf_page": 218,
+    "printed_page_geez": "፪፻፱",
+    "printed_page": 209,
+    "section_geez": "ቅዳሴ ዘሠለስቱ ምእት",
+    "section_english": "Anaphora of the Three Hundred",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p218-01",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "THE ANAPHORA OF THE THREE HUNDRED — The Prayer of the Faith. (Creed)",
+      "uncertain": false
+     },
+     {
+      "id": "p218-02",
+      "kind": "paragraph",
+      "number": 1,
+      "geez_numeral": "፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "1. We believe in one God the Father almighty, maker of heaven, earth and all things visible and invisible.",
+      "uncertain": false
+     },
+     {
+      "id": "p218-03",
+      "kind": "paragraph",
+      "number": 2,
+      "geez_numeral": "፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "2. And we believe in one Lord Jesus Christ, the only-begotten Son of the Father who was with him before the creation of the world:",
+      "uncertain": false
+     },
+     {
+      "id": "p218-04",
+      "kind": "paragraph",
+      "number": 3,
+      "geez_numeral": "፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "3. Light from light, true God from true God, begotten not made, of one essence with the Father.",
+      "uncertain": false
+     },
+     {
+      "id": "p218-05",
+      "kind": "paragraph",
+      "number": 4,
+      "geez_numeral": "፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "4. By whom all things were made, and without him was not anything in heaven or earth made:",
+      "uncertain": false
+     },
+     {
+      "id": "p218-06",
+      "kind": "paragraph",
+      "number": 5,
+      "geez_numeral": "፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "5. Who for us men and for our salvation came down from heaven, was made man and was incarnate from the Holy Spirit and from the holy Virgin Mary.",
+      "uncertain": false
+     },
+     {
+      "id": "p218-07",
+      "kind": "paragraph",
+      "number": 6,
+      "geez_numeral": "፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "6. Became man, was crucified for our sakes in the days of Pontius Pilate, suffered, died, was buried and rose from the dead on the third day as was written in the holy scrip-tures:",
+      "uncertain": false
+     }
+    ],
+    "division": "d07"
+   },
+   {
+    "pdf_page": 219,
+    "printed_page_geez": "፪፻፲",
+    "printed_page": 210,
+    "section_geez": "ቅዳሴ ዘሠለስቱ ምእት",
+    "section_english": "Anaphora of the Three Hundred",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p219-01",
+      "kind": "paragraph",
+      "number": 7,
+      "geez_numeral": "፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "7. Ascended in glory into heaven, sat at the right hand of his Father, and will come again in glory to judge the living and the dead; there is no end of his reign.",
+      "uncertain": false
+     },
+     {
+      "id": "p219-02",
+      "kind": "paragraph",
+      "number": 8,
+      "geez_numeral": "፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "8. And we believe in the Holy Spirit, the life-giving God, who proceeds from the Father; we worship and glorify him with the Father and the Son; who spoke by the prophets,",
+      "uncertain": false
+     },
+     {
+      "id": "p219-03",
+      "kind": "paragraph",
+      "number": 9,
+      "geez_numeral": "፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "9. and we believe in one holy, universal, apostolic Church,",
+      "uncertain": false
+     },
+     {
+      "id": "p219-04",
+      "kind": "paragraph",
+      "number": 10,
+      "geez_numeral": "፲",
+      "continued": null,
+      "heading_note": null,
+      "english": "10. and we believe in one baptism for the remission of sins, and wait for the resurrection from the dead and the life to come, world without end. Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p219-05",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p219-06",
+      "kind": "paragraph",
+      "number": 11,
+      "geez_numeral": "፲፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "11. The Anaphora of the Three Hundred and eighteen orthodox scholars; may their prayers and their blessings be with our patriarch … archbishop … with all Christians and with our country Ethiopia world without end. Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p219-07",
+      "kind": "paragraph",
+      "number": 12,
+      "geez_numeral": "፲፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "12. Priest: The Lord be with you all. People: And with your spirit. Priest: You Give thanks unto our God, People: It is right, it is just. Priest: Lift up your hearts. People: We have lifted them up unto the Lord our God.",
+      "uncertain": false
+     }
+    ],
+    "division": "d07"
+   },
+   {
+    "pdf_page": 220,
+    "printed_page_geez": "፪፻፲፩",
+    "printed_page": 211,
+    "section_geez": "ቅዳሴ ዘሠለስቱ ምእት",
+    "section_english": "Anaphora of the Three Hundred",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p220-01",
+      "kind": "paragraph",
+      "number": 13,
+      "geez_numeral": "፲፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "13. Priest: The Lord is mighty in the clouds, higher than heaven, glorious in all his ways, the perfect victorious God of gods.",
+      "uncertain": false
+     },
+     {
+      "id": "p220-02",
+      "kind": "paragraph",
+      "number": 14,
+      "geez_numeral": "፲፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "14. There is no time in which He was not, and there is no place where He cannot be found, there is no time when He was perfectly seen in His divinity. No one can see Him, and no one knows how He lives.",
+      "uncertain": false
+     },
+     {
+      "id": "p220-03",
+      "kind": "paragraph",
+      "number": 15,
+      "geez_numeral": "፲፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "15. Heaven and earth together with all their worlds, sea and rivers and all things that are in them glorify Him. All were created through His grace, and all live through His kindness. He is one Father of the One, Father of the Lord, Father of Messiah, true light with Him who begat Him.",
+      "uncertain": false
+     },
+     {
+      "id": "p220-04",
+      "kind": "paragraph",
+      "number": 16,
+      "geez_numeral": "፲፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "16. Deacon: You answer. People: Holy holy holy, perfect Lord of hosts, heaven and earth are full of the holiness of your glory.",
+      "uncertain": false
+     },
+     {
+      "id": "p220-05",
+      "kind": "paragraph",
+      "number": 17,
+      "geez_numeral": "፲፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "17. Priest: We Proclaim that the Father lived with His Son, and that the Son lived with His Father before creation, and before the heavens and earth were made:",
+      "uncertain": false
+     },
+     {
+      "id": "p220-06",
+      "kind": "paragraph",
+      "number": 18,
+      "geez_numeral": "፲፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "18. and before the mountains and the little hills arose, and before the height of the sky was seen, and before the power of the wind breathed,",
+      "uncertain": false
+     },
+     {
+      "id": "p220-07",
+      "kind": "paragraph",
+      "number": 19,
+      "geez_numeral": "፲፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "19. and before the thunderbolt flashed, and before the quickness of lightening was seen, and before the thunder thundered, and before the clouds were spread,",
+      "uncertain": false
+     }
+    ],
+    "division": "d07"
+   },
+   {
+    "pdf_page": 221,
+    "printed_page_geez": "፪፻፲፪",
+    "printed_page": 212,
+    "section_geez": "ቅዳሴ ዘሠለስቱ ምእት",
+    "section_english": "Anaphora of the Three Hundred",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p221-01",
+      "kind": "paragraph",
+      "number": 20,
+      "geez_numeral": "፳",
+      "continued": null,
+      "heading_note": null,
+      "english": "20. and before the creation of angels, and before any name was named under heaven and on earth.",
+      "uncertain": false
+     },
+     {
+      "id": "p221-02",
+      "kind": "paragraph",
+      "number": 21,
+      "geez_numeral": "፳፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "21. No one, thinking deeply, can understand His nature, though He ascends to heaven and goes beyond the lords and meets with the four living creatures, full of eyes, whose whole bodies are light, and from whose mouths comes out the likeness of flaming fire; again, though he descends down to earth and goes beyond the sea, the wind and the fire; again, though he goes out thence to search upon the right hand and the left, setting his thought on high and spreading it abroad:",
+      "uncertain": false
+     },
+     {
+      "id": "p221-03",
+      "kind": "paragraph",
+      "number": 22,
+      "geez_numeral": "፳፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "22. Deacon: You that are sitting, stand up.",
+      "uncertain": false
+     },
+     {
+      "id": "p221-04",
+      "kind": "paragraph",
+      "number": 23,
+      "geez_numeral": "፳፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "23. Priest: Even so He cannot discern among the Father, the Son and the Holy Spirit to know what His nature is.",
+      "uncertain": false
+     },
+     {
+      "id": "p221-05",
+      "kind": "paragraph",
+      "number": 24,
+      "geez_numeral": "፳፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "24. The Father begat his Son, but it is impossible to say that He begat Him at such a time or that He begat Him on such and such a day.",
+      "uncertain": false
+     },
+     {
+      "id": "p221-06",
+      "kind": "paragraph",
+      "number": 25,
+      "geez_numeral": "፳፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "25. His birth from the Father is unsearchable because it passes understanding, and His nature is unknown because it is hidden. He is the right hand of His Father, His arm and his beloved Son who is of the same essence with him.",
+      "uncertain": false
+     },
+     {
+      "id": "p221-07",
+      "kind": "paragraph",
+      "number": 26,
+      "geez_numeral": "፳፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "26. Deacon: Look to the east.",
+      "uncertain": false
+     },
+     {
+      "id": "p221-08",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d07"
+   },
+   {
+    "pdf_page": 222,
+    "printed_page_geez": "፪፻፲፫",
+    "printed_page": 213,
+    "section_geez": "ቅዳሴ ዘሠለስቱ ምእት",
+    "section_english": "Anaphora of the Three Hundred",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p222-01",
+      "kind": "paragraph",
+      "number": 27,
+      "geez_numeral": "፳፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "27. Priest: The Father begat His Son; but He did not beget Him that He might be His assistant in work to serve Him as a man is served who is in difficulty. When He created heaven and earth no one helped Him because He is mighty.",
+      "uncertain": false
+     },
+     {
+      "id": "p222-02",
+      "kind": "paragraph",
+      "number": 28,
+      "geez_numeral": "፳፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "28. He did not become weary, nor did He rest as a man rests, but the sword of fire coming out of His mouth, what He has spoken is immediately accomplished; in a moment what He has thought is fulfilled: He is the thought of thoughts; He is the Wise, the Maker.",
+      "uncertain": false
+     },
+     {
+      "id": "p222-03",
+      "kind": "paragraph",
+      "number": 29,
+      "geez_numeral": "፳፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "29. Who, like him, lives in the highest heaven, builds the foundation, bears up from beneath, sits upon the firmament on high, establishes upon the floods, builds with very small particles, wrapps with invisible things, limits with sand, strengthens with wind, hangs the water up and calls it sky,",
+      "uncertain": false
+     },
+     {
+      "id": "p222-04",
+      "kind": "paragraph",
+      "number": 30,
+      "geez_numeral": "፴",
+      "continued": null,
+      "heading_note": null,
+      "english": "30. curdls water in the womb, turning it into flesh, binds it with muscles, strengthening it with sinews, numbers the very hairs, tries the heart and knows the reins?",
+      "uncertain": false
+     },
+     {
+      "id": "p222-05",
+      "kind": "paragraph",
+      "number": 31,
+      "geez_numeral": "፴፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "31. The Father begat His Son without days or hours; and when He begat him His Father was not separated from Him. Before He created the angels for His worship His glory was infinite; the glory of the Father, of the Son and of the Holy Spirit was perfect.",
+      "uncertain": false
+     }
+    ],
+    "division": "d07"
+   },
+   {
+    "pdf_page": 223,
+    "printed_page_geez": "፪፻፲፬",
+    "printed_page": 214,
+    "section_geez": "ቅዳሴ ዘሠለስቱ ምእት",
+    "section_english": "Anaphora of the Three Hundred",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p223-01",
+      "kind": "paragraph",
+      "number": 32,
+      "geez_numeral": "፴፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "32. Deacon: Let us give heed.",
+      "uncertain": false
+     },
+     {
+      "id": "p223-02",
+      "kind": "paragraph",
+      "number": 33,
+      "geez_numeral": "፴፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "33. Priest: And when he created our Father Adam He did not go about to bring earth, water, wind and fire; and did not leave his throne or in any way move from it:",
+      "uncertain": false
+     },
+     {
+      "id": "p223-03",
+      "kind": "paragraph",
+      "number": 34,
+      "geez_numeral": "፴፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "34. Yes, while He was yet there He took the four elements, two palpable and two impalpable; three visible and one invisible;",
+      "uncertain": false
+     },
+     {
+      "id": "p223-04",
+      "kind": "paragraph",
+      "number": 35,
+      "geez_numeral": "፴፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "35. And made him from these, made him fair with his holy hands, kissed him and loved him; and breathed in his nostrils the breath of life. Before He built the skies and the highest heavens He was not lowly, but was strong in His throne and great in His kingdom.",
+      "uncertain": false
+     },
+     {
+      "id": "p223-05",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p223-06",
+      "kind": "paragraph",
+      "number": 36,
+      "geez_numeral": "፴፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "36. He thundered to those that were above, and caused to tremble those that were beneath; He trod the clouds, burned without fire and cooled without water.",
+      "uncertain": false
+     },
+     {
+      "id": "p223-07",
+      "kind": "paragraph",
+      "number": 37,
+      "geez_numeral": "፴፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "37. And when He created the sun and the moon it was not to give light to Him as to one in darkness but He gave them from his own light a little, as it were no more than a grain of wheat. Thus, they gave light to man.",
+      "uncertain": false
+     },
+     {
+      "id": "p223-08",
+      "kind": "paragraph",
+      "number": 38,
+      "geez_numeral": "፴፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "38. Having created and prepared all, visible invisible, He did not boast saying, I have worked and I have finished and I have to rest from all the toil in which I have laboured; but He knew before it came to pass, He completed before ever He made righteous and unrighteous, good and evil.",
+      "uncertain": false
+     }
+    ],
+    "division": "d07"
+   },
+   {
+    "pdf_page": 224,
+    "printed_page_geez": "፪፻፲፭",
+    "printed_page": 215,
+    "section_geez": "ቅዳሴ ዘሠለስቱ ምእት",
+    "section_english": "Anaphora of the Three Hundred",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p224-01",
+      "kind": "paragraph",
+      "number": 39,
+      "geez_numeral": "፴፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "39. Before He created man He prepared Paradise to put there Him whom He loved, and the fire of hell to put there him whom he hated.",
+      "uncertain": false
+     },
+     {
+      "id": "p224-02",
+      "kind": "paragraph",
+      "number": 40,
+      "geez_numeral": "፵",
+      "continued": null,
+      "heading_note": null,
+      "english": "40. Blessed is he whom he had chosen, and blessed is he in whom he was pleased. Let us therefore receive this word with great diligence that we may not enter into the great sea wherein fire and water are mingled and from which we can not escape by swimming.",
+      "uncertain": false
+     },
+     {
+      "id": "p224-03",
+      "kind": "paragraph",
+      "number": 41,
+      "geez_numeral": "፵፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "41. But let us receive what the apostles taught us about the Father, the Son and the Holy Spirit saying: The Father declares of his Son that he is Jesus Christ his only One: And the Son tells that God the Father begat him: And the Holy Spirit proclaims that he proceeds from the Father and took of the things of the Son.",
+      "uncertain": false
+     },
+     {
+      "id": "p224-04",
+      "kind": "paragraph",
+      "number": 42,
+      "geez_numeral": "፵፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "42. It is one honour and one authority and one power which can not be divided. There is neither reasoning nor separation of his position. There is neither subtraction nor addition in his divinity.",
+      "uncertain": false
+     },
+     {
+      "id": "p224-05",
+      "kind": "paragraph",
+      "number": 43,
+      "geez_numeral": "፵፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "43. As our Lord answered his disciples about their nature saying, we have neither first nor last, we have neither right nor left, we have neither firmament nor foundation, we are the firmament and we are the foundation.",
+      "uncertain": false
+     }
+    ],
+    "division": "d07"
+   },
+   {
+    "pdf_page": 225,
+    "printed_page_geez": "፪፻፲፮",
+    "printed_page": 216,
+    "section_geez": "ቅዳሴ ዘሠለስቱ ምእት",
+    "section_english": "Anaphora of the Three Hundred",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p225-01",
+      "kind": "paragraph",
+      "number": 44,
+      "geez_numeral": "፵፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "44. None can see us and none can know how we live. We know all and we understand all, we make remote that which is near and bring nigh that which is afar off. We ignore the noise of the tongue as one who does not hear. We know the whisper of the heart within.",
+      "uncertain": false
+     },
+     {
+      "id": "p225-02",
+      "kind": "paragraph",
+      "number": 45,
+      "geez_numeral": "፵፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "45. My Father and I and the Holy Spirit are the gate, the door and the dwelling place.",
+      "uncertain": false
+     },
+     {
+      "id": "p225-03",
+      "kind": "paragraph",
+      "number": 46,
+      "geez_numeral": "፵፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "46. My Father and I and the Holy Spirit are might, grace and favour.",
+      "uncertain": false
+     },
+     {
+      "id": "p225-04",
+      "kind": "paragraph",
+      "number": 47,
+      "geez_numeral": "፵፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "47. My Father and I and the Holy Spirit are sun, light and heat.",
+      "uncertain": false
+     },
+     {
+      "id": "p225-05",
+      "kind": "paragraph",
+      "number": 48,
+      "geez_numeral": "፵፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "48. My Father and I and the Holy Spirit are fire, flame and the burning coal.",
+      "uncertain": false
+     },
+     {
+      "id": "p225-06",
+      "kind": "paragraph",
+      "number": 49,
+      "geez_numeral": "፵፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "49. Such is our existence, such is our perfection, and our days are not finite but they endure forever. Again there is neither measurement nor end (of them).",
+      "uncertain": false
+     },
+     {
+      "id": "p225-07",
+      "kind": "paragraph",
+      "number": 50,
+      "geez_numeral": "፶",
+      "continued": null,
+      "heading_note": null,
+      "english": "50. Deacon: Let your thoughts be above. Let your hearts be in heaven. Know where you stand.",
+      "uncertain": false
+     },
+     {
+      "id": "p225-08",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p225-09",
+      "kind": "paragraph",
+      "number": 51,
+      "geez_numeral": "፶፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "51. Priest: He is slow to anger; His compassion is great, and He is righteous. There is no time when He is patient and another when He is impatient. He waits for the sinner until He comes back and returns to him.",
+      "uncertain": false
+     }
+    ],
+    "division": "d07"
+   },
+   {
+    "pdf_page": 226,
+    "printed_page_geez": "፪፻፲፯",
+    "printed_page": 217,
+    "section_geez": "ቅዳሴ ዘሠለስቱ ምእት",
+    "section_english": "Anaphora of the Three Hundred",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p226-01",
+      "kind": "paragraph",
+      "number": 52,
+      "geez_numeral": "፶፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "52. When he was angry he destroyed the wicked with the flood and saved eight souls who kept His word, and He establish-ed with their father an everlasting covenant to righteousness. He is God of gods, consuming fire, and life-giving fire.",
+      "uncertain": false
+     },
+     {
+      "id": "p226-02",
+      "kind": "paragraph",
+      "number": 53,
+      "geez_numeral": "፶፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "53. What is His name, and what is His Son's name? Where is His dwelling-place and where is His country?",
+      "uncertain": false
+     },
+     {
+      "id": "p226-03",
+      "kind": "paragraph",
+      "number": 54,
+      "geez_numeral": "፶፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "54. His throne is compassed by fire and His abode is enveloped by water, and round the roof of His house hangs drops of water which do not fall. Flashes of light go out from his throne; within it is like blazing fire; in it there is great light like the winter rainbow; round it there is lightening.",
+      "uncertain": false
+     },
+     {
+      "id": "p226-04",
+      "kind": "paragraph",
+      "number": 55,
+      "geez_numeral": "፶፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "55. At the sides of the throne there are four creatures as if they carry on their heads the large throne which is like the white show.",
+      "uncertain": false
+     },
+     {
+      "id": "p226-05",
+      "kind": "paragraph",
+      "number": 56,
+      "geez_numeral": "፶፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "56. Round about that throne there are twenty four heavenly priests; in front of them they see the likeness of the lamb, the vesture dipped in blood, and the sealed book.",
+      "uncertain": false
+     },
+     {
+      "id": "p226-06",
+      "kind": "paragraph",
+      "number": 57,
+      "geez_numeral": "፶፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "57. Every time they go round that throne they prostrate themselves thrice before the likeness of the Lamb, the vesture dipped in blood and the sealed book. The smoke of glory fills the pavilion. From beneath that throne springs the sea of two courses, the sea of light and the sea of wind.",
+      "uncertain": false
+     }
+    ],
+    "division": "d07"
+   },
+   {
+    "pdf_page": 227,
+    "printed_page_geez": "፪፻፲፰",
+    "printed_page": 218,
+    "section_geez": "ቅዳሴ ዘሠለስቱ ምእት",
+    "section_english": "Anaphora of the Three Hundred",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p227-01",
+      "kind": "paragraph",
+      "number": 58,
+      "geez_numeral": "፶፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "58. The God of gods does not live there; the Lord of lords is not limited therein, but He both lives without and is found within.",
+      "uncertain": false
+     },
+     {
+      "id": "p227-02",
+      "kind": "paragraph",
+      "number": 59,
+      "geez_numeral": "፶፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "59. They do not go to find Him, and He is not absent when they seek Him. He is not felt when they take hold of Him because He is far above thought.",
+      "uncertain": false
+     },
+     {
+      "id": "p227-03",
+      "kind": "paragraph",
+      "number": 60,
+      "geez_numeral": "፷",
+      "continued": null,
+      "heading_note": null,
+      "english": "60. He keeps the rich; lives with the poor; loves the humble, and neglects the haughty. He will justify when He likes; will save when He is pleased; He disregards as if He does not hear; He keeps silent as if he does not see; He waits as if He does not know; He delays as if He does not wish to grant.",
+      "uncertain": false
+     },
+     {
+      "id": "p227-04",
+      "kind": "paragraph",
+      "number": 61,
+      "geez_numeral": "፷፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "61. He is the God of gods, the Lord of lords, the Lord of the strong, before whom the angels and archangels prostrate themselves.",
+      "uncertain": false
+     },
+     {
+      "id": "p227-05",
+      "kind": "paragraph",
+      "number": 62,
+      "geez_numeral": "፷፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "62. They do not prostrate themselves before Him because they see Him, but they prostrate themselves before His throne and praise His greatness. They fly towards the four ends of the world to do all His will. Seraphim and Cherubim shout and say, yet without pride: Holy God, holy mighty, holy living, immortal, who yet died for the love of man.",
+      "uncertain": false
+     },
+     {
+      "id": "p227-06",
+      "kind": "paragraph",
+      "number": 63,
+      "geez_numeral": "፷፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "63. From the one treasury formed from the breath of His mouth proceed and grow the souls who multiply in the world.",
+      "uncertain": false
+     }
+    ],
+    "division": "d07"
+   },
+   {
+    "pdf_page": 228,
+    "printed_page_geez": "፪፻፲፱",
+    "printed_page": 219,
+    "section_geez": "ቅዳሴ ዘሠለስቱ ምእት",
+    "section_english": "Anaphora of the Three Hundred",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p228-01",
+      "kind": "paragraph",
+      "number": 64,
+      "geez_numeral": "፷፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "64. In one treasury there will be gathered wheat without tares. There will be put and kept the souls of the righteous until all are rewarded according to their deeds.",
+      "uncertain": false
+     },
+     {
+      "id": "p228-02",
+      "kind": "paragraph",
+      "number": 65,
+      "geez_numeral": "፷፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "65. There are pleasure and happiness. There is Adam the Father of all. There are Abel, Seth and Enoch the patriarchs together with all their seed.",
+      "uncertain": false
+     },
+     {
+      "id": "p228-03",
+      "kind": "paragraph",
+      "number": 66,
+      "geez_numeral": "፷፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "66. There are Abraham, Isaac and Jacob, the beloved of the Lord. There are Moses and Aaron the priests. There are David, Hezekiah and Josiah and all the kings of a right faith.",
+      "uncertain": false
+     },
+     {
+      "id": "p228-04",
+      "kind": "paragraph",
+      "number": 67,
+      "geez_numeral": "፷፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "67. There are the prophets with their prophecies, there are the disciples of the One, in whose hands are the keys, sitting at the door to take in whom they will.",
+      "uncertain": false
+     },
+     {
+      "id": "p228-05",
+      "kind": "paragraph",
+      "number": 68,
+      "geez_numeral": "፷፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "68. There are the patriarchs, archbishops, bishops, priests and deacons who gave full account of their stewardship which was entrusted unto them by their Lord.",
+      "uncertain": false
+     },
+     {
+      "id": "p228-06",
+      "kind": "paragraph",
+      "number": 69,
+      "geez_numeral": "፷፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "69. There are martyrs whose crowns shine seven times brighter than the sun. There are the righteous in their patience.",
+      "uncertain": false
+     }
+    ],
+    "division": "d07"
+   },
+   {
+    "pdf_page": 229,
+    "printed_page_geez": "፪፻፳",
+    "printed_page": 220,
+    "section_geez": "ቅዳሴ ዘሠለስቱ ምእት",
+    "section_english": "Anaphora of the Three Hundred",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p229-01",
+      "kind": "paragraph",
+      "number": 70,
+      "geez_numeral": "፸",
+      "continued": null,
+      "heading_note": null,
+      "english": "70. There are men and women, the hosts of the Father, the Son and the Holy Spirit whose number cannot be known. They live there in pleasure and happiness till they receive twofold more than before.",
+      "uncertain": false
+     },
+     {
+      "id": "p229-02",
+      "kind": "paragraph",
+      "number": 71,
+      "geez_numeral": "፸፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "71. There live in honour the righteous, the meek and the elect. O Lord we offer our prayer unto you who does answer, who are the hearer and the helper.",
+      "uncertain": false
+     },
+     {
+      "id": "p229-03",
+      "kind": "paragraph",
+      "number": 72,
+      "geez_numeral": "፸፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "72. We supplicate you, Lord, on behalf of those who have fallen asleep and departed from this corruptible world, and on behalf of those of whom the authority of death took hold, and of those who are covered within the grave.",
+      "uncertain": false
+     },
+     {
+      "id": "p229-04",
+      "kind": "paragraph",
+      "number": 73,
+      "geez_numeral": "፸፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "73. We pray you, Lord, and beseech you to call them to an honourable resurrection when you raise the body uniting it with the spirit, and when you give that good gift which eye has not seen, nor ear heard, neither has it entered into the heart of man, which you did prepare through your Son Jesus Christ, world without end.",
+      "uncertain": false
+     },
+     {
+      "id": "p229-05",
+      "kind": "paragraph",
+      "number": 74,
+      "geez_numeral": "፸፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "74. Deacon: For the sake of the blessed … (Anaphora of the Apostle No. 6-9)",
+      "uncertain": false
+     },
+     {
+      "id": "p229-06",
+      "kind": "paragraph",
+      "number": 75,
+      "geez_numeral": "፸፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "75. Asst. Priest: Prayer of Benediction (Anaphora of the Apostles No. 10-21).",
+      "uncertain": false
+     }
+    ],
+    "division": "d07"
+   },
+   {
+    "pdf_page": 230,
+    "printed_page_geez": "፪፻፳፩",
+    "printed_page": 221,
+    "section_geez": "ቅዳሴ ዘሠለስቱ ምእት",
+    "section_english": "Anaphora of the Three Hundred",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p230-01",
+      "kind": "paragraph",
+      "number": 76,
+      "geez_numeral": "፸፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "76. Asst. Deacon: Lord, pity and have mercy upon the patriarchs, archbishops, bishops, priests, deacons and all the Christian people.",
+      "uncertain": false
+     },
+     {
+      "id": "p230-02",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p230-03",
+      "kind": "paragraph",
+      "number": 77,
+      "geez_numeral": "፸፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "77. Priest: God the Father sent his only-begotten Son to abide in the body of a daughter who did not know a husband; and the creator of infants was kept in the womb without being limited; He was made man while He was God, and was born while He was the fire of the godhead, and grew without adornments or honour, but grew like the children of the poor, chastened greatly and obeying his relatives.",
+      "uncertain": false
+     },
+     {
+      "id": "p230-04",
+      "kind": "paragraph",
+      "number": 78,
+      "geez_numeral": "፸፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "78. He bowed his head to be baptized by a servant though He was pure from sin. He did miracles changing water into wine and satisfying many thousands in the wilderness.",
+      "uncertain": false
+     },
+     {
+      "id": "p230-05",
+      "kind": "paragraph",
+      "number": 79,
+      "geez_numeral": "፸፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "79. At this time he shall cense. People: Remember us, Lord, in your kingdom. (to be repeated thrice, Anaphora of the Apostle No. 34).",
+      "uncertain": false
+     },
+     {
+      "id": "p230-06",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p230-07",
+      "kind": "paragraph",
+      "number": 80,
+      "geez_numeral": "፹",
+      "continued": null,
+      "heading_note": null,
+      "english": "80. Priest: O! the eyes of that generation were blinded so that they might not see Him, and their ears were made deaf so that they might not listen to Him, and their hearts were closed so that they might not know Him, they claimed Him who forgives sin to be a mere man, and judged the judge of judges.",
+      "uncertain": false
+     }
+    ],
+    "division": "d07"
+   },
+   {
+    "pdf_page": 231,
+    "printed_page_geez": "፪፻፳፪",
+    "printed_page": 222,
+    "section_geez": "ቅዳሴ ዘሠለስቱ ምእት",
+    "section_english": "Anaphora of the Three Hundred",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p231-01",
+      "kind": "paragraph",
+      "number": 81,
+      "geez_numeral": "፹፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "81. He chose twelve apostles from among them, walked with them and showed them the mysterious order of the holy communion.",
+      "uncertain": false
+     },
+     {
+      "id": "p231-02",
+      "kind": "paragraph",
+      "number": 82,
+      "geez_numeral": "፹፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "82. Deacon: Priests, raise up your hands.",
+      "uncertain": false
+     },
+     {
+      "id": "p231-03",
+      "kind": "paragraph",
+      "number": 83,
+      "geez_numeral": "፹፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "83. Priest: He took bread before them. At this time he shall raise the bread.",
+      "uncertain": false
+     },
+     {
+      "id": "p231-04",
+      "kind": "paragraph",
+      "number": 84,
+      "geez_numeral": "፹፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "84. People: We believe that this is He; truly we believe.",
+      "uncertain": false
+     },
+     {
+      "id": "p231-05",
+      "kind": "paragraph",
+      "number": 85,
+      "geez_numeral": "፹፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "85. Priest: blessed, (benediction three times, then he shall indent the Host lightly with his thumb in five places without separation), and said, Take, eat, this (pointing) bread is my body which will be given on your behalf for the remission of sin.",
+      "uncertain": false
+     },
+     {
+      "id": "p231-06",
+      "kind": "paragraph",
+      "number": 86,
+      "geez_numeral": "፹፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "86. People: Amen amen amen, we believe and confess, we glorify you, O our Lord and our God; that this is he we truly believe.",
+      "uncertain": false
+     },
+     {
+      "id": "p231-07",
+      "kind": "paragraph",
+      "number": 87,
+      "geez_numeral": "፹፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "87. Priest: And likewise also the cup: he blessed (benediction three times) and hallowed and said, Take, drink, this (pointing) cup is my; blood which will be shed on behalf of you for the remission of sin. He shall then move the cup with his right hand in the sign of the cross. People: Amen amen amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p231-08",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d07"
+   },
+   {
+    "pdf_page": 232,
+    "printed_page_geez": "፪፻፳፫",
+    "printed_page": 223,
+    "section_geez": "ቅዳሴ ዘሠለስቱ ምእት",
+    "section_english": "Anaphora of the Three Hundred",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p232-01",
+      "kind": "paragraph",
+      "number": 88,
+      "geez_numeral": "፹፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "88. Priest: At that time Jesus said, My soul is exceedingly sorrowful, even unto death, the death which will make the sad rejoice.",
+      "uncertain": false
+     },
+     {
+      "id": "p232-02",
+      "kind": "paragraph",
+      "number": 89,
+      "geez_numeral": "፹፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "89. In that night they took hold of Him, and when it was day the masters of the Jews and the chief priests sat with Pilate, the ruler, in the court for his judgement.",
+      "uncertain": false
+     },
+     {
+      "id": "p232-03",
+      "kind": "paragraph",
+      "number": 90,
+      "geez_numeral": "፺",
+      "continued": null,
+      "heading_note": null,
+      "english": "90. They shackled Him with His hands behind Him like a thief, and He followed them in love like a meek sheep. They sat at the court to judge Him. They made Him to stand before them, Him before whom the hosts of angels stand in fear and trembling.",
+      "uncertain": false
+     },
+     {
+      "id": "p232-04",
+      "kind": "paragraph",
+      "number": 91,
+      "geez_numeral": "፺፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "91. An evil servant strengthened His hand to strike the innocent One; they bowed with haughtiness before Him to whom the archangels bow in great trembling.",
+      "uncertain": false
+     },
+     {
+      "id": "p232-05",
+      "kind": "paragraph",
+      "number": 92,
+      "geez_numeral": "፺፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "92. They crowned the Head of life with a crown of thorns, stripping Him they clothed Him, who is dressed in light like a garment, with a scarlet robe.",
+      "uncertain": false
+     },
+     {
+      "id": "p232-06",
+      "kind": "paragraph",
+      "number": 93,
+      "geez_numeral": "፺፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "93. They took him to the place of crucifixion called Calvary, burdening Him with his cross, so that Jesus was wearied in the carrying of his cross and sweated because it was heavy.",
+      "uncertain": false
+     },
+     {
+      "id": "p232-07",
+      "kind": "paragraph",
+      "number": 94,
+      "geez_numeral": "፺፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "94. They numbered Him among the thieves, raised Him upon the cross, and crucified Him, without mercy, according to their law.",
+      "uncertain": false
+     }
+    ],
+    "division": "d07"
+   },
+   {
+    "pdf_page": 233,
+    "printed_page_geez": "፪፻፳፬",
+    "printed_page": 224,
+    "section_geez": "ቅዳሴ ዘሠለስቱ ምእት",
+    "section_english": "Anaphora of the Three Hundred",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p233-01",
+      "kind": "paragraph",
+      "number": 95,
+      "geez_numeral": "፺፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "95. Oh! the hands which formed Adam were nailed on the cross. Oh! the feet which walked in paradise were nailed on the cross.",
+      "uncertain": false
+     },
+     {
+      "id": "p233-02",
+      "kind": "paragraph",
+      "number": 96,
+      "geez_numeral": "፺፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "96. Oh! the mouth which breathed the breathe of life into the face of Adam drank vinegar and myrrh mixed with gall.",
+      "uncertain": false
+     },
+     {
+      "id": "p233-03",
+      "kind": "paragraph",
+      "number": 97,
+      "geez_numeral": "፺፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "97. Jesus groaned in his suffering, cried to his Father, bowed his head and gave up his spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p233-04",
+      "kind": "paragraph",
+      "number": 98,
+      "geez_numeral": "፺፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "98. They pierced him in his side with a black spear which they prepared for Him; took Him down from the tree, and buried Him in the grave. They did not put Him in their own grave, but outside in a stranger's grave of three cubits, and closed it with a stone.",
+      "uncertain": false
+     },
+     {
+      "id": "p233-05",
+      "kind": "paragraph",
+      "number": 99,
+      "geez_numeral": "፺፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "99. While He was there He cried towards Adam, his servant, and all his children.",
+      "uncertain": false
+     },
+     {
+      "id": "p233-06",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p233-07",
+      "kind": "paragraph",
+      "number": 100,
+      "geez_numeral": "፻",
+      "continued": null,
+      "heading_note": null,
+      "english": "100. Priest: The Lord be with you all. People: And with your spirit. Priest: You give thanks unto our God. People: It is right, it is just. Priest: Lift up your hearts. People: We have lifted them up unto the Lord our God. Our Father who are in heaven. (to be repeated thrice). You are our Lord and our God.",
+      "uncertain": false
+     }
+    ],
+    "division": "d07"
+   },
+   {
+    "pdf_page": 234,
+    "printed_page_geez": "፪፻፳፭",
+    "printed_page": 225,
+    "section_geez": "ቅዳሴ ዘሠለስቱ ምእት",
+    "section_english": "Anaphora of the Three Hundred",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p234-01",
+      "kind": "paragraph",
+      "number": 101,
+      "geez_numeral": "፻፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "101. Priest: When he said this to Adam, his servant, Adam rejoiced, went out with all his children and entered into the holy city, as it was said.",
+      "uncertain": false
+     },
+     {
+      "id": "p234-02",
+      "kind": "paragraph",
+      "number": 102,
+      "geez_numeral": "፻፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "102. And also, to reveal the glory of his resurrection, He revealed a little of His Divinity and caused those who were watching His grave fall down.",
+      "uncertain": false
+     },
+     {
+      "id": "p234-03",
+      "kind": "paragraph",
+      "number": 103,
+      "geez_numeral": "፻፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "103. And He rose on the third day, and on the day which He had made known entered where His disciples were and showed them His pierced side His nailmarked hands. He stayed with them teaching them concerning the kingdom of heaven.",
+      "uncertain": false
+     },
+     {
+      "id": "p234-04",
+      "kind": "paragraph",
+      "number": 104,
+      "geez_numeral": "፻፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "104. On the fortieth day He ascended unto heaven to His Father who sent Him. Again He will come. He will not come in lowliness but in the glory of the Father, who begat Him, in fearful authority with His holy angels in the clouds of heaven.",
+      "uncertain": false
+     },
+     {
+      "id": "p234-05",
+      "kind": "paragraph",
+      "number": 105,
+      "geez_numeral": "፻፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "105. People: We proclaim your death, Lord, and your holy resurrection; we believe in your ascension and your second advent. We glorify you and confess you, we offer our prayer unto you and supplicate you, O our Lord and our God.",
+      "uncertain": false
+     },
+     {
+      "id": "p234-06",
+      "kind": "paragraph",
+      "number": 106,
+      "geez_numeral": "፻፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "106. Priest: Let your mercy, Lord, be upon us according as we hope in you.",
+      "uncertain": false
+     },
+     {
+      "id": "p234-07",
+      "kind": "paragraph",
+      "number": 107,
+      "geez_numeral": "፻፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "107. People: According to your mercy, our God, and not according to our sins, (to be repeated thrice).",
+      "uncertain": false
+     }
+    ],
+    "division": "d07"
+   },
+   {
+    "pdf_page": 235,
+    "printed_page_geez": "፪፻፳፮",
+    "printed_page": 226,
+    "section_geez": "ቅዳሴ ዘሠለስቱ ምእት",
+    "section_english": "Anaphora of the Three Hundred",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p235-01",
+      "kind": "paragraph",
+      "number": 108,
+      "geez_numeral": "፻፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "108. Priest: Let our gathering be like the gathering of Your disciples; You are theirs and You are ours, You are the same then and You are the same now.",
+      "uncertain": false
+     },
+     {
+      "id": "p235-02",
+      "kind": "paragraph",
+      "number": 109,
+      "geez_numeral": "፻፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "109. Yours is heaven and Yours is earth; Yours are the righteous and Yours are the unrighteous, because you did regard thousands of sins. You establish the little thing to be a plant of righteousness, and you did use any means to save.",
+      "uncertain": false
+     },
+     {
+      "id": "p235-03",
+      "kind": "paragraph",
+      "number": 110,
+      "geez_numeral": "፻፲",
+      "continued": null,
+      "heading_note": null,
+      "english": "110. Deacon: With all the heart let us beseech the Lord our God that he grant unto us the good communion of the Holy Spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p235-04",
+      "kind": "paragraph",
+      "number": 111,
+      "geez_numeral": "፻፲፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "111. People: As it was, is and shall be unto generations of generations, world without end.",
+      "uncertain": false
+     },
+     {
+      "id": "p235-05",
+      "kind": "paragraph",
+      "number": 112,
+      "geez_numeral": "፻፲፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "112. At this time he shall dip his finger into the Blood and sign the Body. Priest: Grant it together unto all them that take of it, that it may be unto them for purity and for choice unto them who receive of it, so that by its appearance the thorn of sin may be burnt, iniquity may be rooted out, wickedness may be destroyed and the soul may get perfect rest from her iniquity.",
+      "uncertain": false
+     }
+    ],
+    "division": "d07"
+   },
+   {
+    "pdf_page": 236,
+    "printed_page_geez": "፪፻፳፯",
+    "printed_page": 227,
+    "section_geez": "ቅዳሴ ዘሠለስቱ ምእት",
+    "section_english": "Anaphora of the Three Hundred",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p236-01",
+      "kind": "paragraph",
+      "number": 113,
+      "geez_numeral": "፻፲፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "113. Let the gate of light be opened, and let the doors of glory be unlocked, and let the living Holy Spirit be sent, descend and come from the place where he is hidden, and shine on this (pointing) bread that it may be the body of Christ our God, (benediction over the bread once),",
+      "uncertain": false
+     },
+     {
+      "id": "p236-02",
+      "kind": "paragraph",
+      "number": 114,
+      "geez_numeral": "፻፲፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "114. and that the nature of this (pointing) cup may be changed to become the blood of Christ our God. (Benediction over the cup once, and once more over both).",
+      "uncertain": false
+     },
+     {
+      "id": "p236-03",
+      "kind": "paragraph",
+      "number": 115,
+      "geez_numeral": "፻፲፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "115. People: Amen, Lord have pity upon us, Lord spare us, Lord have mercy upon us.",
+      "uncertain": false
+     },
+     {
+      "id": "p236-04",
+      "kind": "paragraph",
+      "number": 116,
+      "geez_numeral": "፻፲፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "116. People: Have pity and mercy upon the one, holy and universal Church together with the entire congregation, and especially have pity and mercy upon those who chose me, the poor one, to minister this mystery, world without end. Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p236-05",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p236-06",
+      "kind": "paragraph",
+      "number": 117,
+      "geez_numeral": "፻፲፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "117. Priest: Grant us to be united through your Holy Spirit, and heal us by this oblation that we may live in you forever. People: The people shall repeat his words.",
+      "uncertain": false
+     }
+    ],
+    "division": "d07"
+   },
+   {
+    "pdf_page": 237,
+    "printed_page_geez": "፪፻፳፰",
+    "printed_page": 228,
+    "section_geez": "ቅዳሴ ዘሠለስቱ ምእት",
+    "section_english": "Anaphora of the Three Hundred",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p237-01",
+      "kind": "paragraph",
+      "number": 118,
+      "geez_numeral": "፻፲፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "118. Priest: Blessed be the name of the Lord, and blessed be he that comes in the name of the Lord, and let the name of his glory be blessed. So be it, so be it, so be it blessed. People: The people shall repeat his words.",
+      "uncertain": false
+     },
+     {
+      "id": "p237-02",
+      "kind": "paragraph",
+      "number": 119,
+      "geez_numeral": "፻፲፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "119. Priest: Send the grace of the Holy Spirit upon us. People: The people shall repeat his words.",
+      "uncertain": false
+     },
+     {
+      "id": "p237-03",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p237-04",
+      "kind": "paragraph",
+      "number": 120,
+      "geez_numeral": "፻፳",
+      "continued": null,
+      "heading_note": null,
+      "english": "120. Deacon: Stand up for prayer. People: Lord have mercy upon us. Priest: Peace be unto you all. People: And with your spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p237-05",
+      "kind": "paragraph",
+      "number": 121,
+      "geez_numeral": "፻፳፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "121. Priest: Prayer of Fraction. Again we beseech the Almighty and Redeemer from sin: remember that the body which you did take from the holy Virgin is our body and not that which you did bring down from heaven.",
+      "uncertain": false
+     },
+     {
+      "id": "p237-06",
+      "kind": "paragraph",
+      "number": 122,
+      "geez_numeral": "፻፳፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "122. Remember that the body which you did take from the holy Virgin is the body which stood before Pilate.",
+      "uncertain": false
+     },
+     {
+      "id": "p237-07",
+      "kind": "paragraph",
+      "number": 123,
+      "geez_numeral": "፻፳፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "123. Remember that the body which you did take from the holy Virgin is the body which bore the tight bonds.",
+      "uncertain": false
+     },
+     {
+      "id": "p237-08",
+      "kind": "paragraph",
+      "number": 124,
+      "geez_numeral": "፻፳፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "124. Remember that the body which you did take from the holy Virgin is the body which suffered and died.",
+      "uncertain": false
+     }
+    ],
+    "division": "d07"
+   },
+   {
+    "pdf_page": 238,
+    "printed_page_geez": "፪፻፳፱",
+    "printed_page": 229,
+    "section_geez": "ቅዳሴ ዘሠለስቱ ምእት",
+    "section_english": "Anaphora of the Three Hundred",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p238-01",
+      "kind": "paragraph",
+      "number": 125,
+      "geez_numeral": "፻፳፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "125. Remember that the body which you did take from the holy Virgin is the body which rose from the dead on the third day.",
+      "uncertain": false
+     },
+     {
+      "id": "p238-02",
+      "kind": "paragraph",
+      "number": 126,
+      "geez_numeral": "፻፳፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "126. Remember that the body which you did take from the holy Virgin is the body which ascended into heaven in glory and sat at the right hand of the Father. Again the Lord our God will come in this body in the power of his divinity.",
+      "uncertain": false
+     },
+     {
+      "id": "p238-03",
+      "kind": "paragraph",
+      "number": 127,
+      "geez_numeral": "፻፳፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "127. Deacon: You pray. People: Our Father who are in heaven … (Anaphora of Apostles No. 60)",
+      "uncertain": false
+     },
+     {
+      "id": "p238-04",
+      "kind": "paragraph",
+      "number": 128,
+      "geez_numeral": "፻፳፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "128. Priest: There is the fragrance of a sweet savour. Let your thoughts ascend to the place of this Bread that you may know the fragrance of its savour.",
+      "uncertain": false
+     },
+     {
+      "id": "p238-05",
+      "kind": "paragraph",
+      "number": 129,
+      "geez_numeral": "፻፳፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "129. Give heed to your souls and purify your bodies and let not anyone of us be sick through the multitude of iniquities and sins.",
+      "uncertain": false
+     },
+     {
+      "id": "p238-06",
+      "kind": "paragraph",
+      "number": 130,
+      "geez_numeral": "፻፴",
+      "continued": null,
+      "heading_note": null,
+      "english": "130. Behold, today there is with us on this table Emmanuel, the Lamb of God; and behold, there is the Father, the light, together with his Son and the Holy Spirit.",
+      "uncertain": false
+     }
+    ],
+    "division": "d07"
+   },
+   {
+    "pdf_page": 239,
+    "printed_page_geez": "፪፻፴",
+    "printed_page": 230,
+    "section_geez": "ቅዳሴ ዘሠለስቱ ምእት",
+    "section_english": "Anaphora of the Three Hundred",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p239-01",
+      "kind": "paragraph",
+      "number": 131,
+      "geez_numeral": "፻፴፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "131. Behold, there are the angels of light visiting the church. Give heed to your souls and purify your bodies and let not anyone of us be sick. There is a man of iniquity and there is a man of sin. Let us awaken our conscience that we may be worthy to take of this mystery, world without end.",
+      "uncertain": false
+     },
+     {
+      "id": "p239-02",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p239-03",
+      "kind": "paragraph",
+      "number": 132,
+      "geez_numeral": "፻፴፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "132. People: The hosts of the angels of the Saviour of the world stand before the Saviour of the world, and they encircle the Saviour of the world, even the body and blood of the Saviour of the world. Let us draw near the face of the Saviour of the world. In the faith which is of him let us submit ourselves to Christ. (And there are others who say instead of the previous sentence:) The righteous fought for his sake.",
+      "uncertain": false
+     },
+     {
+      "id": "p239-04",
+      "kind": "paragraph",
+      "number": 133,
+      "geez_numeral": "፻፴፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "133. Asst. Deacon: You princes open the gates.",
+      "uncertain": false
+     },
+     {
+      "id": "p239-05",
+      "kind": "paragraph",
+      "number": 134,
+      "geez_numeral": "፻፴፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "134. Deacon: You, who are standing, bow your heads.",
+      "uncertain": false
+     },
+     {
+      "id": "p239-06",
+      "kind": "paragraph",
+      "number": 135,
+      "geez_numeral": "፻፴፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "135. Priest: We thank you, Lord, who through your beloved Son Jesus Christ, have drawn us nearer before the greatness of your exaltation. Glory, honour and thanks giving be to you, world without end. Amen.",
+      "uncertain": false
+     }
+    ],
+    "division": "d07"
+   },
+   {
+    "pdf_page": 240,
+    "printed_page_geez": "፪፻፴፩",
+    "printed_page": 231,
+    "section_geez": "ቅዳሴ ዘሠለስቱ ምእት",
+    "section_english": "Anaphora of the Three Hundred",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p240-01",
+      "kind": "paragraph",
+      "number": 136,
+      "geez_numeral": "፻፴፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "136. Deacon: Worship the Lord with fear. People: Before you, Lord, we worship, and we do glorify you.",
+      "uncertain": false
+     },
+     {
+      "id": "p240-02",
+      "kind": "paragraph",
+      "number": 137,
+      "geez_numeral": "፻፴፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "137. Priest: Prayer of Penitence. (Anaphora of the Apostles (No.72-88).",
+      "uncertain": false
+     },
+     {
+      "id": "p240-03",
+      "kind": "paragraph",
+      "number": 138,
+      "geez_numeral": "፻፴፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "138. Deacon: Give heed. Priest: Holy things for the holy. People: One is the Holy Father, one is the Holy Son, one is the Holy Spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p240-04",
+      "kind": "paragraph",
+      "number": 139,
+      "geez_numeral": "፻፴፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "139. Priest: The Lord be with you all. People: And with your spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p240-05",
+      "kind": "paragraph",
+      "number": 140,
+      "geez_numeral": "፻፵",
+      "continued": null,
+      "heading_note": null,
+      "english": "140. Then the priest shall lift up the whole Host with his hand and say: O Lord Christ, have compassion upon us. (three times in a loud chant, and fifteen times in a low chant). The people shall repeat his words. The priest shall repeat them three times. The people shall repeat them twice.",
+      "uncertain": false
+     },
+     {
+      "id": "p240-06",
+      "kind": "paragraph",
+      "number": 141,
+      "geez_numeral": "፻፵፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "141. Deacon: You that are penitent, bow your heads.",
+      "uncertain": false
+     },
+     {
+      "id": "p240-07",
+      "kind": "paragraph",
+      "number": 142,
+      "geez_numeral": "፻፵፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "142. Then the priest shall turn to the people and say: Lord our God, look upon your people that are penitent … (Anaphora of the Apostles No. 95-138).",
+      "uncertain": false
+     },
+     {
+      "id": "p240-08",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d07"
+   },
+   {
+    "pdf_page": 241,
+    "printed_page_geez": "፪፻፴፪",
+    "printed_page": 232,
+    "section_geez": "ቅዳሴ ዘሠለስቱ ምእት",
+    "section_english": "Anaphora of the Three Hundred",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p241-01",
+      "kind": "paragraph",
+      "number": 143,
+      "geez_numeral": "፻፵፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "143. After receiving the Holy Communion. Priest: The Prayer of the Pilot of the Soul. In the beginning was the Word, and the Word was the Word of God, and the Word was made flesh and dwelt among us, and we beheld His glory, the glory as of the Only-begotten of the Father. That Word came unto his own, and his own received him not.",
+      "uncertain": false
+     },
+     {
+      "id": "p241-02",
+      "kind": "paragraph",
+      "number": 144,
+      "geez_numeral": "፻፵፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "144. But we, the three hundred and eighteen orthodoxes, received him, we are the law givers of the holy Church whose bridegroom is the Lord our God. Deacon: You pray.",
+      "uncertain": false
+     },
+     {
+      "id": "p241-03",
+      "kind": "paragraph",
+      "number": 145,
+      "geez_numeral": "፻፵፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "145. Priest: You are he whom the Cherubim of many eyes and the Seraphim of six wings encircle.",
+      "uncertain": false
+     },
+     {
+      "id": "p241-04",
+      "kind": "paragraph",
+      "number": 146,
+      "geez_numeral": "፻፵፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "146. O You who formed Adam in your image and likeness, O You who heap fire upon water, O You who are not darkened by darkness and are not hidden by the night: it is You who did bring us near before this mystery. Glory, honour and thanksgiving be to you world without end. People: Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p241-05",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d07"
+   },
+   {
+    "pdf_page": 242,
+    "printed_page_geez": "፪፻፴፫",
+    "printed_page": 233,
+    "section_geez": "ቅዳሴ ዘሠለስቱ ምእት",
+    "section_english": "Anaphora of the Three Hundred",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p242-01",
+      "kind": "paragraph",
+      "number": 147,
+      "geez_numeral": "፻፵፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "147. Priest: The Laying on of the Hand. O Lord, our Lord and our God and our Saviour Jesus Christ, bless us and sanctify us, and make us worthy to go to our homes in pleasure and happiness without sin and without spot.",
+      "uncertain": false
+     },
+     {
+      "id": "p242-02",
+      "kind": "paragraph",
+      "number": 148,
+      "geez_numeral": "፻፵፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "148. Let the body and your blood which we have received from your honourable table gives us life.",
+      "uncertain": false
+     },
+     {
+      "id": "p242-03",
+      "kind": "paragraph",
+      "number": 149,
+      "geez_numeral": "፻፵፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "149. Send your Holy Spirit, Lord, upon us to guide us in the way of righteousness and life.",
+      "uncertain": false
+     },
+     {
+      "id": "p242-04",
+      "kind": "paragraph",
+      "number": 150,
+      "geez_numeral": "፻፶",
+      "continued": null,
+      "heading_note": null,
+      "english": "150. The Son of the living God prepared his body and blood in the world that we might eat of it and live with him.",
+      "uncertain": false
+     },
+     {
+      "id": "p242-05",
+      "kind": "paragraph",
+      "number": 151,
+      "geez_numeral": "፻፶፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "151. Draw us near to You, through Your mercy, towards Your living and holy altar that we may be called the servants of God and the abode of the Highest. Let us all draw near to him that we, through faith, may stand before his face in supplication, prostration, prayer and purity.",
+      "uncertain": false
+     },
+     {
+      "id": "p242-06",
+      "kind": "paragraph",
+      "number": 152,
+      "geez_numeral": "፻፶፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "152. May his holy body and his precious blood which we have received at the hands of the priests who offer prayer and supplication at every time and in every hour be to us for life, hope, salvation, remission of sin and resurrection from the dead, world without end. Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p242-07",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d07"
+   }
+  ],
+  "first_pdf_page": 218,
+  "last_pdf_page": 242,
+  "page_count": 25,
+  "entry_count": 167
+ }
+}

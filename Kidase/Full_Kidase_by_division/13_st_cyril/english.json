@@ -1,0 +1,1487 @@
+{
+ "title": "Full Kidase",
+ "language": "English",
+ "source": "Full Kidase.pdf (PDF pages 8-420; page numbers are the PDF page numbers)",
+ "ids": "Entry ids are shared between the two files: pNNN-NN = PDF page, entry order on that page.",
+ "uncertain_marker": "Text between ⟦? and ?⟧ is a word the transcriber could not read with confidence.",
+ "division": {
+  "id": "d13",
+  "kind": "anaphora",
+  "name_geez": "ቅዳሴ ቄርሎስ",
+  "name_english": "Anaphora of St. Cyril",
+  "pages": [
+   {
+    "pdf_page": 355,
+    "printed_page_geez": "፫፻፵፮",
+    "printed_page": 346,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p355-01",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "THE ANAPHORA OF ST. CYRIL",
+      "uncertain": false
+     },
+     {
+      "id": "p355-02",
+      "kind": "paragraph",
+      "number": 1,
+      "geez_numeral": "፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "The Anaphora of St. Cyril, may his prayer and blessing be with us all Christian people, world without end. Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p355-03",
+      "kind": "paragraph",
+      "number": 2,
+      "geez_numeral": "፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: The Lord be with you all.\n*People*: And with your spirit.\n*Priest*: You give thanks unto our God.\n*People*: It is right, it is just.\n*Priest*: Lift up your hearts.\n*People*: We have lifted them up unto the Lord our God.",
+      "uncertain": false
+     },
+     {
+      "id": "p355-04",
+      "kind": "paragraph",
+      "number": 3,
+      "geez_numeral": "፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: The Lord, God of gods, Lord of lords, the invisible God, whose existence is unsearchable, is higher than all, yes, his nature is unsearchable.",
+      "uncertain": false
+     },
+     {
+      "id": "p355-05",
+      "kind": "paragraph",
+      "number": 4,
+      "geez_numeral": "፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "He is consuming fire, the life-giving fire, the God of gods and the Lord of lords whose throne is above the heavens and whose footstool is the earth; He is high and far away and dwells in light.",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 356,
+    "printed_page_geez": "፫፻፵፯",
+    "printed_page": 347,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p356-01",
+      "kind": "paragraph",
+      "number": 5,
+      "geez_numeral": "፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "High and invisible is he who dewlls in heaven. He is clothed in garments of fire and adorned with flames of fire; his throne is on the heads of fire; his going to and from is through impalpable air; his high firmament is in heaven; clouds are his chariot; his way is in the stormy sea and on the heads of fire who minister him.",
+      "uncertain": false
+     },
+     {
+      "id": "p356-02",
+      "kind": "paragraph",
+      "number": 6,
+      "geez_numeral": "፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: You that are sitting, stand up.",
+      "uncertain": false
+     },
+     {
+      "id": "p356-03",
+      "kind": "paragraph",
+      "number": 7,
+      "geez_numeral": "፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: With their two wings of fire they cover their face that the consuming fire may not consume them; with their two luminous wings they cover their feet that his terrible light may not burn them; and with their two spiritual wings they fly unto the ends of the world.",
+      "uncertain": false
+     },
+     {
+      "id": "p356-04",
+      "kind": "paragraph",
+      "number": 8,
+      "geez_numeral": "፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "Seraphim together with their leaders, Cherubim according to their sanctification, the angels in their ranks, the watchful according to their armies, the heads of the watchful according to their tribes, the angels of fire according to their light, and the spiritual according to their position – give thanks and hallow with terrible voice, cry aloud and on high, and while sanctifying they say: Holy holy holy, perfect Lord of hosts, heaven and earth are full of the holiness of the glory.",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 357,
+    "printed_page_geez": "፫፻፵፰",
+    "printed_page": 348,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p357-01",
+      "kind": "paragraph",
+      "number": 9,
+      "geez_numeral": "፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: You answer.",
+      "uncertain": false
+     },
+     {
+      "id": "p357-02",
+      "kind": "paragraph",
+      "number": 10,
+      "geez_numeral": "፲",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: Holy holy holy, perfect Lord of hosts, heaven and earth are full of the holiness of your glory.",
+      "uncertain": false
+     },
+     {
+      "id": "p357-03",
+      "kind": "paragraph",
+      "number": 11,
+      "geez_numeral": "፲፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: And we say together with them, “You are holy; and wonderful is the holiness of your glory, Father of our Lord and our Saviour Jesus Christ.” Truly He alone is your Son, and you alone truly are his Father.",
+      "uncertain": false
+     },
+     {
+      "id": "p357-04",
+      "kind": "paragraph",
+      "number": 12,
+      "geez_numeral": "፲፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "His birth from you is unsearchable. As your existence has no beginning so your Son has neither beginning nor end; and as your days have no beginning his days also have no beginning.",
+      "uncertain": false
+     },
+     {
+      "id": "p357-05",
+      "kind": "paragraph",
+      "number": 13,
+      "geez_numeral": "፲፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "None sits at your right hand except your Son born from you, and none sits on your throne but your image that is like you and is your likeness.",
+      "uncertain": false
+     },
+     {
+      "id": "p357-06",
+      "kind": "paragraph",
+      "number": 14,
+      "geez_numeral": "፲፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "He is your Son and the messenger of your counsel, your beloved who is of you, your image, your appearance, your mind, your power, your wisdom, your counsel, your right-hand, and your arm; He is true God from your essence, the only Son truly begotten.",
+      "uncertain": false
+     },
+     {
+      "id": "p357-07",
+      "kind": "paragraph",
+      "number": 15,
+      "geez_numeral": "፲፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "He was born from your essence, the Word perfect in all who is your image born from you and equal to you; he is like you high and wonderful.",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 358,
+    "printed_page_geez": "፫፻፵፱",
+    "printed_page": 349,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p358-01",
+      "kind": "paragraph",
+      "number": 16,
+      "geez_numeral": "፲፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "Angels and archangels worship him; through your love to man you did send him to us because you have loved us.",
+      "uncertain": false
+     },
+     {
+      "id": "p358-02",
+      "kind": "paragraph",
+      "number": 17,
+      "geez_numeral": "፲፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "Humbling himself He redeemed us. He who was born from you and is like you was born from us in our likeness which is your image.",
+      "uncertain": false
+     },
+     {
+      "id": "p358-03",
+      "kind": "paragraph",
+      "number": 18,
+      "geez_numeral": "፲፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "He, who is perfect like you and is your image, walked among us in our image.",
+      "uncertain": false
+     },
+     {
+      "id": "p358-04",
+      "kind": "paragraph",
+      "number": 19,
+      "geez_numeral": "፲፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "He told us about your being, and was made flesh like us. He who overawes the Seraphim from the highest heaven suffered at his own will.",
+      "uncertain": false
+     },
+     {
+      "id": "p358-05",
+      "kind": "paragraph",
+      "number": 20,
+      "geez_numeral": "፳",
+      "continued": null,
+      "heading_note": null,
+      "english": "We saw him and despised him who is great before you. He is the glorious Lord among us; yet he is hidden from the watchful. Truly He appeared, and was born openly of our nature.",
+      "uncertain": false
+     },
+     {
+      "id": "p358-06",
+      "kind": "paragraph",
+      "number": 21,
+      "geez_numeral": "፳፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "He resembls you in image and appearance; was made man, came in the likeness of our flesh; lived among us in our image, and He is glorious like you.",
+      "uncertain": false
+     },
+     {
+      "id": "p358-07",
+      "kind": "paragraph",
+      "number": 22,
+      "geez_numeral": "፳፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "He flew and descended unto us, and suffered insult as we do. He flew and ascended unto you and he is honourable as you are.",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 359,
+    "printed_page_geez": "፫፻፶",
+    "printed_page": 350,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p359-01",
+      "kind": "paragraph",
+      "number": 23,
+      "geez_numeral": "፳፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "He, to whom the watchful give thanks in heaven, was crowned with a crown of thorns and was crucified on the tree of the cross with thieves. He, before whom the high ones bow their heads in awe, bowed his head before the crucifiers to suffer.",
+      "uncertain": false
+     },
+     {
+      "id": "p359-02",
+      "kind": "paragraph",
+      "number": 24,
+      "geez_numeral": "፳፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "A weak tree carried him who carries heaven and earth. A narrow grave limited him, before whom heaven and earth tremble, when He was buried in it.",
+      "uncertain": false
+     },
+     {
+      "id": "p359-03",
+      "kind": "paragraph",
+      "number": 25,
+      "geez_numeral": "፳፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "He who gathered the ends of earth in his palm and held the seas of the world in the hollow of his hand – they wrapped with linen cloths and buried in a grave of three cubits. He stretched forth his honourable head and the grave was filled with him.",
+      "uncertain": false
+     },
+     {
+      "id": "p359-04",
+      "kind": "paragraph",
+      "number": 26,
+      "geez_numeral": "፳፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "He rose from the dead on the third day and entered where his disciples were while the door was closed, and then departed from his disciples.",
+      "uncertain": false
+     },
+     {
+      "id": "p359-05",
+      "kind": "paragraph",
+      "number": 27,
+      "geez_numeral": "፳፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "While He was there his glory covered the heaven. He ascended unto heaven, sat at the right hand of his Father, heaven became his throne and the earth his footstool.",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 360,
+    "printed_page_geez": "፫፻፶፩",
+    "printed_page": 351,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p360-01",
+      "kind": "paragraph",
+      "number": 28,
+      "geez_numeral": "፳፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "He will come again to judge the living and the dead, he will thunder above and his voice will shake the foundations of the earth, and the dead will come out unto him from their graves, to whom be glory and honour together with his Father and the Holy Spirit, world without end.",
+      "uncertain": false
+     },
+     {
+      "id": "p360-02",
+      "kind": "paragraph",
+      "number": 29,
+      "geez_numeral": "፳፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: Look to the east.",
+      "uncertain": false
+     },
+     {
+      "id": "p360-03",
+      "kind": "paragraph",
+      "number": 30,
+      "geez_numeral": "፴",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Yes, Lord, it is you who raise all with your word, who raised the dead through your death. There are among the unbelievers those who believed in your cross, there are among the sinners those who returned through your death, there are among the unclean those who were sanctified through your suffering, there are among the dead those whom you did raise through your resurrection, and among those who were gathered together to judge you there were those who believed in you.",
+      "uncertain": false
+     },
+     {
+      "id": "p360-04",
+      "kind": "paragraph",
+      "number": 31,
+      "geez_numeral": "፴፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "You did open the iron gate and will raise those whose bodies waxed old in the grave, and will awaken those who fell asleep in their life time, and will raise those lying in the earth, and will set free the sinful slaves, and will justify through your mercy those who were defiled.",
+      "uncertain": false
+     },
+     {
+      "id": "p360-05",
+      "kind": "paragraph",
+      "number": 32,
+      "geez_numeral": "፴፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: According to your mercy, our God, and not according to our sins. (*to be repeated thrice*)",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 361,
+    "printed_page_geez": "፫፻፶፪",
+    "printed_page": 352,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p361-01",
+      "kind": "paragraph",
+      "number": 33,
+      "geez_numeral": "፴፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Through your mercy you reconcile the heretics, strengthen with your word those who return to you, cause the heretics to return that they may walk in your way, gather the scattered to enter into your paradise.",
+      "uncertain": false
+     },
+     {
+      "id": "p361-02",
+      "kind": "paragraph",
+      "number": 34,
+      "geez_numeral": "፴፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "Those among your people who committed sin you cause to return unto your faith.",
+      "uncertain": false
+     },
+     {
+      "id": "p361-03",
+      "kind": "paragraph",
+      "number": 35,
+      "geez_numeral": "፴፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "O Lord, you strengthen the weak in spirit that all who live on earth may know that you are God and know your Son Jesus Christ whom you did send, your beloved Son whom you love and who was born from you. Glory be to you with him and with the invisible holy Spirit, world without end.",
+      "uncertain": false
+     },
+     {
+      "id": "p361-04",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p361-05",
+      "kind": "paragraph",
+      "number": 36,
+      "geez_numeral": "፴፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: Let us give heed.",
+      "uncertain": false
+     },
+     {
+      "id": "p361-06",
+      "kind": "paragraph",
+      "number": 37,
+      "geez_numeral": "፴፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: We offer before you this pure and holy offering for the sake of Abel, Seth, Enoch, and Melchisedec, for the sake of Abraham, Isaac and Jacob, for the sake of Moses, Aaron and all the prophets.",
+      "uncertain": false
+     },
+     {
+      "id": "p361-07",
+      "kind": "paragraph",
+      "number": 38,
+      "geez_numeral": "፴፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "For the sake of Simon Peter, John the Baptist and all the apostles.",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 362,
+    "printed_page_geez": "፫፻፶፫",
+    "printed_page": 353,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p362-01",
+      "kind": "paragraph",
+      "number": 39,
+      "geez_numeral": "፴፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "For the sake of David, Hezekiah, Josiah, King Constantine and all the kings who have gone to their rest in the true faith.",
+      "uncertain": false
+     },
+     {
+      "id": "p362-02",
+      "kind": "paragraph",
+      "number": 40,
+      "geez_numeral": "፵",
+      "continued": null,
+      "heading_note": null,
+      "english": "For the sake of all the bishops, priests, deacons, anagonastis deacons, anagonostis, young men and virgins.",
+      "uncertain": false
+     },
+     {
+      "id": "p362-03",
+      "kind": "paragraph",
+      "number": 41,
+      "geez_numeral": "፵፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "For the sake of all souls in which the Holy Spirit dwelt and to which the perfect Spirit of life was given. For the Sake of all creatures formed after the likeness of our Lord Jesus Christ your beloved Son whom you love.",
+      "uncertain": false
+     },
+     {
+      "id": "p362-04",
+      "kind": "paragraph",
+      "number": 42,
+      "geez_numeral": "፵፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "For the sake of all holy men for whom this offering has been prepared and whom they have led unto your holy Church and have drawn near before your great and holy altar.",
+      "uncertain": false
+     },
+     {
+      "id": "p362-05",
+      "kind": "paragraph",
+      "number": 43,
+      "geez_numeral": "፵፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "For the sake of all travelers and wanderers on the face of the whole earth in true faith, and for the sake of those who have departed from this world.",
+      "uncertain": false
+     },
+     {
+      "id": "p362-06",
+      "kind": "paragraph",
+      "number": 44,
+      "geez_numeral": "፵፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "For the sake of every mouth and tongue which believed in the name of our Lord Jesus Christ your beloved Son whom you love. Glory be to you with him and with the invisible Holy Spirit, world without end.",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 363,
+    "printed_page_geez": "፫፻፶፬",
+    "printed_page": 354,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p363-01",
+      "kind": "paragraph",
+      "number": 45,
+      "geez_numeral": "፵፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: For the sake of the blessed ... (*Anaphora of the Apostles No. 6-9*).",
+      "uncertain": false
+     },
+     {
+      "id": "p363-02",
+      "kind": "paragraph",
+      "number": 46,
+      "geez_numeral": "፵፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "*At this time he shall mention the names of those who have fallen asleep.*",
+      "uncertain": false
+     },
+     {
+      "id": "p363-03",
+      "kind": "paragraph",
+      "number": 47,
+      "geez_numeral": "፵፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "*The Assistant priest shall say \"The Prayer of Benediction\".* (*Anaphora of the Apostles No. 10-21*).",
+      "uncertain": false
+     },
+     {
+      "id": "p363-04",
+      "kind": "paragraph",
+      "number": 48,
+      "geez_numeral": "፵፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Asst. Deacon*: Lord, pity and have mercy upon the patriarchs, archbishops, bishops, priests, deacons and all the Christian people.",
+      "uncertain": false
+     },
+     {
+      "id": "p363-05",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p363-06",
+      "kind": "paragraph",
+      "number": 49,
+      "geez_numeral": "፵፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: For the sake of those and all, our Lord and our God Jesus Christ, your Church worships you and your bride exalts you with the goodness of the high ones, with the Sanctification of the Seraphim, with the praise of the Cherubim, with the thanksgiving of the angels, with the prayer of the watchful and with the perfection of the saints:",
+      "uncertain": false
+     },
+     {
+      "id": "p363-07",
+      "kind": "paragraph",
+      "number": 50,
+      "geez_numeral": "፶",
+      "continued": null,
+      "heading_note": null,
+      "english": "With the purity of Adam, with the sacrifice of Noah, with the hospitality of Abraham, with the kindness of Isaac and with the vision of Jacob:",
+      "uncertain": false
+     },
+     {
+      "id": "p363-08",
+      "kind": "paragraph",
+      "number": 51,
+      "geez_numeral": "፶፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "With the imprisonment of Joseph, with the patience of Job, with the meekness of Moses and with praise of Elijah:",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 364,
+    "printed_page_geez": "፫፻፶፭",
+    "printed_page": 355,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p364-01",
+      "kind": "paragraph",
+      "number": 52,
+      "geez_numeral": "፶፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "With the love of the apostles, with the prayer of the saints, with the labour of the anchorites, with the righteousness of the sinless, and with the humility of the pure:",
+      "uncertain": false
+     },
+     {
+      "id": "p364-02",
+      "kind": "paragraph",
+      "number": 53,
+      "geez_numeral": "፶፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "With the courage of the pure, with the bereavement of the bereaved, and with the righteousness of the perfect saints:",
+      "uncertain": false
+     },
+     {
+      "id": "p364-03",
+      "kind": "paragraph",
+      "number": 54,
+      "geez_numeral": "፶፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "With the remoteness of the ends of the earth, with the depth of the sea's whirlpools, with the flash of lightening, and with the flight of the clouds:",
+      "uncertain": false
+     },
+     {
+      "id": "p364-04",
+      "kind": "paragraph",
+      "number": 55,
+      "geez_numeral": "፶፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "With the thanks giving of the angels, with the glory of the saints, with the purity of the watchful, with the agreement of the high ones, and with the light of the spiritual ones:",
+      "uncertain": false
+     },
+     {
+      "id": "p364-05",
+      "kind": "paragraph",
+      "number": 56,
+      "geez_numeral": "፶፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "With the right hand of the priests, with the death of the martyrs, with the blood of the believers, and with the greatness of the luminous angels:",
+      "uncertain": false
+     },
+     {
+      "id": "p364-06",
+      "kind": "paragraph",
+      "number": 57,
+      "geez_numeral": "፶፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "With the striking of your Son, with the suffering of your only One, and with your authority which holds all:",
+      "uncertain": false
+     },
+     {
+      "id": "p364-07",
+      "kind": "paragraph",
+      "number": 58,
+      "geez_numeral": "፶፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "And with the prayer which ascends to the Father of our Lord and our Saviour Jesus Christ.",
+      "uncertain": false
+     },
+     {
+      "id": "p364-08",
+      "kind": "paragraph",
+      "number": 59,
+      "geez_numeral": "፶፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "*At this time he shall offer incense.* *People*: Remember us, Lord, in your kingdom.",
+      "uncertain": false
+     },
+     {
+      "id": "p364-09",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p364-10",
+      "kind": "paragraph",
+      "number": 60,
+      "geez_numeral": "፷",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: In the same night in which they betrayed him:",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 365,
+    "printed_page_geez": "፫፻፶፮",
+    "printed_page": 356,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p365-01",
+      "kind": "paragraph",
+      "number": 61,
+      "geez_numeral": "፷፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: Priests, raise up your hands.",
+      "uncertain": false
+     },
+     {
+      "id": "p365-02",
+      "kind": "paragraph",
+      "number": 62,
+      "geez_numeral": "፷፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: He took bread in his holy, blessed and spotless hands, looked up unto heaven, towards you, his Father: *At this time he shall raise the bread.*",
+      "uncertain": false
+     },
+     {
+      "id": "p365-03",
+      "kind": "paragraph",
+      "number": 63,
+      "geez_numeral": "፷፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: We believe that this is He, truly we believe.",
+      "uncertain": false
+     },
+     {
+      "id": "p365-04",
+      "kind": "paragraph",
+      "number": 64,
+      "geez_numeral": "፷፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Gave thanks, blessed, broke: (*benediction three times, then he shall indent the Host lightly with his thumb in five places without separation*). And said unto them, Take, eat, this (*pointing*) bread is my body which will be broken for you as a propitiation for all the world for the remission of sin.",
+      "uncertain": false
+     },
+     {
+      "id": "p365-05",
+      "kind": "paragraph",
+      "number": 65,
+      "geez_numeral": "፷፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: Amen amen amen, we believe and confess, we glorify you, O our Lord and our God; that this is He we truly believe.",
+      "uncertain": false
+     },
+     {
+      "id": "p365-06",
+      "kind": "paragraph",
+      "number": 66,
+      "geez_numeral": "፷፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Again after they had supped He took a cup, gave thanks, blessed, hallowed (*benediction three times*) and said unto his disciples, Take, drink, this (*pointing*) cup is my blood of the New Testament which will be shed for you and given as a propitiation for all the world for the remission of sin. *He shall move the cup with his right hand in the sign of the cross.*",
+      "uncertain": false
+     },
+     {
+      "id": "p365-07",
+      "kind": "paragraph",
+      "number": 67,
+      "geez_numeral": "፷፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: Amen amen amen.",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 366,
+    "printed_page_geez": "፫፻፶፯",
+    "printed_page": 357,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p366-01",
+      "kind": "paragraph",
+      "number": 68,
+      "geez_numeral": "፷፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Yes, Lord our God, hearken to the prayer of your servants and accept those who worship you before your face.",
+      "uncertain": false
+     },
+     {
+      "id": "p366-02",
+      "kind": "paragraph",
+      "number": 69,
+      "geez_numeral": "፷፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: We proclaim your death, Lord, and your holy resurrection; we believe your ascension and your second advent. We glorify you, and confess you; we offer our prayer unto you and supplicate you, O our Lord and our God.",
+      "uncertain": false
+     },
+     {
+      "id": "p366-03",
+      "kind": "paragraph",
+      "number": 70,
+      "geez_numeral": "፸",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Let the flaming sword of fire, called \"Melos\" be drawn, and let the heaven of heavens be opened, through your righteousness, and with your will let your living Holy Spirit descend, come and rest upon this bread and cup, bless and sanctify them to be the communion of the body and blood of your only-begotten Son, our Lord and our God and our Saviour Jesus Christ: (*benediction once over the bread and once over the cup and once more over both of them*) for the forgiveness of the iniquity to those who draw near to it and remission of sin to those who partake of it.",
+      "uncertain": false
+     },
+     {
+      "id": "p366-04",
+      "kind": "paragraph",
+      "number": 71,
+      "geez_numeral": "፸፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: Amen, Lord have pity upon us, Lord spare us, Lord have mercy upon us.",
+      "uncertain": false
+     },
+     {
+      "id": "p366-05",
+      "kind": "paragraph",
+      "number": 72,
+      "geez_numeral": "፸፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: With all the heart let us beseech the Lord our God that he may grant unto us the good communion of the Holy Spirit.",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 367,
+    "printed_page_geez": "፫፻፶፰",
+    "printed_page": 358,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p367-01",
+      "kind": "paragraph",
+      "number": 73,
+      "geez_numeral": "፸፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: As it was, is and shall be unto generations of generations, world without end.",
+      "uncertain": false
+     },
+     {
+      "id": "p367-02",
+      "kind": "paragraph",
+      "number": 74,
+      "geez_numeral": "፸፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "*At this time he shall dip his finger into the Blood and sign the Body.* *Priest*: And to all those who in true faith partake of it and receive it may it be for mercy, compassion, healing, help, life of soul and body, forgiveness of iniquity, remission of sin, resurrection from the dead, and new life, world without end. *People*: Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p367-03",
+      "kind": "paragraph",
+      "number": 75,
+      "geez_numeral": "፸፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Grant us to be united through your Holy Spirit, and heal us by this oblation that we may live in you or ever. *People:- The people shall repeat his words.*",
+      "uncertain": false
+     },
+     {
+      "id": "p367-04",
+      "kind": "paragraph",
+      "number": 76,
+      "geez_numeral": "፸፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Blessed be the name of the Lord, and blessed be he that comes in the name of the Lord, and let the name of his glory be blessed. So be it, so be it, so be it blessed. *People:- The people shall repeat his words.*",
+      "uncertain": false
+     },
+     {
+      "id": "p367-05",
+      "kind": "paragraph",
+      "number": 77,
+      "geez_numeral": "፸፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Send the grace of the Holy Spirit upon us. *People:- The people shall repeat his words.*",
+      "uncertain": false
+     },
+     {
+      "id": "p367-06",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p367-07",
+      "kind": "paragraph",
+      "number": 78,
+      "geez_numeral": "፸፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: Stand up for prayer. *People*: Lord have mercy upon us. *Priest*: Peace be unto you all. *People*: And with your spirit.",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 368,
+    "printed_page_geez": "፫፻፶፱",
+    "printed_page": 359,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p368-01",
+      "kind": "paragraph",
+      "number": 79,
+      "geez_numeral": "፸፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Prayer of Fraction. Again we beseech the almighty God, Father of our Lord and Saviour Jesus Christ, O Lord, we have lifted up our eyes unto you desiring the descent of the Holy Spirit, we kneel to you with the knees of our heart, and we bow unto you the heads of our minds and spirits.",
+      "uncertain": false
+     },
+     {
+      "id": "p368-02",
+      "kind": "paragraph",
+      "number": 80,
+      "geez_numeral": "፹",
+      "continued": null,
+      "heading_note": null,
+      "english": "O Lord, you sanctify us with your sanctification, and purify us through your mercy, and make us worthy to partake of your holy mystery.",
+      "uncertain": false
+     },
+     {
+      "id": "p368-03",
+      "kind": "paragraph",
+      "number": 81,
+      "geez_numeral": "፹፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "Let not this coal of fire which we have laid before you upon your holy altar be our accuser, and let not this bread of worship which we break be for vengeance because we did not purify our soul and our body.",
+      "uncertain": false
+     },
+     {
+      "id": "p368-04",
+      "kind": "paragraph",
+      "number": 82,
+      "geez_numeral": "፹፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "It is fearful to open the lips to eat burning fire and swallow glowing coal if the belly is not purified from deceit.",
+      "uncertain": false
+     },
+     {
+      "id": "p368-05",
+      "kind": "paragraph",
+      "number": 83,
+      "geez_numeral": "፹፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "It is fearful to see the slaughter of the pure bridegroom in his pavilion.",
+      "uncertain": false
+     },
+     {
+      "id": "p368-06",
+      "kind": "paragraph",
+      "number": 84,
+      "geez_numeral": "፹፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "It is fearful to see the killing of the Son of the living God before his heavenly Father.",
+      "uncertain": false
+     },
+     {
+      "id": "p368-07",
+      "kind": "paragraph",
+      "number": 85,
+      "geez_numeral": "፹፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "It is fearful to draw near the flame of the Deity and to touch the lightning of glory.",
+      "uncertain": false
+     },
+     {
+      "id": "p368-08",
+      "kind": "paragraph",
+      "number": 86,
+      "geez_numeral": "፹፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: You pray. *Priest*: Our Father who are in heaven...",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 369,
+    "printed_page_geez": "፫፻፷",
+    "printed_page": 360,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p369-01",
+      "kind": "paragraph",
+      "number": 87,
+      "geez_numeral": "፹፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Let us, therefore, purify ourselves to take it and sanctify our souls to receive it and say: Glory be to the Father who has been pleased that the pure fatted Calf may be killed. Glory be to the Son who is the pure fatted Calf. Glory be to the Holy Spirit who has made this bread the flesh of the pure fatted Calf. Three names and one God, three likenesses and one appearance, three persons and one essence.",
+      "uncertain": false
+     },
+     {
+      "id": "p369-02",
+      "kind": "paragraph",
+      "number": 88,
+      "geez_numeral": "፹፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "Worthy is He to be glorified by the mouths of the watchful angels, worthy is he to be sanctified by the mouths of the prophets and apostles from now till the end of the world and till the second advent.",
+      "uncertain": false
+     },
+     {
+      "id": "p369-03",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p369-04",
+      "kind": "paragraph",
+      "number": 89,
+      "geez_numeral": "፹፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: The hosts of the angels of the Saviour of the world stand before the Saviour of the world and they encircle the Saviour of the world, even the body and blood of the Saviour of the world. Let us draw near the face of the Saviour of the world. In the faith which is of him let us submit ourselves to Christ.",
+      "uncertain": false
+     },
+     {
+      "id": "p369-05",
+      "kind": "paragraph",
+      "number": 90,
+      "geez_numeral": "፺",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Asst. Deacon*: You princes open the gates.",
+      "uncertain": false
+     },
+     {
+      "id": "p369-06",
+      "kind": "paragraph",
+      "number": 91,
+      "geez_numeral": "፺፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: You, who are standing, bow your heads.",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 370,
+    "printed_page_geez": "፫፻፷፩",
+    "printed_page": 361,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p370-01",
+      "kind": "paragraph",
+      "number": 92,
+      "geez_numeral": "፺፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: The Father was with his Son and the Holy Spirit before there were hours and days, before there were months and years.",
+      "uncertain": false
+     },
+     {
+      "id": "p370-02",
+      "kind": "paragraph",
+      "number": 93,
+      "geez_numeral": "፺፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "The One was not before the Other, and the Second was not before the Third. How swift is the speed of lightning and how swift is the movement of eagles' wings!",
+      "uncertain": false
+     },
+     {
+      "id": "p370-03",
+      "kind": "paragraph",
+      "number": 94,
+      "geez_numeral": "፺፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "They are united without separation, connected without being mixed, they live in Trinity, are joined in oneness, equal in persons and similar in light and appearance.",
+      "uncertain": false
+     },
+     {
+      "id": "p370-04",
+      "kind": "paragraph",
+      "number": 95,
+      "geez_numeral": "፺፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "The Father did not beget his Son to help him in his work before the world was created, and the existence of the Holy Spirit is not to contribute wisdom and work.",
+      "uncertain": false
+     },
+     {
+      "id": "p370-05",
+      "kind": "paragraph",
+      "number": 96,
+      "geez_numeral": "፺፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "Let us speak of his birth from God the Father only. At that time He had no mother because the existence of the creatures had not yet appeared. Again let us speak of and proclaim the birth of him who is alone the Son of God and who alone was born without an earthly Father from the Virgin, the daughter of David.",
+      "uncertain": false
+     },
+     {
+      "id": "p370-06",
+      "kind": "paragraph",
+      "number": 97,
+      "geez_numeral": "፺፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "His humanity was not inferior because He had no Father to be born of his seed, but was perfectly incarnated from a virgin only.",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 371,
+    "printed_page_geez": "፫፻፷፪",
+    "printed_page": 362,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p371-01",
+      "kind": "paragraph",
+      "number": 98,
+      "geez_numeral": "፺፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "As Eve's female nature was not inferior through having had no mother when she was formed from the bone of Adam's side, and as the building of the body of the first Adam did not lose anything when a bone of his side was taken away, so also the seal of Mary's virginity was not destroyed when she gave birth to the Father of Adam in the flesh;",
+      "uncertain": false
+     },
+     {
+      "id": "p371-02",
+      "kind": "paragraph",
+      "number": 99,
+      "geez_numeral": "፺፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "And as Adam did not feel pain when a bone was taken from his side, so also the Galilean Mother of God did not feel travail.",
+      "uncertain": false
+     },
+     {
+      "id": "p371-03",
+      "kind": "paragraph",
+      "number": 100,
+      "geez_numeral": "፻",
+      "continued": null,
+      "heading_note": null,
+      "english": "Thus we believe and thus we affirm that this bread which we break is the body of Christ which He took from the daughter of the Hebrews.",
+      "uncertain": false
+     },
+     {
+      "id": "p371-04",
+      "kind": "paragraph",
+      "number": 101,
+      "geez_numeral": "፻፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "We also believe that this cup is the blood of the Deity shed from the side of God's Lamb. We also believe that this sign of the cross is the image of Christ's crucifixion when He was stretched out at the time of his suffering.",
+      "uncertain": false
+     },
+     {
+      "id": "p371-05",
+      "kind": "paragraph",
+      "number": 102,
+      "geez_numeral": "፻፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "We bow before the altar of him who is clothed with a vesture dipped in blood and before that vesture dipped in blood, world without end.",
+      "uncertain": false
+     },
+     {
+      "id": "p371-06",
+      "kind": "paragraph",
+      "number": 103,
+      "geez_numeral": "፻፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: Worship the Lord with fear. *People*: Before you, Lord, we worship, and we do glorify you.",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 372,
+    "printed_page_geez": "፫፻፷፫",
+    "printed_page": 363,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p372-01",
+      "kind": "paragraph",
+      "number": 104,
+      "geez_numeral": "፻፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest: Prayer of Penitence. (Anaphora of the Apostles No. 72-88).*",
+      "uncertain": false
+     },
+     {
+      "id": "p372-02",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p372-03",
+      "kind": "paragraph",
+      "number": 105,
+      "geez_numeral": "፻፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: Give heed. *Priest*: Holy things for the holy. *People*: One is the Holy Father, one is the Holy Son, one is the Holy Spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p372-04",
+      "kind": "paragraph",
+      "number": 106,
+      "geez_numeral": "፻፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: The Lord be with you all. *People*: And with your spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p372-05",
+      "kind": "paragraph",
+      "number": 107,
+      "geez_numeral": "፻፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "*The priest shall then lift up the whole Host with his hand and say:* O Lord Christ, have compassion upon us. *(three times in a loud chant and fifteen times in a low chant) The people shall repeat his words. Then he shall repeat them three times and the people twice.*",
+      "uncertain": false
+     },
+     {
+      "id": "p372-06",
+      "kind": "paragraph",
+      "number": 108,
+      "geez_numeral": "፻፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: You, that are penitent, bow your heads.",
+      "uncertain": false
+     },
+     {
+      "id": "p372-07",
+      "kind": "paragraph",
+      "number": 109,
+      "geez_numeral": "፻፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Then he shall turn to the people and say: Priest*: Lord my God ... *(Anaphora of the Apostles No. 105-138).*",
+      "uncertain": false
+     },
+     {
+      "id": "p372-08",
+      "kind": "paragraph",
+      "number": 110,
+      "geez_numeral": "፻፲",
+      "continued": null,
+      "heading_note": null,
+      "english": "*After receiving the Holy Communion. Priest: Pilot of the soul.* Then was our mouth filled with laughter and our tongue with singing, we who have received this indestructible mystery.",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 373,
+    "printed_page_geez": "፫፻፷፬",
+    "printed_page": 364,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p373-01",
+      "kind": "paragraph",
+      "number": 111,
+      "geez_numeral": "፻፲፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "O Lord: that which eye has not seen, nor ear heard, neither have entered into the heart of man, you have prepared, O God, for them that love your Holy name; and have revealed it unto us small babies in your holy church: even so, Father, for so it seemed good in your sight because you are compassionate, O Lord our God.",
+      "uncertain": false
+     },
+     {
+      "id": "p373-02",
+      "kind": "paragraph",
+      "number": 112,
+      "geez_numeral": "፻፲፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: You pray.",
+      "uncertain": false
+     },
+     {
+      "id": "p373-03",
+      "kind": "paragraph",
+      "number": 113,
+      "geez_numeral": "፻፲፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: To you we send, unto the highest heaven, glory and honour, Father, Son and the Holy Spirit, both now and ever and world without end. *People*: Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p373-04",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p373-05",
+      "kind": "paragraph",
+      "number": 114,
+      "geez_numeral": "፻፲፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest: The Laying on of the Hand.* O Lord, make us, we whom you have called and sanctified, worthy of your call, keep us through your love, and strengthen us in hallowing you.",
+      "uncertain": false
+     },
+     {
+      "id": "p373-06",
+      "kind": "paragraph",
+      "number": 115,
+      "geez_numeral": "፻፲፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "Keep us far from every evil and save us with your right hand in your eternal kingdom, through Christ your son, through whom to you with him and with the Holy Spirit be glory and dominion, both now and ever and world without end. Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p373-07",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   }
+  ],
+  "first_pdf_page": 355,
+  "last_pdf_page": 373,
+  "page_count": 19,
+  "entry_count": 124
+ }
+}

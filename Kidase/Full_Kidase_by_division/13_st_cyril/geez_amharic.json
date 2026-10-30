@@ -1,0 +1,1611 @@
+{
+ "title": "Full Kidase",
+ "language": "Ge'ez (ግዕዝ) and Amharic (አማርኛ)",
+ "source": "Full Kidase.pdf (PDF pages 8-420; page numbers are the PDF page numbers)",
+ "ids": "Entry ids are shared between the two files: pNNN-NN = PDF page, entry order on that page.",
+ "uncertain_marker": "Text between ⟦? and ?⟧ is a word the transcriber could not read with confidence.",
+ "division": {
+  "id": "d13",
+  "kind": "anaphora",
+  "name_geez": "ቅዳሴ ቄርሎስ",
+  "name_english": "Anaphora of St. Cyril",
+  "pages": [
+   {
+    "pdf_page": 355,
+    "printed_page_geez": "፫፻፵፮",
+    "printed_page": 346,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p355-01",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "ቅዳሴ ቄርሎስ",
+      "amharic": "የቄርሎስ ቅዳሴ",
+      "uncertain": false
+     },
+     {
+      "id": "p355-02",
+      "kind": "paragraph",
+      "number": 1,
+      "geez_numeral": "፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "አኰቴተ ቍርባን ዘቅዱስ ቄርሎስ ጸሎቱ ወበረከቱ የሃሉ ምስለ ኵልነ ሕዝበ ክርስቲያን ለዓለመ ዓለም አሜን ።",
+      "amharic": "የቅዱስ ቄርሎስ የቍርባን ምስጋና ጸሎቱና በረከቱ ከሁላችን ጋራ ለዘለዓለሙ ይኑር ፡ አሜን ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p355-03",
+      "kind": "paragraph",
+      "number": 2,
+      "geez_numeral": "፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. እግዚአብሔር ምስለ ኵልክሙ ፡\nይ.ሕ. ምስለ መንፈስከ ፡\nይ.ካ. አእኵትዎ ለአምላክነ ፡\nይ.ሕ. ርቱዕ ይደሉ ፡\nይ.ካ. አልዕሉ አልባቢክሙ ፡\nይ.ሕ. ብነ ኅበ እግዚአብሔር አምላክነ ፡",
+      "amharic": "ይ.ካ. እግዚአብሔር ከሁላችሁ ጋራ ይሁን ፡\nይ.ሕ. ከመንፈስህ ጋራ ፡\nይ.ካ. አምላካችንን አመስግኑት ፡\nይ.ሕ. እውነት ነው ይገባል ፡\nይ.ካ. ልቡናችሁን ከፍ ከፍ አድርጉ ፡\nይ.ሕ. በአምላካችን በእግዚአብሔር ዘንድ አለን ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p355-04",
+      "kind": "paragraph",
+      "number": 3,
+      "geez_numeral": "፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ኅቤከ እግዚአ አምላከ አማልክት ወእግዚአ አጋዕዝት ፡ አምላከ ኅቡዕ ህላዌሁ ዘኢይትዋዳዕ ፡ ልዑል ውእቱ እምኵሉ ፡ ሕላዌሁ ዘኢይትረከብ ፡",
+      "amharic": "ይ.ካ. የአማልክት አምላክ ፡ የአጋዕዝት ጌታ ፡ አቤቱ ወዳንተ አነዋወሩ የማይፈጸም ኅቡእ አምላክ ፡ ከሁሉ ይልቅ ልዑል ነው ፡ አነዋወሩ የማይገኝ ነው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p355-05",
+      "kind": "paragraph",
+      "number": 4,
+      "geez_numeral": "፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "እሳት በላዒ ወእሳት ማሕየዊ አምላከ አማልክት ወእግዚአ አጋዕዝት ፡ ዘመልዕልተ ሰማያት መንበሩ ወምድር መከየደ እገሪሁ ፡ ልዑል ወምጡቅ ዘውስተ ብርሃን የኅድር ፡",
+      "amharic": "የሚያቃጥል እሳት የሚያድንም እሳት ፡ የአማልክት አምላክ የጌቶችም ጌታ ነው ፡ ዙፋኑ ከሰማያት በላይ የእግሩም መመላለሻ ምድር ነው ፡ በብርሃን የሚኖር ልዑል ምጡቅ ነው ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 356,
+    "printed_page_geez": "፫፻፵፯",
+    "printed_page": 347,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p356-01",
+      "kind": "paragraph",
+      "number": 5,
+      "geez_numeral": "፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ልዑል ወግኑዝ ዘበሰማያት ማኅደሩ ልብሰ እሳት ዘይትዐፀፍ ወሥርግው በነደ እሳት ዘዲበ አርእስተ እሳት መንበሩ ወዲበ አየር ዘኢይትገሠሥ ነሶሳዊ ፡ ወበሰማይ ልዑል ጠፈሩ ዘበደመናት መንኰራኵሩ ወዲበ መንኰራኵሪ (ማዕበለ) ባሕር ፍኖቱ ፡ ወውስተ አርእስተ እሳት እለ ይትለአክም ይሠሩ ፡",
+      "amharic": "በሰማይ ያለ ማደሪያው ሥውር ልዑል ነው ፡ የእሳት መጎናፀፊያ የሚጎናፀፍ በነደ እሳትም ያጌጠ ነው ፡ ዙፋኑ ከእሳት አለቆች በላይ የሚሆን ፡ መመላለሻው በማይዳሰስ ፡ በአየር ላይ ጠፈሩም በልዑል ሰማይ መንኰራኵሩም ደመና ፡ ጎዳናውም በባሕር ማዕበል ላይ በሚላኩት በእሳት አለቆችም ነው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p356-02",
+      "kind": "paragraph",
+      "number": 6,
+      "geez_numeral": "፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. እለ ትነብሩ ተንሥኡ ፡",
+      "amharic": "ይ.ዲ. የተቀመጣችሁ ተነሡ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p356-03",
+      "kind": "paragraph",
+      "number": 7,
+      "geez_numeral": "፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. በ፪ኤ ክነፊሆሙ ዘእሳት ይከድኑ ገጸሙ ከመ ኢይብልዖሙ እሳት በላዒ ፡ ወበ፪ኤ ክነፊሆሙ ዘጸዳል ይከድኑ እገሮሙ ከመ ኢይዝብጦሙ ጸዳሉ ግሩም ፡ ወበ፪ኤ ክነፊሆሙ ዘመንፈስ ይሠሩ እስከ አጽናፈ ዓለም ፡",
+      "amharic": "ይ.ካ. የሚያቃጥል እሳት እንዳያቃጥላቸው በሁለቱ የእሳት ክንፋቸው ፊታቸውን ይሸፍናሉ ፡ ግሩም የሚሆን ብርሃን (ነበልባሉ) እንዳይመታቸው በሁለት የብርሃን ክንፋቸው እግራቸውን ይሸፍናሉ ፡ ረቂቅ በሚሆን ሁለት ክንፋቸው እስከ ዓለም ዳርቻ ይወጣሉ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p356-04",
+      "kind": "paragraph",
+      "number": 8,
+      "geez_numeral": "፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ሱራፌል በአርእስቲሆሙ ወኪሩቤል በቅዳሴሆሙ መላእክት በበሥርዓቶሙ ወትጉሃን በበሠራዊቶሙ ሊቃናት ትጉሃን በበዖታሆሙ መላእክተ እሳት በጸዳሎሙ መንፈሳውያን በበህላዌሆሙ የአኵቱ ወይቄድሱ በግሩም ቃል ፡ ይጸርሑ ወይብሉ በቃል ዐቢይ ወልዑል ፡ ወእንዘ ይቄድሱ ከመዝ ይብሉ ፡ ቅዱስ ቅዱስ ቅዱስ እግዚአብሔር ጸባኦት ፍጹም ምሉዕ ሰማያት ወምድር ቅድሳተ ስብሐቲከ ፡",
+      "amharic": "ሱራፌል በአለቆቻቸው ፡ ኪሩቤልም በምስጋናቸው ፡ መላእክትም በየሥርዓታቸው ፡ ትጉሃንም በየሠራዊታቸው ፡ የትጉሃን አለቆች በየወገናቸው ፡ እሳትነት ያላቸው መላእክት በብርሃናቸው መንፈሳውያን በአነዋወራቸው ግሩም በሚሆን ቃል ያመሰግናሉ ፡ ይቀድሳሉ ፡ ከፍ ባለና በታላቅ ቃል ይጮሃሉ ፡ ሲያመሰግኑም እንዲህ ይላሉ ፡ ቅዱስ ቅዱስ ቅዱስ ፍጹም አሸናፊ እግዚአብሔር የጌትነትህ ምስጋና በሰማይና በምድር የመላ ነው ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 357,
+    "printed_page_geez": "፫፻፵፰",
+    "printed_page": 348,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p357-01",
+      "kind": "paragraph",
+      "number": 9,
+      "geez_numeral": "፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. አውሥኡ ፡",
+      "amharic": "ይ.ዲ. ተሰጥዎውን መልሱ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p357-02",
+      "kind": "paragraph",
+      "number": 10,
+      "geez_numeral": "፲",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ሕ. ቅዱስ ቅዱስ ቅዱስ እግዚአብሔር ጸባኦት ፍጹም ምሉዕ ሰማያተ ወምድረ ቅድሳተ ስብሐቲከ ፡",
+      "amharic": "ይ.ሕ. ቅዱስ ቅዱስ ቅዱስ ፍጹም አሸናፊ እግዚአብሔር የጌትነትህ ምስጋና በሰማይና በምድር የመላ ነው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p357-03",
+      "kind": "paragraph",
+      "number": 11,
+      "geez_numeral": "፲፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ወንሕነኒ ንብል ምስሌሆሙ ኅቡረ ቅዱስ ቅዱስ ቅዱስ እግዚአብሔር ቅዱስ አንተ ወግሩም ቅድሳተ ስብሐቲከ አቡሁ ለእግዚእነ ወአምላክነ ወመድኃኒነ ኢየሱስ ክርስቶስ ፡ ዘውእቱ ባሕቲቱ ዘበአማን ወልድከ ወአንተ ባሕቲትከ አቡሁ በጽድቅ ፡",
+      "amharic": "ይ.ካ. እኛም ከነርሱ ጋራ በአንድነት የጌታችንና የአምላካችን የመድኃኒታችን የኢየሱስ ክርስቶስ አባት አንተ ቅዱስ ነህ ፡ የጌትነትህም ምስጋና ግሩም ነው እንላለን ፡ ይኸውም ብቻውን በእውነት ልጅህ ነው ፡ አንተም ብቻህን በእውነት አባቱ ነህ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p357-04",
+      "kind": "paragraph",
+      "number": 12,
+      "geez_numeral": "፲፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ኢይትረከብ ልደቱ እምኔከ ፡ ዘከመ አልቦቱ ጥንት ለህላዌከ ሎቱ ለወልድከ አልቦቱ ጥንት ወአልቦቱ ተፍጻሜት ወበከመ አልቦቱ ጥንት ለመዋዕሊከ አልቦቱ ጥንት ለመዋዕሊሁ ፡",
+      "amharic": "ከአንተ መወለዱ አይገኝም ፡ ለአነዋወርህ ጥንት እንደሌለው ፡ ለርሱም ለልጅህ ጥንት የለውም ፡ ፍጻሜም የለውም ፡ ለዘመንህም ጥንት እንደ ሌለው ለዘመኑ ጥንት የለውም ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p357-05",
+      "kind": "paragraph",
+      "number": 13,
+      "geez_numeral": "፲፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "አልቦ ዘይነብር በየማንከ ዘእንበለ ወልድከ ዘእምኔከ ተወልደ ወአልቦ ዘይነብር ዲበ መንበርከ ዘከማሁ አላ አርአያከ ዘከማከ ወአምሳሊከ ፡",
+      "amharic": "ከአንተ ከተወለደ ከልጅህ በቀር በቀኝህ የሚቀመጥ የለም ፡ በዙፋንህም ላይ የሚቀመጥ የለም ፡ እንደ አንተ ያለ አርአያህና አምሳልህ ነው እንጂ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p357-06",
+      "kind": "paragraph",
+      "number": 14,
+      "geez_numeral": "፲፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወውእቱ ወልድከ ወመልአከ ምክርከ ፡ ወፍቁርከ ዘእምኔከ አምሳሊከ ወመልክእከ ሕሊናከ ወኃይልከ ጥበብከ ወምክርከ የማንከ ወመዝራዕትከ ፡ አምላክ ዘበአማን ዘእምህላዌከ ዘበአማን ተወልደ ወልድ ዋሕድ ፡",
+      "amharic": "ይኸውም ልጅህ የምክርህ አበጋዝ ነው ፡ ከአንተ የተገኘ ወዳጅህ አምሳልህና መልክህ ፡ ሕሊናህና ኃይልህ ፡ ጥበብህና ምክርህ ፡ ቀኝህና ክንድህ ፡ ከእውነተኛ አምላክ የተወለደ እውነተኛ አምላክ ወልድ ዋሕድ ነው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p357-07",
+      "kind": "paragraph",
+      "number": 15,
+      "geez_numeral": "፲፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወሠረቀ እምህላዌከ ቃል ፍጹም በኵሉ ዘእምኔከ ተወልደ አርአያ ዚአከ ልዑል ወግሩም ዘምስሌከ ፡",
+      "amharic": "በሁሉ ፍጹም የሚሆን ቃል ከባሕርይህ ወጣ ፡ ከአንተ የተወለደ አርአያህ ፡ ከአንተ ጋራ የሚተካከል ከአንተ ጋራ ልዑል ግሩም የሚሆን ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 358,
+    "printed_page_geez": "፫፻፵፱",
+    "printed_page": 349,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p358-01",
+      "kind": "paragraph",
+      "number": 16,
+      "geez_numeral": "፲፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይሰግዱ ሎቱ መላእክት ወሊቃነ መላእክት ዘበፍቅሮትከ ሰብእ ፈነውኮ ኀቤነ እስመ አፍቀርከነ ፡",
+      "amharic": "መላእክትና የመላእክት አለቆች ይሰግዱለታል ፡ ሰውን በመውደድህ ወደኛ ሰደድኸው ወደኸናልና ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p358-02",
+      "kind": "paragraph",
+      "number": 17,
+      "geez_numeral": "፲፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "አትሒቶ ርእሶ ውእቱ ቤዘወነ ዘተወልደ እምኔከ ዘከማከ ፡ ተወልደ እምኔነ በአምሳሊነ ዘውእቱ አርአያ ዚአከ ፡",
+      "amharic": "እርሱ ራሱን ዝቅ አድርጎ አዳነን ፡ ከአንተ የተወለደ እንዳንተ የሆነው በእኛ አምሳል ከእኛ ተወለደ ፡ ይኸውም የሚመስልህ ነው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p358-03",
+      "kind": "paragraph",
+      "number": 18,
+      "geez_numeral": "፲፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወአንሶሰወ ማዕከሌነ ዝኩ በአምሳሊነ ዘዕሩይ ፍጻሜሁ ምስሌከ ወአርአያ ዚአከ ውእቱ ዘከማከ ፡",
+      "amharic": "ይህ በእኛ አምሳል በመካከላችን ተመላለሰ ፡ ፍጹምነቱ ከአንተ ጋራ የሚተካከል የሚመስልህና እንዳንተ ያለ እርሱ ነው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p358-04",
+      "kind": "paragraph",
+      "number": 19,
+      "geez_numeral": "፲፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወውእቱ ነገረነ በእንተ ህላዌከ ወኮነ ሥጋ ከማነ ወሐመ ካዕበ በፈቃዱ ዘያደነግፆሙ ለሱራፌል እምአርያም ፡",
+      "amharic": "የአነዋወርህን ነገር እርሱ ነገረን ፡ እንደ እኛ ሥጋ ሆነ ፡ ዳግመኛም በአርያም ሱራፌልን የሚያስደነግጣቸው እርሱ በፈቃዱ ታመመ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p358-05",
+      "kind": "paragraph",
+      "number": 20,
+      "geez_numeral": "፳",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ርኢናሁ ወመነንናሁ ከመ ዐቢይ ውእቱ በኀበከ እግዚእ ወስቡሕ በኀቤነ ወሥውር ውእቱ እምትጉሃን በአማን አስተርአየ ገሃደ ተወሊዶ እምህላዌነ ፡",
+      "amharic": "አይተን አቃለልነው ፡ በአንተ ዘንድ ገና እንደመሆኑ መጠን በእኛ ዘንድ ጌታ የተመሰገነ ነው ፡ ከትጉሃንም የተሠወረ ነው ፡ ከእኛ ባሕርይ ተወልዶ በእውነት ተገልጦ ታየ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p358-06",
+      "kind": "paragraph",
+      "number": 21,
+      "geez_numeral": "፳፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ኪያከ ይመስል በአርአያ ወበፀዳል ተሰብአ ወተመሰለ በሥጋነ ወበአርአያነ ነበረ ኀቤነ ወስቡሕ ውእቱ ዘከማከ ፡",
+      "amharic": "በመልክ በብርሃን አንተን ይመስላል ፡ ሰው ሆኖ ሥጋችንን መሰለ ፡ በእኛም አምሳል ከእኛ ዘንድ ኖረ ፡ እንደ አንተም የተመሰገነ ነው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p358-07",
+      "kind": "paragraph",
+      "number": 22,
+      "geez_numeral": "፳፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ሠረረ ወወረደ ኀቤነ ወተፅዕለ ከማነ ፡ ሠረረ ወዐርገ ኀቤከ ወክቡር ውእቱ ዘከማከ ፡",
+      "amharic": "ወጣ ወደ እኛም ወረደ እንደ እኛ ተሰደበ ፡ ወጣ ወደ አንተም ዐረገ እንዳንተም የከበረ ነው ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 359,
+    "printed_page_geez": "፫፻፶",
+    "printed_page": 350,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p359-01",
+      "kind": "paragraph",
+      "number": 23,
+      "geez_numeral": "፳፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ዘየአኵትዎ ትጉሃን በሰማያት ተቀጸለ አክሊለ ዘሦክ ወዲበ ዕፀ መስቀል ምስለ ፈያት ተሰቅለ ፡ ዘያቴሕቱ ርእሶሙ ልዑላን ቅድሜሁ በፍርሃት አትሐተ ርእሶ በቅድመ ሰቃልያን ለሕማም ፡",
+      "amharic": "ትጉሃን በሰማያት የሚያመሰግኑት እርሱ የእሾህ ዘውድ ደፋ ፡ ከወንበዴዎችም ጋራ በዕፀ መስቀል ላይ ተሰቀለ ፡ ልዑላን እየፈሩ በፊቱ ራሳቸውን የሚያዋርዱለት እርሱ በሚሰቅሉት ፊት ለሕማም ራሱን አዋረደ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p359-02",
+      "kind": "paragraph",
+      "number": 24,
+      "geez_numeral": "፳፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ለፀዋሬ ሰማያት ወምድር ፃሮ ዕፅ ድኩም በዲበ ዕፅ መስቀል ለዘእምኔሁ ይርዕዱ ሰማያት ወምድር አግመሮ መቃብር ጸባብ አመ ተቀብረ ዲቤሁ ፡",
+      "amharic": "ሰማይንና ምድርን የተሸከመውን በዕፅ መስቀል ላይ ደካማ ዕንጨት ተሸከመው ፡ ሰማይና ምድር የሚንቀጠቀጡለትን ጠባብ መቃብር በተቀበረበት ጊዜ ወሰነው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p359-03",
+      "kind": "paragraph",
+      "number": 25,
+      "geez_numeral": "፳፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ዘአስተጋብአ አጽናፈ ምድር በእራት ወዘዘገነ አብሕርተ ዓለም በሕፍኑ ጠብለልዎ በሰንዱናት ከመ በድን ወቀበርዎ ውስተ መቃብር ዘ፫ቱ እመቱ ወሰፍሐ ርእሶ ክቡረ ወተመልዐ እምኔሁ መቃብር ፡",
+      "amharic": "የዓለምን ዳርቻ በመኻል እጁ የሰበሰበውን ፡ የዓለምንም ባሕር በእፍኝ የዘገነውን በፍታ ገንዘው በሦስት ክንድ ከስንዝር መቃብር ቀበሩት ፡ ክቡር ራሱን ዘረጋ ፡ ከእርሱም የተነሣ መቃብር ተመላ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p359-04",
+      "kind": "paragraph",
+      "number": 26,
+      "geez_numeral": "፳፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወተንሥአ እምዉታን አመ ሣልስት ዕለት ወበአ ኀበ ሀለዉ አርዳኢሁ ፡ እንዘ ዕፅው ኆኅት ወወፅአ እምኀበ አርዳኢሁ ፡",
+      "amharic": "በሦስተኛው ቀን ከሙታን ተለይቶ ተነሣ ፡ ደቀ መዛሙርቱም ወዳሉበት ደጅ ተዘግቶ ሳለ ገባ ፡ ከደቀ መዛሙርቱም ተለይቶ ወጣ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p359-05",
+      "kind": "paragraph",
+      "number": 27,
+      "geez_numeral": "፳፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወእንዘ ሀሎ ህየ ከደነ ሰማያተ ሥኑ ወመልአ ምድረ ስብሐቲሁ ወዐርገ ሰማያተ ወነበረ በየማነ አቡሁ ወኮነ ሰማይ መንበሮ ወምድር መከየደ እገሪሁ ፡",
+      "amharic": "በዚያም ሳለ ጌትነቱ ሰማያትን መላ ፡ ወደ ሰማይም ዐረገ ፡ በአባቱም ቀኝ ተቀመጠ ፡ ሰማይ ዙፋኑ ሆነ ፡ ምድርም የእግሩ መመላለሻ ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 360,
+    "printed_page_geez": "፫፻፶፩",
+    "printed_page": 351,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p360-01",
+      "kind": "paragraph",
+      "number": 28,
+      "geez_numeral": "፳፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወይመጽእ ዳግመ ይኰንን ሕያዋነ ወሙታነ ወያንጐደጕድ በላዕሉ ወያድለቀልቅ ቃሉ መሠረታተ ምድር ወይወፅኡ ኅቤሁ ሙታን እመቃብሪሆሙ ዘሎቱ ስብሐት ወክብር ምስለ አቡሁ ወምስለ መንፈስ ቅዱስ ለዓለመ ዓለም ፡",
+      "amharic": "ዳግመኛም ሕያዋንንና ሙታንን ይገዛ ዘንድ ይመጣል ፡ ከላይ ነጐድጓዱ ይሰማል ፡ ቃሉም የምድርን መሠረት ያናውጣል ፡ ሙታንም ከመቃብራቸው ወደርሱ ይወጣሉ ፡ ከአባቱ ከመንፈስ ቅዱስም ጋራ ክብር ምስጋና ለዘለዓለሙ የርሱ የሚሆን ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p360-02",
+      "kind": "paragraph",
+      "number": 29,
+      "geez_numeral": "፳፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. ውስተ ጽባሕ ነጽሩ ፡",
+      "amharic": "ይ.ዲ. ወደ ምሥራቅ ተመልከቱ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p360-03",
+      "kind": "paragraph",
+      "number": 30,
+      "geez_numeral": "፴",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. እወ እግዚኦ ዘታንሥእ ኩሎ በቃልከ ወሙታነ እለ አንሣእከ በሞትከ ወእምከሐድያን እለ አምኑ በመስቀልከ ወእምስሑታን እለ ተመይጡ በቅትለትከ ወእምርኩሳን እለ ተቀደሱ በሕማምከ ወእምሙታን እለ አንሣእከ በትንሣኤከ ወአምኑ ብከ እለ ተጋብኡ ለኰንኔ ዚአከ ፡",
+      "amharic": "ይ.ካ. አቤቱ በእውነት በቃልህ ሁሉን በሞትህ ያስነሣሃቸው ፡ ሙታንንም የምታስነሣ አንተ ነህ ፡ ከከሐድያንም ወገን በመስቀልህ ያመኑብህ ፡ ከስሑታንም ወገን በሞትህ የተመለሱ ፡ ከተዳደፉት ወገን በመከራህ የተቀደሱ ፡ ከሙታንም ወገን በትንሣኤህ ያስነሣሃቸው ፡ በአንተ ለመፍረድ ከተሰበሰቡ ወገን ያመኑብህ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p360-04",
+      "kind": "paragraph",
+      "number": 31,
+      "geez_numeral": "፴፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወአርኀውከ ኆኅተ ሐፂን ወታነሥአሙ ለእለ በልየ ሥጋሆሙ በውስተ መቃብር ወታነቅሖሙ ለእለ ኖሙ ንዋመ በሕይወቶሙ ወታነሥኦሙ ለእለ ሰከቡ ውስተ መሬት ወታግዕዞሙ ለአግብርት ኃጥአን ወታጸድቆሙ ለእለ ረስሑ በምሕረትከ ፡",
+      "amharic": "የብረትን መዝጊያ ከፍተህ ሥጋቸው በመቃብር የጠፋውን ታስነሣቸዋለህ ፡ በሕይወታቸው ያንቀላፉትን ታነቃቸዋለህ ፡ በመሬት የተኙትንም ታስነሣቸዋለህ ፡ ኃጥአን ባሮችን ነፃ ታደርጋቸዋለህ ፡ የተዳደፉትን በምሕረትህ ታከብራቸዋለህ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p360-05",
+      "kind": "paragraph",
+      "number": 32,
+      "geez_numeral": "፴፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ሕ. በከመ ምሕረትከ አምላክነ ወአኮ በከመ አበሳነ ፫ተ ጊዜ ፡",
+      "amharic": "ይ.ሕ. አምላካችን ሆይ እንደ ቸርነትህ ነው እንጂ እንደ በደላችን አይደለም ፡ ፫ ጊዜ ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 361,
+    "printed_page_geez": "፫፻፶፪",
+    "printed_page": 352,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p361-01",
+      "kind": "paragraph",
+      "number": 33,
+      "geez_numeral": "፴፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ወታስተናሥአሙ ለዐላውያን በሣህልከ ወታጸንዖሙ ለእለ ተመይጡ በቃልከ ወትመይጦሙ ለዐላውያን ከመ ይሑሩ ውስተ ፍኖትከ ወለዝርዋን ታስተጋብኦሙ ከመ ይባኡ ውስተ ዐፀድከ ፡",
+      "amharic": "ይ.ካ. በይቅርታህ ዐላውያንን አንድ ታደርጋቸዋለህ (ታስማማቸዋለህ) ፡ የተመለሱትን በቃልህ ታጸናቸዋለህ ፡ በጎዳናህ ይሔዱ ዘንድ ዐላውያንን ትመልሳቸዋለህ ፡ ወደ ቦታህ ይገቡ ዘንድ የተበተኑትን ትሰበስባቸዋለህ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p361-02",
+      "kind": "paragraph",
+      "number": 34,
+      "geez_numeral": "፴፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወለእለ ስሕቱ እምውስተ ሕዝብከ ትመይጦሙ ውስተ ዘዚአከ ሃይማኖት ፡",
+      "amharic": "ከወገኖችህ የበደሉትን አንተን ወደ ማመን ትመልሳቸዋለህ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p361-03",
+      "kind": "paragraph",
+      "number": 35,
+      "geez_numeral": "፴፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "አንተ እግዚኦ ታጸንዖሙ ለድኩማን መንፈስ ከመ ያእምሩ ኵሎሙ እለ ይነብሩ ውስተ ምድር ከመ አንተ ውእቱ አምላክ ፡ ወዘፈነውኮ ለወልድከ ኢየሱስ ክርስቶስ ወልድከ ወፍቁርከ ዘታፈቅር ዘእምኔከ ተወልደ ዘለከ ምስሌሁ ስብሐት ወምስለ መንፈስ ቅዱስ ሥውር ለዓለመ ዓለም ።",
+      "amharic": "የመንፈስ ደካሞችን አቤቱ አንተ ታጸናቸዋለህ ፡ በምድር የሚኖሩ ሁሉ አንተ አምላክ እንደሆንህ ያውቁህ ዘንድ ፡ ከአንተ የተወለደ የምትወደው ልጅህና ወዳጅህ የላክኸውን ኢየሱስ ክርስቶስንም ከርሱ ጋራ ክብር ያለህ ሥውር ከሚሆን ከመንፈስ ቅዱስም ጋራ ለዘለዓለሙ ።",
+      "uncertain": false
+     },
+     {
+      "id": "p361-04",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p361-05",
+      "kind": "paragraph",
+      "number": 36,
+      "geez_numeral": "፴፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. ንነጽር ፡",
+      "amharic": "ይ.ዲ. እናስተውል ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p361-06",
+      "kind": "paragraph",
+      "number": 37,
+      "geez_numeral": "፴፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ናቀርብ ለከ ዘንተ ቍርባነ ንጹሐ ወቅዱሰ በቅድሜከ በእንተ አቤል ወሴት ወሄኖስ ወመልከ ጼዴቅ ፡ በእንተ አብርሃም ይስሐቅ ወያዕቆብ ፡ በእንተ ሙሴ ወአሮን ወኵሎሙ ነቢያት ፡",
+      "amharic": "ይ.ካ. ይህን ንጹሕ ቅዱስ መሥዋዕት በፊትህ እና ቀርብልሃለን ፡ ስለ አቤልና ስለ ሴት ስለ ሄኖስ ስለ መልከ ጼዴቅም ፡ ስለ አብርሃም ስለ ይስሐቅና ስለ ያዕቆብ ስለ ሙሴና ስለ አሮን ስለ ነቢያትም ሁሉ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p361-07",
+      "kind": "paragraph",
+      "number": 38,
+      "geez_numeral": "፴፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "በእንተ ስምዖን ጼጥሮስ ወዮሐንስ መጥምቅ ወኵሎሙ ሐዋርያት ፡",
+      "amharic": "ስለ ስምዖን ጴጥሮስ ስለ ዮሐንስ መጥምቅም ፡ ስለ ሐዋርያትም ሁሉ ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 362,
+    "printed_page_geez": "፫፻፶፫",
+    "printed_page": 353,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p362-01",
+      "kind": "paragraph",
+      "number": 39,
+      "geez_numeral": "፴፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "በእንተ ዳዊት ወሕዝቅያስ ንጉሥ ወኢዮስያስ ወቄስጠንጢኖስ ንጉሥ ወኵሎሙ ነገሥት እለ አዕረፉ በርትዕት ሃይማኖት ፡",
+      "amharic": "ስለ ዳዊትና ሕዝቅያስ ፡ ስለ ኢዮስያስና ስለ ንጉሡ ቄስጠንጢኖስ ፡ በቀናች ሃይማኖት ስለ ሞቱት ነገሥታት ሁሉ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p362-02",
+      "kind": "paragraph",
+      "number": 40,
+      "geez_numeral": "፵",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወበእንተ ኵሎሙ ኤጲስ ቆጳሳት ቀሳውስት ወዲያቆናት ወንፍቀ ዲያቆናት ወአናጕንስጢስ ወወራዙት ወደናግል ፡",
+      "amharic": "ስለ ኤጲስቆጳሳት ስለ ቀሳውስትና ስለ ዲያቆናት ስለ ንፍቀ ዲያቆናትና ስለ አናጉንስጢሳውያን ስለ ወራዙትና ስለ ደናግልም ሁሉ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p362-03",
+      "kind": "paragraph",
+      "number": 41,
+      "geez_numeral": "፵፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወበእንተ ኵሉ ነፍስ እንተ ኅደረ ላዕሌሃ መንፈስ ቅዱስ ወተፈጸመ ላዕሌሃ መንፈሰ ሕይወት ፡ ወበእንተ ኵላ መልክዕ እንተ ተለክአት በአምሳሊሁ ለእግዚእነ ኢየሱስ ክርስቶስ ወልድከ ወፍቁርከ ዘታፈቅር ፡",
+      "amharic": "መንፈስ ቅዱስ በላይዋ ላይ ስላደረባትና የሕይወት መንፈስ ስለተፈጸመ መላት ነፍስ ፡ በምትወደው በልጅህና በወዳጅህ በጌታችን በኢየሱስ ክርስቶስ አምሳል ስለ ተቀረጸች መልክ ሁሉ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p362-04",
+      "kind": "paragraph",
+      "number": 42,
+      "geez_numeral": "፵፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "በእንተ ኵሎሙ ቅዱሳን እለ ተገብረ ሎሙ ዝንቱ ቍርባን ወአብእዎሙ ውስተ ቅድስት ቤተ ክርስቲያንከ ወአቅረብዎሙ ቅድመ ምሥዋዒከ ዐቢይ ወቅዱስ ፡",
+      "amharic": "ይህ ቍርባን ስለ ተደረገላቸው ፡ ወደ ቅድስት ቤተ ክርስቲያንህ ስላገቧቸውና ደገኛ ቅዱስ ወደሚሆን ወደ መሠውያህ ፊት ስላቀረቧቸው ቅዱሳንም ሁሉ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p362-05",
+      "kind": "paragraph",
+      "number": 43,
+      "geez_numeral": "፵፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወበእንተ ኵሎሙ ነጋድያን ወፈላስያን እለ ሀለዉ ውስተ ኵሉ ገጸ ምድር በርትዕት ሃይማኖት ወወፅኡ እም ዝንቱ ዓለም ፡",
+      "amharic": "በቀናች ሃይማኖት በምድር ላይ ሁሉ ስለሚኖሩ ስለ መንገደኞችና ስለ ስደተኞችም ሁሉ ከዚህ ዓለም የወጡ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p362-06",
+      "kind": "paragraph",
+      "number": 44,
+      "geez_numeral": "፵፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወበእንተ ኵሉ አፍ ወልሳን እለ አምኑ በስሙ ለእግዚእነ ኢየሱስ ክርስቶስ ወልድከ ወፍቁርከ ዘታፈቅር ፡ ዘለከ ስብሐት ምስሌሁ ወምስለ መንፈስ ቅዱስ ሥውር ለዓለመ ዓለም ፡",
+      "amharic": "በምትወደው በልጅህና በወዳጅህ በጌታችን በኢየሱስ ክርስቶስ ስም ስላመኑ አፍና አንደበት ሁሉ ፡ ከርሱ ጋራ ክብር ያለህ ፡ ሥውር ከሚሆን ከመንፈስ ቅዱስም ጋራ ለዘለዓለሙ ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 363,
+    "printed_page_geez": "፫፻፶፬",
+    "printed_page": 354,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p363-01",
+      "kind": "paragraph",
+      "number": 45,
+      "geez_numeral": "፵፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. በእንተ ብፁዕ ፡",
+      "amharic": "ይ.ዲ. በእንተ ብፁዕ (ቅዳ. ሐዋ. ከ፮-፱) ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p363-02",
+      "kind": "paragraph",
+      "number": 46,
+      "geez_numeral": "፵፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "በዝየ ይዝክር አስማተ እለ ኖሙ ፡",
+      "amharic": "ከዚህ የሞቱትን ሰዎች ስም ይጥራ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p363-03",
+      "kind": "paragraph",
+      "number": 47,
+      "geez_numeral": "፵፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ንፍቅ ፡ ጸሎተ ቡራኬ ፡",
+      "amharic": "ይ.ካ. ንፍቅ ጸሎተ ቡራኬ (ቅዳ. ሐዋ. ከ፲-፳፩) ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p363-04",
+      "kind": "paragraph",
+      "number": 48,
+      "geez_numeral": "፵፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. ንፍቅ ፡ መሐሮሙ እግዚኦ ወተሣሃሎሙ ለሊቃነ ጳጳሳት ፡ ጳጳሳት ኤጲስቆጳሳት ቀሳውስት ወዲያቆናት ወኵሎሙ ሕዝበ ክርስቲያን ፡",
+      "amharic": "ይ.ዲ. ንፍቅ ፡ አቤቱ የጳጳሳቱን አለቆች ጳጳሳቱንና ኤጲስቆጳሳቱን ቀሳውስቱንና ዲያቆናቱን የክርስቲያንንም ወገኖች ሁሉ ማራቸው ይቅር በላቸው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p363-05",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p363-06",
+      "kind": "paragraph",
+      "number": 49,
+      "geez_numeral": "፵፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ሎሙኒ ወለዘ ሎሙ እግዚእነ ወአምላክነ ወመድኃኒነ ኢየሱስ ክርስቶስ ትሰግድ ለከ ቤተ ክርስቲያንከ ፡ ወታሌዕለከ መርዓትከ በበቍዔቶሙ ለልዑላን ወበቅዳሴሆሙ ለሱራፌል ወበውዳሴሆሙ ለኪሩቤል ወበአኰቴቶሙ ለመላእክት ወበስእለቶሙ ለትጉሃን ወበፍጻሜሆሙ ለቅዱሳን ፡",
+      "amharic": "ይ.ካ. ለነርሱም ለሁሉም ጌታችንና አምላካችን መድኃኒታችን ኢየሱስ ክርስቶስ ሆይ ቤተ ክርስቲያንህ ትሰግድልሃለች ፡ ሙሽራህም ከፍ ከፍ ታደርግሃለች ፡ በልዑላን ጥቅም ፡ በሱራፌል ቅዳሴና በኪሩቤል ውዳሴ በመላእክትም ምስጋና ፡ በትጉሃን ልመና ፡ በቅዱሳንም ፍጹምነት ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p363-07",
+      "kind": "paragraph",
+      "number": 50,
+      "geez_numeral": "፶",
+      "continued": null,
+      "heading_note": null,
+      "geez": "በንጽሑ ለአዳም ወበመሥዋዕቱ ለኖኅ ወበተወክፎቱ ለአብርሃም ወበኂሩቱ ለይስሐቅ ወበአስተርእዮቱ ለያዕቆብ ፡",
+      "amharic": "በአዳም ንጽሕና በኖኅም መሥዋዕት በአብርሃም እንግዳ ተቀባይነት ፡ በይስሐቅ ቸርነት ፡ በያዕቆብ መገለፅ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p363-08",
+      "kind": "paragraph",
+      "number": 51,
+      "geez_numeral": "፶፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወበመዋቅሕቲሁ ለዮሴፍ በትዕግሥቱ ለኢዮብ ወበየውሃቱ ለሙሴ ወበውዳሴሁ ለኤልያስ ፡",
+      "amharic": "በዮሴፍ እሥራት ፡ በኢዮብ ትዕግሥት በሙሴም የዋህነት በኤልያስም ምስጋና ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 364,
+    "printed_page_geez": "፫፻፶፭",
+    "printed_page": 355,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p364-01",
+      "kind": "paragraph",
+      "number": 52,
+      "geez_numeral": "፶፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወበአፍቅሮቶሙ ለሐዋርያት ወበስእለቶሙ ለቅዱሳን ወበዓማሆሙ ለፈላስያን በጽፍዐቱ ለዋህድከ ወበጽድቆሙ ለእለ ኢአበሱ ፡ በትሕትናሆሙ ለእለ አድምዑ ንጽሐ ፡",
+      "amharic": "በሐዋርያትም ማፍቀር ፡ በቅዱሳንም ልመና ፡ በተሰደዱ ሰዎች ድካም ፡ ባልበደሉ ሰዎች ጽድቅ ፡ ንጽሕናን ባገኙ ሰዎች ትሕትና ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p364-02",
+      "kind": "paragraph",
+      "number": 53,
+      "geez_numeral": "፶፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "በገድሎሙ ለንጹሐን ወበሕርመቶሙ ለተሐራምያን ወበጽድቆሙ ለቅዱሳን ፍጹማን ፡",
+      "amharic": "በንጹሐን ገድል ፡ ከምግብ በተለዩ ሰዎች ትምህርት ፡ ፍጹማን ስለሆኑ ቅዱሳን ጽድቅ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p364-03",
+      "kind": "paragraph",
+      "number": 54,
+      "geez_numeral": "፶፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "በርኅቀተ አጽናፈ ምድር ወበዕመቆሙ ለልዑታተ ባሕር በንጥረ መባርቅት ወበሥረቶሙ ለደመናት ፡",
+      "amharic": "በምድር ዳርቻ ርቀት ፡ በባሕር አዝዋሪም ጥልቅነት ፡ በመባርቅት ብልጭታ ፡ በደመናትም መውጣት ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p364-04",
+      "kind": "paragraph",
+      "number": 55,
+      "geez_numeral": "፶፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "በአኰቴቶሙ ለመላእክት ወበስብሐቶሙ ለቅዱሳን ፡ በንጽሐሙ ለትጉሃን ወበስንዓሆሙ ለልዑላን ወበፀዳሎሙ ለመንፈሳውያን ፡",
+      "amharic": "በመላእክት ምስጋና ፡ በቅዱሳንም ምስጋና ፡ በትጉሃን ንጽሕና ፡ በልዑላንም መስማማት ፡ በመንፈሳውያን ብርሃን ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p364-05",
+      "kind": "paragraph",
+      "number": 56,
+      "geez_numeral": "፶፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወበየማኖሙ ለካህናት በቅትለቶሙ ለሰማዕታት ወበደሞሙ ለመሃይምናን ወበዕበዮሙ ለመላእክት ብርሃናውያን ፡",
+      "amharic": "በካህናት ቀኝ ፡ በሰማዕታት መሞት ፡ በምዕመናንም ደም ፡ በብርሃናውያን መላእክትም ገናንነት ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p364-06",
+      "kind": "paragraph",
+      "number": 57,
+      "geez_numeral": "፶፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "በጽፍዓቱ ለወልድከ ወበሕማማቲሁ ለዋሕድከ ወበሥልጣንከ አኃዜ ኵሉ ፡",
+      "amharic": "በልጅህ መመታት (ተጽፍአ) በአንድ ልጅህ ሕማማት ሁሉን በያዘ ሥልጣንህም ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p364-07",
+      "kind": "paragraph",
+      "number": 58,
+      "geez_numeral": "፶፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወበጸሎት እንተ ተዐርግ ኀበ አቡሁ ለእግዚእነ ወመድኃኒነ ኢየሱስ ክርስቶስ ፡",
+      "amharic": "ወደ ጌታችንና ወደ መድኃኒታችን ወደ ኢየሱስ ክርስቶስ አባት በምታርግ ጸሎት ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p364-08",
+      "kind": "paragraph",
+      "number": 59,
+      "geez_numeral": "፶፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "በዝየ ዕርገተ ዕጣን ፡ ይ.ሕ. ተዘከረነ እግዚኦ በውስተ መንግሥትከ ።",
+      "amharic": "በዚህ ጊዜ ዕጣኑን ያሳርግ ፡ ይ.ሕ. አቤቱ በመንግሥትህ አስበን ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p364-09",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p364-10",
+      "kind": "paragraph",
+      "number": 60,
+      "geez_numeral": "፷",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. በይእቲ ሌሊት እንተ ባቲ አመ ያገብእዎ ፡",
+      "amharic": "ይ.ካ. እርሱን በሚያሲዙባት በዚያች ሌሊት ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 365,
+    "printed_page_geez": "፫፻፶፮",
+    "printed_page": 356,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p365-01",
+      "kind": "paragraph",
+      "number": 61,
+      "geez_numeral": "፷፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. አንሥኡ እደዊክሙ ቀሳውስት ፡",
+      "amharic": "ይ.ዲ. ቀሳውስት እጆቻችሁን አንሡ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p365-02",
+      "kind": "paragraph",
+      "number": 62,
+      "geez_numeral": "፷፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ነሥአ ኅብስተ በእደዊሁ ቅዱሳት ወብፁዓት እለ እንበለ ርስሐት አንቃዕደወ ሰማየ ኀቤከ ኀበ አቡሁ ፡ በዝየ ያንሥእ ኅብስተ ፡",
+      "amharic": "ይ.ካ. ክቡራትና ብፁዓት በሚሆኑ አድፍ በሌለባቸው እጆቹ ኅብስቱን ያዘ ፡ ወደ አንተ ወደ አባቱ ወደ ሰማይ አቅንቶ አየ ፡ በዚህ ጊዜ ኅብስቱን ያንሣ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p365-03",
+      "kind": "paragraph",
+      "number": 63,
+      "geez_numeral": "፷፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ሕ. ነአምን ከመ ዝንቱ ውእቱ በአማን ነአምን ፡",
+      "amharic": "ይ.ሕ. ይህ እርሱ እንደ ሆነ በእውነት እናምናለን ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p365-04",
+      "kind": "paragraph",
+      "number": 64,
+      "geez_numeral": "፷፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. አእኰተ ባረከ ወፈተተ ፡ ቡራኬ ፫ተ ጊዜ ፡ ወእምዝ ያንቅዖ ለኅብስተ ኀበ ፭ቱ ገጽ ንስቲተ እንዘ ኢይሌልዮ ፡ ወይቤሎሙ ንሥኡ ብልዑ ዝ ኅብስት ‹‹እማሬ›› ሥጋየ ውእቱ ለዘበእንቲአክሙ ይትፌተት ወይትወሀብ ለቤዛ ኵሉ ዓለም በዘይትኀደግ ኃጢአት ፡",
+      "amharic": "ይ.ካ. አመሰገነ ባረከ ቈረሰ ፡ ሥስት ጊዜ ይባርክ ፡ ከዚህም በኋላ ኅብስቱን ሳይለየው ከአምስት ላይ ጥቂት ያንቃው ፡ አላቸውም ንሡ ብሉ ይህ ኅብስት ‹‹እማሬ›› ኃጢአት በሚሠረይ ገን ዘብ ለዓለሙ ሁሉ ቤዛ ስለእናንተ የሚፈተት ሥጋዬ ነው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p365-05",
+      "kind": "paragraph",
+      "number": 65,
+      "geez_numeral": "፷፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ሕ. አሜን አሜን አሜን ነአምን ወንትአመን ንሴብሐከ ኦ እግዚእነ ወአምላክነ ከመ ዝንቱ ውእቱ በአማን ነአምን ፡",
+      "amharic": "ይ.ሕ. አሜን ፡ አሜን ፡ አሜን ፡ እናምናለን ፡ እንታመናለንም ጌታችንና አምላካችን ሆይ ይህ እርሱ እንደ ሆነ በእውነት እናምናለን ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p365-06",
+      "kind": "paragraph",
+      "number": 66,
+      "geez_numeral": "፷፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ወካዕበ እምድኅረ ተደሩ ነሥአ ጽዋዐ አእኰተ ባረከ ወቀደሰ ፡ ቡራኬ ፫ተ ጊዜ ወይቤሎሙ ለአርዳኢሁ ንሥኡ ስትዩ ዝ ጽዋዕ ‹‹እማሬ›› ደምየ ውእቱ ዘሐዲስ ሥርዓት ለዘበእንቲአክሙ ይትከዕው ወይትወሀብ ለቤዛ ኵሉ ዓለም ለኅድገተ ኃጢአት ፡ ወይነክንክ ለጽዋዕ በትእምርተ መስቀል በእዴሁ ዘየማን ፡",
+      "amharic": "ይ.ካ. ዳግመኛም ራታቸውን ከበሉ በኋላ ጽዋውን ይዞ አመሰገነ ፡ ባረከ ፡ አከበረም ፡ ሥስት ጊዜ ይባርክ ደቀ መዛሙርቱንም አላቸው ፡ ንሡ ጠጡ ይህ ጽዋ ‹‹እማሬ›› ኃጢአትን ለማስተሥረይ ስለእናንተ የሚፈስና ለዓለሙ ሁሉ ቤዛ የሚሰጥ ሐዲስ ሥርዓት የሚሆን ደሜ ነው ፡ ጽዋውን በቀኝ እጁ በአራቱ ማዕዘን ይወዘውዘው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p365-07",
+      "kind": "paragraph",
+      "number": 67,
+      "geez_numeral": "፷፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ሕ. አሜን አሜን አሜን ፡",
+      "amharic": "ይ.ሕ. አሜን ፡ አሜን ፡ አሜን ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 366,
+    "printed_page_geez": "፫፻፶፯",
+    "printed_page": 357,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p366-01",
+      "kind": "paragraph",
+      "number": 68,
+      "geez_numeral": "፷፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. እወ እግዚኦ አምላክነ ስምዖሙ ጸሎቶሙ ለአግብርቲከ ወተወከፎሙ ለእለ ይሰግዱ ለከ እምቅድመ ገጽከ ፡",
+      "amharic": "ይ.ካ. አቤቱ አምላካችን የአገልጋዮችህን ጸሎታቸውን በእውነት ስማቸው ፡ በፊትህ የሚሰግዱልህንም ተቀበላቸው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p366-02",
+      "kind": "paragraph",
+      "number": 69,
+      "geez_numeral": "፷፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ሕ. ንዜኑ ሞተከ እግዚኦ ወትንሣኤከ ቅድስተ ነአምን ዕርገተከ ወዳግመ ምጽአተከ ፡ ንሴብሐከ ወንትአመነከ ንስእለከ ወናስተበቍዐከ ኦ እግዚእነ ወአምላክነ ፡",
+      "amharic": "ይ.ሕ. አቤቱ ሞትህን ቅድስት ትንሣኤህንም እንናገራለን ፡ ዕርገትህን ዳግመኛም መምጣትህን እናምናለን ፡ እናመሰግንሃለን ፡ እናምንሃለንም ፡ ጌታችንና አምላካችን ሆይ እንለምንሃለን ፡ እንማልድሃለንም ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p366-03",
+      "kind": "paragraph",
+      "number": 70,
+      "geez_numeral": "፸",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ሜሎስ ሰይፈ እሳት ዘይነድድ ይትከሠት ወይትረኀው ሰማየ ሰማያት በጽድቅከ ወበፈቃድከ ወይትፈኖ መንፈስከ ሕያው ወቅዱስ ፡ ይረድ ወይምጻእ ፡ ወያዕርፍ ዲበ ዝንቱ ኅብስት ወጽዋዕ ፡ ይባርክ ወይቀድስ ወይኩን ሱታፌ ሥጋሁ ወደሙ ለዋሕድ ወልድከ እግዚእነ ወአምላክነ ወመድኃኒነ ኢየሱስ ክርስቶስ ፡ ቡራኬ ፩ ላዕለ ኅብስት ወ፩ ላዕለ ጽዋዕ ወ፩ ላዕለ ክልኤሆሙ ፡ ከመ ይኩን ለኅድገተ አበሳ ለእለ ይቀርቡ ወለሥርየተ ኃጢአት ለእለ ይነሥእዎ ፡",
+      "amharic": "ይ.ካ. የሚነድ የእሳት ሰይፍ ሜሎስ (መንፈስ ቅዱስ) ይገለጥ ፡ ሰማየ ሰማያትም በቸርነትህ ይከፈት ፡ በፈቃድህም ሕያውና ቅዱስ መንፈስህ ይላክ ፡ ይውረድ ፡ ይምጣም ፡ በዚህም ኅብስትና ጽዋ ላይ ይረፍ ፡ ይባርከው ይቀድሰውም ፡ ከአንድ ልጅህ ከጌታችንና ከአምላካችን ከመድኃኒታችንም ከኢየሱስ ክርስቶስ ሥጋና ደም ጋራ አንድ ይሆን ዘንድ ፡ አንድ ጊዜ ኅብስቱን ይባርክ ፡ አንድ ጊዜ ጽዋውን ይባርክ ፡ አንድ ጊዜ ሁለቱንም ይባርክ ፡ ለሚቀርቡት የበደል ማስተሥረያ ለሚቀበሉትም የኃጢአት ይቅርታ ይሆን ዘንድ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p366-04",
+      "kind": "paragraph",
+      "number": 71,
+      "geez_numeral": "፸፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ሕ. አሜን እግዚኦ መሐረነ እግዚኦ መሐከነ እግዚኦ ተሣሃለነ ፡",
+      "amharic": "ይ.ሕ. አሜን አቤቱ ማረን ፡ አቤቱ ራራልን ፡ አቤቱ ይቅር በለን ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p366-05",
+      "kind": "paragraph",
+      "number": 72,
+      "geez_numeral": "፸፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. በኵሉ ልብ ናስተብቍዐ ለእግዚአብሔር አምላክነ ኅብረተ መንፈስ ቅዱስ ሠናየ ከመ ይጸግወነ ፡",
+      "amharic": "ይ.ዲ. በፍጹም ልብ አምላካችንን እግዚአብሔርን እንለምነው ፡ ያማረ የመንፈስ ቅዱስን አንድነት ይሰጠን ዘንድ ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 367,
+    "printed_page_geez": "፫፻፶፰",
+    "printed_page": 358,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p367-01",
+      "kind": "paragraph",
+      "number": 73,
+      "geez_numeral": "፸፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ሕ. በከመ ሀሎ ህልወ ወይኄሉ ለትውልደ ትውልድ ለዓለመ ዓለም ፡",
+      "amharic": "ይ.ሕ. በፊት እንደነበረ ለዘለዓለሙ ለልጅ ልጅ ይኖራል ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p367-02",
+      "kind": "paragraph",
+      "number": 74,
+      "geez_numeral": "፸፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "በዝየ ይጎትም ሥጋ በደም ጠሚያ በአጽባዕቱ ፡ ይ.ካ. ወለኵሎሙ እለ በርትዕት ሃይማኖት ይሳተፉ ወይነሥኡ እምኔሁ ይኩኖሙ ለሣህል ወለምሕረት ለፈውስ ወለረድኤት ወለሕይወተ ነፍስ ወሥጋ ለኅድገተ አበሳ ወለሥርየተ ኃጢአት ወለትንሣኤ እምታን ወለሕይወት ሐዲስ ለዓለመ ዓለም ፡ ይ.ሕ. አሜን ፡",
+      "amharic": "በዚህ ጊዜ በጣቱ ጠምቆ በደሙ ሥጋውን ይቅባ ፡ ይ.ካ. በቀናች ሃይማኖት አንድ ሁነው ከርሱ ለሚቀበሉት ሰዎች ሁሉ ለይቅርታና ለምሕረት ለደኅንነትና ለረድኤት ፡ ለነፍስና ለሥጋ ሕይወት ይሁንላቸው ፡ ለበደል ማስተሥረያ ፡ ለኃጢአት ይቅርታ ፡ ለትንሣኤ ሙታንና ለሐዲስም ሕይወት ይሁንላቸው ፡ ለዘለዓለሙ ፡ ይ.ሕ. አሜን ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p367-03",
+      "kind": "paragraph",
+      "number": 75,
+      "geez_numeral": "፸፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ሀበነ ንኅበር በዘዚአከ መንፈስ ቅዱስ ወፈውሰነ በዝንቱ ጽርስፎራ ከመ ብከ ንሕየው ዘለኵሉ ዓለም ወለዓለመ ዓለም ፡ ይ.ሕ. ከማሁ ፡",
+      "amharic": "ይ.ካ. የአንተ በሚሆን መንፈስ ቅዱስ አንድ እንሆን ዘንድ መሆንን ስጠን ፡ በዚህም ጽርስፎራ (ኅብስት) አድነን ፡ ለዓለሙ ሁሉ በምትሆን በአንተ ለዘለዓለሙ ሕያዋን እንሆን ዘንድ ፡ ይ.ሕ. እንደርሱ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p367-04",
+      "kind": "paragraph",
+      "number": 76,
+      "geez_numeral": "፸፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ቡሩክ ስሙ ለእግዚአብሔር ወቡሩክ ዘይመጽእ በስመ እግዚአብሔር ወይትባረክ ስመ ስብሐቲሁ ለይኩን ለይኩን ቡሩክ ለይኩን ፡ ይ.ሕ. ከማሁ ፡",
+      "amharic": "ይ.ካ. የእግዚአብሔር ስሙ ምስጉን ነው ፡ በእግዚአብሔር ስም የሚመጣውም ምስጉን ነው ፡ የጌትነቱ ስም ይመስገን ፡ ይሁን ፡ ይሁን ፡ የተመሰገነ ይሁን ፡ ይ.ሕ. እንደርሱ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p367-05",
+      "kind": "paragraph",
+      "number": 77,
+      "geez_numeral": "፸፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ፈኑ ጸጋ መንፈስ ቅዱስ ላዕሌነ ፡ ይ.ሕ. ከማሁ ።",
+      "amharic": "ይ.ካ. የመንፈስ ቅዱስን ጸጋ ላክልን ፡ ይ.ሕ. እንደርሱ ።",
+      "uncertain": false
+     },
+     {
+      "id": "p367-06",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p367-07",
+      "kind": "paragraph",
+      "number": 78,
+      "geez_numeral": "፸፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. ተንሥኡ ለጸሎት ፡ ይ.ሕ. እግዚኦ ተሣሃለነ ፡ ይ.ካ. ሰላም ለኵልክሙ ፡ ይ.ሕ. ምስለ መንፈስከ ፡",
+      "amharic": "ይ.ዲ. ለጸሎት ተነሡ ፡ ይ.ሕ. አቤቱ ይቅር በለን ፡ ይ.ካ. ሰላም ለሁላችሁ ይሁን ፡ ይ.ሕ. ከመንፈስህ ጋራ ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 368,
+    "printed_page_geez": "፫፻፶፱",
+    "printed_page": 359,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p368-01",
+      "kind": "paragraph",
+      "number": 79,
+      "geez_numeral": "፸፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ጸሎተ ፈትቶ ፡ ወካዕበ ናስተበቍዕ ዘኵሎ ይእኅዝ እግዚአብሔር አብ ለእግዚእነ ወመድኃኒነ ኢየሱስ ክርስቶስ ኅቤከ እግዚኦ አንቃዕደወነ አዕይንተነ እንዘ ንትሜነይ ርደተ መንፈስ ቅዱስ ፡ ወለከ ንሰግድ በአብራከ ልብነ ወለከ ናጼንን አርእስተ ሕሊናነ ወመንፈስነ ፡",
+      "amharic": "ይ.ካ. የመፈተት ጸሎት ፡ ዳግመኛም ሁሉን የሚይዝ የጌታችንና የመድኃኒታችን የኢየሱስ ክርስቶስን አባት እግዚአብሔርን እንማልዳለን ፡ አቤቱ የመንፈስ ቅዱስን መውረድ እየተመኘን ዐይኖቻችን ወዳንተ እንሰቅላለን ፡ በአብራክ ልቡናችንም እንሰግድልሃለን ፡ የሕሊናችንንና የመንፈሳችንን ራስ ዝቅ እናደርግልሃለን ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p368-02",
+      "kind": "paragraph",
+      "number": 80,
+      "geez_numeral": "፹",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ቀድሰነ እግዚኦ በቅድሳቲከ ወአንጽሐነ በምሕረትከ ወረስየነ ድልዋነ ወሱቱፋነ ለነሢአ ምሥጢርከ ቅዱስ ፡",
+      "amharic": "አቤቱ በቅድስናህ ቀድሰን ፡ በምሕረትህም አንጻን ፡ ቅዱስ ምሥጢርህንም ለመቀበል የተገባንና አንድ የሆን አድርገን ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p368-03",
+      "kind": "paragraph",
+      "number": 81,
+      "geez_numeral": "፹፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ዝ አፍሐመ እሳት ዘአንበርናሁ በቅድሜከ ቅድመ ምሥዋዒከ ቅዱስ ኢይኩነነ ዘይሰክየነ ፡ ወዝኅብስተ አምልኮ ዘፈተትነ በአሚን ኢይኩነነ ለበቀል በእንተ ዘኢያን ጸሕነ ነፍሰነ ወሥጋነ ፡",
+      "amharic": "በቅዱስ መሠውያህ በፊትህ ያኖርነው ይህ የእሳት ፍሕም የሚከስን አይሁን ፡ የፈተትነው ይህ የአምልኮ ኅብስት ለበቀል አይሁንብን ፡ ነፍሳችንንና ሥጋችንን ስላላነጻን ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p368-04",
+      "kind": "paragraph",
+      "number": 82,
+      "geez_numeral": "፹፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "መፍርሀኬ አብቅዎ ክናፍር ለበሊዐ እሳት (ውዑይ) ወውሂጠ አፍሐም ርሱን ለእመ ኢያን ጽሐት ክርሥ ውሳጤሃ እምጽልሐት ፡",
+      "amharic": "የሚያቃጥል እሳትን ለመብላት የጋለ ፍሕምንም ለመዋጥ ከንፈርን መክፈት የሚያስፈራ ነው ፡ ነፍስ ውስጥዋን ከሸንገላ ካላነጻች ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p368-05",
+      "kind": "paragraph",
+      "number": 83,
+      "geez_numeral": "፹፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "መፍርሀኬ ነጽሮ ሕርደቱ ለመርዓዊ ንጹሕ በውስተ ፒላሳሁ ፡",
+      "amharic": "በድንኳኑ ውስጥ የንጹሕ ሙሽራን መሠዋቱን ማየት የሚያስፈራ ነው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p368-06",
+      "kind": "paragraph",
+      "number": 84,
+      "geez_numeral": "፹፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "መፍርሀኬ ርእየ ጥብሐቱ ለወልደ አምላክ ሕያው በቅድመ አቡሁ ሰማያዊ ፡",
+      "amharic": "ሕያው የሚሆን የአምላክን ልጅ በሰማያዊ አባቱ ፊት መሠዋቱን ማየት የሚያስፈራ ነው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p368-07",
+      "kind": "paragraph",
+      "number": 85,
+      "geez_numeral": "፹፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "መፍርሀኬ ቀሪቦቱ ለንጥረ መለኮት ወለኪፎቱ ለመብረቀ ስብሐት ፡",
+      "amharic": "የመለኮትን ብልጭታ መቅረብ ፡ የጌትነት ብርሃንንም (መብረቅ) መንካት የሚያስፈራ ነው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p368-08",
+      "kind": "paragraph",
+      "number": 86,
+      "geez_numeral": "፹፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. ጸልዩ ፡ ይ.ሕ. አቡነ ዘበሰማያት ፡",
+      "amharic": "ይ.ዲ. ጸልዩ ፡ ይ.ሕ.አቡነ ዘበሰማያት ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 369,
+    "printed_page_geez": "፫፻፷",
+    "printed_page": 360,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p369-01",
+      "kind": "paragraph",
+      "number": 87,
+      "geez_numeral": "፹፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ናንጽሕ ርእሰነ ለነሢአቱ ወንቀድስ ነፍሰነ ለተመጥዎቱ ወንበል ፡ ስብሐት ለአብ ዘሠምረ ይጠባሕ መግዝዐ ላህም ንጹሕ ፡ ስብሐት ለወልድ ዘውእቱ ጥብሐ መግዝዐ ላሕም ንጹሕ ፡ ስብሐት ለመንፈስ ቅዱስ ለዝ ኅብስት ዘረሰዮ ከመ ይኩን ሥጋሁ ለመግዝዐ ላሕም ንጹሕ ፡ ፫ቱ አስማት ወ፩ዱ እግዚአብሔር ፫ቱ ገጽ ፩ዱ ራእይ ፫ቱ አካል ወ፩ዱ ህላዌ ፡",
+      "amharic": "ይ.ካ. ለመያዙ ራሳችንን እናንጻ ፡ ለመቀበሉም ነፍሳችንን እንቀድስ ፡ ንጹሕ መግዝዐ ላህም ሆኖ ይሠዋ ዘንድ ለወደደ አብ ምስጋና ይገባዋል እንበል ፡ ለወልድም ምስጋና ይገባዋል ፡ ይኸውም ንጹሕ የሚሆን መግዝዐ ላህም ነው ፡ ይህን ኅብስት ንጹሕ የሚሆን የመግዝዐ ላህም ሥጋ ላደረገው ለመንፈስ ቅዱስም ምስጋና ይገባዋል ፡ ሦስቱ ስም አንድ እግዚአብሔር ነው ፡ ሦስት ገጽ አንድ መልክ ፡ ሦስት አካል አንድ ባሕርይ ነው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p369-02",
+      "kind": "paragraph",
+      "number": 88,
+      "geez_numeral": "፹፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ሎቱ ስብሐት እምአፈ መላእክት ትጉሃን ወሎቱ ቅድሳት እምአፈ ነቢያት ወሐዋርያት እምይእዜ ወእስከ ለዓለም ወእስከ ዳግም ጉባኤ ።",
+      "amharic": "በትጉሃን መላእክት አፍ መመስገን ይገባዋል ፡ በነቢያትና በሐዋርያትም አፍ መመስገን ቅዱስ መባል ይገባዋል ፡ ከዛሬ ጀምሮ እስከ ዘለዓለሙ እስከ ሁለተኛውም ጉባኤ ድረስ ።",
+      "uncertain": false
+     },
+     {
+      "id": "p369-03",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p369-04",
+      "kind": "paragraph",
+      "number": 89,
+      "geez_numeral": "፹፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ሕ. ሠራዊተ መላእክቲሁ ለመድኃኔዓለም ይቀውሙ ቅድሜሁ ለመድኃኔዓለም ፡ ወይኬልልዎ ለመድኃኔዓለም ሥጋሁ ወደሙ ለመድኃኔዓለም ፡ ወንብጻሕ ቅድመ ገጹ ለመድኃኔዓለም በአሚነ ዚአሁ ለክርስቶስ ንግኒ ፡",
+      "amharic": "ይ.ሕ. የመድኃኔዓለም የመላእክት ሠራዊት በመድኃኔዓለም ፊት ይቆማሉ ፡ መድኃኔዓለምን ያመሰግኑታል ፡ የመድኃኔ ዓለም ሥጋውና ደሙ ይህ ነው ፡ ከመድኃኔ ዓለም ፊት እንድረስ ፡ እርሱን በማመን ለክርስቶስ እንገዛለን ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p369-05",
+      "kind": "paragraph",
+      "number": 90,
+      "geez_numeral": "፺",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. ንፍቅ አርጎወኆተ መኳንንት ፡",
+      "amharic": "ይ.ዲ. ንፍቅ መኳንንት ደጆችን ክፈቱ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p369-06",
+      "kind": "paragraph",
+      "number": 91,
+      "geez_numeral": "፺፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. እለ ትቀውሙ አትሕቱ ርእሰክሙ ፡",
+      "amharic": "ይ.ዲ. የቆማችሁ ሰዎች ራሳችሁን ዝቅ ዝቅ አድርጉ ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 370,
+    "printed_page_geez": "፫፻፷፩",
+    "printed_page": 361,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p370-01",
+      "kind": "paragraph",
+      "number": 92,
+      "geez_numeral": "፺፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ሕልው አብ ምስለ ወልዱ ወምስለ መንፈስ ቅዱስ እምቅድመ ሰዓት ወዕለት ወእምቅድመ አውራኅ ወዓመታት ፡",
+      "amharic": "ይ.ካ. አብ ከልጁ ጋራ ከመንፈስ ቅዱስም ጋራ ከሰዓትና ከዕለት ከአውራኅና ከዓመታት አስቀድሞ የነበረ ነው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p370-02",
+      "kind": "paragraph",
+      "number": 93,
+      "geez_numeral": "፺፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "አልቦ ቀዲመ ህላዌሁ ለ፩ዱ እምካልዑ ወለካልዑ እምሣልሱ ፡ ሚመጠን ሩጸተ መባርቅት ፡ ወሚመጠን ጥፍሐተ አክናፈ ንስር ፡",
+      "amharic": "በአኗኗር ለአንዱ ከሁለተኛው ፡ ለሁለተኛውም ከሦስተኛው መቅደም የለም ፡ የመብራቅት ፍጥነታቸው ምን ያህል ነው ፡ የንስር ክንፎች ፍጥነት ምን ያህል ነው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p370-03",
+      "kind": "paragraph",
+      "number": 94,
+      "geez_numeral": "፺፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ኅቡራን በኢቡዓዴ ወድሙራን በኢቱሳሔ ሀልዋን በትሥልስት ወእትዛን በጽምረት ዕሩያን በአካል ወዕዩያን በሱራጌ ወበጸዳል ፡",
+      "amharic": "ባለመለያየት አንድ ናቸው ፡ ለመቀላቀልም አንድ ናቸው ፡ በሦስትነት ይኖር ራሉ ፡ ባንድነት የተያያዙ ናቸው ፡ በአካል የተካከሉ ናቸው ፡ በብርሃንና በፀዳል የተመሳሰሉ ናቸው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p370-04",
+      "kind": "paragraph",
+      "number": 95,
+      "geez_numeral": "፺፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "አኮ ለመርድአ ግብር ዘወለዶ አብ ለወልዱ እምቅድመ ይትፈጠር ዓለም ወአኮ ለአስተዋፅኦቲን ወተግባር ዘኮነ ህላዌሁ ለመንፈስ ቅዱስ ፡",
+      "amharic": "አብ ልጁን ዓለም ሳይፈጠር የወለደው በሥራ ሊረዳው አይደለም ፡ የመንፈስ ቅዱስም ባሕርይ የተገኘ ብልሀትና ሥራ ለማወጣጣት አይደለም ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p370-05",
+      "kind": "paragraph",
+      "number": 96,
+      "geez_numeral": "፺፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ንንግርኬ ልደቶ እምአብ ባሕቲቱ እግዚአብሔር አልቦቱ እም አሜሃ እስመ ኢያስተርአየ ህላዌሆሙ ለፍጡራን ፡ ወካዕበ ንንግር ወንዜኑ ልደቶ እምድንግል ባሕቲቱ ወልደ አምላክ ዘእምባሕቲታ ወለተ ዳዊት ዘእንበለ አብ ምድራዊ ፡",
+      "amharic": "ከእግዚአብሔር አብ ብቻ መወለዱን እንናገር ያን ጊዜ እናት አልነበረችውም ፡ የፍጡራን አነዋወር ገና አልታየም ነበርና ፡ ዳግመኛም ምድራዊ አባት ሳይኖረው የአምላክ ልጅ ብቻውን ከዳዊት ልጅ ከድንግል ብቻ መወለዱን እንናገር እናውራ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p370-06",
+      "kind": "paragraph",
+      "number": 97,
+      "geez_numeral": "፺፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ኢሐሰ ፍና ትስብእት በእንተ ዘአልቦቱ አብ ለዘርዐ ሙላድ አላ ፍጹመ ተሰብአ ዘእምባሕቲታ ድንግል ፡",
+      "amharic": "በዘር ለመወለድ አባት ስላልነበረው የሰውነት ሥራ አልጎደለበትም ፡ ከድንግል ብቻ ፈጽሞ ሰው ሆነ እንጂ ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 371,
+    "printed_page_geez": "፫፻፷፪",
+    "printed_page": 362,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p371-01",
+      "kind": "paragraph",
+      "number": 98,
+      "geez_numeral": "፺፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወበከመ ኢሐፃ ለሔዋን ጠባይዐ አንስት በእንተ ዘአልባቲ እም አመ ተንቅለት (ተነድቀት) እምዐፅመ ገቦሁ ለአዳም ፡ ወበከመ ኢሐፃ ለአዳም እምሕንፃ ሥጋሁ ዘቀዲሙ በእንተ ዘተነቅለ ዐፅመ ገቦሁ ፡ ከማሁ ኢሐፀ ማኅተመ ድንግልናሃ ለማርያም አመ ወለደቶ ለአበ አዳም በሥጋዌሁ ፡",
+      "amharic": "ከአዳም ጎን አጥንት በተፈጠረች ጊዜ እናት ስላልነበረቻት ሔዋን የሴቶች ባሕርይ እንዳል ጎደለባት ፡ አዳምም የጎኑ አጥንት ስለተነቀለ ከቀደመው የሥጋው ፍጥረት እንዳ ልጎደለበት ፡ እንደዚሁ የአዳምን አባት በሥጋ በወለደችው ጊዜ የማርያም ማኅተመ ድንግልናዋ አልጎደለም ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p371-02",
+      "kind": "paragraph",
+      "number": 99,
+      "geez_numeral": "፺፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወበከመ ኢያሕመሞ ለአዳም ሰበ ተንቅለ ዐፅመ ገቦሁ ፡ ከማሁ ኢረከባ ሕማመ ወሊድ ለእመ አምላክ ገሊላዊት ፡",
+      "amharic": "አዳምን የጎን አጥንት በተነቀለ ጊዜ እንዳላሳመመው እንደዚሁ የገሊላ ወገን የምትሆን የአምላክን እናት ሕማመ ወሊድ አላገኛትም ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p371-03",
+      "kind": "paragraph",
+      "number": 100,
+      "geez_numeral": "፻",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ከመዝ ነአምን ወከመዝ ንትአመን ከመ ዝንቱ ኅብስት ዘንፌትቶ ሥጋ ክርስቶስ ውእቱ ዘነሥአ እምወለቶሙ ለዕብራውያን ፡",
+      "amharic": "እንዲህ እናምናለን ፡ እንዲህም እንታመናለን ፡ ይህ የምንፈትተው ኅብስት ከዕብራውያን ልጅ የነሣው የክርስቶስ ሥጋ እንደ ሆነ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p371-04",
+      "kind": "paragraph",
+      "number": 101,
+      "geez_numeral": "፻፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወካዕበ ነአምን ከመ ዝንቱ ጽዋዕ ደመ መለኮት ውእቱ ዘወኅዘ እምገቦ በግዑ ለእግዚአብሔር ፡ ወዓዲ ነአምን ከመ ዝንቱ ትእምርተ መስቀል አርአያ ስቅለቱ ለክርስቶስ ዘተንጠልዐ አመ ሕማማቲሁ ፡",
+      "amharic": "ዳግመኛም ይህ ጽዋ የእግዚአብሔር በግ ከሚሆን የፈሰሰ ደመ መለኮት እንደ ሆነ እናምናለን ፡ ዳግመኛም ይህ ትእምርተ መስቀል በሕማማቱ ጊዜ የተዘረጋ የክርስቶስ የመስቀሉ ምሳሌ እንደሆነ እናምናለን ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p371-05",
+      "kind": "paragraph",
+      "number": 102,
+      "geez_numeral": "፻፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ንሰግድ ቅድመ ምሥዋዒሁ ለእግዚአብሔር ለዘይለብስ አልባሰ ዘኅዘኅ በደም ወለይእቲ ልብስ ዘንዝኅት በደም ለዓለመ ዓለም ፡",
+      "amharic": "ደምን የተረጨች ልብስን ለለበሰ ለርሱ በመሠዊያው ፊት እንሰግዳለን ፡ ደምን ለተረጨች ለዚያችም ልብስ ለዘለዓለሙ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p371-06",
+      "kind": "paragraph",
+      "number": 103,
+      "geez_numeral": "፻፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. ስግዱ ለእግዚአብሔር በፍርሐት ፡ ይ.ሕ. ቅድሜከ እግዚኦ ንሰግድ ወንሴብሐከ ፡",
+      "amharic": "ይ.ዲ. በፍርሃት ሁናችሁ ለእግዚአብሔር ስገዱ ፡ ይ.ሕ. አቤቱ በፊትህ እንሰግዳለን እናመሰግንሃለንም ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 372,
+    "printed_page_geez": "፫፻፷፫",
+    "printed_page": 363,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p372-01",
+      "kind": "paragraph",
+      "number": 104,
+      "geez_numeral": "፻፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ. ካ. ጸሎተ ንስሐ ።",
+      "amharic": "ይ.ካ. ጸሎተ ንስሓ ። (ቅዳ. ሐዋ. ፸፪-፹፰)",
+      "uncertain": false
+     },
+     {
+      "id": "p372-02",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p372-03",
+      "kind": "paragraph",
+      "number": 105,
+      "geez_numeral": "፻፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ. ዲ. ነጽር ፡ ይ. ካ. ቅድሳት ለቅዱሳን ፡ ይ. ሕ. አሐዱ አብ ቅዱስ አሐዱ ወልድ ቅዱስ አሐዱ ውእቱ መንፈስ ቅዱስ ፡",
+      "amharic": "ይ.ዲ. ተመልከት ፡ ይ.ካ. ቅድሳት ለቅዱሳን ነው ፡ ይ.ሕ. ቅዱስ አብ አንድ ነው ፡ ቅዱስ ወልድ አንድ ነው ፡ መንፈስ ቅዱስም አንድ ነው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p372-04",
+      "kind": "paragraph",
+      "number": 106,
+      "geez_numeral": "፻፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ. ካ. እግዚአብሔር ምስለ ኵልክሙ ፡ ይ. ሕ. ምስለ መንፈስከ ፡",
+      "amharic": "ይ.ካ. እግዚአብሔር ከሁላችሁ ጋራ ይሁን ፡ ይ.ሕ. ከመንፈስህ ጋራ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p372-05",
+      "kind": "paragraph",
+      "number": 107,
+      "geez_numeral": "፻፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወእምዝ ያንሥእ ካህን ኅብስተ ፍጹመ በእዴሁ ወይበል እግዚኦ መሐረነ ክርስቶስ ፫ተ ጊዜ በልዑል ዜማ ፲ወ፭ተ ጊዜ በንኡስ ዜማ ፡ ይ. ሕ. ከማሁ ፡ ወእምዝ ይ. ካ. ፫ተ ጊዜ ይ. ሕ. ፪ተ ጊዜ ፡",
+      "amharic": "ከዚህም በኋላ ቄሱ መላውን ኅብስት አንሥቶ በእጁ ይዞ በከፍተኛ ዜማ ፫ ጊዜ በንኡስ ዜማ ፡ ፲፭ ጊዜ አቤቱ ክርስቶስ ማረን ይበል ፡ ይ.ሕ. እንደርሱ ፡ ከዚህም በኋላ ይ.ካ. ሦስት ጊዜ ፡ ይ.ሕ. ሁለት ጊዜ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p372-06",
+      "kind": "paragraph",
+      "number": 108,
+      "geez_numeral": "፻፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ. ዲ. እለ ውስተ ንስሓ ሀለውክሙ አትሕቱ ርእሰክሙ ፡",
+      "amharic": "ይ.ዲ. በንስሐ ውስጥ ያላችሁ ራሳችሁን ዝቅ ዝቅ አድርጉ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p372-07",
+      "kind": "paragraph",
+      "number": 109,
+      "geez_numeral": "፻፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወእምዝ ተመይጦ መንገለ ሕዝብ ፡ ይ. ካ. እግዚአብሔር አምላክነ ፡",
+      "amharic": "ከዚህ በኋላ ወደ ሕዝቡ ተመልሰ ፡ ይ.ካ. አምላካችን እግዚአብሔር ሆይ ፡ (ቅዳ. ሐዋ. ከ፻፭-፻፴፰)",
+      "uncertain": false
+     },
+     {
+      "id": "p372-08",
+      "kind": "paragraph",
+      "number": 110,
+      "geez_numeral": "፻፲",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወእምድኅረ ተመጠዉ ፡ ይ. ካ. ኅዳፌ ነፍስ ፡ አሜሃ መልአ ፍሥሓ አፉነ ወተነሥየ ልሳንነ ዘነሣእነ እምዝንቱ ምሥጢር ዘኢይማስን ፡",
+      "amharic": "ከተቀበሉም በኋላ ፡ ይ.ካ. ኅዳፌ ነፍስ ፡ ያን ጊዜ ከዚህ ከማይጠፋ ምሥጢር የተቀበልን የእኛ አፋችን ደስታን ተመላ ፡ አንደበታችንም ደስ አለው ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   },
+   {
+    "pdf_page": 373,
+    "printed_page_geez": "፫፻፷፬",
+    "printed_page": 364,
+    "section_geez": "ቅዳሴ ቄርሎስ",
+    "section_english": "Anaphora of St. Cyril",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p373-01",
+      "kind": "paragraph",
+      "number": 111,
+      "geez_numeral": "፻፲፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "አ እግዚኦ ዘዐይን ኢርእየ ወእዝን ኢሰምዐ ውስተ ልበ ሰብእ ዘኢተሐለየ ዘአስተዳሎከ አምላክ ለእለ ያፈቅሩ ስመከ ቅዱስ ፡ ወከሠትከ ለነ ለሕፃናት ንኡሳን እለ ውስተ ቤተ ክርስቲያንከ ቅድስት ፡ አ አብ እስመ ዝንቱ ሥምረትከ ዘኮነ በቅድሜከ እስመ መሐሪ አንተ እግዚአብሔር አምላክነ ፡",
+      "amharic": "አቤቱ ዓይን ያላየውን ፡ ጆሮ ያልሰማውን በሰው ልቡናም ያልታሰበውን ቅዱስ ስምህን ለሚወዱ ሰዎች ያዘጋጀህ አምላክ ምን ትደነቅ ፡ በቅድስት ቤተ ክርስቲያንህ ላለን ለታናናሾች ሕፃናት ለእኛ ገለጽህ ፡ አብ ሆይ ፡ ይህ ፈቃድህ በፊትህ የሆነው አምላካችን እግዚአብሔር አንተ ይቅር ባይ ስለሆንህ ነውና ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p373-02",
+      "kind": "paragraph",
+      "number": 112,
+      "geez_numeral": "፻፲፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ. ዲ. ጸልዩ ፡",
+      "amharic": "ይ.ዲ. ጸልዩ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p373-03",
+      "kind": "paragraph",
+      "number": 113,
+      "geez_numeral": "፻፲፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ. ካ. ወለከ ንፌኑ እስከ አርያም ስብሐተ ወክብረ ለአብ ወወልድ ወመንፈስ ቅዱስ ይእዜኒ ወዘልፈኒ ወለዓለመ ዓለም ፡ ይ. ሕ. አሜን ።",
+      "amharic": "ይ.ካ. ለአንተም እስከ አርያም ድረስ ፡ ምስጋናን ክብርንም ፡ ለአብና ለወልድ ለመንፈስ ቅዱስም እናቀርባለን ፡ ዛሬም ዘወትርም ለዘለዓለሙ ፡ ይ.ሕ. አሜን ።",
+      "uncertain": false
+     },
+     {
+      "id": "p373-04",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p373-05",
+      "kind": "paragraph",
+      "number": 114,
+      "geez_numeral": "፻፲፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ. ካ. አንብሮ እድ ፡ እለ ጸዋዕከ ወእለ ቀደስከ እግዚኦ ክፍለነ በጽዋዔከ ወዕቀብ በፍቅርከ ወአፅንዕ በቅዳሴከ ፡",
+      "amharic": "ይ.ካ. አንብሮ እድ የጠራሽንንና የቀደስሽንን እኛን አቤቱ በአጠራርህ ዐድለን ፡ በፍቅርህ ጠብቀን በምስጋናህም አጽናን ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p373-06",
+      "kind": "paragraph",
+      "number": 115,
+      "geez_numeral": "፻፲፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወዕቀብ እምኵሉ እኩይ አድኅን በየማንከ ውስተ ዘለዓለም መንግሥትከ በክርስቶስ ወልድከ ፡ ዘቦቱ ለከ ምስሌሁ ወምስለ ቅዱስ መንፈስ ስብሐት ወእኂዝ ይእዜኒ ወዘልፈኒ ወለዓለመ ዓለም አሜን ።",
+      "amharic": "ከክፉ ነገር ሁሉ ጠብቀን ፡ በዘለዓለም መንግሥትህ በልጅህ በክርስቶስ በቀኝህ አድነን ፡ በርሱ ያለ ክብር ጽንዕ ለአንተ ይገባል ፡ ከርሱ ጋራ ከመንፈስ ቅዱስም ጋራ ዛሬም ዘወትርም ፡ ለዘለዓለሙ አሜን ።",
+      "uncertain": false
+     },
+     {
+      "id": "p373-07",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d13"
+   }
+  ],
+  "first_pdf_page": 355,
+  "last_pdf_page": 373,
+  "page_count": 19,
+  "entry_count": 124
+ }
+}

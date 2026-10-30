@@ -1,0 +1,1405 @@
+{
+ "title": "Full Kidase",
+ "language": "English",
+ "source": "Full Kidase.pdf (PDF pages 8-420; page numbers are the PDF page numbers)",
+ "ids": "Entry ids are shared between the two files: pNNN-NN = PDF page, entry order on that page.",
+ "uncertain_marker": "Text between ⟦? and ?⟧ is a word the transcriber could not read with confidence.",
+ "division": {
+  "id": "d12",
+  "kind": "anaphora",
+  "name_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+  "name_english": "Anaphora of St. John Chrysostom",
+  "pages": [
+   {
+    "pdf_page": 337,
+    "printed_page_geez": "፫፻፳፰",
+    "printed_page": 328,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p337-01",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "THE ANAPHORA OF ST. JOHN CHRYSOSTOM",
+      "uncertain": false
+     },
+     {
+      "id": "p337-02",
+      "kind": "paragraph",
+      "number": 1,
+      "geez_numeral": "፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "The Anaphora of John Chrysostom, may his prayer and blessing be with our Patriarch .... Our bishop ... all Christian people and watch over our country Ethiopia world without end.",
+      "uncertain": false
+     },
+     {
+      "id": "p337-03",
+      "kind": "paragraph",
+      "number": 2,
+      "geez_numeral": "፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: The Lord be with you all. *People*: And with your spirit. *Priest*: You give thanks unto our God. *People*: It is right, it is just. *Priest*: Lift up your hearts. *People*: We have lifted them up unto the Lord our God.",
+      "uncertain": false
+     },
+     {
+      "id": "p337-04",
+      "kind": "paragraph",
+      "number": 3,
+      "geez_numeral": "፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: Let your thought be above, and your heart in heaven; recognise where you stand; hear the word of righteous and listen to the good news.",
+      "uncertain": false
+     },
+     {
+      "id": "p337-05",
+      "kind": "paragraph",
+      "number": 4,
+      "geez_numeral": "፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Behold we proclaim the existence of the Father who was before the world was created and will live forever. None was before him, none will be after him, none is like him and none knows what is his being.",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 338,
+    "printed_page_geez": "፫፻፳፱",
+    "printed_page": 329,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p338-01",
+      "kind": "paragraph",
+      "number": 5,
+      "geez_numeral": "፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "He who was before all, before the heavens were stretched out, before the face of the earth appeared, before the mountains arose, before the airs expanded – was in his place.",
+      "uncertain": false
+     },
+     {
+      "id": "p338-02",
+      "kind": "paragraph",
+      "number": 6,
+      "geez_numeral": "፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "Before the depths were established and the floods began to flow as rivers, He was in his place.",
+      "uncertain": false
+     },
+     {
+      "id": "p338-03",
+      "kind": "paragraph",
+      "number": 7,
+      "geez_numeral": "፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "Before the winds blew, before the thunderbolts flashed, before the lightenings were drawn out, before the thunders thundered and before the clouds started to spread, He was in his place.",
+      "uncertain": false
+     },
+     {
+      "id": "p338-04",
+      "kind": "paragraph",
+      "number": 8,
+      "geez_numeral": "፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "Before the lights appeared, before the darkness was to cover, before the light of the day gave light, and before night was fixed, He was in his place.",
+      "uncertain": false
+     },
+     {
+      "id": "p338-05",
+      "kind": "paragraph",
+      "number": 9,
+      "geez_numeral": "፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "Before the sun fixed the length of the day and before the moon fixed the length of the night, He was in his place.",
+      "uncertain": false
+     },
+     {
+      "id": "p338-06",
+      "kind": "paragraph",
+      "number": 10,
+      "geez_numeral": "፲",
+      "continued": null,
+      "heading_note": null,
+      "english": "Before the stars glittered, before the spirits moved, and before the angels were created, He was in his place.",
+      "uncertain": false
+     },
+     {
+      "id": "p338-07",
+      "kind": "paragraph",
+      "number": 11,
+      "geez_numeral": "፲፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "Before the speaking soul, before the mortal flesh, and before all the creatures, those that live in hiding and those that live in the open, those that are above and those that are beneath, He was in his place.",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 339,
+    "printed_page_geez": "፫፻፴",
+    "printed_page": 330,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p339-01",
+      "kind": "paragraph",
+      "number": 12,
+      "geez_numeral": "፲፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "Before time and hours, before nights and days, before months and years, before days of the week and the seasons, He was in his place.",
+      "uncertain": false
+     },
+     {
+      "id": "p339-02",
+      "kind": "paragraph",
+      "number": 13,
+      "geez_numeral": "፲፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "His glory is from himself, His praise is from himself, and the riches of his grace are full and perfect.",
+      "uncertain": false
+     },
+     {
+      "id": "p339-03",
+      "kind": "paragraph",
+      "number": 14,
+      "geez_numeral": "፲፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "Then let us speak of the greatness of His mercies which have appeared unto us and which can not be counted and measured.",
+      "uncertain": false
+     },
+     {
+      "id": "p339-04",
+      "kind": "paragraph",
+      "number": 15,
+      "geez_numeral": "፲፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "When we transgressed his commandment through the advice of the cursed serpent we were driven from the garden of delight unto destruction, from life unto death, from freedom unto slavery, and we submitted ourselves to the yoke of sin.",
+      "uncertain": false
+     },
+     {
+      "id": "p339-05",
+      "kind": "paragraph",
+      "number": 16,
+      "geez_numeral": "፲፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "But He did not forsake or neglect us, who were his workman-ship, and did not take vengeance upon us because of our sins so that we should utterly perish as we committed sin against him, but He loved us, visited us, spared us, had mercy upon us and saved us from the hand of him who enslaved us.",
+      "uncertain": false
+     },
+     {
+      "id": "p339-06",
+      "kind": "paragraph",
+      "number": 17,
+      "geez_numeral": "፲፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "He sent unto us his saving and redeeming Son, the messenger of his counsel, his right hand, his arm, his power, and the wisdom of his Father. Through him he did all that he desired in this world.",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 340,
+    "printed_page_geez": "፫፻፴፩",
+    "printed_page": 331,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p340-01",
+      "kind": "paragraph",
+      "number": 18,
+      "geez_numeral": "፲፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "Whom He did choose them He called; whom He called, them He loved; whom He loved, them He honoured; whom He honoured, them He justified; whom He justified, them he glorified to be an adornment for his Son.",
+      "uncertain": false
+     },
+     {
+      "id": "p340-02",
+      "kind": "paragraph",
+      "number": 19,
+      "geez_numeral": "፲፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "And through Him He gathered us to the great faith, we who were scattered, and made us to himself a gathered people, and drew us nearer unto himself to glorify him.",
+      "uncertain": false
+     },
+     {
+      "id": "p340-03",
+      "kind": "paragraph",
+      "number": 20,
+      "geez_numeral": "፳",
+      "continued": null,
+      "heading_note": null,
+      "english": "He wrote our names in the book of life so that the remembrance of every one, the dead and the living, might be before him.",
+      "uncertain": false
+     },
+     {
+      "id": "p340-04",
+      "kind": "paragraph",
+      "number": 21,
+      "geez_numeral": "፳፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: For the sake of the blessed ... (*Anaphora of the Apostles No. 6-9*).",
+      "uncertain": false
+     },
+     {
+      "id": "p340-05",
+      "kind": "paragraph",
+      "number": 22,
+      "geez_numeral": "፳፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "*The Assistant priest shall say the Prayer of Benediction.* (*Anaphopra of the Apostles No. 10-21*).",
+      "uncertain": false
+     },
+     {
+      "id": "p340-06",
+      "kind": "paragraph",
+      "number": 23,
+      "geez_numeral": "፳፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Asst. Deacon*: Lord pity and have mercy upon the patriarchs, archbishops, bishops, priests, deacons and all the Christian people.",
+      "uncertain": false
+     },
+     {
+      "id": "p340-07",
+      "kind": "paragraph",
+      "number": 24,
+      "geez_numeral": "፳፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Again we proclaim the existence of the Only-begotten, what he is, what was his descent, and what was his birth.",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 341,
+    "printed_page_geez": "፫፻፴፪",
+    "printed_page": 332,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p341-01",
+      "kind": "paragraph",
+      "number": 25,
+      "geez_numeral": "፳፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "He came without going out of his Father; he descended without removing from his position; He came without being separated from the Trinity; He came down without breaking his unity; and He dwelt in a daughter of flesh without leaving his throne.",
+      "uncertain": false
+     },
+     {
+      "id": "p341-02",
+      "kind": "paragraph",
+      "number": 26,
+      "geez_numeral": "፳፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: You, that are sitting, stand up.",
+      "uncertain": false
+     },
+     {
+      "id": "p341-03",
+      "kind": "paragraph",
+      "number": 27,
+      "geez_numeral": "፳፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: He was conceived in the womb without letting there be any place that was not full of him; He was bound in the womb without making subtraction above; and was born without making addition beneath.",
+      "uncertain": false
+     },
+     {
+      "id": "p341-04",
+      "kind": "paragraph",
+      "number": 28,
+      "geez_numeral": "፳፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: Look to the east.",
+      "uncertain": false
+     },
+     {
+      "id": "p341-05",
+      "kind": "paragraph",
+      "number": 29,
+      "geez_numeral": "፳፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: He became man, absolutely without sin, and appeared like a servant, working like God, as the preachers of his gospel witnessed.",
+      "uncertain": false
+     },
+     {
+      "id": "p341-06",
+      "kind": "paragraph",
+      "number": 30,
+      "geez_numeral": "፴",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: Let us give heed.",
+      "uncertain": false
+     },
+     {
+      "id": "p341-07",
+      "kind": "paragraph",
+      "number": 31,
+      "geez_numeral": "፴፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: He was glorified by his Father; He was given thanks by the angels; He was praised by men and sanctified by himself.",
+      "uncertain": false
+     },
+     {
+      "id": "p341-08",
+      "kind": "paragraph",
+      "number": 32,
+      "geez_numeral": "፴፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "The holiness of his glory filled heaven and earth. Henceforth, at all times, we give our hearts no rest but speak of the holiness of his glory and cry saying: Holy---",
+      "uncertain": false
+     },
+     {
+      "id": "p341-09",
+      "kind": "paragraph",
+      "number": 33,
+      "geez_numeral": "፴፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: You answer.",
+      "uncertain": false
+     },
+     {
+      "id": "p341-10",
+      "kind": "paragraph",
+      "number": 34,
+      "geez_numeral": "፴፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: Holy holy holy, perfect Lord of hosts, heaven and earth are full of the holiness of your glory.",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 342,
+    "printed_page_geez": "፫፻፴፫",
+    "printed_page": 333,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p342-01",
+      "kind": "paragraph",
+      "number": 35,
+      "geez_numeral": "፴፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Truly holy holy holy are you, Jesus Christ, who are sanctified by the mouths of all,",
+      "uncertain": false
+     },
+     {
+      "id": "p342-02",
+      "kind": "paragraph",
+      "number": 36,
+      "geez_numeral": "፴፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "and who, through your goodness, have granted to all your holy ones to be holy.\nHis holy things can not be destroyed or perish, those things which eye has not seen, nor ear heard, neither have entered unto the heart of man, which God has prepared for his holy disciples and pure apostles who loved him; and he has shown them the order of the holy communion.",
+      "uncertain": false
+     },
+     {
+      "id": "p342-03",
+      "kind": "paragraph",
+      "number": 37,
+      "geez_numeral": "፴፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: Priests, raise up your hands.",
+      "uncertain": false
+     },
+     {
+      "id": "p342-04",
+      "kind": "paragraph",
+      "number": 38,
+      "geez_numeral": "፴፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: He took bread in his holy, blessed and spotless hands.\n*At this time he shall raise the bread.*",
+      "uncertain": false
+     },
+     {
+      "id": "p342-05",
+      "kind": "paragraph",
+      "number": 39,
+      "geez_numeral": "፴፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: We believe that this is He, truly we believe.",
+      "uncertain": false
+     },
+     {
+      "id": "p342-06",
+      "kind": "paragraph",
+      "number": 40,
+      "geez_numeral": "፵",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: He looked up to heaven towards you, his Father, God and Lord of all, who is above all, gave thanks, blessed (*benediction three times*) and broke, and gave it to his disciples and said to them, This (*pointing*) is my body which indeed the food of righteousness; whosoever eats of it has eternal life. Take, eat of it.",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 343,
+    "printed_page_geez": "፫፻፴፬",
+    "printed_page": 334,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p343-01",
+      "kind": "paragraph",
+      "number": 41,
+      "geez_numeral": "፵፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: Amen amen amen, we believe and confess, we glorify you, O our Lord and our God, that this is He we truly believe.\n*Priest*: And likewise also the cup: mixing water with wine, he gave thanks, blessed (*benediction three times*), sanctified, gave it to his disciples and said to them: This (*pointing*) is my blood which is indeed the drink of life, whosoever drinks of it has eternal life; take, drink you all of it.\n*He shall move the cup with his right hand in the sign of the cross.*",
+      "uncertain": false
+     },
+     {
+      "id": "p343-02",
+      "kind": "paragraph",
+      "number": 42,
+      "geez_numeral": "፵፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: Amen amen amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p343-03",
+      "kind": "paragraph",
+      "number": 43,
+      "geez_numeral": "፵፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: It is a sign to you and to those who will come after you, so do likewise in remembrance of me until I come.\nWhenever you gather in my name, proclaim my death, my resurrection and my ascension into the heavens.",
+      "uncertain": false
+     },
+     {
+      "id": "p343-04",
+      "kind": "paragraph",
+      "number": 44,
+      "geez_numeral": "፵፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: We proclaim your death, Lord, and your holy resurrection; we believe your ascension and your second advent. We glorify you and confess you, we offer our prayer and supplicate you, O our Lord and our God.",
+      "uncertain": false
+     },
+     {
+      "id": "p343-05",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 344,
+    "printed_page_geez": "፫፻፴፭",
+    "printed_page": 335,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p344-01",
+      "kind": "paragraph",
+      "number": 45,
+      "geez_numeral": "፵፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: And we, who have gathered together, proclaim the sufferings of him who does not suffer and proclaim the death of him who does not die. In the same night when He sat with his disciples He gave his soul over to death with the will of his Father and in his own good pleasure.",
+      "uncertain": false
+     },
+     {
+      "id": "p344-02",
+      "kind": "paragraph",
+      "number": 46,
+      "geez_numeral": "፵፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "They took hold of him who takes hold of all, bound the ruler of all and shackled the Son of the living God; they drew him in wrath and He followed them in love, they took him and He went after them like a meek sheep which is dumb before its shearers.",
+      "uncertain": false
+     },
+     {
+      "id": "p344-03",
+      "kind": "paragraph",
+      "number": 47,
+      "geez_numeral": "፵፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "They caused to stand in the court him, before whom stand archangels in fear and trembling. He who forgives sins, was accused as a sinner by them, the judge of judges was judged by them.",
+      "uncertain": false
+     },
+     {
+      "id": "p344-04",
+      "kind": "paragraph",
+      "number": 48,
+      "geez_numeral": "፵፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "Him, who crowns Seraphim with a coronet, they crowned Him with a crown of thorn. Him, who clothes Cherubim with garments of might, they clothed Him with a scarlet robe to mock him.",
+      "uncertain": false
+     },
+     {
+      "id": "p344-05",
+      "kind": "paragraph",
+      "number": 49,
+      "geez_numeral": "፵፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "A wicked servant strengthened his hand to strike the face of him from whose face the Cherubim are hidden being covered with wings of fire.",
+      "uncertain": false
+     },
+     {
+      "id": "p344-06",
+      "kind": "paragraph",
+      "number": 50,
+      "geez_numeral": "፶",
+      "continued": null,
+      "heading_note": null,
+      "english": "They knelt before him, mocking him whom the hosts of angels worship in great fear.",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 345,
+    "printed_page_geez": "፫፻፴፮",
+    "printed_page": 336,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p345-01",
+      "kind": "paragraph",
+      "number": 51,
+      "geez_numeral": "፶፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "Oh what humility is this! Oh what patience is this! Oh what a silence is this!",
+      "uncertain": false
+     },
+     {
+      "id": "p345-02",
+      "kind": "paragraph",
+      "number": 52,
+      "geez_numeral": "፶፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "Oh what a kindness is this! Oh what a love of man is this!",
+      "uncertain": false
+     },
+     {
+      "id": "p345-03",
+      "kind": "paragraph",
+      "number": 53,
+      "geez_numeral": "፶፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "Love drew down the Son of God from his throne and brought him unto death. Him, who had no wickedness, they crucified as wicked. Him, who is the maker of life, they numbered with the wicked.",
+      "uncertain": false
+     },
+     {
+      "id": "p345-04",
+      "kind": "paragraph",
+      "number": 54,
+      "geez_numeral": "፶፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "Oh the hands which formed Adam were nailed with the nails of the cross!\nOh the feet which walked in the garden were nailed with the nails of the cross!",
+      "uncertain": false
+     },
+     {
+      "id": "p345-05",
+      "kind": "paragraph",
+      "number": 55,
+      "geez_numeral": "፶፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "Oh the mouth which breathed the spirit of life into the nostrils of Adam drank vinegar mixed with gall!",
+      "uncertain": false
+     },
+     {
+      "id": "p345-06",
+      "kind": "paragraph",
+      "number": 56,
+      "geez_numeral": "፶፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "What mouth, what lips, what tongue can express the sufferings of the Son?",
+      "uncertain": false
+     },
+     {
+      "id": "p345-07",
+      "kind": "paragraph",
+      "number": 57,
+      "geez_numeral": "፶፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "The heart is broken, the mind is perplexed, the soul trembles and the flesh is weary when the sufferings of the Beloved are spoken of.",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 346,
+    "printed_page_geez": "፫፻፴፯",
+    "printed_page": 337,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p346-01",
+      "kind": "paragraph",
+      "number": 58,
+      "geez_numeral": "፶፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "The Immortal died; He died to destroy death, He died to quicken the dead.",
+      "uncertain": false
+     },
+     {
+      "id": "p346-02",
+      "kind": "paragraph",
+      "number": 59,
+      "geez_numeral": "፶፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: You who love him, weep and mourn over him.",
+      "uncertain": false
+     },
+     {
+      "id": "p346-03",
+      "kind": "paragraph",
+      "number": 60,
+      "geez_numeral": "፷",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Yé yé yé, Emmanuel our God.\n*People: The people shall repeat his words.*",
+      "uncertain": false
+     },
+     {
+      "id": "p346-04",
+      "kind": "paragraph",
+      "number": 61,
+      "geez_numeral": "፷፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Yé yé yé, Jesus our Saviour.\n*People: The people shall repeat his words.*",
+      "uncertain": false
+     },
+     {
+      "id": "p346-05",
+      "kind": "paragraph",
+      "number": 62,
+      "geez_numeral": "፷፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Yé yé yé, Christ our King.\n*People: The people shall repeat his words.*",
+      "uncertain": false
+     },
+     {
+      "id": "p346-06",
+      "kind": "paragraph",
+      "number": 63,
+      "geez_numeral": "፷፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Yé yé yé, the righteous men took him down from the tree, brought a mixture of myrrh and aloes and pure fine linen clothe to wrap his body.",
+      "uncertain": false
+     },
+     {
+      "id": "p346-07",
+      "kind": "paragraph",
+      "number": 64,
+      "geez_numeral": "፷፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: Holy God, holy Mighty, holy Living, Immortal, who was born from the holy Virgin Mary, have mercy upon us, Lord. Holy God, holy Mighty, holy Living, Immortal, who was baptized in Jordan and crucified on the tree of the cross, have mercy upon us, Lord.",
+      "uncertain": false
+     },
+     {
+      "id": "p346-08",
+      "kind": "paragraph",
+      "number": 65,
+      "geez_numeral": "፷፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "*At this time he shall offer incense with the cross-spoon.*\n*People*: Remember us, Lord ... (*Anaphora of the Apostles No.* 34)",
+      "uncertain": false
+     },
+     {
+      "id": "p346-09",
+      "kind": "paragraph",
+      "number": 66,
+      "geez_numeral": "፷፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: On the third day he restored his soul into his body.",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 347,
+    "printed_page_geez": "፫፻፴፰",
+    "printed_page": 338,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p347-01",
+      "kind": "paragraph",
+      "number": 67,
+      "geez_numeral": "፷፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: Holy God, holy Mighty, holy Living, Immortal, who rose from the dead on the third day, ascended into heaven in glory, sat at the right hand of his Father and again will come in glory to judge the living and the dead, have mercy upon us, Lord.\nGlory be to the Father, glory be to the Son, glory be to the Holy Spirit, both now and ever, and world without end. Amen and amen, so be it, so be it.",
+      "uncertain": false
+     },
+     {
+      "id": "p347-02",
+      "kind": "paragraph",
+      "number": 68,
+      "geez_numeral": "፷፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: He rose from the dead, absolutely without corruption and set us free from the yoke of sin. In this body, with the power of his divinity, He ascended into heaven to his previous position.",
+      "uncertain": false
+     },
+     {
+      "id": "p347-03",
+      "kind": "paragraph",
+      "number": 69,
+      "geez_numeral": "፷፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: Bow your heads before God.",
+      "uncertain": false
+     },
+     {
+      "id": "p347-04",
+      "kind": "paragraph",
+      "number": 70,
+      "geez_numeral": "፸",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: (*in a low voice*) We pray you and beseech you, as you did send your Holy Spirit upon your holy disciples and pure apostles, so also send upon us this your Holy Spirit who sanctifies our souls, bodies and spirits that we may be pure through him from all our sins and may draw near to receive your divine mystery, for yours is the kingdom and the power and the glory, for ever.",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 348,
+    "printed_page_geez": "፫፻፴፱",
+    "printed_page": 339,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p348-01",
+      "kind": "paragraph",
+      "number": 71,
+      "geez_numeral": "፸፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: (*in a loud voice*) Lord, remember the covenant of your word which you did establish with our fathers and with your holy apostles to send upon us this your Holy Spirit whom the world cannot receive. You did teach us that we may call upon you saying: Our Father who are in heaven, hallowed be your name, your kingdom come.",
+      "uncertain": false
+     },
+     {
+      "id": "p348-02",
+      "kind": "paragraph",
+      "number": 72,
+      "geez_numeral": "፸፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "May this Holy Spirit, who is neither searchable nor inferior, come from above the highest heaven to bless this (*pointing*) bread and to hallow the cup, to make this bread the communion of your life-giving body (*benediction once over the bread*) and also to make this cup the communion of your merciful blood. (*benediction once over the cup and once more over both the bread and the cup*).",
+      "uncertain": false
+     },
+     {
+      "id": "p348-03",
+      "kind": "paragraph",
+      "number": 73,
+      "geez_numeral": "፸፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: Amen, Lord have pity upon us, Lord spare us, Lord have mercy upon us.",
+      "uncertain": false
+     },
+     {
+      "id": "p348-04",
+      "kind": "paragraph",
+      "number": 74,
+      "geez_numeral": "፸፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: With all the heart let us beseech the Lord our God that he grant us the good communion of the Holy Spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p348-05",
+      "kind": "paragraph",
+      "number": 75,
+      "geez_numeral": "፸፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: As it was, is and shall be unto generations of generations, world without end.",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 349,
+    "printed_page_geez": "፫፻፵",
+    "printed_page": 340,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p349-01",
+      "kind": "paragraph",
+      "number": 76,
+      "geez_numeral": "፸፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "*At this time he shall dip his finger unto the Blood and sign the Body.*\n*Priest*: May He be joined with this bread and this cup that they may be for sanctification, purification from filthiness, resurrection from the dead, inheritance of the kingdom of heaven and everlasting life.\n*People*: Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p349-02",
+      "kind": "paragraph",
+      "number": 77,
+      "geez_numeral": "፸፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Grant us to be united through your Holy Spirit, and heal us by this oblation that we may live in you forever.\n*People:- The people shall repeat his words.*",
+      "uncertain": false
+     },
+     {
+      "id": "p349-03",
+      "kind": "paragraph",
+      "number": 78,
+      "geez_numeral": "፸፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Blessed be the name of the Lord, and blessed be he that comes in the name of the Lord, and let the name of his glory be blessed. So be it, so be it, so be it blessed.\n*People:- The people shall repeat his words.*",
+      "uncertain": false
+     },
+     {
+      "id": "p349-04",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p349-05",
+      "kind": "paragraph",
+      "number": 79,
+      "geez_numeral": "፸፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Send the grace of the Holy Spirit upon us.\n*People:- The people shall repeat his words.*",
+      "uncertain": false
+     },
+     {
+      "id": "p349-06",
+      "kind": "paragraph",
+      "number": 80,
+      "geez_numeral": "፹",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Stand up for prayer.\n*People*: Lord have mercy upon us.\n*Priest*: Peace be unto you all.\n*People*: And with your spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p349-07",
+      "kind": "paragraph",
+      "number": 81,
+      "geez_numeral": "፹፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: *Prayer of Fraction.* Again we supplicate the almighty God, Father of our Lord and Saviour Jesus Christ.",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 350,
+    "printed_page_geez": "፫፻፵፩",
+    "printed_page": 341,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p350-01",
+      "kind": "paragraph",
+      "number": 82,
+      "geez_numeral": "፹፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "Oh this mystery can not be searched out or interpreted! What is his name, and what is his father's name, where is his country, and who knows his dwelling-place?",
+      "uncertain": false
+     },
+     {
+      "id": "p350-02",
+      "kind": "paragraph",
+      "number": 83,
+      "geez_numeral": "፹፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "The thought of the heart, thinking deeply, cannot find the answer to the question or speak of his first and last being.",
+      "uncertain": false
+     },
+     {
+      "id": "p350-03",
+      "kind": "paragraph",
+      "number": 84,
+      "geez_numeral": "፹፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "He proclaimed to us himself and his Father in the way we could hear, (he proclaimed to us) that our Saviour truly came to the world clothed in the body which He took from us.",
+      "uncertain": false
+     },
+     {
+      "id": "p350-04",
+      "kind": "paragraph",
+      "number": 85,
+      "geez_numeral": "፹፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "This is what we sacrifice for our salvation as He was sacrificed on Calvary for the life of all the world. This bread is not useless as you see it earthly, dry, baked, able to be felt and touched, but it is the fire of the goodhead which burns the thorn of sin. It is so consuming that it consumes the wicked, it is so burning that it burns the sinners.",
+      "uncertain": false
+     },
+     {
+      "id": "p350-05",
+      "kind": "paragraph",
+      "number": 86,
+      "geez_numeral": "፹፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "O my brothers, believers, know and examine yourselves, see if any one of us has a blemish in his body and sin in his soul, that he may depart and may not draw near.",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 351,
+    "printed_page_geez": "፫፻፵፪",
+    "printed_page": 342,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p351-01",
+      "kind": "paragraph",
+      "number": 87,
+      "geez_numeral": "፹፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "If any one of us has revenge in his heart, let him depart and not stand. But blessed is he who has purified his soul and body; let him come and receive and pray because of his sin because the Lord our God is merciful.",
+      "uncertain": false
+     },
+     {
+      "id": "p351-02",
+      "kind": "paragraph",
+      "number": 88,
+      "geez_numeral": "፹፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: You pray.\n*People*: Our Father who are in heaven ...(Anaphora of the Apostles No. 60\n(*Also*) According to your mercy, our God, and not according to our sins. (*to be repeated thrice*).",
+      "uncertain": false
+     },
+     {
+      "id": "p351-03",
+      "kind": "paragraph",
+      "number": 89,
+      "geez_numeral": "፹፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: The mercy of the Lord is from everlasting to everlasting. This is the mercy of God who sent his only-begotten Son who takes away the sin of the world. This is the mercy of God who gave the priests tongues of fire to loosen the bonds of sin.",
+      "uncertain": false
+     },
+     {
+      "id": "p351-04",
+      "kind": "paragraph",
+      "number": 90,
+      "geez_numeral": "፺",
+      "continued": null,
+      "heading_note": null,
+      "english": "Now, Lord our God, our heavenly Father, loose us from the bonds of death.",
+      "uncertain": false
+     },
+     {
+      "id": "p351-05",
+      "kind": "paragraph",
+      "number": 91,
+      "geez_numeral": "፺፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: The hosts of the angels of the Saviour of the world stand before the Saviour of the world.\nAnd they encircle the Saviour of the world, even the body and the blood of the Saviour of the world.\nLet us draw near the face of the Saviour of the world. In the faith which is of him let us submit ourselves to Christ.",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 352,
+    "printed_page_geez": "፫፻፵፫",
+    "printed_page": 343,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p352-01",
+      "kind": "paragraph",
+      "number": 92,
+      "geez_numeral": "፺፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Asst. Deacon*: You princes open the gates.",
+      "uncertain": false
+     },
+     {
+      "id": "p352-02",
+      "kind": "paragraph",
+      "number": 93,
+      "geez_numeral": "፺፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacons*: You who are standing, bow your heads.",
+      "uncertain": false
+     },
+     {
+      "id": "p352-03",
+      "kind": "paragraph",
+      "number": 94,
+      "geez_numeral": "፺፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Truly forgive that He may forgive unto you. Truly remit that He may remit unto you. Truly pray that you may not enter into temptation. Temptation is to take his body in subtlety and to receive his blood without fear while the blame of sin is upon you.",
+      "uncertain": false
+     },
+     {
+      "id": "p352-04",
+      "kind": "paragraph",
+      "number": 95,
+      "geez_numeral": "፺፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "Now, with pure heart and holy soul and body refined, let us draw near for our salvation. Come, let us worship and serve him.",
+      "uncertain": false
+     },
+     {
+      "id": "p352-05",
+      "kind": "paragraph",
+      "number": 96,
+      "geez_numeral": "፺፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: Worship the Lord with fear.\n*People*: Before you, Lord, we worship, and we do glorify you.",
+      "uncertain": false
+     },
+     {
+      "id": "p352-06",
+      "kind": "paragraph",
+      "number": 97,
+      "geez_numeral": "፺፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Prayer of Penitence. (*Anaphora of the Apostles No.* 72-88).",
+      "uncertain": false
+     },
+     {
+      "id": "p352-07",
+      "kind": "paragraph",
+      "number": 98,
+      "geez_numeral": "፺፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: Give heed.\n*Priest*: Holy things for the holy.\n*People*: One is the Holy Father, one is the Holy Son, one is the Holy Spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p352-08",
+      "kind": "paragraph",
+      "number": 99,
+      "geez_numeral": "፺፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: The Lord be with you all.\n*People*: And with your spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p352-09",
+      "kind": "paragraph",
+      "number": 100,
+      "geez_numeral": "፻",
+      "continued": null,
+      "heading_note": null,
+      "english": "*The priest shall then lift up the whole Host with his hands and say: O Lord Christ, have compassion upon us. (three times in a loud chant and fifteen times in a low chant) The people shall repeat his word. Then the priest shall repeat them three times and the people twice.*",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 353,
+    "printed_page_geez": "፫፻፵፬",
+    "printed_page": 344,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p353-01",
+      "kind": "paragraph",
+      "number": 101,
+      "geez_numeral": "፻፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: You that are penitent, bow your heads.",
+      "uncertain": false
+     },
+     {
+      "id": "p353-02",
+      "kind": "paragraph",
+      "number": 102,
+      "geez_numeral": "፻፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Then he shall turn to the people and say*:\n*Priest*: Lord our God ... (*Anaphora of the Apostles No.* 95-138).",
+      "uncertain": false
+     },
+     {
+      "id": "p353-03",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p353-04",
+      "kind": "paragraph",
+      "number": 103,
+      "geez_numeral": "፻፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "*After receiving the Holy Communion.*\n*Priest*: Pilot of the Soul. Before the glory of your holiness your servants and handmaiden have prostrated themselves in soul, body and sprit. Incline your ear unto their supplication.",
+      "uncertain": false
+     },
+     {
+      "id": "p353-05",
+      "kind": "paragraph",
+      "number": 104,
+      "geez_numeral": "፻፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "Bless them who mind the heavenly things with the blessing of your angels and powers. Bless the work of their hands, and be with them in every good work.",
+      "uncertain": false
+     },
+     {
+      "id": "p353-06",
+      "kind": "paragraph",
+      "number": 105,
+      "geez_numeral": "፻፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "Grant that by their receiving of your holy mystery they may be prudent, watchful and freed from all evil, and may feed their souls, bodies and spirits, through our Lord Jesus Christ:",
+      "uncertain": false
+     },
+     {
+      "id": "p353-07",
+      "kind": "paragraph",
+      "number": 106,
+      "geez_numeral": "፻፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "Through whom to you with him and with the Holy Spirit be glory and dominion, both now and ever and world without end.\n*People*: Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p353-08",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 354,
+    "printed_page_geez": "፫፻፵፭",
+    "printed_page": 345,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p354-01",
+      "kind": "paragraph",
+      "number": 107,
+      "geez_numeral": "፻፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: The Laying on of the Hand.\nGood things have been done to you, good things have been done to you, good things have been done to you. O sheep of Christ's pasture, you have eaten and have been satisfied, you have drunk and have quenched your thirst: return to your houses in peace; the Lord be with you all.",
+      "uncertain": false
+     },
+     {
+      "id": "p354-02",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p354-03",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "*(No English text printed for this block.)*",
+      "uncertain": false
+     },
+     {
+      "id": "p354-04",
+      "kind": "paragraph",
+      "number": 108,
+      "geez_numeral": "፻፰",
+      "continued": null,
+      "heading_note": null,
+      "english": null,
+      "uncertain": false
+     },
+     {
+      "id": "p354-05",
+      "kind": "paragraph",
+      "number": 109,
+      "geez_numeral": "፻፱",
+      "continued": null,
+      "heading_note": null,
+      "english": null,
+      "uncertain": false
+     },
+     {
+      "id": "p354-06",
+      "kind": "paragraph",
+      "number": 110,
+      "geez_numeral": "፻፲",
+      "continued": null,
+      "heading_note": null,
+      "english": null,
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   }
+  ],
+  "first_pdf_page": 337,
+  "last_pdf_page": 354,
+  "page_count": 18,
+  "entry_count": 117
+ }
+}

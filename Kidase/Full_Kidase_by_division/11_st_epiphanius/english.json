@@ -1,0 +1,1541 @@
+{
+ "title": "Full Kidase",
+ "language": "English",
+ "source": "Full Kidase.pdf (PDF pages 8-420; page numbers are the PDF page numbers)",
+ "ids": "Entry ids are shared between the two files: pNNN-NN = PDF page, entry order on that page.",
+ "uncertain_marker": "Text between ⟦? and ?⟧ is a word the transcriber could not read with confidence.",
+ "division": {
+  "id": "d11",
+  "kind": "anaphora",
+  "name_geez": "ቅዳሴ ኤጲፋንዮስ",
+  "name_english": "Anaphora of St. Epiphanius",
+  "pages": [
+   {
+    "pdf_page": 316,
+    "printed_page_geez": "፫፻፯",
+    "printed_page": 307,
+    "section_geez": "ቅዳሴ ኤጲፋንዮስ",
+    "section_english": "Anaphora of St. Epiphanius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p316-01",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "THE ANAPHORA OF ST. EPIPHANIUS",
+      "uncertain": false
+     },
+     {
+      "id": "p316-02",
+      "kind": "paragraph",
+      "number": 1,
+      "geez_numeral": "፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "1. The Anaphora of St. Epiphanius, Bishop of the Island of Cyprus. May his prayer and blessing be with our Patriarch, our bishop all Christian people and our country Ethiopia, world without end. Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p316-03",
+      "kind": "paragraph",
+      "number": 2,
+      "geez_numeral": "፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "2. Priest: The Lord be with you all. People: And with your spirit. Priest: You give thanks unto our God. People: It is right, it is just. Priest: Lift up your hearts. People: We have lifted them up unto the Lord our God.",
+      "uncertain": false
+     },
+     {
+      "id": "p316-04",
+      "kind": "paragraph",
+      "number": 3,
+      "geez_numeral": "፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "3. Priest: God is great in his greatness, holy in his holiness, blessed in his beatitude and glorified in his glory. He is the first – yet of him it is not said: \"When was his beginning?\" with him it is ever \"now\" – yet of him it is not said: \"How long will he undure?\" and he is the last – yet of him it is not said: \"At what time will his end be?\"",
+      "uncertain": false
+     }
+    ],
+    "division": "d11"
+   },
+   {
+    "pdf_page": 317,
+    "printed_page_geez": "፫፻፰",
+    "printed_page": 308,
+    "section_geez": "ቅዳሴ ኤጲፋንዮስ",
+    "section_english": "Anaphora of St. Epiphanius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p317-01",
+      "kind": "paragraph",
+      "number": 4,
+      "geez_numeral": "፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "4. There is no beginning of his being, there is no end of his existence, his days are numberless and his years are countless. His youth does not wax old, the strength of his power does not become weary, his countenance is incorruptible and the light of his face can not be darkened.",
+      "uncertain": false
+     },
+     {
+      "id": "p317-02",
+      "kind": "paragraph",
+      "number": 5,
+      "geez_numeral": "፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "5. The sea of his wisdom is unlimited, his merciful commands are countless, the range of his kingdom is immeasurable and his spacious government is boundless.",
+      "uncertain": false
+     },
+     {
+      "id": "p317-03",
+      "kind": "paragraph",
+      "number": 6,
+      "geez_numeral": "፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "6. So invisible is He that man can not find him by taking taught, so high is He that man can not understand him with his heart, so high is He that the eagles can not reach him, and so deep is He that the fish can not swim unto him.",
+      "uncertain": false
+     },
+     {
+      "id": "p317-04",
+      "kind": "paragraph",
+      "number": 7,
+      "geez_numeral": "፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "7. He is higher than the heads of the mountains and deeper than the depth of the sea. He is so strong that the Kings can not rise against him, and He is so victorious that the rulers can not stand against him.",
+      "uncertain": false
+     },
+     {
+      "id": "p317-05",
+      "kind": "paragraph",
+      "number": 8,
+      "geez_numeral": "፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "8. He is so wise that he can destroy the counsel of the wise, He is so omniscient that he can make the thought of the counsellers to be of none effect, He is so mighty that he can loose the bridle of the strong, and He is so courageous that he can break into pieces the teeth of sinners and put down the arms of the haughty.",
+      "uncertain": false
+     }
+    ],
+    "division": "d11"
+   },
+   {
+    "pdf_page": 318,
+    "printed_page_geez": "፫፻፱",
+    "printed_page": 309,
+    "section_geez": "ቅዳሴ ኤጲፋንዮስ",
+    "section_english": "Anaphora of St. Epiphanius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p318-01",
+      "kind": "paragraph",
+      "number": 9,
+      "geez_numeral": "፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "9. He is honourable that he can put to shame the face of the hypocrites, and He is so mighty that he can cast away the light of the filthy.",
+      "uncertain": false
+     },
+     {
+      "id": "p318-02",
+      "kind": "paragraph",
+      "number": 10,
+      "geez_numeral": "፲",
+      "continued": null,
+      "heading_note": null,
+      "english": "10. He is the only one without equal, and He has absolute authority without the help of kinsmen. The heavens will be destroyed, and the land will vanish, and all will wax old like a garment, but he is the same for ever.",
+      "uncertain": false
+     },
+     {
+      "id": "p318-03",
+      "kind": "paragraph",
+      "number": 11,
+      "geez_numeral": "፲፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "11. Wonderful is the movement of the sea, but more wonderful is God in his highest heaven. None resembles him and none competes with him from among all the creatures and all the children of gods. He himself alone is God; He himself alone is Lord; He himself alone is Creator and he himself alone is maker.",
+      "uncertain": false
+     },
+     {
+      "id": "p318-04",
+      "kind": "paragraph",
+      "number": 12,
+      "geez_numeral": "፲፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "12. He does not seek for a helper for the plan he conceived, and He does not want an adviser for the work he desired. He knows all things before they happen as if they had happened before and that which has not happened as if it had happened.",
+      "uncertain": false
+     },
+     {
+      "id": "p318-05",
+      "kind": "paragraph",
+      "number": 13,
+      "geez_numeral": "፲፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "13. He inspects the mind without asking, and examines the heart without seeking, and sees in darkness without light.",
+      "uncertain": false
+     },
+     {
+      "id": "p318-06",
+      "kind": "paragraph",
+      "number": 14,
+      "geez_numeral": "፲፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "14. He knows the righteous before they do righteousness, He perceives the sinners before they commit sin, He understands the prudent before they go out from the loins of their fathers and understands the sinners from the wombs of their mothers.",
+      "uncertain": false
+     }
+    ],
+    "division": "d11"
+   },
+   {
+    "pdf_page": 319,
+    "printed_page_geez": "፫፻፲",
+    "printed_page": 310,
+    "section_geez": "ቅዳሴ ኤጲፋንዮስ",
+    "section_english": "Anaphora of St. Epiphanius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p319-01",
+      "kind": "paragraph",
+      "number": 15,
+      "geez_numeral": "፲፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "15. Nothing is hidden, nothing is concealed and nothing is invisible unto him, but all is open unto him and all is spread before his eyes and all is written in his book and all is called to his mind.",
+      "uncertain": false
+     },
+     {
+      "id": "p319-02",
+      "kind": "paragraph",
+      "number": 16,
+      "geez_numeral": "፲፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "16. He does the great, countless, honourable and marvellous deeds which are unsearchable. His works are more wonderful than we can comprehend; his power is more marvellous than anything we have heard and his glory is more astonishing than any had told us.",
+      "uncertain": false
+     },
+     {
+      "id": "p319-03",
+      "kind": "paragraph",
+      "number": 17,
+      "geez_numeral": "፲፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "17. He made light out of darkness, he knows how to divide clouds, He divedes water at his pleasure and He hides the elect with clouds.",
+      "uncertain": false
+     },
+     {
+      "id": "p319-04",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p319-05",
+      "kind": "paragraph",
+      "number": 18,
+      "geez_numeral": "፲፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "18. He built the earth and prepared its boundaries, and establshed its ends in the way he saw, and strengthened its corners.",
+      "uncertain": false
+     },
+     {
+      "id": "p319-06",
+      "kind": "paragraph",
+      "number": 19,
+      "geez_numeral": "፲፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "19. He fenced the sea with doors when it went out of it mother's womb, He made the clouds to be its clothes, and wrapped it with mist, He limited it and put into it doors and locks and said to it, \"Reach here and do not go beyond your limit, but your storm will move in you.\"",
+      "uncertain": false
+     }
+    ],
+    "division": "d11"
+   },
+   {
+    "pdf_page": 320,
+    "printed_page_geez": "፫፻፲፩",
+    "printed_page": 311,
+    "section_geez": "ቅዳሴ ኤጲፋንዮስ",
+    "section_english": "Anaphora of St. Epiphanius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p320-01",
+      "kind": "paragraph",
+      "number": 20,
+      "geez_numeral": "፳",
+      "continued": null,
+      "heading_note": null,
+      "english": "20. There was arranged over it the light of dawn, and the morning star knew his commandment. He took mud from the earth and created the living being and made him speak on the earth.",
+      "uncertain": false
+     },
+     {
+      "id": "p320-02",
+      "kind": "paragraph",
+      "number": 21,
+      "geez_numeral": "፳፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "21. He reached the ends of the sea and walked in the paths of the deep.",
+      "uncertain": false
+     },
+     {
+      "id": "p320-03",
+      "kind": "paragraph",
+      "number": 22,
+      "geez_numeral": "፳፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "22. To him the doors of death will be opened because of his glory, and the doorkeepers of hell will be afraid as soon as they see him. He knows the spaciousness under heaven and that which happens above heaven.",
+      "uncertain": false
+     },
+     {
+      "id": "p320-04",
+      "kind": "paragraph",
+      "number": 23,
+      "geez_numeral": "፳፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "23. Through his commandment frost comes out of its treasure and the wind blows under heaven. He leads the rain along the way of the wilderness to fall on the country where there is no man and wherein mortal man does not live.",
+      "uncertain": false
+     },
+     {
+      "id": "p320-05",
+      "kind": "paragraph",
+      "number": 24,
+      "geez_numeral": "፳፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "24. He established the course of water and opens the winter every year and brings the summer back in its due time. He calls the clouds with his word and water answers him trembling.",
+      "uncertain": false
+     },
+     {
+      "id": "p320-06",
+      "kind": "paragraph",
+      "number": 25,
+      "geez_numeral": "፳፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "25. He sends the thunderbolt and it goes and answers him saying: What shall I do? He counts the clouds through his wisdom and hangs the heaven over the earth.",
+      "uncertain": false
+     },
+     {
+      "id": "p320-07",
+      "kind": "paragraph",
+      "number": 26,
+      "geez_numeral": "፳፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "26. He alone puts on the power of the highest heaven and is adorned with glory and honour.",
+      "uncertain": false
+     }
+    ],
+    "division": "d11"
+   },
+   {
+    "pdf_page": 321,
+    "printed_page_geez": "፫፻፲፪",
+    "printed_page": 312,
+    "section_geez": "ቅዳሴ ኤጲፋንዮስ",
+    "section_english": "Anaphora of St. Epiphanius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p321-01",
+      "kind": "paragraph",
+      "number": 27,
+      "geez_numeral": "፳፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "27. Him hallow the fiery Cherubim and the Seraphim dressed in light with ceaseless words and a mouth which does not keep silent and a tongue which does not tire; and all say together with one voice answering: Holy holy holy, perfect Lord of hosts, heaven and earth are full of the holiness of your glory.",
+      "uncertain": false
+     },
+     {
+      "id": "p321-02",
+      "kind": "paragraph",
+      "number": 28,
+      "geez_numeral": "፳፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "28. *Deacon*: You answer.",
+      "uncertain": false
+     },
+     {
+      "id": "p321-03",
+      "kind": "paragraph",
+      "number": 29,
+      "geez_numeral": "፳፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "29. *People*: Holy holy holy, perfect Lord of hosts, heaven and earth are full of the holiness of your glory.",
+      "uncertain": false
+     },
+     {
+      "id": "p321-04",
+      "kind": "paragraph",
+      "number": 30,
+      "geez_numeral": "፴",
+      "continued": null,
+      "heading_note": null,
+      "english": "30. *Priest*: Holy holy holy are you God, Lord of the holy ones, the holiness of your glory fills heaven and earth.",
+      "uncertain": false
+     },
+     {
+      "id": "p321-05",
+      "kind": "paragraph",
+      "number": 31,
+      "geez_numeral": "፴፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "31. All is from him, all is for his sake, and all is his. Heaven is his, and the heaven of heavens is his. The breadth of the highest heaven is the throne of his glory, and the wide earth is his footstool.",
+      "uncertain": false
+     },
+     {
+      "id": "p321-06",
+      "kind": "paragraph",
+      "number": 32,
+      "geez_numeral": "፴፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "32. The sun is his, the moon is his, and the stars are the work of his hands. Clouds are his messengers, winds are his chariots and fire is the wall of his house.",
+      "uncertain": false
+     },
+     {
+      "id": "p321-07",
+      "kind": "paragraph",
+      "number": 33,
+      "geez_numeral": "፴፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "33. Water is the roof of his house, the gables of it are snow, light is his tabernacle, the lightning of glory is the veil of his hiding-place, and his going is in the air.",
+      "uncertain": false
+     }
+    ],
+    "division": "d11"
+   },
+   {
+    "pdf_page": 322,
+    "printed_page_geez": "፫፻፲፫",
+    "printed_page": 313,
+    "section_geez": "ቅዳሴ ኤጲፋንዮስ",
+    "section_english": "Anaphora of St. Epiphanius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p322-01",
+      "kind": "paragraph",
+      "number": 34,
+      "geez_numeral": "፴፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "34. The voice of his speech is in the thunderbolt, the sound of thunder is in the chariots, the sea is his hand-maid, the water-flood of the rivers is his servant, and cold and frost do his pleasure.",
+      "uncertain": false
+     },
+     {
+      "id": "p322-02",
+      "kind": "paragraph",
+      "number": 35,
+      "geez_numeral": "፴፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "35. He causes the clouds to ascend from the ends of the earth, He makes lightning for the rain, He pours rain like drops from a strainer, He scatteres the hoa-rfrost like ashes, He casts forth his ice like morsels, and He causes the grass to grow for the cattle.",
+      "uncertain": false
+     },
+     {
+      "id": "p322-03",
+      "kind": "paragraph",
+      "number": 36,
+      "geez_numeral": "፴፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "36. He does according to his thought, completes what he began, orders according to his will. He makes sad and gives pleasure, impoverishes and enriches, dishonours and honours, kills and quickens, makes sick and heals, judges and justifies.",
+      "uncertain": false
+     },
+     {
+      "id": "p322-04",
+      "kind": "paragraph",
+      "number": 37,
+      "geez_numeral": "፴፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "37. He spares to whom he wills to spare, he distresses to whom he wills to distress, He will have mercy on whom he will have mercy, will have compassion on whom He will have compassion.",
+      "uncertain": false
+     },
+     {
+      "id": "p322-05",
+      "kind": "paragraph",
+      "number": 38,
+      "geez_numeral": "፴፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "38. *People*: According to your mercy, our God, and not according to our sins.",
+      "uncertain": false
+     },
+     {
+      "id": "p322-06",
+      "kind": "paragraph",
+      "number": 39,
+      "geez_numeral": "፴፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "39. *Priest*: He is kind without evil, meek without revenge, patient without wrath, righteous without sin, pure without filthiness, and upright without perversion.",
+      "uncertain": false
+     }
+    ],
+    "division": "d11"
+   },
+   {
+    "pdf_page": 323,
+    "printed_page_geez": "፫፻፲፬",
+    "printed_page": 314,
+    "section_geez": "ቅዳሴ ኤጲፋንዮስ",
+    "section_english": "Anaphora of St. Epiphanius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p323-01",
+      "kind": "paragraph",
+      "number": 40,
+      "geez_numeral": "፵",
+      "continued": null,
+      "heading_note": null,
+      "english": "40. He is the giver without hindrance, gracious without stint, the forgiver of sin without revenge or envy.",
+      "uncertain": false
+     },
+     {
+      "id": "p323-02",
+      "kind": "paragraph",
+      "number": 41,
+      "geez_numeral": "፵፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "41. He is near unto those who call upon him, doer of good unto those who fear him, He is the open door unto those who knock at him, the prepared way without a stumbling-block and the pure path without thrones.",
+      "uncertain": false
+     },
+     {
+      "id": "p323-03",
+      "kind": "paragraph",
+      "number": 42,
+      "geez_numeral": "፵፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "42. He alone is God, the God of gods and Lord of lords.",
+      "uncertain": false
+     },
+     {
+      "id": "p323-04",
+      "kind": "paragraph",
+      "number": 43,
+      "geez_numeral": "፵፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "43. After this, when he saw that the blood of the holy prophets, from the blood of the righteous Abel unto the blood of Zacharias Son of Barachias, was not sufficient for the salvation of the world, He sent unto us his Son, a Saviour and Redeemer, to save us and redeem us and take before him the remembrance of the living and the dead.",
+      "uncertain": false
+     },
+     {
+      "id": "p323-05",
+      "kind": "paragraph",
+      "number": 44,
+      "geez_numeral": "፵፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "44. *Deacon*: For the sake of the blessed ... (*Anaphora of the Apostles* No. 6-9)",
+      "uncertain": false
+     },
+     {
+      "id": "p323-06",
+      "kind": "paragraph",
+      "number": 45,
+      "geez_numeral": "፵፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "45. *The assistant priest shall say the Prayer of Benediction. (Anaphora of the Apostles No. 10-21)*",
+      "uncertain": false
+     },
+     {
+      "id": "p323-07",
+      "kind": "paragraph",
+      "number": 46,
+      "geez_numeral": "፵፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "46. *Asst Deacon*: Lord, pity and have mercy upon the patriarchs, archbishops, bishops, priests, deacons and all the Christian people.",
+      "uncertain": false
+     },
+     {
+      "id": "p323-08",
+      "kind": "paragraph",
+      "number": 47,
+      "geez_numeral": "፵፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "47. *Priest*: While He was yet there He came and He was sent without it being noised abroad.",
+      "uncertain": false
+     }
+    ],
+    "division": "d11"
+   },
+   {
+    "pdf_page": 324,
+    "printed_page_geez": "፫፻፲፭",
+    "printed_page": 315,
+    "section_geez": "ቅዳሴ ኤጲፋንዮስ",
+    "section_english": "Anaphora of St. Epiphanius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p324-01",
+      "kind": "paragraph",
+      "number": 48,
+      "geez_numeral": "፵፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "48. *Deacon*: You, that are sitting, stand up.",
+      "uncertain": false
+     },
+     {
+      "id": "p324-02",
+      "kind": "paragraph",
+      "number": 49,
+      "geez_numeral": "፵፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "49. *Priest*: He came down without being moved from his throne and without being removed from his place.",
+      "uncertain": false
+     },
+     {
+      "id": "p324-03",
+      "kind": "paragraph",
+      "number": 50,
+      "geez_numeral": "፶",
+      "continued": null,
+      "heading_note": null,
+      "english": "50. *Deacon*: Look to the east.",
+      "uncertain": false
+     },
+     {
+      "id": "p324-04",
+      "kind": "paragraph",
+      "number": 51,
+      "geez_numeral": "፶፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "51. *Priest*: He was conceived in the womb while he was filling everywhere, was born without opening the seal of virginity.",
+      "uncertain": false
+     },
+     {
+      "id": "p324-05",
+      "kind": "paragraph",
+      "number": 52,
+      "geez_numeral": "፶፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "52. *Deacon*: Let us give heed.",
+      "uncertain": false
+     },
+     {
+      "id": "p324-06",
+      "kind": "paragraph",
+      "number": 53,
+      "geez_numeral": "፶፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "53. *Priest*: He grew like an infant, and grew little by little until he matur-ed like a man.",
+      "uncertain": false
+     },
+     {
+      "id": "p324-07",
+      "kind": "paragraph",
+      "number": 54,
+      "geez_numeral": "፶፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "54. At the age of thirty He was baptized in Jordan to purify us from sin by the washing of regeneration.",
+      "uncertain": false
+     },
+     {
+      "id": "p324-08",
+      "kind": "paragraph",
+      "number": 55,
+      "geez_numeral": "፶፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "55. He was tempted by the devil, He hungered and thirsted, walked and appeared preaching the gospel of the kingdom of heaven.",
+      "uncertain": false
+     },
+     {
+      "id": "p324-09",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p324-10",
+      "kind": "paragraph",
+      "number": 56,
+      "geez_numeral": "፶፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "56. *At his time he shall offer incense.* *People*: Remember us, Lord, in your kingdom ... (*Anaphora of the Apostle No.* 34)",
+      "uncertain": false
+     },
+     {
+      "id": "p324-11",
+      "kind": "paragraph",
+      "number": 57,
+      "geez_numeral": "፶፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "57. *Priest*: Then he stretched forth his hands on the tree of the cross for suffering to cure the wound of the sick by the sprinkling of his blood.",
+      "uncertain": false
+     }
+    ],
+    "division": "d11"
+   },
+   {
+    "pdf_page": 325,
+    "printed_page_geez": "፫፻፲፮",
+    "printed_page": 316,
+    "section_geez": "ቅዳሴ ኤጲፋንዮስ",
+    "section_english": "Anaphora of St. Epiphanius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p325-01",
+      "kind": "paragraph",
+      "number": 58,
+      "geez_numeral": "፶፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "58. In that night, Thursday evening, which is the beginning of Friday, when He sat at the house of Lazarus, his friend:",
+      "uncertain": false
+     },
+     {
+      "id": "p325-02",
+      "kind": "paragraph",
+      "number": 59,
+      "geez_numeral": "፶፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "59. *Deacon*: Priests, raise up your hands.",
+      "uncertain": false
+     },
+     {
+      "id": "p325-03",
+      "kind": "paragraph",
+      "number": 60,
+      "geez_numeral": "፷",
+      "continued": null,
+      "heading_note": null,
+      "english": "60. *Priest*: He took into his hands the unleavened bread of wheat from that which they brought unto him for supper. *At this time he shall raise the bread.*",
+      "uncertain": false
+     },
+     {
+      "id": "p325-04",
+      "kind": "paragraph",
+      "number": 61,
+      "geez_numeral": "፷፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "61. *People*: We believe that this is he; truly we believe.",
+      "uncertain": false
+     },
+     {
+      "id": "p325-05",
+      "kind": "paragraph",
+      "number": 62,
+      "geez_numeral": "፷፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "62. *Priest*: He gave thanks, blessed (*benediction three times*) and broke, *Then he shall indent the Host lightly with his thumb in five places without separation.* and gave it to his disciples and said unto them: Take, eat, this (*pointing*) bread is the communion of my body which will be broken for you.",
+      "uncertain": false
+     },
+     {
+      "id": "p325-06",
+      "kind": "paragraph",
+      "number": 63,
+      "geez_numeral": "፷፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "63. *People*: Amen amen amen, we believe and confess, we glorify you, O our Lord and our God; that this is he we truly believe.",
+      "uncertain": false
+     }
+    ],
+    "division": "d11"
+   },
+   {
+    "pdf_page": 326,
+    "printed_page_geez": "፫፻፲፯",
+    "printed_page": 317,
+    "section_geez": "ቅዳሴ ኤጲፋንዮስ",
+    "section_english": "Anaphora of St. Epiphanius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p326-01",
+      "kind": "paragraph",
+      "number": 64,
+      "geez_numeral": "፷፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "64. *Priest*: Again He mixed the cup of wine with water, gave thanks, blessed (*benediction three times*), hallowed and gave it to his apostles and said unto them, Take, drink, this (*pointing*) cup is the communion of my blood which will be shed for you. *He shall then move the cup with his right hand in the sign of the cross.*",
+      "uncertain": false
+     },
+     {
+      "id": "p326-02",
+      "kind": "paragraph",
+      "number": 65,
+      "geez_numeral": "፷፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "65. *People*: Amen amen amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p326-03",
+      "kind": "paragraph",
+      "number": 66,
+      "geez_numeral": "፷፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "66. *Priest*: Let this service be unto you for the remembrance of my death and my resurrection.",
+      "uncertain": false
+     },
+     {
+      "id": "p326-04",
+      "kind": "paragraph",
+      "number": 67,
+      "geez_numeral": "፷፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "67. *People*: We proclaim your death, Lord, and your holy resurrection; we believe in your ascension and your second advent. We glorify you and confess you, we offer our prayer unto you and supplicate you, O our Lord and our God.",
+      "uncertain": false
+     },
+     {
+      "id": "p326-05",
+      "kind": "paragraph",
+      "number": 68,
+      "geez_numeral": "፷፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "68. *Priest*: And we, our Lord and our God, pray you and beseech you and ask of your goodness, O Lover of man, that you may send the Holy Spirit and power upon this (*pointing*) bread and upon this (*pointing*) cup to make this bread (*benediction once*) your holy body, and this cup (*benediction once*) the blood from your side which speaks (*benediction once more over both of them*).\n*People*: Amen, Lord have pity upon us, Lord spare us, Lord have mercy upon us.",
+      "uncertain": false
+     }
+    ],
+    "division": "d11"
+   },
+   {
+    "pdf_page": 327,
+    "printed_page_geez": "፫፻፲፰",
+    "printed_page": 318,
+    "section_geez": "ቅዳሴ ኤጲፋንዮስ",
+    "section_english": "Anaphora of St. Epiphanius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p327-01",
+      "kind": "paragraph",
+      "number": 69,
+      "geez_numeral": "፷፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "69. *Deacon*: With all the heart let us beseech the Lord our God that he grant unto us the good communion of the Holy Spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p327-02",
+      "kind": "paragraph",
+      "number": 70,
+      "geez_numeral": "፸",
+      "continued": null,
+      "heading_note": null,
+      "english": "70. *People*: As it was, is and shall be unto generations of generations, world without end.",
+      "uncertain": false
+     },
+     {
+      "id": "p327-03",
+      "kind": "paragraph",
+      "number": 71,
+      "geez_numeral": "፸፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "71. *At this time he shall dip his finger into the Blood and sign the Body.* *Priest*: Grant it together unto them that take of it, that it maybe unto them for blessing, for remission of sin, for joy and rejoicing, for renewal of soul, body and spirit, and for strengthening of faith till the latest breath. *People*: Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p327-04",
+      "kind": "paragraph",
+      "number": 72,
+      "geez_numeral": "፸፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "72. *Priest*: Grant us to be united through your Holy Spirit, and heal us by this oblation that we may live in you forever. *People: The people shall repeat his words.*",
+      "uncertain": false
+     },
+     {
+      "id": "p327-05",
+      "kind": "paragraph",
+      "number": 73,
+      "geez_numeral": "፸፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "73. *Priest*: Blessed is the name of the Lord, and blessed be He that comes in the name of the Lord, and let the name of his glory be blessed. So be it, so be it, so be it blessed, *People: The people shall repeat his words.*",
+      "uncertain": false
+     },
+     {
+      "id": "p327-06",
+      "kind": "paragraph",
+      "number": 74,
+      "geez_numeral": "፸፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "74. *Priest*: Send the grace of the Holy Spirit upon us. *People: The people shall repeat his words.*",
+      "uncertain": false
+     },
+     {
+      "id": "p327-07",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d11"
+   },
+   {
+    "pdf_page": 328,
+    "printed_page_geez": "፫፻፲፱",
+    "printed_page": 319,
+    "section_geez": "ቅዳሴ ኤጲፋንዮስ",
+    "section_english": "Anaphora of St. Epiphanius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p328-01",
+      "kind": "paragraph",
+      "number": 75,
+      "geez_numeral": "፸፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "75. *Deacon*: Stand up for prayer. *People*: Lord have mercy upon us. *Priest*: Peace be unto you all. *People*: And with your spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p328-02",
+      "kind": "paragraph",
+      "number": 76,
+      "geez_numeral": "፸፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "76. *Priest*: Prayer of Fraction. Where is the country of wisdom, where is its abode, where is its province, and where can the trace of its way be found?",
+      "uncertain": false
+     },
+     {
+      "id": "p328-03",
+      "kind": "paragraph",
+      "number": 77,
+      "geez_numeral": "፸፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "77. Who crossed the sea and bought it for red gold; who ascended above the cloud and brought it down? Mortal man does not know its way; it is not for mortal man.",
+      "uncertain": false
+     },
+     {
+      "id": "p328-04",
+      "kind": "paragraph",
+      "number": 78,
+      "geez_numeral": "፸፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "78. It is forgotten by all men, and it is hidden from all the birds of heaven. Those who possess it gain friendship with God, and those who hate it love death. It is more beautiful than the sun and all the concourse of stars. It is compared with the Light because it was in the beginning.",
+      "uncertain": false
+     },
+     {
+      "id": "p328-05",
+      "kind": "paragraph",
+      "number": 79,
+      "geez_numeral": "፸፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "79. Through it is in the old, it renews all; and in every generation it enters into the souls of the righteous.",
+      "uncertain": false
+     },
+     {
+      "id": "p328-06",
+      "kind": "paragraph",
+      "number": 80,
+      "geez_numeral": "፹",
+      "continued": null,
+      "heading_note": null,
+      "english": "80. It is better than rubies; and all honour is not to be compared to it. It has counsel and power, strength and knowledge, by it kings reign, and the powerful decree justice.",
+      "uncertain": false
+     }
+    ],
+    "division": "d11"
+   },
+   {
+    "pdf_page": 329,
+    "printed_page_geez": "፫፻፳",
+    "printed_page": 320,
+    "section_geez": "ቅዳሴ ኤጲፋንዮስ",
+    "section_english": "Anaphora of St. Epiphanius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p329-01",
+      "kind": "paragraph",
+      "number": 81,
+      "geez_numeral": "፹፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "81. By it the great are honoured, and by it the rulers take hold of the earth. It loves them that love it, it keeps them that keep it, and those that seek it find favour.",
+      "uncertain": false
+     },
+     {
+      "id": "p329-02",
+      "kind": "paragraph",
+      "number": 82,
+      "geez_numeral": "፹፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "82. It walks in the way of righteousness and moves about in the path of righteousness to grant riches to them that know it and to fill their treasuries with rejoicing.",
+      "uncertain": false
+     },
+     {
+      "id": "p329-03",
+      "kind": "paragraph",
+      "number": 83,
+      "geez_numeral": "፹፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "83. He who knows all knows it, and he who understands all beautifies its way. He gave it to his servant Jacob and to his holy Israel. Afterwards it appeared on the earth and walked like man.",
+      "uncertain": false
+     },
+     {
+      "id": "p329-04",
+      "kind": "paragraph",
+      "number": 84,
+      "geez_numeral": "፹፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "84. Behold she has built a house for herself and established seven pillars, she has killed her beasts and poured her wine in the bowl and furnished her table.",
+      "uncertain": false
+     },
+     {
+      "id": "p329-05",
+      "kind": "paragraph",
+      "number": 85,
+      "geez_numeral": "፹፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "85. She has sent forth her servants ceaselessly proclaiming and saying: Whosoever is simple let him turn in towards me: as for him that wants understanding, she says to him, Come, eat of my bread, and drink of my wine, forsake the foolish and live.",
+      "uncertain": false
+     }
+    ],
+    "division": "d11"
+   },
+   {
+    "pdf_page": 330,
+    "printed_page_geez": "፫፻፳፩",
+    "printed_page": 321,
+    "section_geez": "ቅዳሴ ኤጲፋንዮስ",
+    "section_english": "Anaphora of St. Epiphanius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p330-01",
+      "kind": "paragraph",
+      "number": 86,
+      "geez_numeral": "፹፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "But wisdom is our Saviour who redeemed us with the sacrifice of his body, and bought us with the sprinkling of his blood, and chose us for his kingdom forever.",
+      "uncertain": false
+     },
+     {
+      "id": "p330-02",
+      "kind": "paragraph",
+      "number": 87,
+      "geez_numeral": "፹፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: You pray. *People*: Our Father who are in heaven, hallowed be your name, your kingdom come, Your will be done in earth as it is in heaven: give us this day our daily bread, and forgive us our trespasses as we forgive them that trespass against us, and lead us not into temptation but deliver us from all evil: for yours is the kingdom, the power and the glory fore ever and ever.",
+      "uncertain": false
+     },
+     {
+      "id": "p330-03",
+      "kind": "paragraph",
+      "number": 88,
+      "geez_numeral": "፹፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: O God of lights, God of authorities, God of the archangels, you did loosen the soul bound with death and did lighten him who was nailed in darkness with the nails of the cross of your Only-begotten.",
+      "uncertain": false
+     },
+     {
+      "id": "p330-04",
+      "kind": "paragraph",
+      "number": 89,
+      "geez_numeral": "፹፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "O Lord, you are He who did loosen our sufferings and all our burdens, and loosen the bounds of our sin, and did take our trouble and quicken us, and did become to us the way towards the place of life, you did turn us from destruction unto salvation;",
+      "uncertain": false
+     }
+    ],
+    "division": "d11"
+   },
+   {
+    "pdf_page": 331,
+    "printed_page_geez": "፫፻፳፪",
+    "printed_page": 322,
+    "section_geez": "ቅዳሴ ኤጲፋንዮስ",
+    "section_english": "Anaphora of St. Epiphanius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p331-01",
+      "kind": "paragraph",
+      "number": 90,
+      "geez_numeral": "፺",
+      "continued": null,
+      "heading_note": null,
+      "english": "O Lord our almighty God, Father of our Lord and our Saviour Jesus Christ, whose curtain is light, whose face is fire, and the throne of whose glory is indescribable, and the abode of joy which cannot be spoken of He has prepared for the holy ones, his garments are the treasures of light:",
+      "uncertain": false
+     },
+     {
+      "id": "p331-02",
+      "kind": "paragraph",
+      "number": 91,
+      "geez_numeral": "፺፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "You keep the holy angels; all of whom tremble and glorify you; when you look at them the mountains melt, and when your name is spoken of, springs come forth from the depth.",
+      "uncertain": false
+     },
+     {
+      "id": "p331-03",
+      "kind": "paragraph",
+      "number": 92,
+      "geez_numeral": "፺፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "You are He who covered heaven gathering (all) in your hand; the earth and the depths together tremble before you.",
+      "uncertain": false
+     },
+     {
+      "id": "p331-04",
+      "kind": "paragraph",
+      "number": 93,
+      "geez_numeral": "፺፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "All the hosts of the enemy were dis-comfited before you, the Devil fell, the beast was trodden down and the snake was destroy-ed.",
+      "uncertain": false
+     },
+     {
+      "id": "p331-05",
+      "kind": "paragraph",
+      "number": 94,
+      "geez_numeral": "፺፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "All the gentiles who believed in you were enlightened and strengthened by you. O Lord, through you life was seen, hope was strengthened, the gospel, through which destruction was destroyed, has been preached, and salvation was confirmed.",
+      "uncertain": false
+     }
+    ],
+    "division": "d11"
+   },
+   {
+    "pdf_page": 332,
+    "printed_page_geez": "፫፻፳፫",
+    "printed_page": 323,
+    "section_geez": "ቅዳሴ ኤጲፋንዮስ",
+    "section_english": "Anaphora of St. Epiphanius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p332-01",
+      "kind": "paragraph",
+      "number": 95,
+      "geez_numeral": "፺፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "O Lord our Almighty God, make us worthy to partake of this (*pointing*) bread, the body of your life-giving Son, and of this (*pointing*) cup, the speaking blood of your Messiah, through whom to you with him and with the Holy Spirit be glory and dominion, both now and ever, and world without end. Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p332-02",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p332-03",
+      "kind": "paragraph",
+      "number": 96,
+      "geez_numeral": "፺፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: The hosts of the angels of the Saviour of the world stand before the Saviour of the world and they encircle the Saviour of the world, even the body and the blood of the Saviour of the world. Let us draw near the face of the Saviour of the world. In the faith which is of him let us submit ourselves to Christ.",
+      "uncertain": false
+     },
+     {
+      "id": "p332-04",
+      "kind": "paragraph",
+      "number": 97,
+      "geez_numeral": "፺፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Asst. Deacon*: You princes open the gates.",
+      "uncertain": false
+     },
+     {
+      "id": "p332-05",
+      "kind": "paragraph",
+      "number": 98,
+      "geez_numeral": "፺፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: You, who are standing, bow your heads.",
+      "uncertain": false
+     },
+     {
+      "id": "p332-06",
+      "kind": "paragraph",
+      "number": 99,
+      "geez_numeral": "፺፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Let the Lamb come that we may see him with our eyes, slay him with our hands and rejoice in him. May his body be joined with this bread, and may his blood be poured into this cup.",
+      "uncertain": false
+     }
+    ],
+    "division": "d11"
+   },
+   {
+    "pdf_page": 333,
+    "printed_page_geez": "፫፻፳፬",
+    "printed_page": 324,
+    "section_geez": "ቅዳሴ ኤጲፋንዮስ",
+    "section_english": "Anaphora of St. Epiphanius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p333-01",
+      "kind": "paragraph",
+      "number": 100,
+      "geez_numeral": "፻",
+      "continued": null,
+      "heading_note": null,
+      "english": "Let none of us thi⟦?…?⟧ when he eats of t⟦?…?⟧ (*pointing*) bread that ⟦?…?⟧ eats mere flesh witho⟦?…?⟧ blood and Spirit, a⟦?…?⟧ let none of us thi⟦?…?⟧ when he drinks of t⟦?…?⟧ (*pointing*) cup that ⟦?…?⟧ drinks mere blo⟦?…?⟧ without body a⟦?…?⟧ Spirit, but one is t⟦?…?⟧ body, blood and Spi⟦?…?⟧ as his divinity becam⟦?…?⟧ one with his humani⟦?…?⟧ world without end.\n\n*(The right edge of the English column is cut off in the source scan for this page; fragments are shown as printed, each line ending where the scan ends.)*",
+      "uncertain": true
+     },
+     {
+      "id": "p333-02",
+      "kind": "paragraph",
+      "number": 101,
+      "geez_numeral": "፻፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: Worship t⟦?…?⟧ Lord with fear. *People*: Before y⟦?…?⟧ Lord, we worship ⟦?…?⟧ we do glorify you.",
+      "uncertain": true
+     },
+     {
+      "id": "p333-03",
+      "kind": "paragraph",
+      "number": 102,
+      "geez_numeral": "፻፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: *Prayer of Pe⟦?…?⟧ence.*",
+      "uncertain": true
+     },
+     {
+      "id": "p333-04",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p333-05",
+      "kind": "paragraph",
+      "number": 103,
+      "geez_numeral": "፻፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: Give heed. *Priest*: Holy things ⟦?…?⟧ the holy. *People*: One is the H⟦?…?⟧ Father, one is the H⟦?…?⟧ Son, one is the H⟦?…?⟧ Spirit.",
+      "uncertain": true
+     },
+     {
+      "id": "p333-06",
+      "kind": "paragraph",
+      "number": 104,
+      "geez_numeral": "፻፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: The Lord ⟦?…?⟧ with you all. *People*: And with y⟦?…?⟧ spirit.",
+      "uncertain": true
+     },
+     {
+      "id": "p333-07",
+      "kind": "paragraph",
+      "number": 105,
+      "geez_numeral": "፻፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "*The priest shall then ⟦?…?⟧ up the whole Host ⟦?…?⟧ his hand and say: ⟦?…?⟧ Lord Christ, ⟦?…?⟧ compassion upon ⟦?…?⟧ (three times in a ⟦?…?⟧ chant and fifteen ⟦?…?⟧ in a low chant).* *People: The people ⟦?…?⟧ repeat his words.* *Then the priest ⟦?…?⟧ repeat them three ⟦?…?⟧ and the people twice.*",
+      "uncertain": true
+     }
+    ],
+    "division": "d11"
+   },
+   {
+    "pdf_page": 334,
+    "printed_page_geez": "፫፻፳፭",
+    "printed_page": 325,
+    "section_geez": "ቅዳሴ ኤጲፋንዮስ",
+    "section_english": "Anaphora of St. Epiphanius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p334-01",
+      "kind": "paragraph",
+      "number": 106,
+      "geez_numeral": "፻፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: You, that are penitent, bow your heads. *Then he shall turn to the people and say*:",
+      "uncertain": false
+     },
+     {
+      "id": "p334-02",
+      "kind": "paragraph",
+      "number": 107,
+      "geez_numeral": "፻፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Lord our God, look upon your people that are penitent ... (*Anaphora of the Apostles No.* 95-138).",
+      "uncertain": false
+     },
+     {
+      "id": "p334-03",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p334-04",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "*After receiving the Holy Communion*",
+      "uncertain": false
+     },
+     {
+      "id": "p334-05",
+      "kind": "paragraph",
+      "number": 108,
+      "geez_numeral": "፻፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: *Pilot of the Soul*: Again we supplicate the Almighty God, Father of our Lord and our Saviour Jesus Christ, because he did neither disdain nor refuse our supplication, nor did he remove his mercy from us, because the Lord our God is merciful. *Deacon*: You pray.",
+      "uncertain": false
+     },
+     {
+      "id": "p334-06",
+      "kind": "paragraph",
+      "number": 109,
+      "geez_numeral": "፻፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Yes Lord, you are the God of all. Yes Lord, you are the Lord of all. Yes Lord, you are the King of all. Yes Lord, you are Almighty. Yes Lord, you are the Governor of all. Yes Lord, you are the Saviour of all. Yes Lord, you are the Life-giver of all. Yes Lord, you are the Keeper of all. Yes Lord, you are the Nourisher of all. Yes Lord, you are the Judge of all.",
+      "uncertain": false
+     }
+    ],
+    "division": "d11"
+   },
+   {
+    "pdf_page": 335,
+    "printed_page_geez": "፫፻፳፮",
+    "printed_page": 326,
+    "section_geez": "ቅዳሴ ኤጲፋንዮስ",
+    "section_english": "Anaphora of St. Epiphanius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p335-01",
+      "kind": "paragraph",
+      "number": 110,
+      "geez_numeral": "፻፲",
+      "continued": null,
+      "heading_note": null,
+      "english": "As though did join the body of your Son with our body, and you did mix the blood of your Messiah with our blood, so put your fear in our hearts and the beauty of your worship in our minds.",
+      "uncertain": false
+     },
+     {
+      "id": "p335-02",
+      "kind": "paragraph",
+      "number": 111,
+      "geez_numeral": "፻፲፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "We, who are carnal, mind the things of the flesh and do the works of the flesh and walk in the way of the flesh. But you do teach us the work of the Spirit and make us to understand the law of the Spirit and lead us in the way of the Spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p335-03",
+      "kind": "paragraph",
+      "number": 112,
+      "geez_numeral": "፻፲፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "Because if you pity us, we sinners, then you will be called compassionate. You pity the righteous because of their works and do recompense them according to their righteousness.",
+      "uncertain": false
+     },
+     {
+      "id": "p335-04",
+      "kind": "paragraph",
+      "number": 113,
+      "geez_numeral": "፻፲፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "Remember not against us former iniquities: let your tender mercies, O God, speedily prevent us.",
+      "uncertain": false
+     },
+     {
+      "id": "p335-05",
+      "kind": "paragraph",
+      "number": 114,
+      "geez_numeral": "፻፲፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "Towards you we cry; towards you we weep; we intreat you, world without end. *People*: Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p335-06",
+      "kind": "paragraph",
+      "number": 115,
+      "geez_numeral": "፻፲፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: The Laying on of the Hand. He is higher than all the high. No mind and no heart can interpret the riches of your gift, O Master, because you have hid these things from the wise and prudent and have revealed them unto babes.",
+      "uncertain": false
+     }
+    ],
+    "division": "d11"
+   },
+   {
+    "pdf_page": 336,
+    "printed_page_geez": "፫፻፳፯",
+    "printed_page": 327,
+    "section_geez": "ቅዳሴ ኤጲፋንዮስ",
+    "section_english": "Anaphora of St. Epiphanius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p336-01",
+      "kind": "paragraph",
+      "number": 116,
+      "geez_numeral": "፻፲፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "These things which prophets and kings have desired to see and have not seen, you have granted us, sinners – that we may serve and be sanctified by them – when you did establish for us the order of your only-begotten Son. The hidden mystery can not be compared to the blood of the old law or the righteousness of the flesh but it is the heavenly Lamb and the speaking sacrifice without flesh.",
+      "uncertain": false
+     },
+     {
+      "id": "p336-02",
+      "kind": "paragraph",
+      "number": 117,
+      "geez_numeral": "፻፲፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "Sanctify the lips of us who offer this sacrifice, and purify our hearts from being mixed with vanity, and send upon us the grace of the Holy Spirit that we may greet one another with a holy kiss and receive of your holy undying gift through Jesus Christ.",
+      "uncertain": false
+     },
+     {
+      "id": "p336-03",
+      "kind": "paragraph",
+      "number": 118,
+      "geez_numeral": "፻፲፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "Through whom to you with him and with the Holy Spirit, the life-giver, who is equal with you, be glory and dominion, both now and ever and world without end. Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p336-04",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d11"
+   }
+  ],
+  "first_pdf_page": 316,
+  "last_pdf_page": 336,
+  "page_count": 21,
+  "entry_count": 127
+ }
+}

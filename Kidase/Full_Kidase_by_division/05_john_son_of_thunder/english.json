@@ -1,0 +1,1719 @@
+{
+ "title": "Full Kidase",
+ "language": "English",
+ "source": "Full Kidase.pdf (PDF pages 8-420; page numbers are the PDF page numbers)",
+ "ids": "Entry ids are shared between the two files: pNNN-NN = PDF page, entry order on that page.",
+ "uncertain_marker": "Text between ⟦? and ?⟧ is a word the transcriber could not read with confidence.",
+ "division": {
+  "id": "d05",
+  "kind": "anaphora",
+  "name_geez": "ቅዳሴ ዮሐንስ ወልደ ነጐድጓድ",
+  "name_english": "The Anaphora of John, Son of Thunder",
+  "pages": [
+   {
+    "pdf_page": 163,
+    "printed_page_geez": "፻፶፬",
+    "printed_page": 154,
+    "section_geez": "ቅዳሴ ዮሐንስ ወልደ ነጐድጓድ",
+    "section_english": "The Anaphora of John, Son of Thunder",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p163-01",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "THE ANAPHORA OF JOHN SON OF THUNDER",
+      "uncertain": false
+     },
+     {
+      "id": "p163-02",
+      "kind": "paragraph",
+      "number": 1,
+      "geez_numeral": "፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "1. The Anaphora of John, son of thunder; may his prayer and blessing be with our patriarch…, archbishop all Christians and our country, Ethiopia forever. Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p163-03",
+      "kind": "paragraph",
+      "number": 2,
+      "geez_numeral": "፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "2. Priest: The Lord be with you all. People: And with your spirit. Priest: You give thanks unto our God. People: It is right, it is just. Priest: Lift up your hearts. People: We have lifted them up unto the Lord and our God.",
+      "uncertain": false
+     },
+     {
+      "id": "p163-04",
+      "kind": "paragraph",
+      "number": 3,
+      "geez_numeral": "፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "3. Priest: Towards you, Lord, we have lifted up our eyes, raised our hearts and exalted our thoughts, you who have existed from before the foundation of the world and will be forever.",
+      "uncertain": false
+     },
+     {
+      "id": "p163-05",
+      "kind": "paragraph",
+      "number": 4,
+      "geez_numeral": "፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "4. None knows Your begining or end: you are infinite, nor can any one find you.",
+      "uncertain": false
+     },
+     {
+      "id": "p163-06",
+      "kind": "paragraph",
+      "number": 5,
+      "geez_numeral": "፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "5. And none can know You or see You. You know yourself; your kingdom is without end; Your power is immutable; your greatness is infinite; nor is your glory hidden. To all You are unseen, yet all is seen of you.",
+      "uncertain": false
+     }
+    ],
+    "division": "d05"
+   },
+   {
+    "pdf_page": 164,
+    "printed_page_geez": "፻፶፭",
+    "printed_page": 155,
+    "section_geez": "ቅዳሴ ዮሐንስ ወልደ ነጐድጓድ",
+    "section_english": "The Anaphora of John, Son of Thunder",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p164-01",
+      "kind": "paragraph",
+      "number": 6,
+      "geez_numeral": "፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "6. You have no beginning, but you bring all things to their end. You are infinite, but for all things You do set ends. All things are from you, all things are through you, and all things are for you. You are in all, in Your greatness You are higher than the high ones.",
+      "uncertain": false
+     },
+     {
+      "id": "p164-02",
+      "kind": "paragraph",
+      "number": 7,
+      "geez_numeral": "፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "7. Yet You did visit the humble through the advent of your Son. In your invisibility You are farther than those who are far. Through Your mercy You bring near to yourself those who are far off.",
+      "uncertain": false
+     },
+     {
+      "id": "p164-03",
+      "kind": "paragraph",
+      "number": 8,
+      "geez_numeral": "፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "8. You are inside all, and You are outside all. Your greatness is hidden in You; Your power is hidden in You. You yourself veile Yourself with Yourself, and hide Yourself in Yourself.",
+      "uncertain": false
+     },
+     {
+      "id": "p164-04",
+      "kind": "paragraph",
+      "number": 9,
+      "geez_numeral": "፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "9. The Son whom you did beget told us about You. He who was born of You preached unto us tidings of You. He is honourable like You who did beget him.",
+      "uncertain": false
+     },
+     {
+      "id": "p164-05",
+      "kind": "paragraph",
+      "number": 10,
+      "geez_numeral": "፲",
+      "continued": null,
+      "heading_note": null,
+      "english": "10. You have told us about Him, and you are His witness through Your word that He is truly your Son and that You are truly his Father.",
+      "uncertain": false
+     },
+     {
+      "id": "p164-06",
+      "kind": "paragraph",
+      "number": 11,
+      "geez_numeral": "፲፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "11. They worship you with your Son, and he has glory with him who begat him. There is no day between You and Him, and there is no time between the Son and HHis Father.",
+      "uncertain": false
+     }
+    ],
+    "division": "d05"
+   },
+   {
+    "pdf_page": 165,
+    "printed_page_geez": "፻፶፮",
+    "printed_page": 156,
+    "section_geez": "ቅዳሴ ዮሐንስ ወልደ ነጐድጓድ",
+    "section_english": "The Anaphora of John, Son of Thunder",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p165-01",
+      "kind": "paragraph",
+      "number": 12,
+      "geez_numeral": "፲፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "12. The Father is not greater than His Son, and the Son is not less than His Father. The thought of the heart, thinking deeply, can not outrun the courier or be more exalted than the watchful,",
+      "uncertain": false
+     },
+     {
+      "id": "p165-02",
+      "kind": "paragraph",
+      "number": 13,
+      "geez_numeral": "፲፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "13. Cannot swim privately or go out secretly, enter to see You, try, ask, or slightly know You for one hour, even for a moment. No one knows that which is between the Son and His Father.",
+      "uncertain": false
+     },
+     {
+      "id": "p165-03",
+      "kind": "paragraph",
+      "number": 14,
+      "geez_numeral": "፲፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "14. But your living Holy Spirit knows the depth of your godhead. He has declared to us Your nature, and told us about Your oneness. He thought Your Unity, and helped us to know your Trinity. He has spoken to us about Your incorruptible equality and Your unseparated Unity and about Your immutable nature.",
+      "uncertain": false
+     },
+     {
+      "id": "p165-04",
+      "kind": "paragraph",
+      "number": 15,
+      "geez_numeral": "፲፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "15. The Father is the witness of the Son and the Holy Spirit. And the Son preaches about the Father and the Holy Spirit. And the Holy Spirit teaches about the Father and the Son, in order that the three may be worshipped in one name.",
+      "uncertain": false
+     }
+    ],
+    "division": "d05"
+   },
+   {
+    "pdf_page": 166,
+    "printed_page_geez": "፻፶፯",
+    "printed_page": 157,
+    "section_geez": "ቅዳሴ ዮሐንስ ወልደ ነጐድጓድ",
+    "section_english": "The Anaphora of John, Son of Thunder",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p166-01",
+      "kind": "paragraph",
+      "number": 16,
+      "geez_numeral": "፲፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "16. You make known your hidden and curious glory to those who praise you, and show it to them through the mercy of your grace. The high ones in their degrees, the angels in their orders, the watchful with their lightning, Cherubim with their might, Seraphim with glory, and all with fear and trembling – worship the Lord who is near as if they were far off.",
+      "uncertain": false
+     },
+     {
+      "id": "p166-02",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p166-03",
+      "kind": "paragraph",
+      "number": 17,
+      "geez_numeral": "፲፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "17. Deacon: Let us give heed.",
+      "uncertain": false
+     },
+     {
+      "id": "p166-04",
+      "kind": "paragraph",
+      "number": 18,
+      "geez_numeral": "፲፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "18. Priest: Covering their faces with lightning lest the consuming fire should consume them, they cover their feet with live coal lest the flame of power should burn them. They fly through the four corners of the world and throughout the uttermost parts before him who is through all the ends of the world. With great, lucent and marvellous words they call upon the One who is invisible to hallow him. With their hosts, with their orders, with their congregation, with their ranks they glorify you, Father, and worship you; and they glorify your only-begotten Son, and your living Holy Spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p166-05",
+      "kind": "paragraph",
+      "number": 19,
+      "geez_numeral": "፲፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "19. All of them, together, offer you thanks for the glory. Make us equal with them, so that we may say together with them: Lord remember us through your mercy.",
+      "uncertain": false
+     }
+    ],
+    "division": "d05"
+   },
+   {
+    "pdf_page": 167,
+    "printed_page_geez": "፻፶፰",
+    "printed_page": 158,
+    "section_geez": "ቅዳሴ ዮሐንስ ወልደ ነጐድጓድ",
+    "section_english": "The Anaphora of John, Son of Thunder",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p167-01",
+      "kind": "paragraph",
+      "number": 20,
+      "geez_numeral": "፳",
+      "continued": null,
+      "heading_note": null,
+      "english": "20. Deacon: You answer. People: Holy holy holy, perfect Lord of hosts, heaven and earth are full of the holiness of your glory.",
+      "uncertain": false
+     },
+     {
+      "id": "p167-02",
+      "kind": "paragraph",
+      "number": 21,
+      "geez_numeral": "፳፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "21. Priest: Like them we thank you, and believe that you are holy holy holy, perfect Lord of hosts, and that heaven and earth are full of the holiness of your glory.",
+      "uncertain": false
+     },
+     {
+      "id": "p167-03",
+      "kind": "paragraph",
+      "number": 22,
+      "geez_numeral": "፳፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "22. You are unique and eternal, Holy Father. You are unique and eternal, Holy Son. You are unique and eternal, Holy Spirit. Three names and one God.",
+      "uncertain": false
+     },
+     {
+      "id": "p167-04",
+      "kind": "paragraph",
+      "number": 23,
+      "geez_numeral": "፳፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "23. You did grant to all your saints, according to your goodness, to be saints.",
+      "uncertain": false
+     },
+     {
+      "id": "p167-05",
+      "kind": "paragraph",
+      "number": 24,
+      "geez_numeral": "፳፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "24. You did create all your creatures with your word. You, being directed of none, did create all things.",
+      "uncertain": false
+     },
+     {
+      "id": "p167-06",
+      "kind": "paragraph",
+      "number": 25,
+      "geez_numeral": "፳፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "25. You carry all without being weary. You feed all without ceasing. You think of all without forgetting any.",
+      "uncertain": false
+     },
+     {
+      "id": "p167-07",
+      "kind": "paragraph",
+      "number": 26,
+      "geez_numeral": "፳፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "26. You give all without being diminished. You water all without being dry. You remember all without forgetfulness.",
+      "uncertain": false
+     },
+     {
+      "id": "p167-08",
+      "kind": "paragraph",
+      "number": 27,
+      "geez_numeral": "፳፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "27. You watch all without sleeping. You hear all without neglecting any. You forgive all, taking nothing.",
+      "uncertain": false
+     }
+    ],
+    "division": "d05"
+   },
+   {
+    "pdf_page": 168,
+    "printed_page_geez": "፻፶፱",
+    "printed_page": 159,
+    "section_geez": "ቅዳሴ ዮሐንስ ወልደ ነጐድጓድ",
+    "section_english": "The Anaphora of John, Son of Thunder",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p168-01",
+      "kind": "paragraph",
+      "number": 28,
+      "geez_numeral": "፳፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "28. You are the generous one who are not given anything by another, the creator whom none directs, the King whom no one appoints, the Lord whom none judges, the God to whom none lends, whom no one enriches, you are the giver out of your boundless store.",
+      "uncertain": false
+     },
+     {
+      "id": "p168-02",
+      "kind": "paragraph",
+      "number": 29,
+      "geez_numeral": "፳፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "29. While you are filling every place they told us about you in a way we can receive.",
+      "uncertain": false
+     },
+     {
+      "id": "p168-03",
+      "kind": "paragraph",
+      "number": 30,
+      "geez_numeral": "፴",
+      "continued": null,
+      "heading_note": null,
+      "english": "30. You did send your Son to us. He came without being separated from you. He walked without being moved from you. He was with you with all his body and you did send him to us without being separated from you. He is where ever you are.",
+      "uncertain": false
+     },
+     {
+      "id": "p168-04",
+      "kind": "paragraph",
+      "number": 31,
+      "geez_numeral": "፴፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "31. He was with his Father in heaven while he was with his parent on earth. He descended without subtracting from above and without adding beneath.",
+      "uncertain": false
+     },
+     {
+      "id": "p168-05",
+      "kind": "paragraph",
+      "number": 32,
+      "geez_numeral": "፴፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "32. He was conceived in the womb yet the womb did not confine him; he abode in the womb yet he was infinite; the creator of all flesh lived in the womb.",
+      "uncertain": false
+     },
+     {
+      "id": "p168-06",
+      "kind": "paragraph",
+      "number": 33,
+      "geez_numeral": "፴፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "33. He who sits upon the Cherubim abode in a daughter of flesh; the consuming fire put on flesh; the invisible Spirit has been clothed with flesh; He was born from that which was hidden unto that which was open; He who forms infants in the womb became an infant; they wrapped him with clothes who was clothed in light.",
+      "uncertain": false
+     }
+    ],
+    "division": "d05"
+   },
+   {
+    "pdf_page": 169,
+    "printed_page_geez": "፻፷",
+    "printed_page": 160,
+    "section_geez": "ቅዳሴ ዮሐንስ ወልደ ነጐድጓድ",
+    "section_english": "The Anaphora of John, Son of Thunder",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p169-01",
+      "kind": "paragraph",
+      "number": 34,
+      "geez_numeral": "፴፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "34. He dwelt in the house of the poor as poor; as a King he sent messengers to bring him presents from afar.",
+      "uncertain": false
+     },
+     {
+      "id": "p169-02",
+      "kind": "paragraph",
+      "number": 35,
+      "geez_numeral": "፴፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "35. He who leads the cow to know its owner slept in a stable; He grew as a child and they worshipped Him as the Lord of all. He walked as a man yet worked as God.",
+      "uncertain": false
+     },
+     {
+      "id": "p169-03",
+      "kind": "paragraph",
+      "number": 36,
+      "geez_numeral": "፴፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "36. Willingly he became hungry as a son of man, and granted many hungry people to be satisfied with little bread according to his power. He thirsted as a man who dies, and changed the water into wine as being able to give life to all.",
+      "uncertain": false
+     },
+     {
+      "id": "p169-04",
+      "kind": "paragraph",
+      "number": 37,
+      "geez_numeral": "፴፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "37. He slept as the children of flesh, and awoke and rebuked the winds as a creator. He become tired and rested as the humble, and walked upon the water as the highest.",
+      "uncertain": false
+     },
+     {
+      "id": "p169-05",
+      "kind": "paragraph",
+      "number": 38,
+      "geez_numeral": "፴፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "38. They beat him on the head as a servant and He set us free from the yoke of sin as Lord of all. He suffered all. He who cured the blind with His spittle and gave us the Holy Spirit received the spittle of the unclean.",
+      "uncertain": false
+     },
+     {
+      "id": "p169-06",
+      "kind": "paragraph",
+      "number": 39,
+      "geez_numeral": "፴፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "39. He who forgives sin was accused as a sinner by them. The judge of judges was judged by them. He was crucified on the wood to destroy sin, was counted with the sinners to enrol us with the righteous.",
+      "uncertain": false
+     }
+    ],
+    "division": "d05"
+   },
+   {
+    "pdf_page": 170,
+    "printed_page_geez": "፻፷፩",
+    "printed_page": 161,
+    "section_geez": "ቅዳሴ ዮሐንስ ወልደ ነጐድጓድ",
+    "section_english": "The Anaphora of John, Son of Thunder",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p170-01",
+      "kind": "paragraph",
+      "number": 40,
+      "geez_numeral": "፵",
+      "continued": null,
+      "heading_note": null,
+      "english": "40. He died through His will, and was buried willingly; He died to destroy death, He died to give life to the dead; He was buried to raise those who were buried, to keep the living, to purify the impure, to justify the sinners, to gather together those who were scattered, and to turn the sinners to glory and honour. Glory, honour and thanksgiving be to you forever.",
+      "uncertain": false
+     },
+     {
+      "id": "p170-02",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p170-03",
+      "kind": "paragraph",
+      "number": 41,
+      "geez_numeral": "፵፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "41. Deacon: Look to the east.",
+      "uncertain": false
+     },
+     {
+      "id": "p170-04",
+      "kind": "paragraph",
+      "number": 42,
+      "geez_numeral": "፵፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "42. Priest: By the dead whom you did raise, and the living whom you have kept, and by the unclean whom you have purified, and by the unrighteous whom you have justified, by the scattered whom you have gathered, by the sinners whom you have brought back, you are to be believed. Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p170-05",
+      "kind": "paragraph",
+      "number": 43,
+      "geez_numeral": "፵፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "43. We worship you and glorify you, O you who are the object of wisdom, the word of counsel, the treasury of help, the abode of bliss, the source of gain, the fountain of prophecy, the marvellous stream, (glorified by the Apostles), the well of honour, the adornment of the kingdom, the pure crown of the clergy, you are the king who has a crown of glory, whom they worship. You are the origin of glory, the light of honour.",
+      "uncertain": false
+     }
+    ],
+    "division": "d05"
+   },
+   {
+    "pdf_page": 171,
+    "printed_page_geez": "፻፷፪",
+    "printed_page": 162,
+    "section_geez": "ቅዳሴ ዮሐንስ ወልደ ነጐድጓድ",
+    "section_english": "The Anaphora of John, Son of Thunder",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p171-01",
+      "kind": "paragraph",
+      "number": 44,
+      "geez_numeral": "፵፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "44. Unwoven garment, dress which was not spun, the way to the Father, and the gateway to him who begat him, the treasure which was discovered, the pearl which was found, the pound which added to itself, the talent which multiplied, the leaven which leavens the lump, the salt which gives savour to the savourless:",
+      "uncertain": false
+     },
+     {
+      "id": "p171-02",
+      "kind": "paragraph",
+      "number": 45,
+      "geez_numeral": "፵፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "45. You are the light which destroys darkness, the candle which enlightens the whole world, the unmovable foundation, the fortress which can not be destroyed, the ship which can not be wrecked, the dwelling-place which can not be broken into, the easy yoke, the light burden: all this is Jesus Christ who is the power and wisdom of his Father.",
+      "uncertain": false
+     },
+     {
+      "id": "p171-03",
+      "kind": "paragraph",
+      "number": 46,
+      "geez_numeral": "፵፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "46. He thinks of all, feeds all, gives the blind light to see, opening the windows that were closed, suffers the deaf to hear, and makes the deaf ear hear takes away the garment of leprosy from the body and covers it with a garment of flesh.",
+      "uncertain": false
+     },
+     {
+      "id": "p171-04",
+      "kind": "paragraph",
+      "number": 47,
+      "geez_numeral": "፵፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "47. He straightens the withered hand, and suffers the lame foot to walk. He restores the soul into its body, and puts the spirit into its dwelling-place. He drowns the herd of swine by the legion of devils, and takes away the disease from the weak body.",
+      "uncertain": false
+     }
+    ],
+    "division": "d05"
+   },
+   {
+    "pdf_page": 172,
+    "printed_page_geez": "፻፷፫",
+    "printed_page": 163,
+    "section_geez": "ቅዳሴ ዮሐንስ ወልደ ነጐድጓድ",
+    "section_english": "The Anaphora of John, Son of Thunder",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p172-01",
+      "kind": "paragraph",
+      "number": 48,
+      "geez_numeral": "፵፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "48. O Sun of righteousness! From your wings, O Sun of righteousness, arises a fountain of good. May glory, honour and thanks giving be to you forever.",
+      "uncertain": false
+     },
+     {
+      "id": "p172-02",
+      "kind": "paragraph",
+      "number": 49,
+      "geez_numeral": "፵፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "49. Deacon: You, that are sitting, stand up.",
+      "uncertain": false
+     },
+     {
+      "id": "p172-03",
+      "kind": "paragraph",
+      "number": 50,
+      "geez_numeral": "፶",
+      "continued": null,
+      "heading_note": null,
+      "english": "50. Priest: We offer unto you a pure and perfect oblation in our penitence of soul in order that our body may be wholly sanctified. We do not offer unto you gold, silver or precious stones of transgression and sin; or corruptible clothes, or of the flock which death destroys, or a slain lamb; but him who through his death saved his flock, and gave life unto us.",
+      "uncertain": false
+     },
+     {
+      "id": "p172-04",
+      "kind": "paragraph",
+      "number": 51,
+      "geez_numeral": "፶፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "51. (But those who denied him will not be saved. They would have been saved had they not denied him.) But we offer of that which is yours to your humanity. We offer to you, to your divinity. We offer to you your body and your blood for your appearance before your pillars.",
+      "uncertain": false
+     }
+    ],
+    "division": "d05"
+   },
+   {
+    "pdf_page": 173,
+    "printed_page_geez": "፻፷፬",
+    "printed_page": 164,
+    "section_geez": "ቅዳሴ ዮሐንስ ወልደ ነጐድጓድ",
+    "section_english": "The Anaphora of John, Son of Thunder",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p173-01",
+      "kind": "paragraph",
+      "number": 52,
+      "geez_numeral": "፶፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "52. We offer in your presence for the sake of your Holy Church which was saved from death through you; and for her sake you were smitten in the court of judgement so that you might set her free through your blood, and that she might be fenced around with your cross and kept by your crucifixion against temptation until she shall enter the marriage feast in heaven.",
+      "uncertain": false
+     },
+     {
+      "id": "p173-02",
+      "kind": "paragraph",
+      "number": 53,
+      "geez_numeral": "፶፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "53. For the sake of all your holy prophets who cried as horns and preached your rising unto all the nations which were in darkness.",
+      "uncertain": false
+     },
+     {
+      "id": "p173-03",
+      "kind": "paragraph",
+      "number": 54,
+      "geez_numeral": "፶፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "54. For the sake of all apostles who ploughed the ground of the heathen with the plough of the Cross, and planted the treasure of your word to all the ends of the world.",
+      "uncertain": false
+     },
+     {
+      "id": "p173-04",
+      "kind": "paragraph",
+      "number": 55,
+      "geez_numeral": "፶፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "55. And for the sake of all the victorious faithful and pure martyrs whom the wolves ate as sheep.",
+      "uncertain": false
+     },
+     {
+      "id": "p173-05",
+      "kind": "paragraph",
+      "number": 56,
+      "geez_numeral": "፶፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "56. And for the sake of all bishops who fulfilled their ministry in purity. Whose service you did accept in order that you may give them the reward of their righteousness.",
+      "uncertain": false
+     },
+     {
+      "id": "p173-06",
+      "kind": "paragraph",
+      "number": 57,
+      "geez_numeral": "፶፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "57. For the sake of all priests who kept in truth that which was entrusted to them in order that they may receive their heritage with pleasure.",
+      "uncertain": false
+     }
+    ],
+    "division": "d05"
+   },
+   {
+    "pdf_page": 174,
+    "printed_page_geez": "፻፷፭",
+    "printed_page": 165,
+    "section_geez": "ቅዳሴ ዮሐንስ ወልደ ነጐድጓድ",
+    "section_english": "The Anaphora of John, Son of Thunder",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p174-01",
+      "kind": "paragraph",
+      "number": 58,
+      "geez_numeral": "፶፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "58. And for the sake of all deacons who have made light the wings of their spirit so that they may be like those that are in the Holy Spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p174-02",
+      "kind": "paragraph",
+      "number": 59,
+      "geez_numeral": "፶፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "59. For the sake of all the anagounstis (readers) who ministered well, taught and preached your people.",
+      "uncertain": false
+     },
+     {
+      "id": "p174-03",
+      "kind": "paragraph",
+      "number": 60,
+      "geez_numeral": "፷",
+      "continued": null,
+      "heading_note": null,
+      "english": "60. For the sake of all the victorious kings who gained their rest in faith.",
+      "uncertain": false
+     },
+     {
+      "id": "p174-04",
+      "kind": "paragraph",
+      "number": 61,
+      "geez_numeral": "፷፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "61. For the sake of the young men and virgins who became enemies of this corruptible world and loved the marriage feast which is in heaven.",
+      "uncertain": false
+     },
+     {
+      "id": "p174-05",
+      "kind": "paragraph",
+      "number": 62,
+      "geez_numeral": "፷፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "62. And for the sake of all saints who committed themselves to you and completed their fight, and entered bearing good names to ask for their reward according to your great word.",
+      "uncertain": false
+     },
+     {
+      "id": "p174-06",
+      "kind": "paragraph",
+      "number": 63,
+      "geez_numeral": "፷፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "63. For the sake of all our fathers and our brothers who departed from this world that you may have the remembrance of them before you.",
+      "uncertain": false
+     },
+     {
+      "id": "p174-07",
+      "kind": "paragraph",
+      "number": 64,
+      "geez_numeral": "፷፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "64. And for the sake of all those who were born through the baptism of your great church, in order that you may be their delight in their conflict, and make them worthy of their crown.",
+      "uncertain": false
+     },
+     {
+      "id": "p174-08",
+      "kind": "paragraph",
+      "number": 65,
+      "geez_numeral": "፷፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "65. And for the sake of all those who were killed with the spear and were taken captives. For the poor and the miserable. And for the sake of the widow and the orphan.",
+      "uncertain": false
+     }
+    ],
+    "division": "d05"
+   },
+   {
+    "pdf_page": 175,
+    "printed_page_geez": "፻፷፮",
+    "printed_page": 166,
+    "section_geez": "ቅዳሴ ዮሐንስ ወልደ ነጐድጓድ",
+    "section_english": "The Anaphora of John, Son of Thunder",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p175-01",
+      "kind": "paragraph",
+      "number": 66,
+      "geez_numeral": "፷፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "66. And for the sake of me, your humble servant, whom you have called through Your grace, though unworthy. You have promoted and exalted me while I was not fitting. You have brought me near before You through your mercy to stand before Your altar, Lord, in order that You may forgive my soul and all your people.",
+      "uncertain": false
+     },
+     {
+      "id": "p175-02",
+      "kind": "paragraph",
+      "number": 67,
+      "geez_numeral": "፷፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "67. And for the sake of this our congregation, that it may be blessed through the multitude of your grace; so that the weak may be strengthened, and the unrighteous may be justified; the repentent may be purified and the righteous may be kept, the troubled may be saved, the oppressed may rest, the disturbed may be quieted and the sad may rejoice, the hopeless may be delivered, the sick may live, the transgressors may return, the castaway may be found, that he who is far off may draw near, and that he who is near may be preserved.",
+      "uncertain": false
+     },
+     {
+      "id": "p175-03",
+      "kind": "paragraph",
+      "number": 68,
+      "geez_numeral": "፷፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "68. And for the sake of all those who desire to have their remembrance before you, because You know all and aproved all.",
+      "uncertain": false
+     },
+     {
+      "id": "p175-04",
+      "kind": "paragraph",
+      "number": 69,
+      "geez_numeral": "፷፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "69. And for the sake of the fruit of the crop produced yearly, so that it may be blessed through Your mercy.",
+      "uncertain": false
+     },
+     {
+      "id": "p175-05",
+      "kind": "paragraph",
+      "number": 70,
+      "geez_numeral": "፸",
+      "continued": null,
+      "heading_note": null,
+      "english": "70. People: According to your mercy, our God, and not according to our sins. (to be repeated thrice).",
+      "uncertain": false
+     }
+    ],
+    "division": "d05"
+   },
+   {
+    "pdf_page": 176,
+    "printed_page_geez": "፻፷፯",
+    "printed_page": 167,
+    "section_geez": "ቅዳሴ ዮሐንስ ወልደ ነጐድጓድ",
+    "section_english": "The Anaphora of John, Son of Thunder",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p176-01",
+      "kind": "paragraph",
+      "number": 71,
+      "geez_numeral": "፸፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "71. Priest: And that you may grant the crown through Your mercy. And for the sake of all those who brought this memorial oblation that You may receive their vow and accept their offering.",
+      "uncertain": false
+     },
+     {
+      "id": "p176-02",
+      "kind": "paragraph",
+      "number": 72,
+      "geez_numeral": "፸፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "72. For the sake of those who took Your seal and went out of this world of suffering and arrived in the country of happiness, so that they may enter your feast and receive your crown there and rest in their everlasting abode in the city whose builder and maker You are.",
+      "uncertain": false
+     },
+     {
+      "id": "p176-03",
+      "kind": "paragraph",
+      "number": 73,
+      "geez_numeral": "፸፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "73. And for the sake of all who trespassed and sinned as human beings, that you may forgive their sins and remit their trespasses and iniquities as a compassionate God, kind, and their hope.",
+      "uncertain": false
+     },
+     {
+      "id": "p176-04",
+      "kind": "paragraph",
+      "number": 74,
+      "geez_numeral": "፸፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "74. And for the sake of all those whose names we know and those whose names we do not know, because they are well known to You, ye You know them, that their remembrance may be before You through our Lord Jesus Christ.",
+      "uncertain": false
+     },
+     {
+      "id": "p176-05",
+      "kind": "paragraph",
+      "number": 75,
+      "geez_numeral": "፸፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "75. Deacon: For the sake of the blessed … (from the Anaphora of the Apostles No. 6-9)",
+      "uncertain": false
+     },
+     {
+      "id": "p176-06",
+      "kind": "paragraph",
+      "number": 76,
+      "geez_numeral": "፸፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "76. The assistant priest shall say \"The Prayer of Benediction\" (from the Anaphora of the Apostles No. 10-21)",
+      "uncertain": false
+     }
+    ],
+    "division": "d05"
+   },
+   {
+    "pdf_page": 177,
+    "printed_page_geez": "፻፷፰",
+    "printed_page": 168,
+    "section_geez": "ቅዳሴ ዮሐንስ ወልደ ነጐድጓድ",
+    "section_english": "The Anaphora of John, Son of Thunder",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p177-01",
+      "kind": "paragraph",
+      "number": 77,
+      "geez_numeral": "፸፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "77. Asst. Deacon: Lord pity and have mercy upon the patriarchs, archbishops, bishops, priests, deacons, and all the Christian people.",
+      "uncertain": false
+     },
+     {
+      "id": "p177-02",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p177-03",
+      "kind": "paragraph",
+      "number": 78,
+      "geez_numeral": "፸፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "78. Priest: Remember those, and rest the souls of them all and cause them to grow by the still water in the garden of paradise in the holy houses in the bosoms of Abraham, Isaac and Jacob, by your angels who are the leaders of light, through our Lord Jesus Christ, your beloved Son.",
+      "uncertain": false
+     },
+     {
+      "id": "p177-04",
+      "kind": "paragraph",
+      "number": 79,
+      "geez_numeral": "፸፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "79. At this time the priest shall offer the incense. People: Lord remember us in your kingdom … (to be repeated thrice). (From the Anaphora of the Apostles No. 34).",
+      "uncertain": false
+     },
+     {
+      "id": "p177-05",
+      "kind": "paragraph",
+      "number": 80,
+      "geez_numeral": "፹",
+      "continued": null,
+      "heading_note": null,
+      "english": "80. Priest: In the same night in which they betrayed him.",
+      "uncertain": false
+     },
+     {
+      "id": "p177-06",
+      "kind": "paragraph",
+      "number": 81,
+      "geez_numeral": "፹፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "81. Deacon: Priests, raise up your hands.",
+      "uncertain": false
+     },
+     {
+      "id": "p177-07",
+      "kind": "paragraph",
+      "number": 82,
+      "geez_numeral": "፹፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "82. Priest: Since He was willing to be killed and was pleased to suffer at their hands and bear the agony of the nails that He might set His church free through His blood, strengthen his people by His cross, erect His altar, root out the idols, choose out the clergy, and scatter the sorcerers,",
+      "uncertain": false
+     }
+    ],
+    "division": "d05"
+   },
+   {
+    "pdf_page": 178,
+    "printed_page_geez": "፻፷፱",
+    "printed_page": 169,
+    "section_geez": "ቅዳሴ ዮሐንስ ወልደ ነጐድጓድ",
+    "section_english": "The Anaphora of John, Son of Thunder",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p178-01",
+      "kind": "paragraph",
+      "number": 83,
+      "geez_numeral": "፹፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "83. he took in his holy, blessed hands the bread which is the dowry of his bride and the divorcement of the synagogue which he did divorce. At this time he shall raise the bread.",
+      "uncertain": false
+     },
+     {
+      "id": "p178-02",
+      "kind": "paragraph",
+      "number": 84,
+      "geez_numeral": "፹፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "84. People: We believe that this is He, truly we believe.",
+      "uncertain": false
+     },
+     {
+      "id": "p178-03",
+      "kind": "paragraph",
+      "number": 85,
+      "geez_numeral": "፹፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "85. Priest: Gave thanks, blessed (benediction three times) and broke. Then he shall indent the Host lightly with his thumb in five places, without separation. And gave it to His disciples saying unto them: This is my body which is meat indeed; whosoever eats of it will not die, and whosoever partakes of it will not perish. Take, eat of it, all of you. (pointing).",
+      "uncertain": false
+     },
+     {
+      "id": "p178-04",
+      "kind": "paragraph",
+      "number": 86,
+      "geez_numeral": "፹፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "86. People: Amen amen amen; we believe and confess; we glorify You, O our Lord and our God; that this is He we truly believe.",
+      "uncertain": false
+     },
+     {
+      "id": "p178-05",
+      "kind": "paragraph",
+      "number": 87,
+      "geez_numeral": "፹፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "87. Priest: And likewise also he gave thanks over the cup: (benediction three times), and said: This cup is my blood of the new Testament, take and drink you all of it. He shall point at the cup and move it with his right hand in the sign of the cross.",
+      "uncertain": false
+     },
+     {
+      "id": "p178-06",
+      "kind": "paragraph",
+      "number": 88,
+      "geez_numeral": "፹፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "88. People: Amen amen amen; we believe and confess…",
+      "uncertain": false
+     }
+    ],
+    "division": "d05"
+   },
+   {
+    "pdf_page": 179,
+    "printed_page_geez": "፻፸",
+    "printed_page": 170,
+    "section_geez": "ቅዳሴ ዮሐንስ ወልደ ነጐድጓድ",
+    "section_english": "The Anaphora of John, Son of Thunder",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p179-01",
+      "kind": "paragraph",
+      "number": 89,
+      "geez_numeral": "፹፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "89. Priest: To those who worship him it is a wonderful sign, to those who crucified him it is a place of judgement. That which was written with his blood, stamped with his crucifixion, and honoured with his death is for eternal life for the remission of sin. Likewise, make a rememberance of me as often as you are gathered together.",
+      "uncertain": false
+     },
+     {
+      "id": "p179-02",
+      "kind": "paragraph",
+      "number": 90,
+      "geez_numeral": "፺",
+      "continued": null,
+      "heading_note": null,
+      "english": "90. People: We proclaim your death, Lord, and your holy resurrection. (From the Anaphora of the Apostles No. 47)",
+      "uncertain": false
+     },
+     {
+      "id": "p179-03",
+      "kind": "paragraph",
+      "number": 91,
+      "geez_numeral": "፺፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "91. Priest: We, who are gathered together to make remembrance of your sufferings and partake in your resurrection from the dead, beseech you, Lord our God, as this bread which was scattered among the mountains and the little hills, in the forests and the vales, being gathered together, became one perfect bread, likewise gather us together, through your divinity, out of all evil thought of sin into your perfect faith.",
+      "uncertain": false
+     },
+     {
+      "id": "p179-04",
+      "kind": "paragraph",
+      "number": 92,
+      "geez_numeral": "፺፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "92. As with the mixture of this wine with water, the one cannot be separated from the other, so let your divinity be united with our humanity, and our humanity with your divinity, and let your greatness be united with our humility and our humility with your greatness. Lord accept this our offering from us for a memorial of righteousness before you.",
+      "uncertain": false
+     }
+    ],
+    "division": "d05"
+   },
+   {
+    "pdf_page": 180,
+    "printed_page_geez": "፻፸፩",
+    "printed_page": 171,
+    "section_geez": "ቅዳሴ ዮሐንስ ወልደ ነጐድጓድ",
+    "section_english": "The Anaphora of John, Son of Thunder",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p180-01",
+      "kind": "paragraph",
+      "number": 93,
+      "geez_numeral": "፺፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "93. Like Abel we offer to you a pure oblation and like all those who are blameless, with whom your majesty was pleased, the memorial of whose everlasting offerings is before you;",
+      "uncertain": false
+     },
+     {
+      "id": "p180-02",
+      "kind": "paragraph",
+      "number": 94,
+      "geez_numeral": "፺፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "94. like the prudent Noah and all the meek upon whom your divinity rests. You did exalt them, through your kindness, to grant them a good portion and inheritance, with eternal life, in the kingdom of heaven together with all those who obeyed you,",
+      "uncertain": false
+     },
+     {
+      "id": "p180-03",
+      "kind": "paragraph",
+      "number": 95,
+      "geez_numeral": "፺፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "95. like our meek fathers Abraham, Isaac and Jacob who did good, went out (of the world) in purity and reigned in righteousness,",
+      "uncertain": false
+     },
+     {
+      "id": "p180-04",
+      "kind": "paragraph",
+      "number": 96,
+      "geez_numeral": "፺፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "96. like your servant Moses and all the prophets who preached to us without fear and proclaimed you without doubting that they would receive their reward in full,",
+      "uncertain": false
+     },
+     {
+      "id": "p180-05",
+      "kind": "paragraph",
+      "number": 97,
+      "geez_numeral": "፺፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "97. like Simon Peter and all your disciples, like Paul and all your holy apostles who bore your Gospel through that which they suffered and sustained the preaching of your doctrine in their death,",
+      "uncertain": false
+     }
+    ],
+    "division": "d05"
+   },
+   {
+    "pdf_page": 181,
+    "printed_page_geez": "፻፸፪",
+    "printed_page": 172,
+    "section_geez": "ቅዳሴ ዮሐንስ ወልደ ነጐድጓድ",
+    "section_english": "The Anaphora of John, Son of Thunder",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p181-01",
+      "kind": "paragraph",
+      "number": 98,
+      "geez_numeral": "፺፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "98. like Stephen and all your martyrs who shed their blood because of your shed blood so that they might take honour from your glory, whose names were written in the book of life in the free city Jerusalem in heaven which is truly our mother. We have believed in your holy church.",
+      "uncertain": false
+     },
+     {
+      "id": "p181-02",
+      "kind": "paragraph",
+      "number": 99,
+      "geez_numeral": "፺፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "99. Lord our God, your Church prays to you and worships you, your bride exalts you and your people praise you.",
+      "uncertain": false
+     },
+     {
+      "id": "p181-03",
+      "kind": "paragraph",
+      "number": 100,
+      "geez_numeral": "፻",
+      "continued": null,
+      "heading_note": null,
+      "english": "100. Through the prayer of the perfect, through the veneration of the saints, through the supplication of the watchful, through the advocacy of the angels, through the praise of the archangels, through the hallowing of the Seraphim, through the honouring of the Cherubim, through the highness of all the high: let the gate of light be opened, and let the doors of glory be unlocked, and let your living Holy Spirit came, descend, light upon, linger and dwell upon and bless the offering of this bread, and sanctify the cup.",
+      "uncertain": false
+     },
+     {
+      "id": "p181-04",
+      "kind": "paragraph",
+      "number": 101,
+      "geez_numeral": "፻፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "101. And make this bread the communion of your body, giver of life (benediction once upon the Body) and make this cup also the communion of your blood, giver of mercy (benediction once upon the cup, then benediction once more upon both the Body and the Cup). People: Amen, Lord, have pity upon us; Lord spare us; Lord have mercy upon us.",
+      "uncertain": false
+     }
+    ],
+    "division": "d05"
+   },
+   {
+    "pdf_page": 182,
+    "printed_page_geez": "፻፸፫",
+    "printed_page": 173,
+    "section_geez": "ቅዳሴ ዮሐንስ ወልደ ነጐድጓድ",
+    "section_english": "The Anaphora of John, Son of Thunder",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p182-01",
+      "kind": "paragraph",
+      "number": 102,
+      "geez_numeral": "፻፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "102. Deacon: With all the heart let us beseech the Lord our God that he grant unto us the good communion of the Holy Spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p182-02",
+      "kind": "paragraph",
+      "number": 103,
+      "geez_numeral": "፻፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "103. Priest: To everyone who believes in the living Father, in the only-begotten Son who arose from him and in the Holy Spirit who is unsearchable. At this time he shall sign the Body with Blood. And to him who partakes of your body and your blood let them be for hope, salvation, forgiveness of sin, resurrection from the dead, light in the kingdom of heaven and everlasting life. Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p182-03",
+      "kind": "paragraph",
+      "number": 104,
+      "geez_numeral": "፻፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "104. People: As it was, is and shall be unto generations of generations, world without end.",
+      "uncertain": false
+     },
+     {
+      "id": "p182-04",
+      "kind": "paragraph",
+      "number": 105,
+      "geez_numeral": "፻፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "105. Priest: Uniting them together, grant to all that take of them, that they may be unto them for holiness and for filling with the Holy Spirit, so that we may thank you always and your beloved Son Jesus Christ, world without end. Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p182-05",
+      "kind": "paragraph",
+      "number": 106,
+      "geez_numeral": "፻፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "106. Priest: Grant us … (Anaphora of the Apostles No. 54-56 ).",
+      "uncertain": false
+     },
+     {
+      "id": "p182-06",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p182-07",
+      "kind": "paragraph",
+      "number": 107,
+      "geez_numeral": "፻፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "107. Deacon: Stand up for prayer. People: Lord have mercy upon us. Priest: Peace be unto you all. People: And with your spirit.",
+      "uncertain": false
+     }
+    ],
+    "division": "d05"
+   },
+   {
+    "pdf_page": 183,
+    "printed_page_geez": "፻፸፬",
+    "printed_page": 174,
+    "section_geez": "ቅዳሴ ዮሐንስ ወልደ ነጐድጓድ",
+    "section_english": "The Anaphora of John, Son of Thunder",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p183-01",
+      "kind": "paragraph",
+      "number": 108,
+      "geez_numeral": "፻፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "108. Priest: Prayer of Fraction: And again we supplicate the almighty Lord, Father of the Lord and our Saviour Jesus Christ because he has made us worthy to fulfil this holy mystery, and we beseech the almighty Lord our God to vouchsafe to us a day of blessing.",
+      "uncertain": false
+     },
+     {
+      "id": "p183-02",
+      "kind": "paragraph",
+      "number": 109,
+      "geez_numeral": "፻፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "109. Deacon: You pray. People: Our Father who are in heaven … (Anaphora of the Apostles No. 60 ).",
+      "uncertain": false
+     },
+     {
+      "id": "p183-03",
+      "kind": "paragraph",
+      "number": 110,
+      "geez_numeral": "፻፲",
+      "continued": null,
+      "heading_note": null,
+      "english": "110. Priest: O Lord, almighty, Father of our Lord and our God and our Saviour Jesus Christ, we offer our prayer to you and supplicate you through all and in all, because you have made us worthy again to fulfil this holy mystery, and grant that this may be a blessing to us.",
+      "uncertain": false
+     },
+     {
+      "id": "p183-04",
+      "kind": "paragraph",
+      "number": 111,
+      "geez_numeral": "፻፲፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "111. Do not suffer any one of us to be guilty, and suffer it not to be a pleasure of the flesh, but let it be to all of us a pleasure of the soul to receive the holy mystery through our Lord Jesus Christ, through whom to You with him and with the Holy Spirit be glory and dominion, both now and ever and world without end. Amen.",
+      "uncertain": false
+     }
+    ],
+    "division": "d05"
+   },
+   {
+    "pdf_page": 184,
+    "printed_page_geez": "፻፸፭",
+    "printed_page": 175,
+    "section_geez": "ቅዳሴ ዮሐንስ ወልደ ነጐድጓድ",
+    "section_english": "The Anaphora of John, Son of Thunder",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p184-01",
+      "kind": "paragraph",
+      "number": 112,
+      "geez_numeral": "፻፲፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "112. Priest: Before the glory of your holiness your servants and hand-maids have prostrated themselves in soul and body and spirit; incline your ear unto their supplication, and purify them from all un-cleanness of body and soul that they may receive your holy mystery and be united through it: Through your only-begotten Son, through whom to you with him and with the Holy Spirit be glory and dominion both now and ever and world without end. Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p184-02",
+      "kind": "paragraph",
+      "number": 113,
+      "geez_numeral": "፻፲፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "113. People: The hosts of the angels of the Saviour of the world stand before the Saviour of the world,",
+      "uncertain": false
+     },
+     {
+      "id": "p184-03",
+      "kind": "paragraph",
+      "number": 114,
+      "geez_numeral": "፻፲፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "114. and they encircle the Saviour of the world, even the body and blood of the Saviour of the world:",
+      "uncertain": false
+     },
+     {
+      "id": "p184-04",
+      "kind": "paragraph",
+      "number": 115,
+      "geez_numeral": "፻፲፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "115. And let us come before the face of the Saviour of the world. In the faith which is of Him the martyrs shed their blood for his sake.",
+      "uncertain": false
+     },
+     {
+      "id": "p184-05",
+      "kind": "paragraph",
+      "number": 116,
+      "geez_numeral": "፻፲፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "116. Asst. Deacon: You princes, open the gates.",
+      "uncertain": false
+     },
+     {
+      "id": "p184-06",
+      "kind": "paragraph",
+      "number": 117,
+      "geez_numeral": "፻፲፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "117. Deacon: You who are standing, bow your heads.",
+      "uncertain": false
+     },
+     {
+      "id": "p184-07",
+      "kind": "paragraph",
+      "number": 118,
+      "geez_numeral": "፻፲፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "118. Priest: What blessing, what speech with which we glorify, what word, what praise, what thanksgiving and what name are we to say upon this bread which will be broken; except save your name Jesus Christ whose name is Giver of life and Saviour?",
+      "uncertain": false
+     }
+    ],
+    "division": "d05"
+   },
+   {
+    "pdf_page": 185,
+    "printed_page_geez": "፻፸፮",
+    "printed_page": 176,
+    "section_geez": "ቅዳሴ ዮሐንስ ወልደ ነጐድጓድ",
+    "section_english": "The Anaphora of John, Son of Thunder",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p185-01",
+      "kind": "paragraph",
+      "number": 119,
+      "geez_numeral": "፻፲፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "119. This bread of life which descended from heaven is for the salvation of the world. We bless You who did become for us the way to the place of life.",
+      "uncertain": false
+     },
+     {
+      "id": "p185-02",
+      "kind": "paragraph",
+      "number": 120,
+      "geez_numeral": "፻፳",
+      "continued": null,
+      "heading_note": null,
+      "english": "120. We offer thanksgiving to you who through your word created all. You are the leader, You are the door of grace, you are the salt, you are the pearl of great price; you are the net of life; righteousness are you, power, wisdom, refuge, rest, help and salvation. It is You, being called after these names, who did become man through love of men, in order that they may be saved and renewed from the former open evil works into which they fell through sin. Glory be to You, world without end.",
+      "uncertain": false
+     },
+     {
+      "id": "p185-03",
+      "kind": "paragraph",
+      "number": 121,
+      "geez_numeral": "፻፳፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "121. Deacon: Worship the Lord with fear. People: Before you, Lord, we worship, and we do glorify you.",
+      "uncertain": false
+     },
+     {
+      "id": "p185-04",
+      "kind": "paragraph",
+      "number": 122,
+      "geez_numeral": "፻፳፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "122. Prayer of Penitence. (Anaphora of the Apostles No. 72-88)",
+      "uncertain": false
+     },
+     {
+      "id": "p185-05",
+      "kind": "paragraph",
+      "number": 123,
+      "geez_numeral": "፻፳፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "123. Deacon: Give attention. Priest: Holy things for the holy. People: One is the Holy Father, one is the Holy Son, and one is the Holy Spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p185-06",
+      "kind": "paragraph",
+      "number": 124,
+      "geez_numeral": "፻፳፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "124. Priest: The Lord be with you all. People: And with your spirit. Priest: O Lord Christ, have compassion upon us. (Anaphora of the Apostles No. 92-93 ). People: Shall repeat his words.",
+      "uncertain": false
+     }
+    ],
+    "division": "d05"
+   },
+   {
+    "pdf_page": 186,
+    "printed_page_geez": "፻፸፯",
+    "printed_page": 177,
+    "section_geez": "ቅዳሴ ዮሐንስ ወልደ ነጐድጓድ",
+    "section_english": "The Anaphora of John, Son of Thunder",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p186-01",
+      "kind": "paragraph",
+      "number": 125,
+      "geez_numeral": "፻፳፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "125. Deacon: You, that are penitent, bow your heads. (Anaphora of the Apostles No. 92-138 ).",
+      "uncertain": false
+     },
+     {
+      "id": "p186-02",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p186-03",
+      "kind": "paragraph",
+      "number": 126,
+      "geez_numeral": "፻፳፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "126. After receiving the Holy Communion the following prayer shall be said instead of the Prayer of \"The Pilot of the Soul\". Priest: And again we beseech the almighty God, the Father of our Lord and our Saviour Jesus Christ.",
+      "uncertain": false
+     },
+     {
+      "id": "p186-04",
+      "kind": "paragraph",
+      "number": 127,
+      "geez_numeral": "፻፳፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "127. Thanking him through all and in all, because he has made us worthy to fulfil the receiving of the holy mystery. We beseech the almighty Lord our God to grant us a day of blessing. Deacon: You Pray.",
+      "uncertain": false
+     },
+     {
+      "id": "p186-05",
+      "kind": "paragraph",
+      "number": 128,
+      "geez_numeral": "፻፳፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "128. Priest: O Almighty Lord, we beseech you through all and in all because you have hid these things from those who pretended to be wise and prudent and revealed them to us, the meek.",
+      "uncertain": false
+     },
+     {
+      "id": "p186-06",
+      "kind": "paragraph",
+      "number": 129,
+      "geez_numeral": "፻፳፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "129. Yes Father, for so it seemed good in your sight. Grant that our receiving of your holy mystery be not unto condemnation nor unto judgement but unto the remission of sin and for everlasting life and for true knowledge. Grant us this we beseech you.",
+      "uncertain": false
+     }
+    ],
+    "division": "d05"
+   },
+   {
+    "pdf_page": 187,
+    "printed_page_geez": "፻፸፰",
+    "printed_page": 178,
+    "section_geez": "ቅዳሴ ዮሐንስ ወልደ ነጐድጓድ",
+    "section_english": "The Anaphora of John, Son of Thunder",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p187-01",
+      "kind": "paragraph",
+      "number": 130,
+      "geez_numeral": "፻፴",
+      "continued": null,
+      "heading_note": null,
+      "english": "130. And as you have made us worthy to receive your holy mystery in this world, so also make our portion to be with your saints in the forthcoming resurrection from the dead, through our Lord and our Saviour Jesus Christ, through whom to you with him and with the Holy Spirit be glory and dominion, both now and ever and world without end. Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p187-02",
+      "kind": "paragraph",
+      "number": 131,
+      "geez_numeral": "፻፴፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "131. Priest: The laying on of the Hand. Before the glory of your holiness your servants and handmaiden have prostrated themselves in soul, body and spirit. Incline your ear unto their supplication.",
+      "uncertain": false
+     },
+     {
+      "id": "p187-03",
+      "kind": "paragraph",
+      "number": 132,
+      "geez_numeral": "፻፴፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "132. Bless them who mind the heavenly things with the blessing of your angels and powers. Bless the work of their hand, and be with them in every good work.",
+      "uncertain": false
+     },
+     {
+      "id": "p187-04",
+      "kind": "paragraph",
+      "number": 133,
+      "geez_numeral": "፻፴፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "133. Grant that by their receiving of your holy mystery they may be prudent, watchful and freed from all evil, and may be nourished in their souls, bodies and spirits. Through our Lord Jesus Christ, through whom to you with him and with the Holy Spirit be glory and dominion both now and ever and world without end. Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p187-05",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d05"
+   }
+  ],
+  "first_pdf_page": 163,
+  "last_pdf_page": 187,
+  "page_count": 25,
+  "entry_count": 140
+ }
+}

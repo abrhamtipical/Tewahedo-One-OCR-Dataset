@@ -1,0 +1,71 @@
+{
+ "title": "Full Kidase",
+ "language": "English",
+ "source": "Full Kidase.pdf (PDF pages 8-420; page numbers are the PDF page numbers)",
+ "ids": "Entry ids are shared between the two files: pNNN-NN = PDF page, entry order on that page.",
+ "uncertain_marker": "Text between ⟦? and ?⟧ is a word the transcriber could not read with confidence.",
+ "division": {
+  "id": "d17",
+  "kind": "commentary",
+  "name_geez": "ሐተታ",
+  "name_english": "Commentary",
+  "pages": [
+   {
+    "pdf_page": 420,
+    "printed_page_geez": "፬፻፲፩",
+    "printed_page": 411,
+    "section_geez": "ሐተታ",
+    "section_english": "Commentary",
+    "page_note": "two columns: ግዕዝ / አማርኛ; no English column on this page; degraded scan re-read at 450 dpi; Ge'ez numerals in the commentary read from glyph shape and the totals 15+6=21 and 21; the ፲ወ፭ቱ and the two ፪ቱ in the outer-blessing list are inferred from the counts",
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p420-01",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "(no English column)",
+      "uncertain": false
+     },
+     {
+      "id": "p420-02",
+      "kind": "commentary",
+      "number": 1,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "(no English column)",
+      "uncertain": false
+     },
+     {
+      "id": "p420-03",
+      "kind": "commentary",
+      "number": 2,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": null,
+      "uncertain": false
+     },
+     {
+      "id": "p420-04",
+      "kind": "commentary",
+      "number": 3,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "(no English column)",
+      "uncertain": false
+     }
+    ],
+    "division": "d17"
+   }
+  ],
+  "first_pdf_page": 420,
+  "last_pdf_page": 420,
+  "page_count": 1,
+  "entry_count": 4
+ }
+}

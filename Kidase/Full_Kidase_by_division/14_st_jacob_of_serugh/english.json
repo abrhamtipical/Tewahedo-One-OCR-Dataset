@@ -1,0 +1,1397 @@
+{
+ "title": "Full Kidase",
+ "language": "English",
+ "source": "Full Kidase.pdf (PDF pages 8-420; page numbers are the PDF page numbers)",
+ "ids": "Entry ids are shared between the two files: pNNN-NN = PDF page, entry order on that page.",
+ "uncertain_marker": "Text between ⟦? and ?⟧ is a word the transcriber could not read with confidence.",
+ "division": {
+  "id": "d14",
+  "kind": "anaphora",
+  "name_geez": "ቅዳሴ ያዕቆብ ዘሥሩግ",
+  "name_english": "Anaphora of St. Jacob of Serugh",
+  "pages": [
+   {
+    "pdf_page": 374,
+    "printed_page_geez": "፫፻፷፭",
+    "printed_page": 365,
+    "section_geez": "ቅዳሴ ያዕቆብ ዘሥሩግ",
+    "section_english": "Anaphora of St. Jacob of Serugh",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p374-01",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "THE ANAPHORA OF ST. JACOB OF SERUGH",
+      "uncertain": false
+     },
+     {
+      "id": "p374-02",
+      "kind": "paragraph",
+      "number": 1,
+      "geez_numeral": "፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "The Anaphora of Jacob, Bishop of Serugh; may his prayer and blessing be with our Patriarch ... archbishop with all Christian people and our country Ethiopia, world without end. Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p374-03",
+      "kind": "paragraph",
+      "number": 2,
+      "geez_numeral": "፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: The Lord be with you all. *People*: And with your spirit. *Priest*: You give thanks unto our God. *People*: It is right, it is just. *Priest*: Lift up your hearts. *People*: We have lifted them up unto the Lord our God.",
+      "uncertain": false
+     },
+     {
+      "id": "p374-04",
+      "kind": "paragraph",
+      "number": 3,
+      "geez_numeral": "፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Stand up in fear of God, open the windows of your ears that you may hear, and awaken your hearts. Our being here in this place is not in vain. God sees and examines every one of us.",
+      "uncertain": false
+     }
+    ],
+    "division": "d14"
+   },
+   {
+    "pdf_page": 375,
+    "printed_page_geez": "፫፻፷፮",
+    "printed_page": 366,
+    "section_geez": "ቅዳሴ ያዕቆብ ዘሥሩግ",
+    "section_english": "Anaphora of St. Jacob of Serugh",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p375-01",
+      "kind": "paragraph",
+      "number": 4,
+      "geez_numeral": "፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "Let us draw near and offer our prayer to God remembering the ancient fathers who gained their rest in the right faith; and we begin from the present honorable father, the Patriarch Abba (.....) and his fellow, Archbishop Abba (........)",
+      "uncertain": false
+     },
+     {
+      "id": "p375-02",
+      "kind": "paragraph",
+      "number": 5,
+      "geez_numeral": "፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: For the sake of the blessed ... *(Anaphora of the Apostles* No. 6-9).",
+      "uncertain": false
+     },
+     {
+      "id": "p375-03",
+      "kind": "paragraph",
+      "number": 6,
+      "geez_numeral": "፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "*The Assistant Priest shall say \"The Prayer of Benediction.\" (Anaphora of the Apostles No. 10-21)*",
+      "uncertain": false
+     },
+     {
+      "id": "p375-04",
+      "kind": "paragraph",
+      "number": 7,
+      "geez_numeral": "፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Asst. Deacon*: Lord, pity and have mercy upon the patriarchs, archbishops, bishops, priests, deacons and all the Christian people.",
+      "uncertain": false
+     },
+     {
+      "id": "p375-05",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p375-06",
+      "kind": "paragraph",
+      "number": 8,
+      "geez_numeral": "፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Rest the souls of these and all those whose names have or have not been called, and those on behalf of whom this good memorial has been made before you, and have mercy upon them:",
+      "uncertain": false
+     },
+     {
+      "id": "p375-07",
+      "kind": "paragraph",
+      "number": 9,
+      "geez_numeral": "፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "You who did send your Son from heaven into the womb of the Virgin to fulfil your will:",
+      "uncertain": false
+     },
+     {
+      "id": "p375-08",
+      "kind": "paragraph",
+      "number": 10,
+      "geez_numeral": "፲",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: You, that are sitting, stand up.",
+      "uncertain": false
+     },
+     {
+      "id": "p375-09",
+      "kind": "paragraph",
+      "number": 11,
+      "geez_numeral": "፲፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: To Him, to your Son, you did grant authority to judge heaven and earth, even so, he had had the authority before the world was created.",
+      "uncertain": false
+     },
+     {
+      "id": "p375-10",
+      "kind": "paragraph",
+      "number": 12,
+      "geez_numeral": "፲፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: Look to the east.",
+      "uncertain": false
+     }
+    ],
+    "division": "d14"
+   },
+   {
+    "pdf_page": 376,
+    "printed_page_geez": "፫፻፷፯",
+    "printed_page": 367,
+    "section_geez": "ቅዳሴ ያዕቆብ ዘሥሩግ",
+    "section_english": "Anaphora of St. Jacob of Serugh",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p376-01",
+      "kind": "paragraph",
+      "number": 13,
+      "geez_numeral": "፲፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: How profound is the greatness of your only One, and of His honour, humility, patience with might.",
+      "uncertain": false
+     },
+     {
+      "id": "p376-02",
+      "kind": "paragraph",
+      "number": 14,
+      "geez_numeral": "፲፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: Let us give heed.",
+      "uncertain": false
+     },
+     {
+      "id": "p376-03",
+      "kind": "paragraph",
+      "number": 15,
+      "geez_numeral": "፲፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: To him, to your Beloved bow the angels, archangels, ten thousand times ten thousand, and every name under heaven and on earth.",
+      "uncertain": false
+     },
+     {
+      "id": "p376-04",
+      "kind": "paragraph",
+      "number": 16,
+      "geez_numeral": "፲፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "The hosts of Michael in their tribes, and the hosts of Gabriel in their congregation, the Cherubim in their might, and the Seraphim in their sanctification, and all the hosts of angels in their ranks glorify God who is glorified with the glory of the saints.",
+      "uncertain": false
+     },
+     {
+      "id": "p376-05",
+      "kind": "paragraph",
+      "number": 17,
+      "geez_numeral": "፲፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: You answer.",
+      "uncertain": false
+     },
+     {
+      "id": "p376-06",
+      "kind": "paragraph",
+      "number": 18,
+      "geez_numeral": "፲፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: Holy holy holy, perfect Lord of hosts, heaven and earth are full of the holiness of your glory.",
+      "uncertain": false
+     },
+     {
+      "id": "p376-07",
+      "kind": "paragraph",
+      "number": 19,
+      "geez_numeral": "፲፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Let us also say together with them, Holy holy holy, Lord, you are truly our Lord and our God and our Saviour Jesus Christ, holy in your holiness, great in your greatness, praised in your thanks giving and glorified with the glory of your holy angels.",
+      "uncertain": false
+     }
+    ],
+    "division": "d14"
+   },
+   {
+    "pdf_page": 377,
+    "printed_page_geez": "፫፻፷፰",
+    "printed_page": 368,
+    "section_geez": "ቅዳሴ ያዕቆብ ዘሥሩግ",
+    "section_english": "Anaphora of St. Jacob of Serugh",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p377-01",
+      "kind": "paragraph",
+      "number": 20,
+      "geez_numeral": "፳",
+      "continued": null,
+      "heading_note": null,
+      "english": "O Lord, He who begat You resembles you in image and appearance, You were sent by the Father, and you are a spring, from the spring, sprung from heaven.",
+      "uncertain": false
+     },
+     {
+      "id": "p377-02",
+      "kind": "paragraph",
+      "number": 21,
+      "geez_numeral": "፳፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "You are the long cord which will not be severed from the Father; You are the creator of heaven and earth. You did come down from heaven by your will. The womb of the Virgin contained you. A little daughter, who was the daughter of the poor, carried you. The Galilean embraced you. You did sanctify her soul, purify her body and strengthen her and she was not afraid of you.",
+      "uncertain": false
+     },
+     {
+      "id": "p377-03",
+      "kind": "paragraph",
+      "number": 22,
+      "geez_numeral": "፳፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "You were born at Bethlehem and You did appear like a man. You were baptized by John; did walk on the sea; did rebuke the winds and quicken souls.",
+      "uncertain": false
+     },
+     {
+      "id": "p377-04",
+      "kind": "paragraph",
+      "number": 23,
+      "geez_numeral": "፳፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "You did join your disciples in the celebration of Hosanna; did satisfy much people with five loaves and two fishes through the power of the divinity.",
+      "uncertain": false
+     },
+     {
+      "id": "p377-05",
+      "kind": "paragraph",
+      "number": 24,
+      "geez_numeral": "፳፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "O Lord who cannot be affronted, You were affronted by Judas, you were reviled by Annas, disdained by Caiaphas, examined by Pilate and were numbered with the sinners.",
+      "uncertain": false
+     },
+     {
+      "id": "p377-06",
+      "kind": "paragraph",
+      "number": 25,
+      "geez_numeral": "፳፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "At the time on Friday the evil Jews crucified You on the tree of the cross in the likeness of this sign of the cross which we make raising our hands over this table.",
+      "uncertain": false
+     }
+    ],
+    "division": "d14"
+   },
+   {
+    "pdf_page": 378,
+    "printed_page_geez": "፫፻፷፱",
+    "printed_page": 369,
+    "section_geez": "ቅዳሴ ያዕቆብ ዘሥሩግ",
+    "section_english": "Anaphora of St. Jacob of Serugh",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p378-01",
+      "kind": "paragraph",
+      "number": 26,
+      "geez_numeral": "፳፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "O Lord, you were struck with the hands of a servant, beaten with sticks, pierced with a spear, and they caused you to drink bitter gall with vinegar. While you were God, able to prevent them, You did not prevent them, You did become patient even to death; all this You did accept for the love of man.",
+      "uncertain": false
+     },
+     {
+      "id": "p378-02",
+      "kind": "paragraph",
+      "number": 27,
+      "geez_numeral": "፳፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "You did rise from the dead and raise the dead, You did lead captivity captive to be presented to Your Father. Being clothed in flesh You did ascend to heaven, Your previous position, through the power of divinity.",
+      "uncertain": false
+     },
+     {
+      "id": "p378-03",
+      "kind": "paragraph",
+      "number": 28,
+      "geez_numeral": "፳፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "O Lord, pity Your people and remember Your covenant for the sake of Your beloved Abraham, Your servant Isaac and Your holy Israel whom You did call in your name:",
+      "uncertain": false
+     },
+     {
+      "id": "p378-04",
+      "kind": "paragraph",
+      "number": 29,
+      "geez_numeral": "፳፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "O Lord, for the sake of the holy prophets, for the sake of the apostles, preachers, for the sake of the ordained priests, for the sake of the victorious martyrs, for the sake of the blessed righteous, and for the sake of the patient virgins and monks.",
+      "uncertain": false
+     },
+     {
+      "id": "p378-05",
+      "kind": "paragraph",
+      "number": 30,
+      "geez_numeral": "፴",
+      "continued": null,
+      "heading_note": null,
+      "english": "O Lord, for the sake of these four Evangelists, the likeness of the chariots of the thrones in heaven:",
+      "uncertain": false
+     },
+     {
+      "id": "p378-06",
+      "kind": "paragraph",
+      "number": 31,
+      "geez_numeral": "፴፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "Matthew in the likeness of the man, who preached Your birth in flesh from the seed of David starting from the patriarch of the ancient fathers:",
+      "uncertain": false
+     }
+    ],
+    "division": "d14"
+   },
+   {
+    "pdf_page": 379,
+    "printed_page_geez": "፫፻፸",
+    "printed_page": 370,
+    "section_geez": "ቅዳሴ ያዕቆብ ዘሥሩግ",
+    "section_english": "Anaphora of St. Jacob of Serugh",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p379-01",
+      "kind": "paragraph",
+      "number": 32,
+      "geez_numeral": "፴፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "Mark in the likeness of a roaring lion, who propagated your preaching to the Egyptians in the orthodox faith.",
+      "uncertain": false
+     },
+     {
+      "id": "p379-02",
+      "kind": "paragraph",
+      "number": 33,
+      "geez_numeral": "፴፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "Luke in the likeness of an ox, who preached your humility, Your lying among asses and oxen, Your being wrapped in swaddling cloths and Your dwelling in a stable with the Virgin, your mother.",
+      "uncertain": false
+     },
+     {
+      "id": "p379-03",
+      "kind": "paragraph",
+      "number": 34,
+      "geez_numeral": "፴፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "John in the likeness of an eagle flying high and crying aloud, who interprets the Nature of the Deity, and who is the sea of wisdom and the depth of prophecy.",
+      "uncertain": false
+     },
+     {
+      "id": "p379-04",
+      "kind": "paragraph",
+      "number": 35,
+      "geez_numeral": "፴፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "It is You who did choose him from among his fellows and did decorate him with holiness and did gird him with your girdle of virginity to be blameless like the angels.",
+      "uncertain": false
+     },
+     {
+      "id": "p379-05",
+      "kind": "paragraph",
+      "number": 36,
+      "geez_numeral": "፴፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "O Lord, what mouth, what lips, what tongue can praise your exaltation?\n*At this time he shall raise incense.*",
+      "uncertain": false
+     },
+     {
+      "id": "p379-06",
+      "kind": "paragraph",
+      "number": 37,
+      "geez_numeral": "፴፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: Remember us, Lord, in your kingdom ... (*Anaphora of the Apostles No.* 34).",
+      "uncertain": false
+     },
+     {
+      "id": "p379-07",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d14"
+   },
+   {
+    "pdf_page": 380,
+    "printed_page_geez": "፫፻፸፩",
+    "printed_page": 371,
+    "section_geez": "ቅዳሴ ያዕቆብ ዘሥሩግ",
+    "section_english": "Anaphora of St. Jacob of Serugh",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p380-01",
+      "kind": "paragraph",
+      "number": 38,
+      "geez_numeral": "፴፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Glory be to You, thanksgiving to Your kingdom, power to your Father, honour and glory with dominion to the Holy Spirit who is equal with and not inferior to you, and to him who begat you, world without end.",
+      "uncertain": false
+     },
+     {
+      "id": "p380-02",
+      "kind": "paragraph",
+      "number": 39,
+      "geez_numeral": "፴፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: Priests, raise up your hands.",
+      "uncertain": false
+     },
+     {
+      "id": "p380-03",
+      "kind": "paragraph",
+      "number": 40,
+      "geez_numeral": "፵",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: You did take bread in Your holy hands to give to Your pure disciples.\n*At this time he shall raise the Bread.*",
+      "uncertain": false
+     },
+     {
+      "id": "p380-04",
+      "kind": "paragraph",
+      "number": 41,
+      "geez_numeral": "፵፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: We believe that this is He, truly we believe.",
+      "uncertain": false
+     },
+     {
+      "id": "p380-05",
+      "kind": "paragraph",
+      "number": 42,
+      "geez_numeral": "፵፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: O You, who did bless at that time, now bless this (*pointing*) bread with blessing. (*benediction three times*).",
+      "uncertain": false
+     },
+     {
+      "id": "p380-06",
+      "kind": "paragraph",
+      "number": 43,
+      "geez_numeral": "፵፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "O you, who did break at that time with thanksgiving, now break this (*pointing*) bread.\n*Then he shall indent the Host lightly with his thumb in five places without separation.*",
+      "uncertain": false
+     },
+     {
+      "id": "p380-07",
+      "kind": "paragraph",
+      "number": 44,
+      "geez_numeral": "፵፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: Amen amen amen, we believe and confess, we glorify you, O our Lord and our God; that this is he we truly believe.",
+      "uncertain": false
+     },
+     {
+      "id": "p380-08",
+      "kind": "paragraph",
+      "number": 45,
+      "geez_numeral": "፵፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: You did also mix the cup of wine with water to give to your pure disciples.",
+      "uncertain": false
+     }
+    ],
+    "division": "d14"
+   },
+   {
+    "pdf_page": 381,
+    "printed_page_geez": "፫፻፸፪",
+    "printed_page": 372,
+    "section_geez": "ቅዳሴ ያዕቆብ ዘሥሩግ",
+    "section_english": "Anaphora of St. Jacob of Serugh",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p381-01",
+      "kind": "paragraph",
+      "number": 46,
+      "geez_numeral": "፵፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "O You, who did sanctify at that time, now sanctify this (*pointing*) cup. (*benediction three times*)",
+      "uncertain": false
+     },
+     {
+      "id": "p381-02",
+      "kind": "paragraph",
+      "number": 47,
+      "geez_numeral": "፵፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "O You, who did grant at that time, now grant this cup. (*He shall then move the cup with his right hand in the sign of the cross.*)",
+      "uncertain": false
+     },
+     {
+      "id": "p381-03",
+      "kind": "paragraph",
+      "number": 48,
+      "geez_numeral": "፵፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: Amen amen amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p381-04",
+      "kind": "paragraph",
+      "number": 49,
+      "geez_numeral": "፵፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: O You, who did unite at that time, now unite this bread with this (*pointing*) cup to be your body and your blood.\n(*At this time he shall dip his finger into the Blood and sign the Body*).",
+      "uncertain": false
+     },
+     {
+      "id": "p381-05",
+      "kind": "paragraph",
+      "number": 50,
+      "geez_numeral": "፶",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: We proclaim Your death, Lord, and Your holy resurrection; we believe Your ascension and Your second advent. We glorify You and confess You, we offer our prayer unto You and supplicate You, O our Lord and our God.",
+      "uncertain": false
+     },
+     {
+      "id": "p381-06",
+      "kind": "paragraph",
+      "number": 51,
+      "geez_numeral": "፶፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: Let your heart be in heaven.",
+      "uncertain": false
+     },
+     {
+      "id": "p381-07",
+      "kind": "paragraph",
+      "number": 52,
+      "geez_numeral": "፶፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: According to your mercy, our God, and not according to our sins. (*to be repeated thrice*)",
+      "uncertain": false
+     }
+    ],
+    "division": "d14"
+   },
+   {
+    "pdf_page": 382,
+    "printed_page_geez": "፫፻፸፫",
+    "printed_page": 373,
+    "section_geez": "ቅዳሴ ያዕቆብ ዘሥሩግ",
+    "section_english": "Anaphora of St. Jacob of Serugh",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p382-01",
+      "kind": "paragraph",
+      "number": 53,
+      "geez_numeral": "፶፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Let the gate of life be opened and the doors of glory be unlocked and the curtain before the face of the Father be withdrawn, and let the Lamb of God descend and sit on this (*pointing*) holy table prepared before me, your servant. Let \"Melos\" the fearful sword of fire be sent and appear over this (*pointing*) bread and cup: (*benediction once over the Bread, and once over the Cup, and once more over both*) to fulfil this offering.",
+      "uncertain": false
+     },
+     {
+      "id": "p382-02",
+      "kind": "paragraph",
+      "number": 54,
+      "geez_numeral": "፶፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: Amen, Lord have pity upon us, Lord spare us, Lord have mercy upon us.",
+      "uncertain": false
+     },
+     {
+      "id": "p382-03",
+      "kind": "paragraph",
+      "number": 55,
+      "geez_numeral": "፶፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: With all the heart let us beseech the Lord our God that he may grant unto us the good communion of the Holy Spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p382-04",
+      "kind": "paragraph",
+      "number": 56,
+      "geez_numeral": "፶፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: As it was, is and shall be unto generations of generations, world without end.",
+      "uncertain": false
+     },
+     {
+      "id": "p382-05",
+      "kind": "paragraph",
+      "number": 57,
+      "geez_numeral": "፶፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Grant it together unto all them that take of it that it may be unto them for life and for remission of sin.",
+      "uncertain": false
+     },
+     {
+      "id": "p382-06",
+      "kind": "paragraph",
+      "number": 58,
+      "geez_numeral": "፶፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Grant us to be united through Your Holy Spirit, and heal us by this oblation that we may live in You forever.\n*People: The people shall repeat his words.*",
+      "uncertain": false
+     }
+    ],
+    "division": "d14"
+   },
+   {
+    "pdf_page": 383,
+    "printed_page_geez": "፫፻፸፬",
+    "printed_page": 374,
+    "section_geez": "ቅዳሴ ያዕቆብ ዘሥሩግ",
+    "section_english": "Anaphora of St. Jacob of Serugh",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p383-01",
+      "kind": "paragraph",
+      "number": 59,
+      "geez_numeral": "፶፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Blessed be the name of the Lord, and blessed be he that comes in the name of the Lord, and let the name of his glory be blessed. So be it, so be it, so be it blessed.\n*People: The people shall repeat his words.*",
+      "uncertain": false
+     },
+     {
+      "id": "p383-02",
+      "kind": "paragraph",
+      "number": 60,
+      "geez_numeral": "፷",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Send the grace of the Holy Spirit upon us.\n*People: The people shall repeat his words.*",
+      "uncertain": false
+     },
+     {
+      "id": "p383-03",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p383-04",
+      "kind": "paragraph",
+      "number": 61,
+      "geez_numeral": "፷፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: Stand up for prayer.\n*People*: Lord have mercy upon us.\n*Priest*: Peace be unto you all.\n*People*: And with your spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p383-05",
+      "kind": "paragraph",
+      "number": 62,
+      "geez_numeral": "፷፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: *Prayer of Fraction.*\nAgain we supplicate You, O Lover of man, and we serve You in all things and for all things, and let not Your body and blood accuse any one of us because of the impurity of our soul and body.",
+      "uncertain": false
+     },
+     {
+      "id": "p383-06",
+      "kind": "paragraph",
+      "number": 63,
+      "geez_numeral": "፷፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "As Your body was stretched on the cross up and down, right and left, like the corners of the earth, for the life of all the entire world, so also we hold and see this sign of the cross on this bread; and let it not be for accusation and destruction to anyone who partakes of it.",
+      "uncertain": false
+     }
+    ],
+    "division": "d14"
+   },
+   {
+    "pdf_page": 384,
+    "printed_page_geez": "፫፻፸፭",
+    "printed_page": 375,
+    "section_geez": "ቅዳሴ ያዕቆብ ዘሥሩግ",
+    "section_english": "Anaphora of St. Jacob of Serugh",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p384-01",
+      "kind": "paragraph",
+      "number": 64,
+      "geez_numeral": "፷፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "O Lord, how clearly you know the foolishness of man, none has been found who has not transgressed your commandment from the first Adam till the present days, because you, Lord our God, are far from anger, plenteous in mercy, and righteous.",
+      "uncertain": false
+     },
+     {
+      "id": "p384-02",
+      "kind": "paragraph",
+      "number": 65,
+      "geez_numeral": "፷፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: You pray.\n*People*: Our Father who are in heaven... (Anaphora of the Holy Apostles, No. 60)",
+      "uncertain": false
+     },
+     {
+      "id": "p384-03",
+      "kind": "paragraph",
+      "number": 66,
+      "geez_numeral": "፷፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Truly I offer prayer according to the first order given by God that Moses and Aaron, the priests, might pray on behalf of Your people and inheritance.",
+      "uncertain": false
+     },
+     {
+      "id": "p384-04",
+      "kind": "paragraph",
+      "number": 67,
+      "geez_numeral": "፷፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "Like them I pray unto You on behalf of your people and inheritance who have come into Your church, priest and deacons, and on behalf of Your people and inheritance who are outside. If there is here anyone of the priests or the people whose mind is far from you let Your will overwhelm him:",
+      "uncertain": false
+     },
+     {
+      "id": "p384-05",
+      "kind": "paragraph",
+      "number": 68,
+      "geez_numeral": "፷፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "As you have gathered this bread which had been scattered on the mountains and the little hills, in the forests and the valleys, and being gathered together it became one bread for oblation,",
+      "uncertain": false
+     }
+    ],
+    "division": "d14"
+   },
+   {
+    "pdf_page": 385,
+    "printed_page_geez": "፫፻፸፮",
+    "printed_page": 376,
+    "section_geez": "ቅዳሴ ያዕቆብ ዘሥሩግ",
+    "section_english": "Anaphora of St. Jacob of Serugh",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p385-01",
+      "kind": "paragraph",
+      "number": 69,
+      "geez_numeral": "፷፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: The hosts of the angels of the Saviour of the world stand before the Saviour of the world and the angels encircled the Saviour of the world whose curtain is fire for the sake of his holy body and his precious blood.\nLet us draw near before his face to enter into the house of the holiness of the Saviour of the world and to live believing in him and trusting in him.",
+      "uncertain": false
+     },
+     {
+      "id": "p385-02",
+      "kind": "paragraph",
+      "number": 70,
+      "geez_numeral": "፸",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Asst. Deacon*: You princes open the gates.",
+      "uncertain": false
+     },
+     {
+      "id": "p385-03",
+      "kind": "paragraph",
+      "number": 71,
+      "geez_numeral": "፸፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: You, who are standing, bow your heads.",
+      "uncertain": false
+     },
+     {
+      "id": "p385-04",
+      "kind": "paragraph",
+      "number": 72,
+      "geez_numeral": "፸፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: Truly we bow and serve you who sit in the highest heaven which neither the mind of man nor the knowledge of angels can reach.",
+      "uncertain": false
+     },
+     {
+      "id": "p385-05",
+      "kind": "paragraph",
+      "number": 73,
+      "geez_numeral": "፸፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "We supplicate the kindness of Your goodness on behalf of Your people and Your inheritance who have today come unto Your sanctuary, the priests and deacons who have bowed their heads before Your exaltation to receive Your body and Your blood by the hand of me, Your servant, whom you have called through Your grace, though unfit, unworthy and pitiable.",
+      "uncertain": false
+     }
+    ],
+    "division": "d14"
+   },
+   {
+    "pdf_page": 386,
+    "printed_page_geez": "፫፻፸፯",
+    "printed_page": 377,
+    "section_geez": "ቅዳሴ ያዕቆብ ዘሥሩግ",
+    "section_english": "Anaphora of St. Jacob of Serugh",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p386-01",
+      "kind": "paragraph",
+      "number": 74,
+      "geez_numeral": "፸፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "This is the covenant of Your word which you did utter to the priests saying, You are the salt of the earth; You did say to the priests, You are the light of the world; You did say to the priests, You are the eyes of the house of God.\nYou did say to the priests, You are the candles of the church; you did say to the priests, Your are the likeness of the angels. Come, O High Priest Jesus Christ, to bless your people and your inheritance, world without end.",
+      "uncertain": false
+     },
+     {
+      "id": "p386-02",
+      "kind": "paragraph",
+      "number": 75,
+      "geez_numeral": "፸፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: Worship the Lord with fear.",
+      "uncertain": false
+     },
+     {
+      "id": "p386-03",
+      "kind": "paragraph",
+      "number": 76,
+      "geez_numeral": "፸፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "*People*: Before you, Lord, we worship, and we do glorify you.",
+      "uncertain": false
+     },
+     {
+      "id": "p386-04",
+      "kind": "paragraph",
+      "number": 77,
+      "geez_numeral": "፸፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: *Prayer of Penitence.* (*Anaphora of the Apostles No. 72-88*)",
+      "uncertain": false
+     },
+     {
+      "id": "p386-05",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p386-06",
+      "kind": "paragraph",
+      "number": 78,
+      "geez_numeral": "፸፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: Give heed.\n*Priest*: Holy things for the holy.\n*People*: One is the Holy Father, one is the holy Son, one is the Holy Spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p386-07",
+      "kind": "paragraph",
+      "number": 79,
+      "geez_numeral": "፸፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: The Lord be with you all.\n*People*: And with your spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p386-08",
+      "kind": "paragraph",
+      "number": 80,
+      "geez_numeral": "፹",
+      "continued": null,
+      "heading_note": null,
+      "english": "*The priest shall then lift up the whole Host with his hand and say: O Lord Christ, have compassion upon us. (three times in a loud chant and fifteen times in a low chant)*\n*The people shall repeat his words.*\n*Then he shall repeat them three times and the people twice.*",
+      "uncertain": false
+     }
+    ],
+    "division": "d14"
+   },
+   {
+    "pdf_page": 387,
+    "printed_page_geez": "፫፻፸፰",
+    "printed_page": 378,
+    "section_geez": "ቅዳሴ ያዕቆብ ዘሥሩግ",
+    "section_english": "Anaphora of St. Jacob of Serugh",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p387-01",
+      "kind": "paragraph",
+      "number": 81,
+      "geez_numeral": "፹፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Deacon*: You, that are penitent, bow your heads.",
+      "uncertain": false
+     },
+     {
+      "id": "p387-02",
+      "kind": "paragraph",
+      "number": 82,
+      "geez_numeral": "፹፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Then he shall turn to the people and say*:\n*Priest*: Lord our God ... (*Anaphora of the Apostles No. 95-138*)",
+      "uncertain": false
+     },
+     {
+      "id": "p387-03",
+      "kind": "paragraph",
+      "number": 83,
+      "geez_numeral": "፹፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "*After receiving the Holy Communion.*\n*Priest*: Pilot of the soul. O creator of lights, who did cast away the darkness and degrade the idols and destroyed death through Your death:",
+      "uncertain": false
+     },
+     {
+      "id": "p387-04",
+      "kind": "paragraph",
+      "number": 84,
+      "geez_numeral": "፹፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "We supplicate the kindness of your goodness on behalf of your people and your inheritance who have come unto Your sanctuary to receive Your body and Your blood from Your honourable table which is the hope of sinners.",
+      "uncertain": false
+     },
+     {
+      "id": "p387-05",
+      "kind": "paragraph",
+      "number": 85,
+      "geez_numeral": "፹፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "Keep them, by day, from trespassing and from error of sight and of the members of the body, and keep them by night that the vain thoughts thereof which destroy the soul may not come unto them.",
+      "uncertain": false
+     },
+     {
+      "id": "p387-06",
+      "kind": "paragraph",
+      "number": 86,
+      "geez_numeral": "፹፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "When they sleep let the wings of the angels cover them in order that oversleeping, which is the likeness of death, may not overwhelm them. O Lord, awaken them through your love to glorify your honourable and strong name, almighty Lord our God.\n*Deacon*: You pray.",
+      "uncertain": false
+     }
+    ],
+    "division": "d14"
+   },
+   {
+    "pdf_page": 388,
+    "printed_page_geez": "፫፻፸፱",
+    "printed_page": 379,
+    "section_geez": "ቅዳሴ ያዕቆብ ዘሥሩግ",
+    "section_english": "Anaphora of St. Jacob of Serugh",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p388-01",
+      "kind": "paragraph",
+      "number": 87,
+      "geez_numeral": "፹፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: O Lord, this corruptible and transient world of hoping is not for us, your Christian people; but we hope and wait for that which is to come.",
+      "uncertain": false
+     },
+     {
+      "id": "p388-02",
+      "kind": "paragraph",
+      "number": 88,
+      "geez_numeral": "፹፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "Because you did say, Heaven and earth shall pass away, but my words shall not pass away.",
+      "uncertain": false
+     },
+     {
+      "id": "p388-03",
+      "kind": "paragraph",
+      "number": 89,
+      "geez_numeral": "፹፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "You also did say, the horn will be blown three times to awaken the dead.",
+      "uncertain": false
+     },
+     {
+      "id": "p388-04",
+      "kind": "paragraph",
+      "number": 90,
+      "geez_numeral": "፺",
+      "continued": null,
+      "heading_note": null,
+      "english": "At the first blowing of the horn there will be gathered the dust of bodies scattered through all the ends of the world, above and beneath, in the sea and on the land, that which is in the stomachs of the beasts and that which waxed old and perished after death, and the pieces of the body, fallen on earth, will be gathered in their previous position.",
+      "uncertain": false
+     },
+     {
+      "id": "p388-05",
+      "kind": "paragraph",
+      "number": 91,
+      "geez_numeral": "፺፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "At the second blowing of the horn the bones will be joined with the flesh and blood and they will be perfect dead bodies without movement until the appointed time.",
+      "uncertain": false
+     },
+     {
+      "id": "p388-06",
+      "kind": "paragraph",
+      "number": 92,
+      "geez_numeral": "፺፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "At the third blowing of the horn the dead will rise in the twinkling of an eye, the righteous and the sinners, carrying their works which followed them from the earth and which they did in all the days of their life, good or bad. You will make the righteous to stand at your right hand, and the sinners at your left hand.",
+      "uncertain": false
+     }
+    ],
+    "division": "d14"
+   },
+   {
+    "pdf_page": 389,
+    "printed_page_geez": "፫፻፹",
+    "printed_page": 380,
+    "section_geez": "ቅዳሴ ያዕቆብ ዘሥሩግ",
+    "section_english": "Anaphora of St. Jacob of Serugh",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p389-01",
+      "kind": "paragraph",
+      "number": 93,
+      "geez_numeral": "፺፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "You will answer Your elect with the words of blessing saying: Come to me, you blessed of my Father, inherit the kingdom of heaven prepared for you from the foundation of the world:\nFor I was an hungered, and you gave me food:\nI was thirsty, and you gave me drink:\nI was stranger, and you took me in:\nI was naked, and you clothed me:\nI was sick, and you visited me:\nI was in prison, and you came unto me and spoke on my behalf.",
+      "uncertain": false
+     },
+     {
+      "id": "p389-02",
+      "kind": "paragraph",
+      "number": 94,
+      "geez_numeral": "፺፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "Afterwards You will turn to your left hand and rebuke the sinners with the word of accusation saying: Depart from me, you cursed, into everlasting fire prepared for the Devil and his angels:\nFor I was an hungered, and you gave me no food:\nI was thirsty, and you gave me no dirnk:\nI was a stranger, and you took me not in:\nI was naked, and you did not clothe me:\nI was sick, and you did not visit me.\nI was in prison, and you did not speak on my behalf.",
+      "uncertain": false
+     },
+     {
+      "id": "p389-03",
+      "kind": "paragraph",
+      "number": 95,
+      "geez_numeral": "፺፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "At that time every mouth and tongue which spoke mischief and deceit will be stopped. At that time there will be sorrow but vain sorrow.",
+      "uncertain": false
+     }
+    ],
+    "division": "d14"
+   },
+   {
+    "pdf_page": 390,
+    "printed_page_geez": "፫፻፹፩",
+    "printed_page": 381,
+    "section_geez": "ቅዳሴ ያዕቆብ ዘሥሩግ",
+    "section_english": "Anaphora of St. Jacob of Serugh",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p390-01",
+      "kind": "paragraph",
+      "number": 96,
+      "geez_numeral": "፺፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "At that time there will be a cry but a vain cry: at that time there will be wailing but vain wailing; at that time there will be lamentation but vain lamentation; at that time tears will be shed like the water of winter which has not end and does not stop. There will be sent to them swift lightening and a fearful sound of thunder and a powerful sound of thunder and a powerful flash which cuts, separates and divdes – this is the portion of sinners.",
+      "uncertain": false
+     },
+     {
+      "id": "p390-02",
+      "kind": "paragraph",
+      "number": 97,
+      "geez_numeral": "፺፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "At that time the earth will restore that which was entrusted to it and the mother will not hear the cry of her daughter. At that time there will be revealed the work of the soul which she did during all the days of her life.",
+      "uncertain": false
+     },
+     {
+      "id": "p390-03",
+      "kind": "paragraph",
+      "number": 98,
+      "geez_numeral": "፺፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "We have trusted on your body which we have eaten and your blood which we have drunk that you at that time may have compassion and mercy upon us, because you did say, Whosoever eats my flesh, and drinks my blood, has eternal life.",
+      "uncertain": false
+     },
+     {
+      "id": "p390-04",
+      "kind": "paragraph",
+      "number": 99,
+      "geez_numeral": "፺፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "We have also trusted on your mother our Lady Mary, the shield of our race in giving birth to you, because you did say to her, He who remembers you and calls upon your name will have eternal life.",
+      "uncertain": false
+     }
+    ],
+    "division": "d14"
+   },
+   {
+    "pdf_page": 391,
+    "printed_page_geez": "፫፻፹፪",
+    "printed_page": 382,
+    "section_geez": "ቅዳሴ ያዕቆብ ዘሥሩግ",
+    "section_english": "Anaphora of St. Jacob of Serugh",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p391-01",
+      "kind": "paragraph",
+      "number": 100,
+      "geez_numeral": "፻",
+      "continued": null,
+      "heading_note": null,
+      "english": "We have also trusted on the archangels, the persecution of the prophets, the preaching of the apostles, the right hand of the priests, the blood of the martyrs, the patience of the young men, virgins and monks, and on the faith of the faithful men and women.",
+      "uncertain": false
+     },
+     {
+      "id": "p391-02",
+      "kind": "paragraph",
+      "number": 101,
+      "geez_numeral": "፻፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "At that time have compassion, pity and mercy upon us. Glory be to the Father who sent, thanksgiving be to the son who was sent, and honour and glory be to the lifegiving Holy Spirit, both now and ever and world without end.\n*People*: Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p391-03",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p391-04",
+      "kind": "paragraph",
+      "number": 102,
+      "geez_numeral": "፻፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "*Priest*: *The Laying on of the Hand*.\nGod has authority in power and name, and there is no name like his under the four foundations, and over the seven heavens. It is He who created all, visible and invisible, known and unknown, palpable and impalpable, hidden and open, above and beneath.",
+      "uncertain": false
+     },
+     {
+      "id": "p391-05",
+      "kind": "paragraph",
+      "number": 103,
+      "geez_numeral": "፻፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "He created all, even Adam the handiwork of God, without being wearied.",
+      "uncertain": false
+     },
+     {
+      "id": "p391-06",
+      "kind": "paragraph",
+      "number": 104,
+      "geez_numeral": "፻፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "And now, O Lord our God and our Saviour Jesus Christ, we pray you and beseech you on behalf of those who have bowed their heads before you to dismiss them:",
+      "uncertain": false
+     }
+    ],
+    "division": "d14"
+   },
+   {
+    "pdf_page": 392,
+    "printed_page_geez": "፫፻፹፫",
+    "printed_page": 383,
+    "section_geez": "ቅዳሴ ያዕቆብ ዘሥሩግ",
+    "section_english": "Anaphora of St. Jacob of Serugh",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p392-01",
+      "kind": "paragraph",
+      "number": 105,
+      "geez_numeral": "፻፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "Make their infants to grow, let their adults come to their full stature, support their aged ones, strengthen their feeble ones, keep their women and let their children be entrusted to you.",
+      "uncertain": false
+     },
+     {
+      "id": "p392-02",
+      "kind": "paragraph",
+      "number": 106,
+      "geez_numeral": "፻፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "Satisfy their hungry ones, give drink to their thirsty ones, clothe their naked ones, give rest to their troubled ones, comfort their sad ones and gladden their sorrowful ones.",
+      "uncertain": false
+     },
+     {
+      "id": "p392-03",
+      "kind": "paragraph",
+      "number": 107,
+      "geez_numeral": "፻፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "Give life to their sick, heal their diseased, give light to the eyes of their blind, make the ears of their deaf hear, loosen their prisoners and give freedom to their captives.",
+      "uncertain": false
+     },
+     {
+      "id": "p392-04",
+      "kind": "paragraph",
+      "number": 108,
+      "geez_numeral": "፻፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "Purify their bodies, sanctify their souls, and when they go back to their homes, O Lord, guide that they may reach them, feed them and lift them up for ever.",
+      "uncertain": false
+     },
+     {
+      "id": "p392-05",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d14"
+   }
+  ],
+  "first_pdf_page": 374,
+  "last_pdf_page": 392,
+  "page_count": 19,
+  "entry_count": 115
+ }
+}

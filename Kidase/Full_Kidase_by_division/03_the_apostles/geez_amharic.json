@@ -1,0 +1,2531 @@
+{
+ "title": "Full Kidase",
+ "language": "Ge'ez (ግዕዝ) and Amharic (አማርኛ)",
+ "source": "Full Kidase.pdf (PDF pages 8-420; page numbers are the PDF page numbers)",
+ "ids": "Entry ids are shared between the two files: pNNN-NN = PDF page, entry order on that page.",
+ "uncertain_marker": "Text between ⟦? and ?⟧ is a word the transcriber could not read with confidence.",
+ "division": {
+  "id": "d03",
+  "kind": "anaphora",
+  "name_geez": "ቅዳሴ ሐዋርያት",
+  "name_english": "The Anaphora of the Apostles",
+  "pages": [
+   {
+    "pdf_page": 111,
+    "printed_page_geez": "፻፪",
+    "printed_page": 102,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p111-01",
+      "kind": "paragraph",
+      "number": 4,
+      "geez_numeral": "፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ነአኵተከ እግዚኦ በፍቁር ወልድከ እግዚእነ ኢየሱስ ዘበደኃሪ መዋዕል ፈኖከ ለነ ወልደከ መድኀነ ወመቤዝወ መልአከ ምክርከ፡",
+      "amharic": "ይ.ካ. አቤቱ በተወደደ ልጅህ በጌታችን በኢየሱስ ክርስቶስ እናመሰግንሃለን፡ በኋለኛው ዘመን የምክርህን አበጋዝ መድኃኒትና ቤዛ የሚሆን ልጅህን የሰደድህልን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p111-02",
+      "kind": "paragraph",
+      "number": 5,
+      "geez_numeral": "፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ዝ ቃል እንተ እምኔከ ውእቱ ወቦቱ ኵሎ ገበርከ በፈቃድከ።።",
+      "amharic": "ይህ ቃል ካንተ የተገኘ ነው፡ በርሱም ሁሉን በፈቃድህ አደረግህ።።",
+      "uncertain": false
+     },
+     {
+      "id": "p111-03",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p111-04",
+      "kind": "paragraph",
+      "number": 6,
+      "geez_numeral": "፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. በእንተ ብፁዕ ወቅዱስ ርዕሰ ሊቃነ ጳጳሳት አባ እገሌ፡ ወብፁዕ ሊቀ ጳጳስነ አባ እገሌ፡ እንዘ የአኵቱከ በጸሎቶሙ ወበስእለቶሙ እስጢፋኖስ ቀዳሜ ሰማዕት፡ ዘካርያስ ካህን ወዮሐንስ መጥምቅ፡",
+      "amharic": "ይ.ዲ. ብፁዕ ቅዱስ ስለሚሆን ስለ ሊቀ ጳጳሳቱ ስለ አባ እገሌ፡ ብፁዕም ስለሚሆን ስለ አባ እገሌ፡ በጸሎታቸውና በልመናቸው ሲያመሰግኑህ የሰማዕታት መጀመሪያ እስጢፋኖስ፡ ካህኑ ዘካርያስና መጥምቁ ዮሐንስ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p111-05",
+      "kind": "paragraph",
+      "number": 7,
+      "geez_numeral": "፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወበእንተ ኵሎሙ ቅዱሳን ወሰማዕት እለ አዕረፉ በርትዕት ሃይማኖት፡ ማቴዎስ ወማርቆስ ሉቃስ ወዮሐንስ ፬ቱ ወንጌላውያን፡ ማርያም ወላዲተ አምላክ፡ ስምዖን ጴጥሮስ ወእንድርያስ ያዕቆብ ወዮሐንስ ፊልጶስ ወበርተሎሜዎስ ቶማስ ወማቴዎስ ታዴዎስ ወናትናኤል ወያዕቆብ ወልደ እልፍዮስ ወማትያስ ፲ወ፪ቱ ሐዋርያት፡ ወያዕቆብ ሐዋርያ እኁሁ ለእግዚእነ ኤጲስ ቆጶስ ዘኢየሩሳሌም ጳውሎስ ወጢሞቴዎስ ሲላስ ወበርናባስ ቲቶ ፊልሞና ወቀሌምንጦስ ፸ ወ፪ቱ አርድእት፡ ፭ቱ ፻ ቢጽ ፫ቱ ፻ ፲ወ፰ቱ ርቱዓነ ሃይማኖት፡ ጸሎተ ኵሎሙ ይብጽሐነ ወምስሌሆሙ ኪያነ ሐውጽ፡",
+      "amharic": "በሃይማኖት ስላረፉ ስለ ቅዱሳንና ስለ ሰማዕታት ሁሉ፡አራቱ ወንጌላውያን ማቴዎስና ማርቆስ ሉቃስና ዮሐንስ፡ አምላክን የወለደች ማርያም ጴጥሮስ የተባለ ስምዖን፡ እንድርያስም፡ ያዕቆብና ዮሐንስ፡ ፊልጶስና በርተሎሜዎስ፡ ቶማስና ማቴዎስ፡ ታዴዎስና ናትናኤል፡ የእልፍዮስ ልጅ ያዕቆብ ማትያስም፡ ዐሥራ ሁለቱ ሐዋርያት፡ የኢየሩሳሌም ኤጲስ ቆጶስ የጌታችን ወንድም ሐዋርያ ያዕቆብ፡ ጳውሎስ፡ ጢሞቴዎስ፡ ሲላስና በርናባስ ቲቶ ፊልሞና ቀሌምንጦስም ሰባ ሁለቱ አርድእት አምስት መቶ ባልንጀሮች ሃይማኖታቸው የቀና ሦስት መቶ አሥራ ስምንት ሊቃውንት፡ የሁሉም ጸሎት ትድረሰን ከእነሱም ጋራ እኛን ጐብኝ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 112,
+    "printed_page_geez": "፻፫",
+    "printed_page": 103,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p112-01",
+      "kind": "paragraph",
+      "number": 8,
+      "geez_numeral": "፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወተዘከር እንተ ላዕለ ኵሉ ዘሐዋርያት ቤተ ክርስቲያን በሰላማ ወበክቡር ደም እንተ በክርስቶስ ተገብረ፡",
+      "amharic": "ከሁሉ በላይ የምትሆን የሐዋርያትንም ቤተ ክርስቲያን አስብ፡ በፍቅርዋ በክርስቶስም በተደረገው በከበረ ደም፡",
+      "uncertain": false
+     },
+     {
+      "id": "p112-02",
+      "kind": "paragraph",
+      "number": 9,
+      "geez_numeral": "፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ተዘከር ኵሎ ሊቃነ ጳጳሳት፡ ጳጳሳተ ኤጲስ ቆጳሳተ ቀሳውስተ ወዲያቆናተ እለ ያረትዑ ፍኖተ ቃል ዘበአማን፡",
+      "amharic": "በውነት የቃልን መንገድ የሚያቀኑ ሊቃነ ጳጳሳቱን ጳጳሳቱን ኤጲስቆጶሳቱን ቀሳውስቱንና ዲያቆናቱንም ሁሉ አስብ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p112-03",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p112-04",
+      "kind": "paragraph",
+      "number": 10,
+      "geez_numeral": "፲",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወይበል ንፍቅ ካህን ጸሎተ ቡራኬ ዘባስልዮስ፡ ኦ ሥሉስ ቅዱስ አብ ወወልድ ወመንፈስ ቅዱስ ባርክ ዲበ ሕዝብከ ፍቁራን ክርስቶሳውያን በበረከተ ሰማያውያን ወምድራውያን፡ ቡራኬ ላዕለ ሕዝብ፡ ይባርክ ሠራዒ ካህን በበገጹ ለለ ይቤ ንፍቅ ባርክ፡",
+      "amharic": "ንፍቅ ካህን ባስልዮስ የተናገረውን የቡራኬ ጸሎት ይበል፡ ልዩ ሦስት የምትሆን አብ ወልድ መንፈስ ቅዱስ ሆይ፡ የሚፋቀሩ የክርስቶስ ወገኖች የሚሆኑ ሕዝብህን በሰማያውያንና በምድራውያን በረከት ባርክ፡ ሕዝቡን ይባርክ፡ ንፍቅ ቄስ ባርክ ባለው ቍጥር ሠራዒው ቄስ በየስልቱ ይባርክ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p112-05",
+      "kind": "paragraph",
+      "number": 11,
+      "geez_numeral": "፲፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወፈኑ ላዕሌነ ጸጋ መንፈስ ቅዱስ፡ ወረሲ ኆኃወ ቤተ ክርስቲያንከ ቅድስት ርኅዋተ ለነ በምሕረት ወአሚን፡ ወፈጽም ለነ አሚነ ሥላሴከ ቅድስት እስከ ደኃሪት እስትንፋስ፡",
+      "amharic": "በእኛ ላይም የመንፈስ ቅዱስን ጸጋ ላክ፡ የቅድስት ቤተ ክርስቲያንህንም ደጆች በምሕረትና በሃይማኖት እንዲከፈቱ አድርግልን፡ እስከ መጨረሻዪቱ ሕቅታም ድረስ ልዩ ሦስትነትህን ማመንን ፈጽምልን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p112-06",
+      "kind": "paragraph",
+      "number": 12,
+      "geez_numeral": "፲፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ኦ እግዚእየ ኢየሱስ ክርስቶስ ሐውጽ ሕሙማነ ሕዝብከ ፈውሶሙ፡ ወምርሆሙ ለአበዊነ፡ ወለአኃዊነ እለሖሩ ወተአንገዱ፡ ወሚጦሙ ኀበ ማኅደሪሆሙ በሰላም ወበ ጥዒና፡",
+      "amharic": "ጌታዬ ኢየሱስ ክርስቶስ ሆይ፡ የታመሙ ወገኖችህን ጐብኝ፡ የሄዱትንና እንግዶች የሆኑትን አባቶቻችንን ወንድሞቻችንን መርተህ በሰላምና በጤና ወደ ቤታቸው መልሳቸው፡",
+      "uncertain": false
+     },
+     {
+      "id": "p112-07",
+      "kind": "paragraph",
+      "number": 13,
+      "geez_numeral": "፲፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ባርክ ነፋሳተ ሰማይ፡ ቡራኬ መንገለ ሰማይ፡ ወዝናማተ ወፍሬያተ ምድር ዘዛቲ ዓመት በከመ ጸጋከ ወረሲ ፍግዓ ወተድላ ወትረ ዲበ ገጸ ለምድር፡ ቡራኬ ላዕለ ምድር፡",
+      "amharic": "የሰማዩን ነፋስ ባርክ፡ ወደ ሰማይ ይባርክ፡ ዝናሙንም በዚህች ዓመት የሚያፈራውን የምድሩን ፍሬ እንደ ቸርነትህ ባርክ፡ ዘወትር ተድላንና ደስታን አድርግ፡ ወደ ምድር ይባርክ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 113,
+    "printed_page_geez": "፻፬",
+    "printed_page": 104,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p113-01",
+      "kind": "paragraph",
+      "number": 14,
+      "geez_numeral": "፲፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወአጽንዕ ለነ ሰላመከ ሚጥ ልበ ኃያላን ለአሠንዮ ላዕሌነ በኵሉ ጊዜ፡",
+      "amharic": "ሰላምህንም አጽናልን፡ ሁል ጊዜ ለኛ በጎ ነገርን ሊያደርጉልን ጽኑዓን የሚሆኑ የኃያላኑን ልቡና መልስ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p113-02",
+      "kind": "paragraph",
+      "number": 15,
+      "geez_numeral": "፲፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ጸጉ ሰላመ ለሊቃውንተ ቤተ ክርስቲያን እለ ጉቡአን ውስተ ቤተ ክርስቲያንከ ቅድስት ኵሎ ጊዜ፡ ለኵሉ ለለ፩ዱ በበአስማቲሆሙ በቅድመ ኃያላን አምላክነ አንኅ ሎሙ፡",
+      "amharic": "በቅድስት ቤተ ክርስቲያንህ ሁልጊዜ ለሚሰበሰቡ ለቤተ ክርስቲያን ሊቃውንት ፍቅርን ስጥ፡ ለሁሉም ለያንዳንዱ በየስማቸው ኃያላን በሚሆኑ ፊት ሰላምን አብዛላቸው፡",
+      "uncertain": false
+     },
+     {
+      "id": "p113-03",
+      "kind": "paragraph",
+      "number": 16,
+      "geez_numeral": "፲፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወአዕርፍ ነፍሳተ አበዊነ ወአኃዊነ ወአኃቲነ እለ ኖሙ ወአእረፉ በርትዕት ሃይማኖት፡",
+      "amharic": "አምላካችን ሆይ፡ በቀናች ሃይማኖት ሆነው ያንቀላፉትንና ያረፉትን ያባቶቻችንንና የወንድሞቻችንን የእኅቶቻችንንም ነፍስ አሳርፍ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p113-04",
+      "kind": "paragraph",
+      "number": 17,
+      "geez_numeral": "፲፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወባርክ ዲበ እለ ያስተነትኑ፡ ቡራኬ ላዕለ ሕዝብ፡ በዕጣን ወቍርባን ወወይን ወቅብዕ ወዘይት ወመንጠዋልዕ ወመጻሕፍተ ምንባባት ወንዋያተ መቅደስ ከመ ክርስቶስ አምላክነ ይዕሥዮሙ በኢየሩሳሌም ሰማያዊት፡",
+      "amharic": "አምላካችን ክርስቶስ በኢየሩሳሌም ሰማያዊት ዋጋቸውን ይከፍላቸው ዘንድ ዕጣንና ቍርባን፡ ወይንና ሜሮን፡ ዘይትም መጋረጃም የንባብ መጻሕፍቶችን የቤተ መቅደስንም ንዋያት በመስጠት የሚያገለግሉትንም ባርክ፡ ሕዝቡን ይባርክ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p113-05",
+      "kind": "paragraph",
+      "number": 18,
+      "geez_numeral": "፲፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወለኵሎሙ እለ ተጋብኡ ምስሌነ ይኅሥሡ ምሕረተ ክርስቶስ አምላክነ ተሣሃል ላዕሌሆሙ ወለኵሎሙ እለ አምጽኡ ምጽዋተ በቅድመ መንበርከ መፍርህ ወመደንግፅ ተወከፎሙ፡",
+      "amharic": "ይቅርታን ያገኙ ዘንድ ከእኛ ጋራ የተሰበሰቡትንም ሁሉ አምላካችን ክርስቶስ ሆይ ይቅር በላቸው፡ በሚያስፈራና በሚያስደነግጥ በመንበርህ ፊት ምጽዋት ያመጡትንም ሁሉ ተቀበላቸው፡",
+      "uncertain": false
+     },
+     {
+      "id": "p113-06",
+      "kind": "paragraph",
+      "number": 19,
+      "geez_numeral": "፲፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወአንኂ ለኵላ ነፍስ ዕፅብት ወእለ እሡራን በመዋቅሕት ወእለ ሀለዉ ውስተ ስደት ወፄዋዌ፡",
+      "amharic": "የተጨነቀችዪቱን ነፍስ ሁሉ አሳርፍ፡ በሰንሰለት የታሠሩትን በስደትና በምርኮ ያሉትንም፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 114,
+    "printed_page_geez": "፻፭",
+    "printed_page": 105,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p114-01",
+      "kind": "paragraph",
+      "number": 20,
+      "geez_numeral": "፳",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወእለ እኁዛን በቅኔ መሪር አምላክነ አድኅኖሙ በምሕረትከ፡ ኦ ሊቅነ ኢየሱስ ክርስቶስ ለኵሎሙ እለ አዘዙነ ከመ ንዘከሮሙ በጊዜ አስተብቍዖትነ ኀቤከ ተዘከሮሙ በመንግሥትከ ሰማያዊት፡ ወሊተኒ ለኃጥእ ገብርከ ተዘከረኒ፡",
+      "amharic": "መሪር በሆነ አገዛዝ የተያዙትንም አምላካችን ሆይ በቸርነትህ አድናቸው፡ መምህራችን ኢየሱስ ክርስቶስ ሆይ ወዳንተ በምንማልድበት ጊዜ እንድናስባቸው ያዘዙንን ሁሉ በሰማያዊት መንግሥትህ አስባቸው፡ ኃጥእ አገልጋይህን እኔንም አስበኝ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p114-02",
+      "kind": "paragraph",
+      "number": 21,
+      "geez_numeral": "፳፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ኦ እግዚአ አድኅን ሕዝበከ ወባርክ ርስተከ፡ ቡራኬ ላዕለ ሕዝብ፡ ረዓዮሙ ወአልዕሎሙ እስከ ለዓለም፡",
+      "amharic": "አቤቱ ሕዝብህን አድን ርስትህንም ባርክ፡ ሕዝቡን ይባርክ፡ ጠብቃቸው እስከ ዘለዓለምም ከፍ ከፍ አድርጋቸው፡",
+      "uncertain": false
+     },
+     {
+      "id": "p114-03",
+      "kind": "paragraph",
+      "number": 22,
+      "geez_numeral": "፳፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. ንፍቅ፡ መሐሮሙ እግዚአ ወተሣሃሎሙ ለሊቃነ ጳጳሳት፡ ጳጳሳት ኤጲስቆጶሳት ቀሳውስት ወዲያቆናት ወኵሎሙ ሕዝበ ክርስቲያን።።",
+      "amharic": "ይ.ዲ. ንፍቅ አቤቱ የጳጳሳቱን አለቆች ጳጳሳቱንና ኤጲስቆጶሳቱን ቀሳውስቱንና ዲያቆናቱን የክርስቲያንንም ወገኖች ሁሉ ማራቸው፡ ይቅርም በላቸው።።",
+      "uncertain": false
+     },
+     {
+      "id": "p114-04",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p114-05",
+      "kind": "paragraph",
+      "number": 23,
+      "geez_numeral": "፳፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ለእሉኒ ወለኵሎሙ አዕርፍ ነፍሶሙ ወተሣሃሎሙ ዘፈኖከ እምሰማይ ወልደከ ውስተ ማኅፀነ ድንግል ተፀውረ በከርሥ ሥጋ ኮነ፡ ወወልድከ (ወልደቱ) ተዐውቀ እመንፈስ ቅዱስ፡",
+      "amharic": "ይ.ካ. የእሊህንም የሁሉንም ነፍሳቸውን አሳርፍ፡ ይቅርም በላቸው፡ ልጅህን ከሰማይ ወደ ድንግል ማኅፀን የሰደድኸው በማኅፀን ተወሰነ፡ ሥጋም ሆነ፡ ልጅህም (መወለዱም) በመንፈስ ቅዱስ ታወቀ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p114-06",
+      "kind": "paragraph",
+      "number": 24,
+      "geez_numeral": "፳፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. እለ ትነብሩ ተንሥኡ፡",
+      "amharic": "ይ.ዲ. የተቀመጣችሁ ተነሡ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p114-07",
+      "kind": "paragraph",
+      "number": 25,
+      "geez_numeral": "፳፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ለከ ለዘይቀውሙ ቅድሜከ እልፍ አእላፋት ወትእልፊተ አእላፋት ቅዱሳን መላእክት ወሊቃነ መላእክት ወክቡራን እንስሳከ እለ ፮ቱ ክነፊሆሙ ሱራፌል ወኪሩቤል፡",
+      "amharic": "ይ.ካ. አእላፈ አእላፋትና ትእልፊተ አእላፋት የሚሆኑ ቅዱሳን መላእክት የመላእክትም አለቆች ክንፋቸው ስድስት የሚሆን ክቡራን አርባዕቱ እንስሳም ከፊትህ ለሚቆሙልህ ለአንተ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p114-08",
+      "kind": "paragraph",
+      "number": 26,
+      "geez_numeral": "፳፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. ውስተ ጽባሕ ነጽሩ፡",
+      "amharic": "ይ.ዲ. ወደ ምሥራቅ ተመልከቱ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 115,
+    "printed_page_geez": "፻፮",
+    "printed_page": 106,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p115-01",
+      "kind": "paragraph",
+      "number": 27,
+      "geez_numeral": "፳፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. በ፪ኤ ክነፊሆሙ ይከድኑ ገጾሙ ወበ፪ኤ ክነፊሆሙ ይከድኑ እገሮሙ ወበ፪ኤ (ክነፊሆሙ) ክንፍ ይሠሩ እምጽንፍ እስከ አጽናፈ ዓለም፡",
+      "amharic": "ይ.ካ. በሁለት ክንፋቸው ፊታቸውን ይሸፍናሉ፡ በሁለት ክንፋቸው እግራቸውን ይሸፍናሉ፡ በሁለት ክንፋቸው ከዳርቻ እስከ ዓለም ዳርቻ ይወጣሉ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p115-02",
+      "kind": "paragraph",
+      "number": 28,
+      "geez_numeral": "፳፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. ንነጽር፡",
+      "amharic": "ይ.ዲ. እናስተውል፡",
+      "uncertain": false
+     },
+     {
+      "id": "p115-03",
+      "kind": "paragraph",
+      "number": 29,
+      "geez_numeral": "፳፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ወዘልፈ እንከ ኵሎሙ ከመ ኪያከ ይቄድሱ ወይዌድሱ ወምስለ ኵሎሙ እለ ይቄድሱከ ወይዌድሱከ፡",
+      "amharic": "ይ.ካ. ሁሉም ዘወትር አንተን ከሚቀድሱህና ከሚያመሰግኑህ ሁሉ ጋራ እንዲቀድሱና እንዲያመሰግኑ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p115-04",
+      "kind": "paragraph",
+      "number": 30,
+      "geez_numeral": "፴",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ዓዲ ተወከፍ ዘዚአነሂ ቅዳሴ እለ ዘንብለከ ቅዱስ ቅዱስ ቅዱስ እግዚአብሔር ጸባዖት ፍጹም፡",
+      "amharic": "ዳግመኛ ቅዱስ ቅዱስ ቅዱስ ፍጹም አሸናፊ እግዚአብሔር የምንልህን የኛንም ምስጋና ተቀበል፡",
+      "uncertain": false
+     },
+     {
+      "id": "p115-05",
+      "kind": "paragraph",
+      "number": 31,
+      "geez_numeral": "፴፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. አውሥኡ፡",
+      "amharic": "ይ.ዲ. ተሰጥዎውን መልሱ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p115-06",
+      "kind": "paragraph",
+      "number": 32,
+      "geez_numeral": "፴፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ሕ. ቅዱስ ቅዱስ ቅዱስ እግዚአብሔር ጸባዖት ፍጹም ምሉዕ ሰማያተ ወምድረ ቅድሳተ ስብሐቲከ፡",
+      "amharic": "ይ.ሕ. ቅዱስ ቅዱስ ቅዱስ ፍጹም አሸናፊ እግዚአብሔር የጌትነትህ ምስጋና በሰማይና በምድር የመላ ነው፡",
+      "uncertain": false
+     },
+     {
+      "id": "p115-07",
+      "kind": "paragraph",
+      "number": 33,
+      "geez_numeral": "፴፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. አማን መልዐ ሰማያተ ወምድረ ቅድሳተ ስብሐቲከ በእግዚእነ ወአምላክነ ወመድኃኒነ ኢየሱስ ክርስቶስ፡ ቅዱስ ወልድከ መጽአ ወእምድንግል ተወልደ ከመ ፈቃደከ ይፈጽም ወሕዝበ ለከ ይግበር፡",
+      "amharic": "ይ.ካ. የጌትነትህ ምስጋና በጌታችን በአምላካችንና በመድኃኒታችን በኢየሱስ ክርስቶስ በእውነት በሰማይና በምድር መላ፡ ቅዱስ ልጅህ መጣ፡ ከድንግልም ተወለደ፡ ፈቃድህን ይፈጽም ዘንድ፡ ሕዝቡንም ላንተ ያደርግ ዘንድ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p115-08",
+      "kind": "paragraph",
+      "number": 34,
+      "geez_numeral": "፴፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ሕ. ተዘከረነ እግዚአ በውስተ መንግሥትከ፡ ተዘከረነ እግዚአ ኦ ሊቅነ (በውስተ መንግሥትከ)፡ ተዘከረነ እግዚአ በውስተ መንግሥትከ፡ በከመ ተዘከርኮ ለፈያታዊ ዘየማን እንዘ ሀሎከ ዲበ ዕፀ መስቀል ቅዱስ።።",
+      "amharic": "ይ.ሕ. አቤቱ በመንግሥትህ አስበን፡ ሊቅ ሆይ አቤቱ በመንግሥትህ አስበን፡ ቅዱስ በሚሆን በዕፀ መስቀል ላይ ሳለህ ፈያታዊ ዘየማንን እንዳሰብከው አቤቱ በመንግሥትህ አስበን።።",
+      "uncertain": false
+     },
+     {
+      "id": "p115-09",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 116,
+    "printed_page_geez": "፻፯",
+    "printed_page": 107,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p116-01",
+      "kind": "paragraph",
+      "number": 35,
+      "geez_numeral": "፴፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወእምዝ ንፍቅ ካህን ይውግር ዕጣነ ወያቅርብ ሎቱ ማዕጠንተ ወይዕጥን እዴሁ ወያዕርግ በበ፫ቱ ጊዜ ላዕለ ኅብስት ወጽዋዕ፡",
+      "amharic": "ከዚህ በኋላ ንፍቅ ቄስ ዕጣኑን አግብቶ ማዕጠንቱን ያቅርብለት፡ እጁንም አጥኖ ሦስት ጊዜ ከሥጋው ላይ ሦስት ጊዜ ከደሙ ላይ ያሳርግ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p116-02",
+      "kind": "paragraph",
+      "number": 36,
+      "geez_numeral": "፴፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ሰፍሐ እደዊሁ ለሕማም፡ (ሐሚሞ) ከመ ሕሙማነ ያድኅን እለ ተወከሉ በላዕሌሁ፡",
+      "amharic": "ይ.ካ. በርሱ ያመኑትን ሕሙማን ታሞ ያድን ዘንድ እጆቹን ለሕማም ዘረጋ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p116-03",
+      "kind": "paragraph",
+      "number": 37,
+      "geez_numeral": "፴፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ዘተውህበ በፈቃዱ ለሕማም ከመ ሞተ ይሥዓር ወማእሠረ ሰይጣን ይብትክ ወይኪድ ሲኦለ፡ ቅዱሳነ ይምራሕ ሥርዓተ ይትክል ወትንሣኤሁ ያዑቅ፡",
+      "amharic": "ሞትን ይሽር ዘንድ፡ የሰይጣንንም ማሠሪያ ይቈርጥ ዘንድ፡ ሲኦልንም ይረግጥ ዘንድ፡ ቅዱሳንን ይመራ ዘንድ፡ ሥርዓትን ይሠራ ዘንድ፡ ትንሣኤውንም ይገልፅ ዘንድ ለሕማም ተሰጠ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p116-04",
+      "kind": "paragraph",
+      "number": 38,
+      "geez_numeral": "፴፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. አንሥኡ እደዊክሙ ቀሳውስት፡",
+      "amharic": "ይ.ዲ. ቀሳውስት እጆቻችሁን አንሡ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p116-05",
+      "kind": "paragraph",
+      "number": 39,
+      "geez_numeral": "፴፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. በይእቲ ሌሊት እንተ ባቲ አመ ያገብዕዎ ነሥአ ኅብስተ በእደዊሁ ቅዱሳት ወብፁዓት እለ እንበለ ነውር፡ በዝየ ያንሥእ ኅብስተ፡",
+      "amharic": "ይ.ካ. እርሱን በያዙባት በዚያች ሌሊት ነውር በሌለባቸው ንዑዳት ክቡራት ብፁዓትም በሚሆኑ እጆቹ ኅብስቱን አንሥቶ ያዘ፡ በዚህ ጊዜ ኅብስቱን ያንሣ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p116-06",
+      "kind": "paragraph",
+      "number": 40,
+      "geez_numeral": "፵",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ሕ. ነአምን ከመ ዝንቱ ውእቱ በአማን ነአምን፡",
+      "amharic": "ይ.ሕ. ይህ እንደ ሆነ በእውነት እናምናለን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p116-07",
+      "kind": "paragraph",
+      "number": 41,
+      "geez_numeral": "፵፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. አንቃዕደወ ሰማየ ኀቤከ ኀበ አቡሁ አእኰተ ባረከ ወፈተተ፡ ቡራኬ ላዕለ ኅብስት ፫ተ ጊዜ፡ ወእምዝ ያንቅዮ ለኅብስት ኀበ ፭ቱ ገጽ ንስቲተ እንዘ ኢይሌልዮ፡",
+      "amharic": "ይ.ካ. ወደ አንተ ወደ አባቱ ወደ ሰማይ ቀና ብሎ አመሰገነ ባረከ፡ ቈረሰ፡ በኅብስቱ ላይ ፫ ጊዜ ይባርክ፡ ከዚያም በኋላ ኅብስቱን ሳይለየው ከአምስት ላይ ጥቂት ያንቃው፡",
+      "uncertain": false
+     },
+     {
+      "id": "p116-08",
+      "kind": "paragraph",
+      "number": 42,
+      "geez_numeral": "፵፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ወወሀቦሙ ለእሊአሁ አርዳኢሁ ወይቤሎሙ ንሥኡ ብልዑ ዝኅብስት «እማሬ» ሥጋየ ውእቱ ለዘበእንቲአክሙ ይትፌተት ለኅድገተ ኃጢአት፡",
+      "amharic": "ይ.ካ. ለወገኖቹ ለደቀ መዛሙርቱ ሰጣቸው፡ ንሱ ብሉ ይህ ኅብስት ‹‹እማሬ›› ለኃጢአት ማስተሥረያ ሊሆን ስለ እናንተ የሚፈተት ሥጋዬ ነው አላቸው፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 117,
+    "printed_page_geez": "፻፰",
+    "printed_page": 108,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p117-01",
+      "kind": "paragraph",
+      "number": 43,
+      "geez_numeral": "፵፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ሕ. አሜን አሜን አሜን ነአምን ወንትአመን፡ ንሴብሐከ ኦ እግዚእነ ወአምላክነ ከመ ዝንቱ ውእቱ በአማን ነአምን፡",
+      "amharic": "ይ.ሕ. አሜን አሜን አሜን እናምናለን፡ እንታመናለንም፡ ጌታችንና አምላካችን ሆይ እናመሰግንሃለን፡ ይህ እርሱ እንደ ሆነ በእውነት እናምናለን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p117-02",
+      "kind": "paragraph",
+      "number": 44,
+      "geez_numeral": "፵፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ወከማሁ ጽዋዐኒ አእኵቶ ባሪኮ፡ ቡራኬ ላዕለ ጽዋዕ ፫ተ ጊዜ፡ ወቀዲሶ መጠዎሙ ለእሊአሁ አርዳኢሁ ወይቤሎሙ ንሥኡ ስትዩ ዝጽዋዕ <<እማሬ>> ደምየ ውእቱ ለዘበእንቲአክሙ ይትከዐው (ለቤዛ ብዙኃን)፡ ለሥርየተ ኃጢአት፡ ወይነክንኮ ለጽዋዕ በትእምርተ መስቀል በእዴሁ ዘየማን፡",
+      "amharic": "ይ.ካ. እንዲሁም ጽዋውን አመስግኖ ባርኮ በጽዋው ላይ ፫ ጊዜ ይባርክ፡ አክብሮ ለወገኖቹ ለደቀ መዛሙርቱ ሰጣቸው፡ ንሱ ጠጡ ይህ ጽዋ ‹‹እማሬ›› ለብዙ ሰዎች ቤዛ ሊሆን ስለ እናንተ የሚፈስ ደሜ ነው አላቸው፡ ጽዋውን በቀኝ እጁ በአራቱ ማዕዘን ይወዝውዘው፡",
+      "uncertain": false
+     },
+     {
+      "id": "p117-03",
+      "kind": "paragraph",
+      "number": 45,
+      "geez_numeral": "፵፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ሕ. አሜን አሜን አሜን ነአምን ወንትአመን ንሴብሐከ ኦ እግዚእነ ወአምላክነ ከመ ዝንቱ ውእቱ በአማን ነአምን፡",
+      "amharic": "ይ.ሕ. አሜን አሜን አሜን እናምናለን፡ እንታመናለንም ጌታችንና አምላካችን ሆይ፡ እናመሰግንሃለን፡ ይህ እርሱ እንደ ሆነ በእውነት እናምናለን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p117-04",
+      "kind": "paragraph",
+      "number": 46,
+      "geez_numeral": "፵፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ወሶበ ትገብርዎ ለዝንቱ ተዝካረ ዚአየ ግበሩ፡",
+      "amharic": "ይ.ካ. ይህን በምታደርጉበት ጊዜ የኔን መታሰቢያ አድርጉ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p117-05",
+      "kind": "paragraph",
+      "number": 47,
+      "geez_numeral": "፵፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ሕ. ንዜኑ ሞተከ እግዚኦ ወትንሣኤከ ቅድስተ፡ ነአምን ዕርገተከ ወዳግመ ምጽአተከ ንሴብሐከ ወንትአመነከ ንስእለከ ወናስተበቍዐከ ኦ እግዚእነ ወአምላክነ፡",
+      "amharic": "ይ.ሕ. አቤቱ ሞትህን፡ ቅድስት ትንሣኤህንም እንነግራለን፡ ዕርገትህን ዳግመኛም መምጣትህን እናምናለን፡ እናመሰግናለን እናምንሃለንም፡ጌታችንና አምላካችን፡ ሆይ እንለምንሃለን፡ እንማልድሃለንም፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 118,
+    "printed_page_geez": "፻፱",
+    "printed_page": 109,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p118-01",
+      "kind": "paragraph",
+      "number": 48,
+      "geez_numeral": "፵፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ይእዜኒ እግዚአ እንዘ ንዜክር ሞተከ ወትንሣኤከ፡ ንትአመነከ ወናቄርብ ለከ ዘንተ ኅብስተ፡ <<እማሬ>> ወዘንተ ጽዋዐ <<እማሬ>> እንዘ ነአኵተከ፡ ወቦቱ ረሰይከ ለነ ለተድላ ንቁም ቅድሜከ ወለከ ንትክሀን፡ ንስእለከ እግዚአ ወናስተበቍዐከ ከመ ትፌኑ መንፈስ ቅዱስ ወኃይለ ዲበ ዝንቱ ኅብስት <<እማሬ>> ወላዕለ ዝንቱ ጽዋዕ <<እማሬ>>፡",
+      "amharic": "ይ.ካ. አሁንም አቤቱ ሞትህንና ትንሣኤህን እናስባለን፡ እናምንሃለን፡ እያመሰገንህ ይህን ኅብስት ‹‹እማሬ›› ይህንም ጽዋ «እማሬ» እናቀርብልሃለን፡ በፊትህ እንቆም ዘንድ አንተንም እናገለግል ዘንድ በርሱ ተድላን አደረግህልን፡ አቤቱ እንለምንሃለን፡ እንማልድሃለንም፡ በዚህ ‹‹እማሬ›› ኅብስት ላይ ቅዱስ መንፈስን ኃይልንም ታሳድር ዘንድ፡ በዚህም «እማሬ» በጽዋው ላይ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p118-02",
+      "kind": "paragraph",
+      "number": 49,
+      "geez_numeral": "፵፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይረስዮ ሥጋሁ ወደሞ ለእግዚእነ ወአምላክነ ወመድኃኒነ ኢየሱስ ክርስቶስ ለዓለመ ዓለም፡ ቡራኬ ላዕለ ኅብስት ፩ደ ጊዜ ወላዕለ ጽዋዕ ፩ደ ጊዜ፡ ወላዕለ ፪ኤሆሙ ፩ደ ጊዜ፡",
+      "amharic": "የጌታችንና የአምላካችን የመድኃኒታችን የኢየሱስ ክርስቶስ ሥጋና ደም ያደርገው ዘንድ ለዘለዓለሙ፡ አንድ ጊዜ ኅብስቱን፡ አንድ ጊዜ ጽዋውን ይባርክ፡ ሁለቱንም አንድ ጊዜ ይባርክ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p118-03",
+      "kind": "paragraph",
+      "number": 50,
+      "geez_numeral": "፶",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ሕ. አሜን እግዚአ መሐረነ፡ እግዚአ መሐከነ፡ እግዚአ ተሣሃለነ፡",
+      "amharic": "ይ.ሕ. አሜን አቤቱ ማረን፡ አቤቱ ራራልን፡ አቤቱ ይቅር በለን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p118-04",
+      "kind": "paragraph",
+      "number": 51,
+      "geez_numeral": "፶፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. በኵሉ ልብ ናስተብቍዖ ለእግዚአብሔር አምላክነ ኅብረተ መንፈስ ቅዱስ ሠናየ ከመ ይጸግወነ፡",
+      "amharic": "ይ.ዲ. በፍጹም ልብ አምላካችንን እግዚአብሔርን እንማልደው፡ ያማረ የመንፈስ ቅዱስን አንድነት ይሰጠን ዘንድ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p118-05",
+      "kind": "paragraph",
+      "number": 52,
+      "geez_numeral": "፶፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ሕ. በከመ ሀሎ ህልወ ወይሄሉ ለትውልደ ትውልድ ለዓለመ ዓለም፡ በዝየ ይኀትም ሥጋ በደም ጠሚዖ በአጽባዕቱ፡",
+      "amharic": "ይ.ሕ. በፊት እንደ ነበረ ለዘለዓለሙ ለልጅ ልጅ ይኖራል፡ በዚህ ጊዜ በጣቱ ጠምቶ በደሙ ሥጋውን ይቅባ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 119,
+    "printed_page_geez": "፻፲",
+    "printed_page": 110,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p119-01",
+      "kind": "paragraph",
+      "number": 53,
+      "geez_numeral": "፶፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ደሚረከ ተሀቦሙ ለኵሎሙ ለእለ ይነሥኡ እምኔሁ ይኩኖሙ ለቅድሳት ወለምልዐተ መንፈስ ቅዱስ ወለአጽንዖ ሃይማኖት ዘበአማን ከመ ኪያከ ይቀድሱ ወይወድሱ ወለወልድከ ፍቁርከ ኢየሱስ ክርስቶስ ዘምስለ መንፈስ ቅዱስ፡ ለዓለመ ዓለም፡ ይ.ሕ. አሜን።።",
+      "amharic": "ይ.ካ. ከርሱ ለሚቀበሉ ሁሉ አንድ አድርገህ ለንጽሕና መንፈስ ቅዱስንም ለመመላት እውነተኛውንም ሃይማኖት ለማጽናት ስጣቸው፡ አንተን ይቀድሱና ያመሰግኑ ዘንድ ልጅህን ወዳጅህን ኢየሱስ ክርስቶስንም ከመንፈስ ቅዱስ ጋራ፡ ይ.ሕ. አሜን።።",
+      "uncertain": false
+     },
+     {
+      "id": "p119-02",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p119-03",
+      "kind": "paragraph",
+      "number": 54,
+      "geez_numeral": "፶፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ሀበነ ንኅበር በዘዚአከ መንፈስ ቅዱስ፡ ወፈውሰነ በዝንቱ ጽርስፎራ ከመ ብከ ንሕየው ዘለኵሉ ዓለም ወለዓለመ ዓለም፡ ይ.ሕ. ከማሁ፡",
+      "amharic": "ይ.ካ. የአንተ በሚሆን በመንፈስ ቅዱስ አንድ እንሆን ዘንድ ስጠን፡ በዚህም ጽርስፎራ (በሥጋው በደሙ) አድነን፡ ለዓለሙ ሁሉ በምትሆን በአንተ ለዘለዓለሙ ሕያዋን እንሆን ዘንድ፡ ይ.ሕ. እንደርሱ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p119-04",
+      "kind": "paragraph",
+      "number": 55,
+      "geez_numeral": "፶፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ቡሩክ ስሙ ለእግዚአብሔር፡ ወቡሩክ ዘይመጽእ በስመ እግዚአብሔር፡ ወይትባረክ ስመ ስብሐቲሁ ለይኩን ለይኩን ቡሩክ ለይኩን፡ ይ.ሕ. ከማሁ፡",
+      "amharic": "ይ.ካ. የእግዚአብሔር ስሙ ምስጉን ነው፡ በእግዚአብሔር ስም የሚመጣውም ምስጉን ነው፡ የጌትነቱ ስም ይመስገን፡ ይሁን ይሁን የተመሰገነ ይሁን፡ ይ.ሕ. እንደርሱ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p119-05",
+      "kind": "paragraph",
+      "number": 56,
+      "geez_numeral": "፶፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ፈኑ ጸጋ መንፈስ ቅዱስ ላዕሌነ፡ ይ.ሕ. ከማሁ።።",
+      "amharic": "ይ.ካ. የመንፈስ ቅዱስን ጸጋ ላክልን፡ ይ.ሕ. እንደርሱ።።",
+      "uncertain": false
+     },
+     {
+      "id": "p119-06",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p119-07",
+      "kind": "paragraph",
+      "number": 57,
+      "geez_numeral": "፶፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. ተንሥኡ ለጸሎት፡ ይ.ሕ. እግዚአ ተሣሃለነ፡ ይ.ካ. ሰላም ለኵልክሙ፡ ይ.ሕ. ምስለ መንፈስከ፡",
+      "amharic": "ይ.ዲ. ለጸሎት ተነሡ፡ ይ.ሕ. አቤቱ ይቅር በለን፡ ይ.ካ. ሰላም ለሁላችሁ ይሁን፡ ይ.ሕ. ከመንፈስህ ጋራ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p119-08",
+      "kind": "paragraph",
+      "number": 58,
+      "geez_numeral": "፶፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ጸሎተ ፈትቶ፡ ወካዕበ ናስተበቍዕ ዘኵሎ ይእኅዝ እግዚአብሔር አብ ለእግዚእ ወመድኃኒነ ኢየሱስ ክርስቶስ፡",
+      "amharic": "ይ.ካ. የመፈተት ጸሎት፡ ዳግመኛም ሁሉን የሚይዝ የጌታችንና የመድኃኒታችን የኢየሱስ ክርስቶስን አባት እግዚአብሔርን እንማልዳለን፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 120,
+    "printed_page_geez": "፻፲፩",
+    "printed_page": 111,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p120-01",
+      "kind": "paragraph",
+      "number": 59,
+      "geez_numeral": "፶፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ከመ የሀበነ በበረከት ንንሣእ ዘእምቅዱስ ምሥጢር ጽንዓተ ለነ የሀበነ፡ ወኢመነሂ እምውስቴትነ ኢያርስሕ፡ አላ ለኵሎሙ ተድላሆሙ ይረሲ ለእለ ይትሜጠዉ ንሥአተ ቅዱስ ምሥጢር ዘሥጋሁ ወደሙ ለክርስቶስ ዘኵሎ ይእኅዝ እግዚአብሔር አምላክነ፡",
+      "amharic": "ከቅዱስ ምሥጢር በበረከት እንቀበል ዘንድ እንዲሰጠን ለኛ መጽናትን ይስጠን፡ ከኛ ወገን ማንንም አያጕስቍል፡ የክርስቶስ ሥጋና ደም የሚሆን ቅዱስ ምሥጢርህን መቀበልን ለሚቀበሉ ሁሉ ተድላ ያድርግላቸው እንጂ፡ ይኸውም ሁሉን የሚይዝ አምላካችን እግዚአብሔር ነው፡",
+      "uncertain": false
+     },
+     {
+      "id": "p120-02",
+      "kind": "paragraph",
+      "number": 60,
+      "geez_numeral": "፷",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. ጸልዩ፡ ይ.ሕ. አቡነ ዘበሰማያት ይትቀደስ ስምከ ትምጻእ መንግሥትከ፡ ወይኩን ፈቃድከ በከመ በሰማይ ከማሁ በምድር፡ ሲሳየነ ዘለለዕለትነ ሀበነ ዮም ኅድግ ለነ አበሳነ ወጌጋየነ ከመ ንሕነኒ ንኅድግ ለዘ አበሰ ለነ ኢታብአነ እግዚአ ውስተ መንሱት አላ አድኅነነ ወባልሐነ እምኵሉ እኩይ እስመ ዚአከ ይእቲ መንግሥት ኃይል ወስብሐት ለዓለመ ዓለም፡",
+      "amharic": "ይ.ዲ. ጸልዩ፡ ይ.ሕ. አባታችን ሆይ፡ በሰማይ የምትኖር፡ ስምህ ይቀደስ፡ መንግሥትህ ትምጣ፡ፈቃድህ በሰማይ እንደሆነች እንዲሁ በምድር ትሁን፡ የዕለት እንጀራችንን ስጠን ዛሬ፡ በደላችንንም ይቅር በለን፡ እኛ የበደሉንን ይቅር እንደምንል፡ ወደ ፈተናም አታግባን ከክፉ አድነን እንጂ፡ መንግሥት ያንተ ናትና፡ ኃይልም ምስጋናም ለዘለዓለሙ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p120-03",
+      "kind": "paragraph",
+      "number": 61,
+      "geez_numeral": "፷፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. እግዚአብሔር አምላክነ ዘኵሎ ትእኅዝ ንሥአተ ዘቅዱስከ ምሥጢር ጽንአተ ለነ ተሀበነ ወኢመነሂ እምውስቴትነ ኢታርስሕ፡ አላ ኵሎ ባርክ በክርስቶስ ዘቦቱ ለከ ምስሌሁ ወምስለ ቅዱስ መንፈስ ስብሐት ወእኂዝ ይእዜኒ ወዘልፈኒ ወለዓለመ ዓለም አሜን፡",
+      "amharic": "ይ.ካ. ሁሉን የምትይዝ አምላካችን እግዚአብሔር የቅዱስ ምሥጢርህን መቀበል ለኛ ጽንዕ አድርገህ ትሰጠን ዘንድ ከእኛ ወገን ማንንም አታጕስቍል፡ በክርስቶስ ሁሉን ባርክ እንጂ፡ በርሱ ያለ ክብር ጽንዕ ለአንተ ይገባል፡ ከርሱ ጋራ፡ ከመንፈስ ቅዱስም ጋራ፡ ዛሬም ዘወትርም ለዘለዓለሙ አሜን፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 121,
+    "printed_page_geez": "፻፲፪",
+    "printed_page": 112,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p121-01",
+      "kind": "paragraph",
+      "number": 62,
+      "geez_numeral": "፷፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ሕ. በከመ ምሕረትከ አምላክነ ወአኮ በከመ አበሳነ ፫ተ ጊዜ።።",
+      "amharic": "ይ.ሕ. አምላካችን ሆይ እንደ ቸርነትህ ነው እንጂ እንደ ኃጢአታችን አይደለም፡ ሦስት ጊዜ።።",
+      "uncertain": false
+     },
+     {
+      "id": "p121-02",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p121-03",
+      "kind": "paragraph",
+      "number": 63,
+      "geez_numeral": "፷፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወእምዝ በተባርዮ ኵሎሙ ይብሉ ፫ተ ጊዜ፡ ሠራዊተ መላእክቲሁ ለመድኃኔ ዓለም ዬ ዬ ዬ ይቀውሙ ቅድሜሁ ለመድኃኔ ዓለም፡",
+      "amharic": "ከዚህ በኋላ ሁሉም እየተቀባበሉ ሦስት ጊዜ ይበሉ፡ የመድኃኔ ዓለም አገልጋዮች የሚሆኑ የመላእክት ሠራዊት ወዮ፡ ወዮ፡ ወዮ፡ በመድኃኔ ዓለም ፊት ይቆማሉ።።",
+      "uncertain": false
+     },
+     {
+      "id": "p121-04",
+      "kind": "paragraph",
+      "number": 64,
+      "geez_numeral": "፷፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወይኬልልዎ ለመድኃኔ ዓለም ዬ ዬ ዬ ሥጋሁ ወደሙ ለመድኃኔ ዓለም፡",
+      "amharic": "መድኃኔ ዓለምን ያመሰግኑታል፡ ወዮ፡ ወዮ፡ ወዮ፡ የመድኃኔ ዓለም ሥጋውና ደሙ ይህ ነው፡",
+      "uncertain": false
+     },
+     {
+      "id": "p121-05",
+      "kind": "paragraph",
+      "number": 65,
+      "geez_numeral": "፷፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወንብጻሕ ቅድመ ገጹ ለመድኃኔ ዓለም ዬ ዬ ዬ በአሚነ ዚአሁ ለክርስቶስ ንገኒ፡ ወቦ ዘይብሉ ሐዋርያት ተለዉ ዐሠሮ፡ ወዝውእቱ ዘያሬድ፡",
+      "amharic": "ወደ መድኃኔ ዓለም ፊት እንቅረብ ወዮ፡ወዮ፡ወዮ፡ እርሱን በማመን ለክርስቶስ እንገዛለን፡ ሐዋርያት ፍለጋውን ተከተሉ የሚሉም አሉ፡ ይኸውም የያሬድ ነው፡",
+      "uncertain": false
+     },
+     {
+      "id": "p121-06",
+      "kind": "paragraph",
+      "number": 66,
+      "geez_numeral": "፷፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. ንፍቅ እንዘ ይበውእ፡ አርኀዉ ኆኃተ መኳንንት፡",
+      "amharic": "ይ.ዲ. ንፍቅ ሲገባ፡ መኳንንት ደጆችን ክፈቱ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p121-07",
+      "kind": "paragraph",
+      "number": 67,
+      "geez_numeral": "፷፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. እለ ትቀውሙ አትሕቱ ርእሰክሙ፡",
+      "amharic": "ይ.ዲ. የቆማችሁ ሰዎች ራሳችሁን ዝቅ ዝቅ አድርጉ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p121-08",
+      "kind": "paragraph",
+      "number": 68,
+      "geez_numeral": "፷፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. እግዚአብሔር ዘለዓለም ማእምር ዘኅቡእ ወዘገሃድ፡ ቅድሜከ አትሐቱ ርእሶሙ ሕዝብከ ወለከ አግረሩ ቀፊተ ልብ ዘሥጋ፡ ርኢ ዘእምድልው ማኅደርከ ባርክ ኪያሆሙ ወኪያሆን፡ አጽምዕ ሎሙ እዝነከ ወስምዖሙ ጸሎቶሙ፡",
+      "amharic": "ይ.ካ. የተሰወረውንና የተገለፀውን የምታውቅ ዘለዓለማዊ እግዚአብሔር ሆይ፡ ወገኖችህ በፊትህ ራሳቸውን ዝቅ ዝቅ አደረጉ፡ የሥጋ ልቡናቸውንም አስገዙ፡ ከተዘጋጀ ማደሪያህ ሁነህ እይ፡ ወንዶችንም ሴቶችንም ባርክ፡ ጆሮህን ቀቅርላቸው፡ ጸሎታቸውንም ስማቸው፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 122,
+    "printed_page_geez": "፻፲፫",
+    "printed_page": 113,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p122-01",
+      "kind": "paragraph",
+      "number": 69,
+      "geez_numeral": "፷፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወአጽንዕ በኃይለ የማንከ ክድን ወርዳእ እምሕመሜ እኩይ ዐቃቤ ሎሙ ኩን ለሥጋነሂ ወለነፍስነሂ ወስክ ሎሙሂ ወሎንሂ ሃይማኖተከ ወፈሪሆተ ስምከ፡",
+      "amharic": "በቀኝህ ኃይል አጽናቸው፡ ከክፉ ምቀኝነት ሰውራቸው ርዳቸውም፡ ጠባቂ ሁናቸው፡ ለሥጋችንም ለነፍሳችንም ሃይማኖትህንና ስምህን መፍራትን ለሴቶችም ለወንዶችም ጨምራላቸው፡",
+      "uncertain": false
+     },
+     {
+      "id": "p122-02",
+      "kind": "paragraph",
+      "number": 70,
+      "geez_numeral": "፸",
+      "continued": null,
+      "heading_note": null,
+      "geez": "በ፩ዱ ወልድከ ዘቦቱ ለከ ምስሌሁ ወምስለ ቅዱስ መንፈስ ስብሐት ወእኂዝ ይእዜኒ ወዘልፈኒ ወለዓለመ ዓለም አሜን።።",
+      "amharic": "በአንድ ልጅህ በርሱ ያለ ክብር ጽንዕ ለአንተ ይገባል፡ ከርሱ ጋራ፡ ከመንፈስ ቅዱስም ጋራ፡ ዛሬም ዘወትርም ለዘለዓለሙ አሜን።።",
+      "uncertain": false
+     },
+     {
+      "id": "p122-03",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p122-04",
+      "kind": "paragraph",
+      "number": 71,
+      "geez_numeral": "፸፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. ስግዱ ለእግዚአብሔር በፍርሃት፡ ይ.ሕ. ቅድሜከ እግዚአ ንሰግድ ወንሴብሐከ፡",
+      "amharic": "ይ.ዲ. በፍርሃት ሁናችሁ ለእግዚአብሔር ስገዱ፡ ይ.ሕ. አቤቱ በፊትህ እንሰግዳለን እናመሰግንሃለንም፡",
+      "uncertain": false
+     },
+     {
+      "id": "p122-05",
+      "kind": "paragraph",
+      "number": 72,
+      "geez_numeral": "፸፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ጸሎተ ንስሓ፡ እግዚአ እግዚኦ እግዚአብሔር አብ አኃዜ ኵሉ ዓለም፡ አንተ ውእቱ ዘትፌውስ ቍስለ ነፍስነ ወሥጋነ ወመንፈስነ፡",
+      "amharic": "ይ.ካ. የንስሓ ጸሎት፡ አቤቱ ዓለሙን ሁሉ የያዝህ ጌታችን እግዚአብሔር አብ፡ የነፍሳችንና የሥጋችንን፡ የደመ ነፍሳችንንም ቍስል የምታድን አንተ ነህ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p122-06",
+      "kind": "paragraph",
+      "number": 73,
+      "geez_numeral": "፸፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "እስመ አንተ ትቤ በአፈ ዋሕድ ወልድከ እግዚእነ ወአምላክነ ወመድኃኒነ ኢየሱስ ክርስቶስ ዘይቤሎ ለአቡነ ጴጥሮስ አንተ ኰኵሕ ወዲበ ዛቲ ኰኵሕ አሐንፃ ለቤተ ክርስቲያንየ ቅድስት፡ ወኢይክልዋ አናቅጸ ሲኦል አማስኖታ ወአንቀልቅሎታ፡ ወለከ እሁበከ መራኁተ ዘመንግሥተ ሰማያት ዘአሠርከ በምድር ይኩን እሡረ በሰማያት፡ ወዘፈታሕከ በምድር ይኩን ፍቱሐ በሰማያት፡",
+      "amharic": "ባንድ ልጅህ በጌታችን በአምላካችንና በመድኃኒታችን በኢየሱስ ክርስቶስ አፍ ተናግረሃልና፡ ለአባታችን ለጴጥሮስ እንዲህ ብሎ የተናገረውን አንተ መሠረት ነህ፡ በዚህችም መሠረት ላይ ክብርት ቤተ ክርስቲያኔን እሠራታለሁ፡ የሲኦልም ደጆች ሊያጠፏትና ሊያነዋውጧት አይችሉም፡ ላንተም የመንግሥተ ሰማያትን መክፈቻ እሰጥሃለሁ፡በምድር ያሠርኸው በሰማይ የታሠረ ይሆን ዘንድ፡ በምድርም የፈታኸው በሰማይ የተፈታ ይሆን ዘንድ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 123,
+    "printed_page_geez": "፻፲፬",
+    "printed_page": 114,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p123-01",
+      "kind": "paragraph",
+      "number": 74,
+      "geez_numeral": "፸፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "፸፬፡ ወይኩኑ ፍቱሐነ ወግዑዛነ ኵሎሙ አግብርቲከ ወአእማቲከ በበአስማቲሆሙ በአፉሁ ለመንፈስ ቅዱስ፡ ወበአፈ ዚአየኒ አነ ገብርከ ዕገሌ ኃጥእ ወአባሲ እመሂ በአእምሮ አው በኢያእምሮ ገብሩ፡",
+      "amharic": "፸፬፡ ወንዶቹም ሴቶቹም አገልጋዮችህ ሁሉ በየስማቸው የተፈቱ፡ ነጻም የወጡ ይሁኑ፡ በመንፈስ ቅዱስ ቃል ኃጥእ በደለኛ በምሆን በኔም በአገልጋይህ እገሌ ቃል፡ በማወቅ ወይም ባለማወቅ ቢሠሩ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p123-02",
+      "kind": "paragraph",
+      "number": 75,
+      "geez_numeral": "፸፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ዕቀቦሙ እግዚአ ወተማኅፀኖሙ ለእሉ አግብርቲከ አበውየ ወአኃውየ ወአኃትየ፡",
+      "amharic": "አቤቱ እሊህን አገልጋዮችህን አባቶቼንና ወንድሞቼን እኅቶቼንም አጽንተህ ጠብቃቸው፡",
+      "uncertain": false
+     },
+     {
+      "id": "p123-03",
+      "kind": "paragraph",
+      "number": 76,
+      "geez_numeral": "፸፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወዓዲ ለትሕትና ዚአየኒ አነ ገብርከ ኃጥእ ወአባሲ ፍትሐኒ፡",
+      "amharic": "ዳግመኛም ኃጥእ በደለኛ የምሆን እኔንም ወራዳነቴን አይተህ ፍታኝ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p123-04",
+      "kind": "paragraph",
+      "number": 77,
+      "geez_numeral": "፸፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወይኩኑ ፍቱሐነ ወግዑዛነ እምአፈ ሥሉስ ቅዱስ አብ ወወልድ ወመንፈስ ቅዱስ፡ ወእምአፈ ዚአየኒ አነ ገብርከ ኃጥእ ወአባሲ፡",
+      "amharic": "ልዩ ሦስት በሚሆኑ በአብና በወልድ በመንፈስ ቅዱስም ቃል የተፈቱ ነጻም የወጡ ይሁኑ፡ ኃጥእ በደለኛ በምሆን በኔም በአገልጋይህ ቃል፡",
+      "uncertain": false
+     },
+     {
+      "id": "p123-05",
+      "kind": "paragraph",
+      "number": 78,
+      "geez_numeral": "፸፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ኦ መሐሪ ወመስተሣህል ወመፍቀሬ ሰብእ እግዚአብሔር አምላክነ ዘታዐትት ኃጢአተ ዓለም ተወከፍ ንስሐሆሙ ለአግብርቲከ ወለአእማቲከ፡ ወአሥርቅ ላዕሌሆሙ ብርሃነ ሕይወት ዘለዓለም ወሥረይ ሎሙ እግዚአ ኵሎ ኃጢአቶሙ እስመ ኄር አንተ ወመፍቀሬ ሰብእ፡",
+      "amharic": "መሐሪ ይቅር ባይ ሰውንም የምትወድ አምላካችን እግዚአብሔር ሆይ፡ የዓለሙን ኃጢአት የምታርቅ፡ የወንዶቹንና የሴቶቹን አገልጋዮችህን ንስሓቸውን ተቀበል፡ የዘለዓለም ደኅንነት የሚሆን ብርሃንንም ግለጽ ላቸው፡ አቤቱ ኃጢአታቸውንም ሁሉ ይቅር በላቸው፡ ቸር ሰውንም የምትወድ አንተ ነህና፡",
+      "uncertain": false
+     },
+     {
+      "id": "p123-06",
+      "kind": "paragraph",
+      "number": 79,
+      "geez_numeral": "፸፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ኦ እግዚአብሔር አምላክነ ወመስተሣህል ርኁቀ መዓት ወብዙኀ ምሕረት ወጻድቅ ሥረይ ሊተ ኃጢአትየ፡",
+      "amharic": "ይቅር ባይ አምላካችን እግዚአብሔር ሆይ፡ መዓትህ የራቀ፡ ምሕረትህም የበዛ፡ እውነተኛም የምትሆን የኔን ኃጢአቴን አስተሥርይልኝ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 124,
+    "printed_page_geez": "፻፲፭",
+    "printed_page": 115,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p124-01",
+      "kind": "paragraph",
+      "number": 80,
+      "geez_numeral": "፹",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወለኵሎሙ አግብርቲከ ወአእማቲከ አድኅኖሙ እምኵሉ አበሳ ወመርገም፡ ለእመ አበስነ ለከ እግዚአ እመሂ በቃልነ፡ ወእመሂ በምግባርነ፡ ወእመሂ በሕሊናነ ኅድግ ወሥረይ ወአናሕሲ ወተሣሃል፡ እስመ ኄር አንተ ወመፍቀሬ ሰብእ እግዚአብሔር አምላክነ፡",
+      "amharic": "ወንዶችንና ሴቶችንም ባሮችህን ሁሉ ከበደልም ከመርገምም ሁሉ አድናቸው፡ በቃላችንም ቢሆን በሥራችንም ቢሆን፡ በአሳባችንም ቢሆን አቤቱ አንተን ብንበድል ተውልን አስተሥርይልን አቃልልን፡ ይቅርም በለን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p124-02",
+      "kind": "paragraph",
+      "number": 81,
+      "geez_numeral": "፹፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ኦ እግዚአ ረስየነ ፍቱሓነ ወግዑዛነ፡ ወለኵሎሙ ሕዝብከ ፍትሖሙ ወሊተኒ ለኃጥእ ገብርከ ፍትሐኒ፡",
+      "amharic": "አምላካችን እግዚአብሔር ሆይ አንተ ቸር ሰውን ወዳጅ ነህና፡ አቤቱ የተፈታን ነጻም የወጣን አድርገን፡ ወገኖችህንም ሁሉ ፍታቸው፡ ኃጥእ የምሆን እኔንም አገልጋይህን ፍታኝ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p124-03",
+      "kind": "paragraph",
+      "number": 82,
+      "geez_numeral": "፹፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወእምዝ ይሚጥ ገጸ መንገለ ሕዝብ ወይዕትቦሙ ሥልሰ ቡራኬ ላዕለ ሕዝብ፡ ወለእለኒ ሀለዉ ምስሌሁ ይዝክሮሙ ወዓዲ ይበል፡ ተዘከሮ እግዚአ ለአብ ክቡር ሊቀ ጳጳስነ አባ ዕገሌ፡ ወብፁዕ ጳጳስ አባ ዕገሌ፡ አምላክነ ዐቂበ ዕቀቦሙ ለነ ዓመታተ ብዙኃ ወመዋዕለ ነዊኀ በጽድቅ ወበሰላም፡",
+      "amharic": "ከዚህ በኋላ ፊቱን ወደ ሕዝቡ መልሶ ሕዝቡን ሦስት ጊዜ ይባርካቸው፡ ከእነርሱም ጋራ ያሉትን ስማቸውን ይጥራ ዳግመኛም ይበል፡ ክቡር የሚሆን የጳጳሳቱን አለቃ አባ ዕገሌን አስበው፡ ብፁዕ የሚሆን አባ ዕገሌንም አስበው፡ አምላካችን ሆይ፡ ለብዙ ዘመናት ለረጅም ወራት በእውነትና በሰላም መጠበቅን ጠብቅልን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p124-04",
+      "kind": "paragraph",
+      "number": 83,
+      "geez_numeral": "፹፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ተዘከራ እግዚአ ለሀገሪትነ ኢትዮጵያ ወዕቀባ በጽድቅ ወበሰላም አግርር ፀራ ወጸላዕታ ፍጡነ፡",
+      "amharic": "አቤቱ ሀገራችንንም ኢትዮጵያን አስባት፡ የሚጣሏትን ጠላቶቿን ፈጥነህ አስገዛላት፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 125,
+    "printed_page_geez": "፻፲፮",
+    "printed_page": 116,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p125-01",
+      "kind": "paragraph",
+      "number": 84,
+      "geez_numeral": "፹፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ተዘከር እግዚአ ሊቃነ ጳጳሳት ጳጳሳተ ኤጲስ ቆጳሳተ ቀሳውስተ ወዲያቆናተ አናጕንስጢሳውያነ ወመዘምራን ደናግለ ወመነኮሳተ ዕቤራተ ወዕጓለ ማውታ ዕደ ወአንስተ አዕሩገ ወሕፃናተ፡ ወኵሎሙ ሕዝበ ክርስቲያን እለ ሀለዉ ወቆሙ ውስተ ዛቲ ቤተ ክርስቲያን ቅድስት አጽንዖሙ በሃይማኖተ ክርስቶስ፡",
+      "amharic": "የጳጳሳቱን አለቆች ጳጳሳቱንና ኤጲስ ቆጳሳቱን፡ ቀሳውስቱንና ዲያቆናቱን፡ አንባቢዎችንና መዘምራኑን፡ ደናግሉንና መነኰሳቱን፡ ባልቴቶቹንና አባት እናት የሞቱባቸውን፡ ወንዶቹንና ሽማግሌዎቹንና ልጆቹን፡ ክብርት በምትሆን በዚህች ቤተ ክርስቲያን ያሉትን፡ የቆሙትንም የክርስቲያንን ወገኖች ሁሉ ክርስቶስን በማመን አጽናቸው፡",
+      "uncertain": false
+     },
+     {
+      "id": "p125-02",
+      "kind": "paragraph",
+      "number": 85,
+      "geez_numeral": "፹፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "በዝየ ይዝክር ሐዲሳነ ሙታን፡ ተዘከሮሙ እግዚአ ለኵሎሙ አበዊነ ወአኃዊነ ወአኃቲነ እለ ኖሙ ወአዕረፉ በርትዕት ሃይማኖት ወደምር ነፍሳቲሆሙ ውስተ ሕፅነ አብርሃም ይስሐቅ ወያዕቆብ፡",
+      "amharic": "ከዚህ ሲደርስ አዲስ የሞቱትን ያንሣ፡ አቤቱ በቀናች ሃይማኖት ሁነው የሞቱትንና ያረፉትን አባቶቻችንንና ወንድሞቻችንን እኅቶቻችንንም ሁሉ አስባቸው፡ ነፍሶቻቸውንም በአብርሃምና በይስሐቅ በያዕቆብም አጠገብ አኑር፡",
+      "uncertain": false
+     },
+     {
+      "id": "p125-03",
+      "kind": "paragraph",
+      "number": 86,
+      "geez_numeral": "፹፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወለነኒ አድኅነነ እምኵሉ አበሳ ወመርገም ወእምኵሉ ጌጋይ ወእምኵሉ ክሕደት ወእምኵሉ መሐላ በሐሰትወእምኵሉ ግዘት ወእምተደምሮ በዕልወት ወርኵስ ምስለ ዓላውያን ወአረማውያን፡",
+      "amharic": "እኛንም ከኃጢአት ሁሉ፡ ከመርገምም ከበደልም ሁሉ፡ ከክሕደትም ሁሉ፡ በሐሰትም ከመማል ሁሉ፡ ከመገዘትም ሁሉ አድነን፡ በክህደትና በርኵሰት ከዓላውያንና ከአረማውያን ጋራ አንድ ከመሆን አድነን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p125-04",
+      "kind": "paragraph",
+      "number": 87,
+      "geez_numeral": "፹፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ጸግወነ እግዚአ ጥበበ ወኃይለ ልበ ወልቡና ወእምሮ፡ ከመ ንርሐቅ ወንጕየይ እንከ እስከ ለዝሉፉ እምኵሉ ምግባራቲሁ ለሰይጣን ዘያሜክር፡",
+      "amharic": "አቤቱ ጥበብንና ኃይልን ልብንና ልቡናን ዕውቀትንም ስጠን፡ እንግዲህ ከሚፈታተነን ከሰይጣን ሥራ ሁሉ እስከ ዘለዓለሙ እንርቅ እንሸሽም ዘንድ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 126,
+    "printed_page_geez": "፻፲፯",
+    "printed_page": 117,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p126-01",
+      "kind": "paragraph",
+      "number": 88,
+      "geez_numeral": "፹፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ሀበነ እግዚአ ንግበር ፈቃደከ ወሥምረተከ በኵሉ ጊዜ፡ ወጸሐፍ አስማቲነ ውስተ መጽሐፈ ሕይወት በመንግሥተ ሰማያት ምስለ ኵሎሙ ቅዱሳን ወሰማዕት በኢየሱስ ክርስቶስ እግዚእነ፡ ዘቦቱ ለከ ምስሌሁ ወምስለ ቅዱስ መንፈስ ስብሐት ወእኂዝ ይእዜኒ ወዘልፈኒ ወለዓለመ ዓለም አሜን።።",
+      "amharic": "አቤቱ ሁልጊዜ ፈቃድህን ውድህንም እንሠራ ዘንድ ስጠን፡ ስማችንንም በመንግሥተ ሰማያት በሕይወት መጽሐፍ ከቅዱሳንና ከሰማዕታት ሁሉ ጋራ ጻፍ፡ በጌታችን በኢየሱስ ክርስቶስ፡ በርሱ ያለ ክብር ጽንዕ ለአንተ ይገባል፡ ከርሱ ጋራ ከመንፈስ ቅዱስም ጋራ፡ ዛሬም ዘወትርም ለዘለዓለሙ አሜን።።",
+      "uncertain": false
+     },
+     {
+      "id": "p126-02",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p126-03",
+      "kind": "paragraph",
+      "number": 89,
+      "geez_numeral": "፹፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. ነጽር፡",
+      "amharic": "ይ.ዲ. ተመልከት፡",
+      "uncertain": false
+     },
+     {
+      "id": "p126-04",
+      "kind": "paragraph",
+      "number": 90,
+      "geez_numeral": "፺",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ቅድሳት ለቅዱሳን፡ ይ.ሕ. ፩ዱ አብ ቅዱስ፡ ፩ዱ ወልድ ቅዱስ፡ ፩ዱ ውእቱ መንፈስ ቅዱስ፡",
+      "amharic": "ይ.ካ. ቅድሳት ለቅዱሳን፡ ይ.ሕ. ቅዱስ አብ አንድ ነው፡ ቅዱስ ወልድም አንድ ነው፡ መንፈስ ቅዱስም አንድ ነው፡",
+      "uncertain": false
+     },
+     {
+      "id": "p126-05",
+      "kind": "paragraph",
+      "number": 91,
+      "geez_numeral": "፺፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. እግዚአብሔር ምስለ ኵልክሙ፡ ይ.ሕ. ምስለ መንፈስከ፡",
+      "amharic": "ይ.ካ. እግዚአብሔር ከሁላችሁ ጋራ ይሁን፡ ይ.ሕ. ከመንፈስህ ጋራ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p126-06",
+      "kind": "paragraph",
+      "number": 92,
+      "geez_numeral": "፺፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወእምዝ ያንሥእ ካህን ኅብስተ ፍጹመ በእዴሁ ወይበል ፫ተ ጊዜ በልዑል ዜማ፡",
+      "amharic": "ከዚህም በኋላ ቄሱ መላውን ኅብስት አንሥቶ በእጁ ይዞ እንዲህ ይበል፡ ፫ተ ጊዜ በዜማ አሰምቶ ይበል፡",
+      "uncertain": false
+     },
+     {
+      "id": "p126-07",
+      "kind": "paragraph",
+      "number": 93,
+      "geez_numeral": "፺፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "እግዚአ መሐረነ ክርስቶስ እግዚአ መሐረነ ክርስቶስ እግዚአ መሐረነ ክርስቶስ ይ.ሕ. ከማሁ፡ ይ.ካ. እግዚአ መሐረነ ክርስቶስ እግዚአ መሐረነ ክርስቶስ እግዚአ መሐረነ ክርስቶስ እግዚአ መሐረነ ክርስቶስ እግዚአ መሐረነ ክርስቶስ፡ ፲ተ ወ፭ተ ጊዜ በንዑስ ዜማ ይ.ሕ. ከማሁ፡ ወእምዝ ይ.ካ. እግዚአ መሐረነ ክርስቶስ እግዚአ መሐረነ ክርስቶስ ይ.ሕ. ከማሁ ይ.ካ. እግዚአ መሐረነ ክርስቶስ፡",
+      "amharic": "አቤቱ ክርስቶስ ማረን አቤቱ ክርስቶስ ማረን አቤቱ ክርስቶስ ማረን ይ.ሕ. እንደርሱ፡ ይ.ካ. አቤቱ ክርስቶስ ማረን አቤቱ ክርስቶስ ማረን አቤቱ ክርስቶስ ማረን አቤቱ ክርስቶስ ማረን አቤቱ ክርስቶስ ማረን አሥራ አምስት ጊዜ በንዑስ ዜማ፡ ይ.ሕ. እንደርሱ ከዚህ በኋላ ይ.ካ. አቤቱ ክርስቶስ ማረን አቤቱ ክርስቶስ ማረን፡ ይ.ሕ. እንደርሱ ይ.ካ. አቤቱ ክርስቶስ ማረን",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 127,
+    "printed_page_geez": "፻፲፰",
+    "printed_page": 118,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p127-01",
+      "kind": "paragraph",
+      "number": 94,
+      "geez_numeral": "፺፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. ጸሎት እለ ውስተ ንስሐ ሀሎክሙ አትሕቱ ርእሰክሙ፡",
+      "amharic": "ይ.ዲ. በንስሐ ውስጥ ያላችሁ ራሳችሁን ዝቅ ዝቅ አድርጉ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p127-02",
+      "kind": "paragraph",
+      "number": 95,
+      "geez_numeral": "፺፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወእምዝ ተመይጦ መንገለ ሕዝብ፡ ይ.ካ. እግዚአብሔር አምላክነ ነጽር ዲበ ሕዝብከ እለ ውስተ ንስሐ ሀለዉ፡ ወተሣሃሎሙ በከመ እበየ ሣህልከ ወበከመ ብዝኀ ምሕረትከ ደምስስ አበሳሆሙ፡ ክድኖሙ ወዕቀቦሙ እምኵሉ እኩይ፡",
+      "amharic": "ከዚህ በኋላ ወደ ሕዝቡ ተመልሶ፡ ይ.ካ. አምላካችን እግዚአብሔር ሆይ በንስሓ ውስጥ ወዳሉት ወገኖችህ ተመልከት፡ እንደ ይቅርታህም ብዛት ይቅር በላቸው፡ እንደ ቸርነትህም ብዛት በደላቸውን አጥፋላቸው፡ ከክፉ ነገርም ሁሉ ጠብቃቸው ሰውራቸውም፡",
+      "uncertain": false
+     },
+     {
+      "id": "p127-03",
+      "kind": "paragraph",
+      "number": 96,
+      "geez_numeral": "፺፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወቤዙ ነፍሳቲሆሙ በሰላም አኅዲረከ ዘቀዳሚ ምግባሮሙ፡ ደምሮሙ ውስተ ቤተ ክርስቲያንከ ቅድስት፡ በሞገሱ ወበምሕረቱ ለዋሕድ ወልድከ እግዚእነ ወአምላክነ ወመድኃኒነ ኢየሱስ ክርስቶስ፡ ዘቦቱ ለከ ምስሌሁ ወምስለ ቅዱስ መንፈስ ስብሐት ወእኂዝ ይእዜኒ ወዘልፈኒ ወለዓለመ ዓለም አሜን።።",
+      "amharic": "የቀደመ ሥራቸውን ይቅር ብለህ በሰላም ነፍሳቸውን አድን፡ ከቅድስት ቤተ ክርስቲያንህ አንድ አድርጋቸው፡ ተቀዳሚ ተከታይ በሌለው በአንድ ልጅህ በጌታችንና በአምላካችን በመድኃኒታችንም በኢየሱስ ክርስቶስ በይቅርታውና በምሕረቱ ከቅድስት ቤተ ክርስቲያንህ ጨምራቸው፡ በርሱ ያለ ክብር ጽንዕ ለአንተ ይገባል፡ ከርሱ ጋራ ከመንፈስ ቅዱስም ጋራ፡ ዛሬም ዘወትርም ለዘለዓለሙ አሜን።።",
+      "uncertain": false
+     },
+     {
+      "id": "p127-04",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p127-05",
+      "kind": "paragraph",
+      "number": 97,
+      "geez_numeral": "፺፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. ተንሥኡ ለጸሎት፡ ይ.ሕ. እግዚአ ተሣሃለነ፡ ይ.ካ. ሰላም ለኵልክሙ፡ ይ.ሕ. ምስለ መንፈስከ፡",
+      "amharic": "ይ.ዲ. ለጸሎት ተነሡ፡ ይ.ሕ. አቤቱ ይቅር በለን፡ ይ.ካ. ሰላም ለሁላችሁ ይሁን፡ ይ.ሕ. ከመንፈስህ ጋራ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p127-06",
+      "kind": "paragraph",
+      "number": 98,
+      "geez_numeral": "፺፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ሥጋ ቅዱስ ዘበአማን ዝ ውእቱ «እማሬ» ዘእግዚእነ ወአምላክነ ወመድኃኒነ ኢየሱስ ክርስቶስ ዘይትወሀብ ለሕይወት ወለመድኃኒት ወለሥርየተ ኃጢአት ለእለ ይነሥኡ እምኔሁ በአሚን፡ ይ.ሕ. አሜን፡",
+      "amharic": "ይ.ካ. በእውነት ክቡር የሚሆን የጌታችንና የአምላካችን የመድኃኒታችን የኢየሱስ ክርስቶስ ሥጋ ይህ ‹‹እማሬ›› ነው፡ አምነው ከርሱ ለሚቀበሉ ሕይወትና መድኃኒት የኃጢአት ማስተሥረያም ሊሆን የሚሰጥ፡ ይ.ሕ. አሜን፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 128,
+    "printed_page_geez": "፻፲፱",
+    "printed_page": 119,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p128-01",
+      "kind": "paragraph",
+      "number": 99,
+      "geez_numeral": "፺፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ደም ክቡር ዘበአማን ዝ ውእቱ «እማሬ» ዘእግዚእነ ወአምላክነ ወመድኃኒነ ኢየሱስ ክርስቶስ ዘይትወሀብ ለሕይወት ወለመድኃኒት ወለሥርየተ ኃጢአት ለእለ ይትሜጠዉ እምኔሁ በአሚን፡ ይ.ሕ. አሜን፡",
+      "amharic": "ይ.ካ. በእውነት አምነው ከርሱ ለሚቀበሉ ሕይወትና መድኃኒት የኃጢአት ማስተሥረያም ሊሆን የሚሰጥ የጌታችንና የአምላካችን የኢየሱስ ክርስቶስ ክቡር ደም ይህ ‹‹እማሬ›› ነው፡ ይ.ሕ. አሜን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p128-02",
+      "kind": "paragraph",
+      "number": 100,
+      "geez_numeral": "፻",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. እስመ ዝንቱ ውእቱ «እማሬ» ሥጋሁ ወደሙ ለአማኑኤል አምላክነ ዘበአማን፡ ይ.ሕ. አሜን፡",
+      "amharic": "ይ.ካ. በእውነት የአምላካችን የአማኑኤል ሥጋውና ደሙ ይህ ‹‹እማሬ›› ነውና፡ ይ.ሕ. አሜን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p128-03",
+      "kind": "paragraph",
+      "number": 101,
+      "geez_numeral": "፻፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. አአምን አአምን አአምን ወእትአመን እስከ ደኃሪት እስትንፋስ ከመ ዝንቱ ውእቱ «እማሬ» ሥጋሁ ወደሙ ለእግዚእነ ወአምላክነ ወመድኃኒነ ኢየሱስ ክርስቶስ ዘነሥአ እምእግዝእተ ኵልነ ቅድስት ድንግል በ፪ ማርያም፡ ወረሰዮ ፩ደ ምስለ መለኮቱ ዘእንበለ ቱስሕት ወኢትድምርት፡ ዘእንበለ ፍልጠት ወኢውላጤ ወኮነ ሰማዕተ በስምዕ ሠናይ በመዋዕለ ጲላጦስ ጰንጤናዊ ወመጠዎ በእንቲአነ ወበእንተ ሕይወተ ኵልነ፡ ይ.ሕ. አሜን፡",
+      "amharic": "ይ.ካ. አምናለሁ አምናለሁ አምናለሁ፡ እስከ መጨረሻዪቱም እስትንፋስ እታመናለሁ፡ በሁለት ወገን ድንግል ከምትሆን ከሁላችን እመቤት ከቅድስት ማርያም የነሣው የጌታችንና የአምላካችን የመድኃኒታችንም የኢየሱስ ክርስቶስ ሥጋው ደሙ ይህ ‹‹እማሬ›› እንደ ሆነ፡ ያለመቀላቀልና ያለትድምርት ያለ መለወጥና ያለ መለየት ከመለኮቱ ጋራ አንድ ያደረገው፡ በጰንጤናዊ ጲላጦስም ዘመን ባማረ ምስክርነት ምስክር የሆነ፡ ስለ እኛና ስለሁላችንም ሕይወት አሳልፎ የሰጠው፡ ይ.ሕ. አሜን",
+      "uncertain": false
+     },
+     {
+      "id": "p128-04",
+      "kind": "paragraph",
+      "number": 102,
+      "geez_numeral": "፻፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. አአምን አአምን አአምን ወእትአመን ከመ ኢተፈልጠ መለኮቱ እም ትስብእቱ ኢአሐተ ሰዓተ ወኢከመ ቅጽበተ ዓይን አላ መጠዎ በእንቲአነ ለሕይወት ወለመድኃኒት ወለሥርየተ ኃጢአት ለእለ ይትሜጠዉ እምኔሁ በአሚን፡ ይ.ሕ. አሜን፡",
+      "amharic": "ይ.ካ. አምናለሁ አምናለሁ አምናለሁ፡ መለኮቱ ከሰውነቱ አንዲት ሰዓት እንኳ እንደ ዓይን ቅጽበት (ወይም የዓይን ጥቅሻ ያህል ስንኳ) እንዳልተለየም እታመናለሁ፡ ስለ እኛ ሰጠው እንጂ ለሕይወትና ለመድኃኒት ለኃጢአትም ማስተሥረያ ሊሆን አምነው ለሚቀበሉ ሰዎች ስለ እኛ አሳልፎ ሰጠው እንጂ፡ ይ.ሕ. አሜን፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 129,
+    "printed_page_geez": "፻፳",
+    "printed_page": 120,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p129-01",
+      "kind": "paragraph",
+      "number": 103,
+      "geez_numeral": "፻፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. አአምን አአምን አአምን ወእትአመን ከመ ዝንቱ ውእቱ «እማሬ» ሥጋሁ ወደሙ ለእግዚእነ ወአምላክነ ወመድኃኒነ ኢየሱስ ክርስቶስ፡ ዝ ውእቱ ዘሎቱ ይደሉ ክብር ወስብሐት ወስግደት ምስለ አቡሁ ኄር ሰማያዊ ወመንፈስ ቅዱስ ማሕየዊ ይእዜኒ ወዘልፈኒ ወለዓለመ ዓለም አሜን፡",
+      "amharic": "ይ.ካ. አምናለሁ አምናለሁ አምናለሁ፡ የጌታችንና የአምላካችን የመድኃኒታችን የኢየሱስ ክርስቶስ ሥጋው ደሙ ይህ ‹‹እማሬ›› እንደ ሆነ እታመናለሁ፡ ክብርና ምስጋና ስግደትም ቸር ከሚሆን ከሰማያዊ አባቱ ጋራ ማሕየዊ ከሚሆን ከመንፈስ ቅዱስ ጋራ የሚገባው ይህ ነው፡ ዛሬም ዘወትርም ለዘለዓለሙ አሜን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p129-02",
+      "kind": "paragraph",
+      "number": 104,
+      "geez_numeral": "፻፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወእምዝ ይንሣእ ካህን በእዴሁ ዓስበ ዲያቆን ዘቦቱ ትእምርተ መስቀል ወይደዮ ውስተ ጽዋዕ፡ ወይጥማዕ ቦቱ ደመ ወይዕትብ ሥጋ በትእምርተ መስቀል ቅድመ ዲበ ክፍል ዐቢይ እንተ አፍኣሁ ወዳግመ እንተ ውስጡ ወሣልሰ ዲበ ክፍል ንዑስ፡ ወካዕበ ይዕትብ በሥጋ ደመ እንዘ ይብል ቡሩክ እግዚአብሔር እስከ ተፍጻሜቱ፡ ወያምጽእ ንፍቅ ዲያቆን ማየ ለካህናት ወይትሐፀቡ እዴሆሙ አምሳለ ቅዱሳን በነፍሶሙ።።",
+      "amharic": "ከዚህ በኋላ ካህኑ ትእምርተ መስቀል ያለበትን ዓስበ ዲያቆን በእጁ አንሥቶ ከጽዋው ይጨምረው፡ በርሱ ደሙን ጠምቶ ሥጋውን በትእምርተ መስቀል ይባርክ፡ አስቀድሞ በአፍኣው ያለውን ታላቁን ክፍል፡ ሁለተኛም የውስጡን ክፍል ሦስተኛም ታናሹን ክፍል፡ ዳግመኛም እስከ መጨረሻው ቡሩክ እግዚአብሔር እያለ በሥጋው ደሙን ይባርክ፡ ንፍቅ ዲያቆን ለካህናቱ ውኃ ያቅርብ፡ በነፍሳቸው ቅዱሳን ለመሆናቸውም አምሳል እጃቸውን ይታጠቡ።።",
+      "uncertain": false
+     },
+     {
+      "id": "p129-03",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 130,
+    "printed_page_geez": "፻፳፩",
+    "printed_page": 121,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p130-01",
+      "kind": "paragraph",
+      "number": 105,
+      "geez_numeral": "፻፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወእምዝ ይበል ዘንተ ጸሎተ፡ እግዚአብሔር አምላኪየ ናሁ ሥጋ ወልድከ መሥዋዕት ዘያሠምረከ፡ ወበዝንቱ አናሕሲ ሊተ ኵሎ ኃጢአትየ እስመ በእንቲአየ ሞተ ወልድከ ዋሕድ፡",
+      "amharic": "ከዚህም በኋላ ይህን ጸሎት ይበል፡ አምላኬ እግዚአብሔር ሆይ፡ ደስ የሚያሰኝህ መሥዋዕት የልጅህ ሥጋ እነሆ፡ በዚህም ኃጢአቴን ሁሉ አቃልልኝ፡ ስለ እኔ አንድ ልጅህ ሙቷልና፡",
+      "uncertain": false
+     },
+     {
+      "id": "p130-02",
+      "kind": "paragraph",
+      "number": 106,
+      "geez_numeral": "፻፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወናሁ ደመ መሲሕከ ንጹሕ ዘተክዕወ በእንቲአየ በቀራንዮ ይኬልሕ ህየንቴየ፡ ዝንቱ ደም ነባቢ ይኩን ሠራዬ ኃጢአትየ ለገብርከ፡",
+      "amharic": "ስለእኔ በቀራንዮ የፈሰሰ ንጹሕ የሚሆን የመሢሕም ደም እነሆ ስለ እኔ ይጮኻል፡ ይህ የሚናገር ደም የኔን አገልጋይህን ኃጢአት የሚያስተሠርይ ይሁን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p130-03",
+      "kind": "paragraph",
+      "number": 107,
+      "geez_numeral": "፻፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወተወከፍ ስእለትየ በእንቲአሁ እስመ በእንቲአየ ኵናተ ወቅንዋተ ተወክፈ ፍቁርከ ወሐመ ከመ ያሥምርከ፡ ወእምድኅረ ድኅንኩ ገብአ ሰይጣን ውስተ ልብየ ወነደፈኒ በአሕፃሁ፡ ሀበኒ እግዚአ ምሕረተከ እስመ መስተዋቅስ ጽኑ ውእቱ፡",
+      "amharic": "ስለ እነርሱም ልመናዬን ተቀበል፡ ወዳጅህ ስለ እኔ ጦርንና ቅንዋትን ተቀብሏልና፡ ደስ ያሰኝህም ዘንድ ታመመ፡ ከዳንሁም በኋላ ሰይጣን ወደ ልቡናዬ ተመልሶ በፍላፃዎቹ ወጋኝ፡ አቤቱ ምሕረትህን ስጠኝ፡ ጽኑ ከሳሽ ነውና፡",
+      "uncertain": false
+     },
+     {
+      "id": "p130-04",
+      "kind": "paragraph",
+      "number": 108,
+      "geez_numeral": "፻፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወበሥንቀ ኃጢአት ቀተለኒ ተበቀል ሊተ እምደፋሪ ዘኢይጸግብ አስሕቶትየ እምሕይወትየ፡",
+      "amharic": "ኃጢአትንም ምክንያት (ስንቅ) አድርጎ ገደለኝ፡ እኔን ከሕይወቴ ማሳትን በቃኝ ከማይል ደፋር አድነኝ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p130-05",
+      "kind": "paragraph",
+      "number": 109,
+      "geez_numeral": "፻፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "አንተ እግዚአ ንጉሥየ ወአምላኪየ ወመድኃንየ አጽምም ሊተ ቍስለ ነፍስየ ወሥጋየ ለገብርከ፡",
+      "amharic": "አቤቱ ንጉሤና አምላኬ መድኃኒቴም የምትሆን አንተ የእኔን የአገልጋይህን የነፍሴንና የሥጋዬን ቍስል አድርቅልኝ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 131,
+    "printed_page_geez": "፻፳፪",
+    "printed_page": 122,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p131-01",
+      "kind": "paragraph",
+      "number": 110,
+      "geez_numeral": "፻፲",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወእምቅድመ ተመጥዎ ቍርባን ይበሉ ኵሎሙ እለ ይነሥኡ እምሥጢር ቅዱስ፡ ኦ እግዚእየ ኢየሱስ ክርስቶስ አኮ ዘይደልወኒ ትባእ ታሕተ ጠፈረ ቤትየ ርኵስት እስመ አነ አስተቈጣዕኩከ፡ ወገበርኩ እኩየ በቅድሜከ ወአርኰስኩ ነፍስየ ወሥጋየ ዘፈጠርከ በአርአያከ ወበአምሳሊከ በዐሊወ ትእዛዝከ፡ ወአልብየ ምግባር ወኢምንትኒ፡",
+      "amharic": "ቍርባኑን ከመቀበል አስቀድሞ ከቅዱስ ምሥጢር የሚቀበሉ ሁሉ እንዲህ ይበሉ፡ አቤቱ ጌታዬ ኢየሱስ ክርስቶስ ሆይ፡ ርኵስት ከሆነች ከቤቴ ጠፈር በታች ትገባ ዘንድ የሚገባኝ አይደለም፡ እኔ አሳዝኜሃለሁና፡ በፊትህም ክፉ ሥራ ሠርቻለሁና፡ በአርአያህና በአምሳልህ የፈጠርኸው ሥጋዬንና ነፍሴን ትእዛዝህን በማፍረስ አሳድፌያለሁና፡ ሥራም ምንም ምን የለኝምና፡",
+      "uncertain": false
+     },
+     {
+      "id": "p131-02",
+      "kind": "paragraph",
+      "number": 111,
+      "geez_numeral": "፻፲፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወባሕቱ በእንተ ተኬንዎትከ ወበእንተ ትስብእትከ በእንተ መድኃኒትየ ወበእንተ መስቀልከ ክቡር ወበእንተ ሞትከ ማሕየዊት ወበእንተ ትንሣኤከ በሣልስት ዕለት እስእለከ ወአስተበቍዐከ ኦ እግዚእየ ከመ ታንጽሐኒ እምኵሉ አበሳ ወመርገም ወእምኵሉ ኃጢአት ወርኵስ፡",
+      "amharic": "ነገር ግን ስለ መፍጠርህና እኔን ለማዳን ሰው ስለ መሆንህ፡ ስለ ክቡር መስቀልህም፡ ማሕየዊት ስለምትሆን ስለ ሞትህ፡ በሦስተኛው ቀን ስለ መነሣትህም ጌታዬ ሆይ ከበደልና ከመርገም ሁሉ ከኃጢአትና ከርኵሰትም ሁሉ ታነጻኝ ዘንድ እለምንሃለሁ፡ እማልድሃለሁም፡",
+      "uncertain": false
+     },
+     {
+      "id": "p131-03",
+      "kind": "paragraph",
+      "number": 112,
+      "geez_numeral": "፻፲፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወሶበ እትሜጠዎ ለምሥጢረ ቅድሳቲከ ኢይኩንኒ ለቅስት ወኢለኵነኔ፡ አላ መሐረኒ ወተሣሃለኒ፡ ወሀበኒ ቦቱ ሥርየተ ኃጢአትየ ወሕይወተ ነፍስየ ኦ ሕይወተ ዓለም በስእለታ ለእግዝእትነ ቅድስት ድንግል በ፪ ማርያም ወላዲትከ ወዮሐንስ መጥምቅ፡ ወበጸሎተ ኵሎሙ ቅዱሳን መላእክት ወኵሎሙ ሰማዕት ወጻድቃን መስተጋድላን ለሠናይ እስከ ለዓለመ ዓለም አሜን።።",
+      "amharic": "የቅድስናህንም ምሥጢር በተቀበልሁት ጊዜ ለወቀሳ ለመፈራረጃ አይሁንብኝ፡ ማረኝ ይቅርም በለኝ እንጂ፡ የዓለም ሕይወት ሆይ፡ በርሱ የኃጢአቴን ሥርየት የነፍሴንም ሕይወት ስጠኝ እንጂ፡ በሁለት ወገን ድንግል በምትሆን በወለደችህ በእመቤታችን በቅድስት ማርያም በመጥምቁ በዮሐንስም አማላጅነት ክቡራን በሚሆኑ በመላእክትም በሰማዕታትና ለበጎ ነገር በሚጋደሉ በጻድቃንም ሁሉ ጸሎት እስከ ዘለዓለሙ ድረስ አሜን።።",
+      "uncertain": false
+     },
+     {
+      "id": "p131-04",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 132,
+    "printed_page_geez": "፻፳፫",
+    "printed_page": 123,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p132-01",
+      "kind": "paragraph",
+      "number": 113,
+      "geez_numeral": "፻፲፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወእንዘ ይትሜጦ ይ.ካ. ለባሕቲቱ፡ ኦ እግዚእየ ኢየሱስ ክርስቶስ ኢይኩን ዝንቱ ምሥጢርከ አበሳ ላዕሌየ አላ ይኩን ለአንጽሖ ነፍስየ ወሥጋየ፡",
+      "amharic": "ሲቀበልም ይ.ካ. ለብቻው፡ ጌታዬ ኢየሱስ ክርስቶስ ሆይ፡ ይህ ምሥጢርህ በእኔ በደል አይሁንብኝ ሥጋዬንና ነፍሴን ለማንጻት ይሁንልኝ እንጂ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p132-02",
+      "kind": "paragraph",
+      "number": 114,
+      "geez_numeral": "፻፲፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወእምዝ ይትመጦ ቅድመ ቍርባን ለሊሁ ወካዕበ ይመጡ ለንፍቅ ካህን ወንፍቅሂ የሀብ ደመ ለካህን፡ ወእምዝ ይንሣእ ለሊሁ በእዴሁ ደመ ንፍቅ ካህን ወእምዝ ይመጡ ለካህናት ውእቱ ካህን ሥጋ ወንፍቅሂ ደመ፡",
+      "amharic": "ከዚህም በኋላ አስቀድሞ ቍርባኑን ራሱ ይቀበል፡ ዳግመኛም ለንፍቁ ካህን ያቀብል፡ ንፍቁም ደሙን ለካህኑ ያቀብለው፡ ከዚህም በኋላ ንፍቁ ካህን ደሙን እርሱ በእጁ ይቀበል ከዚህ በኋላ ያው ሠራዒው ካህን ሥጋውን ለካህናቱ ያቀብል፡ ንፍቁም ደሙን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p132-03",
+      "kind": "paragraph",
+      "number": 115,
+      "geez_numeral": "፻፲፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. እንዘ ይሜጡ በቅዳሴ እግዚእ፡ ሥጋሁ ለእግዚእነ ኢየሱስ ክርስቶስ ለቀድሶ ሥጋ ወነፍስ ወመንፈስ፡ ወበቅዳሴ ሐዋርያት፡ ኅብስተ ሕይወት ዘወረደ እምሰማያት ቅዱስ ሥጋሁ ለክርስቶስ፡ ወበቅዳሴ ሊቃውንት፡ ሥጋሁ ለአማኑኤል አምላክነ ዘበአማን ዘነሥአ እምእግዝእተ ኵልነ ማርያም፡ ዘይቀርብሂ ይበል አሜን፡",
+      "amharic": "ይ.ካ. ሲያቀብል በጌታችን ቅዳሴ፡ ሥጋንና ነፍስን ደመ ነፍስንም ለማክበር የሚሆን የጌታችን የኢየሱስ ክርስቶስ ሥጋ ይህ ነው፡ በሐዋርያትም ቅዳሴ፡ ከሰማይ የወረደ የሕይወት ኅብስት የሚሆን የክርስቶስ ክቡር ሥጋ፡ በሊቃውንት ቅዳሴ፡ ከሁላችን እመቤት ከማርያም የነሣው እውነተኛ የሚሆን የአምላካችን የአማኑኤል ሥጋ፡ የሚቀበለውም አሜን ይበል፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 133,
+    "printed_page_geez": "፻፳፬",
+    "printed_page": 124,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p133-01",
+      "kind": "paragraph",
+      "number": 116,
+      "geez_numeral": "፻፲፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ቅድመ ይቅረቡ ሊቃነ ጳጳሳት፡ ጳጳሳት ወኤጲስቆጳሳት፡ ወእምድኅሬሆሙ ቀሳውስት ወዲያቆናት ወካዕበ ኵሎሙ በበመዓርጊሆሙ ወእምድኅረ ዕደው ይትመጠዋ አንስት ሕፃናትሰ እለ ይጠመቁ ይትመጠዉ እምቅድመ ሕዝብ፡",
+      "amharic": "አስቀድሞ ሊቃነ ጳጳሳትና ጳጳሳት ኤጲስ ቆጳሳት፡ ከነርሱም በኋላ ቀሳውስትና ዲያቆናት ይቍረቡ፡ ዳግመኛም ሁሉ በየማዕረጋቸው ይቍረቡ፡ ከወንዶችም በኋላ ሴቶች ይቀበሉ የሚጠመቁ ሕፃናት ግን ከሕዝቡ አስቀድሞ ይቀበሉ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p133-02",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p133-03",
+      "kind": "paragraph",
+      "number": 117,
+      "geez_numeral": "፻፲፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወእምድኅረ ተመጥዎ ቍርባን እንዘ ሀሎ በአፉሁ ይበል ኵሉ ለለ፩ዱ ፩ዱ፡ ቅዱስ ቅዱስ ቅዱስ ሥሉስ ዘኢይትነገር ሀበኒ ከመ እንሣዕ ለሕይወት ዘንተ ሥጋ ወደመ ዘእንበለ ኵነኔ፡ ኅበኒ እግበር ፍሬ ዘያሠምረከ ከመ አስተርኢ በስብሐቲከ ወእሕየው ለከ እንዘ እገብር ዘዚአከ ፈቃደ፡",
+      "amharic": "ቍርባን ከተቀበለ በኋላ በአፉ ሳለ ሁሉም እያንዳንዱ እንዲህ ይበል፡ የማይነገር ቅዱስ ቅዱስ ቅዱስ ሦስት የምትሆን፡ ይህን ሥጋና ደም ሕይወት ሊሆነኝ ሳይፈረድብኝ እቀበል ዘንድ ስጠኝ፡ በጌትነትህ እንድገለጽ ደስ የሚያሰኝህን ፍሬ እሠራ ዘንድ ስጠኝ፡ የአንተንም ፈቃድ እየሠራሁ እኖርልህ ዘንድ ስጠኝ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p133-04",
+      "kind": "paragraph",
+      "number": 118,
+      "geez_numeral": "፻፲፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "በተአምኖ እጼውዐከ አብ ወእጼውዕ መንግሥተከ ይትቀደስ እግዚአ ስምከ በላዕሌነ እስመ ኃያል አንተ እኩት ወስቡሕ ወለከ ስብሐት ለዓለመ ዓለም፡",
+      "amharic": "በማመን አባት ብዬ እጠራሃለሁ፡ መንግሥትህንም እጠራለሁ፡ አቤቱ ስምህ በኛ ላይ ይመስገን፡ ምስጉን ክቡር የምትሆን ኃያል አንተ ነህና፡ ለአንተ ክብር ይገባሃል ለዘለዓለሙ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p133-05",
+      "kind": "paragraph",
+      "number": 119,
+      "geez_numeral": "፻፲፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወእምዝ ይብላዕ ዘተመጠወ ወጊዜ ተመጥዎቱ ይደሉ ከመ ያንብር እዴሁ ዲበ አፉሁ ወይሐኮ በለኆሳስ እስከ ያጽሪ አፉሁ በፍርሐት ወበረዓድ፡ ወእምዝ ይበል፡ ምላዕ አፉየ ስብሐተ ወልብየ ሐሤተ ወነፍስየ ትፍሥሕተ ለዘተመጠውኩ እምዝንቱ ምሥጢር አምላካዊ ዘኮነ ሰብአ በእንተ መድኃኒተ ሰብእ፡",
+      "amharic": "ከዚህ በኋላ የተቀበለውን ይብላ በሚቀበልበትም ጊዜ እጁን ከአፉ ላይ አኑሮ ቀስ ቀስ እያለ ያላምጠው በመፍራትና በመንቀጥቀጥ ሁኖ አፉን እስኪያጸራ ድረስ፡ ከዚህም በኋላ እንዲህ ይበል፡ ሰውን ለማዳን ሰው ከሆነ ከአምላካዊ ምሥጢር በተቀበልሁ በእኔ በአንደበቴ ምስጋናህን በልቡናዬ ሐሤትን በሰውነቴም ደስታን ምላ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 134,
+    "printed_page_geez": "፻፳፭",
+    "printed_page": 125,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p134-01",
+      "kind": "paragraph",
+      "number": 120,
+      "geez_numeral": "፻፳",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወይበል ንፍቅ ቀሲስ እንዘ ይሜጡ ደመ፡ ዝንቱ ጽዋዐ ሕይወት ዘወረደ እምሰማያት ክቡር ደሙ ለክርስቶስ፡ ወዘይትሜጦ ይበል አሜን ወአሜን፡",
+      "amharic": "ንፍቅ ቄስም ደሙን ሲያቀብል ይበል፡ ይህ የሕይወት ጽዋ ከሰማይ የወረደ የክርስቶስ ክቡር ደሙ ነው፡ የሚቀበለውም ይበል አሜን ወአሜን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p134-02",
+      "kind": "paragraph",
+      "number": 121,
+      "geez_numeral": "፻፳፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ጸሎት ዘባስልዮስ ወትእዛዝ ዘሀገርነ፡ ወእንዘ ሀሎ ደም በአፉሁ ይበል በሕሊናሁ፡ ኦ እግዚእየ ወአምላኪየ ኢየሱስ ክርስቶስ ናሁ ተመጠውኩ ሥጋከ ንጹሐ ወደመከ ክቡረ ይኩነኒ ለሥርየተ ኃጢአትየ ወለኅድገተ አበሳየ፡",
+      "amharic": "የባስልዮስ ጸሎት ያገራችንም ትእዛዝ ነው፡ ደሙ በአፉ ሳለ በሕሊናው ይበል፡ ጌታዬ አምላኬም ኢየሱስ ክርስቶስ ሆይ ንጹሕ ሥጋህንና ክቡር ደምህን እነሆ ተቀበልሁ፡ ለኃጢአቴ ማሥተሥረያ ይሁነኝ፡ ስለ በደሌም ሁሉ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p134-03",
+      "kind": "paragraph",
+      "number": 122,
+      "geez_numeral": "፻፳፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ኦ ወልድ ዋሕድ ወመፍቀሬ ሰብእ ምላዕ አፉየ ስብሐቲከ ከመ እሰብሕ አኰቴተከ እስመ አንተ ቀዳሚ ዘተሰባእከ ወተሰባሕከ ቦቱ ከመ ታድኅነኒ እስከ ለዓለመ ዓለም ወአድኀንከኒ በእንተ ስምከ ቅዱስ ለዓለመ ዓለም፡",
+      "amharic": "ሰውን የምትወድ ወልድ ዋሕድ ሆይ፡ ምስጋናህን በአንደበቴ ምላ፡ ምስጋናህን አመሰግን ዘንድ ቀድሞ አንተ ሰው የሆንህ፡ በርሱም የተገለጽህ፡ እስከ ዘለዓለሙ ታድነኝ ዘንድ ነውና ስለ ቅዱስ ስምህም ለዘለዓለሙ አዳንኸኝ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p134-04",
+      "kind": "paragraph",
+      "number": 123,
+      "geez_numeral": "፻፳፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ስብሐት ለከ ኦ እግዚእየ ወአምላኪየ ኢየሱስ ክርስቶስ ዘወሀብከኒ ዕሩየ በእደ ዚአሁ ለገብርከ እገሌ፡ እሴብሐከ ወእስእለከ ከመ እኩን ውስተ መርዔትከ ወከመ ትጐልቍኒ ምስለ አባግዒከ ወተወከፈኒ፡",
+      "amharic": "ጌታዬ አምላኬ ኢየሱስ ክርስቶስ ሆይ፡ በአገልጋይህ በእገሌ እጅ ሥጋህንና ደምህን አንድ አድርገህ ለሰጠኸኝ ለአንተ ምስጋና ይገባል፡ አመሰግንሃለሁ እለምንህማለሁ፡ ከምእመናን ጋራ አንድ እሆን ዘንድ ከበጎችህም ትቈጥረኝ ዘንድ ተቀበለኝ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p134-05",
+      "kind": "paragraph",
+      "number": 124,
+      "geez_numeral": "፻፳፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይእዜኒ ኢትዝክር ሊተ አበሳየ አአኵቶ ለጸጋ ዚአከ ዘተውህበ ሊተ ወለረድኤትከ እንተ ኮነት ምስሌየ፡",
+      "amharic": "አሁንም ኃጢአቴን አትቍጠርብኝ፡ ለእኔ የተሰጠኝን ጸጋህንና በእኔ ያለች ረድኤትህን አመሰግናለሁ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 135,
+    "printed_page_geez": "፻፳፮",
+    "printed_page": 126,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p135-01",
+      "kind": "paragraph",
+      "number": 125,
+      "geez_numeral": "፻፳፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይበል ዲያቆን እንዘ ይትሜጦ ጽዋዐ፡ ጽዋዐ ሕይወት እትሜጦ ወስመ እግዚአብሔር እጼውዕ፡ ወእምዝ ይበል፡ ጸልዩ በእንቲአነ ወበእንተ ኵሎሙ ክርስቲያን እለ ይቤሉነ ግበሩ ተዝካሮሙ በሰላም ወበፍቅረ ኢየሱስ ክርስቶስ ሰብሑ ወዘምሩ፡",
+      "amharic": "ዲያቆን ጽዋውን ሲቀበል እንዲህ ይበል፡ የሕይወት ጽዋን እቀበላለሁ፡ የእግዚአብሔርንም ስም እጠራለሁ፡ ከዚህ በኋላ እንዲህ ይበል፡ ስለ እኛና መታሰቢያቸውን አድርጉ ስላሉን ስለ ክርስቲያን ሁሉ ጸልዩ፡ በሰላም በኢየሱስ ክርስቶስም ፍቅር አመስግኑ ዘምሩም፡",
+      "uncertain": false
+     },
+     {
+      "id": "p135-02",
+      "kind": "paragraph",
+      "number": 126,
+      "geez_numeral": "፻፳፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወእምዝ ይዘምሩ ካህናት በስብሐተ መዝሙር ዘ፻ ወ፶ ወኢያጽርዑ አላ በበ፩ዱ አው በበ፪ቱ ይዘምሩ፡",
+      "amharic": "ከዚህ በኋላ ካህናት በ፻፶ኛው መዝሙር ምስጋና ይዘምሩ፡ አንዳንድ ወይም ሁለት ሁለት እየሆኑ ይዘምሩ እንጂ አያስታጉሉ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p135-03",
+      "kind": "paragraph",
+      "number": 127,
+      "geez_numeral": "፻፳፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. እንዘ ይወጽእ እለ ጸዋዕከ እግዚአ ወእለ ቀደስከ ክፍል በጽዋዔከ፡ ወአጽንዕ በኃይልከ ወዕቀብ በፍቅርከ ወደምር ውስተ ዘለዓለም መንግሥትከ በክርስቶስ፡ ዘቦቱ ለከ ምስሌሁ ወምስለ ቅዱስ መንፈስ ስብሐት ወእኂዝ ይእዜኒ ወዘልፈኒ ወለዓለመ ዓለም አሜን፡",
+      "amharic": "ይ.ካ. ሲወጣ፡ አቤቱ የጠራሃቸውን ያከበርሃቸውንም በመጥራትህ አድላቸው፡ በኃይልህም አጽና፡ በፍቅርህ ጠብቅ፡ የዘለዓለም በሚሆን መንግሥትህም በክርስቶስ አንድ አድርግ፡ በርሱ ያለ ክብር ጽንዕ ለአንተ ይገባል፡ ከእርሱ ጋራ ከመንፈስ ቅዱስም ጋራ ዛሬም ዘወትርም፡ ለዘለዓለሙ አሜን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p135-04",
+      "kind": "paragraph",
+      "number": 128,
+      "geez_numeral": "፻፳፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወይዕትብ እንዘ ይወፅእ ዲበ ፃሕል ፩ደ ጊዜ፡ ወእምዝ ይመጡ ለሕዝብ ውእቱ ካህን ሥጋ ወዲያቆን ደመ፡ ወእንዘ ይሜጡ ይበል ከመ ቀዳሚ፡ ወሕዝብኒ እንዘ ይትሜጠዉ ይበሉ አሜን ፩ደ ጊዜ ዲበ ሥጋ ወ፪ተ ጊዜ ዲበ ደም፡",
+      "amharic": "ሲወጣ አንድ ጊዜ ከፃሕሉ ላይ ይባርክ፡ ከዚህም በኋላ ካህኑ ለሕዝቡ ሥጋውን፡ ዲያቆኑም ደሙን ያቀብል፡ ሲያቀብልም እንደ ቀደመው ይበል፡ ሕዝቡም ሲቀበሉ በሥጋው ላይ አንድ ጊዜ አሜን፡ በደሙ ላይ ሁለት ጊዜ አሜን አሜን ይበሉ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 136,
+    "printed_page_geez": "፻፳፯",
+    "printed_page": 127,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p136-01",
+      "kind": "paragraph",
+      "number": 129,
+      "geez_numeral": "፻፳፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወእምድኅረ ተመጠዉ ሕዝብ፡ ይ.ካ. እግዚአብሔር ዘለዓለም ብርሃነ ሕይወት ዘወሀብከነ እግዚአ ለአግብርቲከ ጽንዐተ ወዕቅበተ በዘሀሉ ዕለታት ወለያልይ እንዘ ተዓቅብ በሰላም፡ ባርክ በዘይእዜ መዋዕል ወበዘይመጽእ እምድኅር በእግዚእነ ኢየሱስ ክርስቶስ፡ ዘቦቱ ለከ ምስሌሁ ወምስለ ቅዱስ መንፈስ ስብሐት ወእኂዝ ይእዜኒ ወዘልፈኒ ወለዓለመ ዓለም አሜን፡",
+      "amharic": "ሕዝቡም ከተቀበሉ በኋላ፡ ይ.ካ. ለዘለዓለሙ የሕይወት ብርሃን የምትሆን እግዚአብሔር፡ አቤቱ ባለው መዓልትና ሌሊት ለኛ ለአገልጋዮችህ በሰላም እየጠበቅህ መጠበቅን ጽናትንም የሰጠኸን፡ በዛሬው ዕለት ኋላም በሚመጣው ዕለት በጌታችን በኢየሱስ ክርስቶስ ባርክ፡ በርሱ ያለ ክብር ጽንዕ ለአንተ ይገባል፡ ከእርሱ ጋራ ከመንፈስ ቅዱስም ጋራ ዛሬም ዘወትርም ለዘለዓለሙ፡ አሜን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p136-02",
+      "kind": "paragraph",
+      "number": 130,
+      "geez_numeral": "፻፴",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወእምዝ ይ.ዲ. ነአኵቶ ለእግዚአብሔር ቅድሳቶ ነሢአነ ከመ ለሕይወተ ነፍስ ይኩነነ ፈውሰ ዘተመጠነ ንስእል ወንትመሐፀን እንዘ ንሴብሖ ለእግዚአብሔር አምላክነ፡",
+      "amharic": "ከዚህ በኋላ ይ.ዲ. ሥጋውን ደሙን ተቀብለን እግዚአብሔርን እናመሰግነዋለን፡ ለነፍሳችን አነዋወር መድኃኒት ይሆን ዘንድ የተቀበልን እኛ አምላካችንን እግዚአብሔርን እያመሰገን እንለምናለን፡ አደራም እንላለን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p136-03",
+      "kind": "paragraph",
+      "number": 131,
+      "geez_numeral": "፻፴፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ስብሐተ እግዚአብሔር ይነግር አፉየ ወኵሉ ዘሥጋ ይባርክ ለስሙ ቅዱስ ለዓለም ወለዓለመ ዓለም፡ ይ.ሕ. አቡነ ዘበሰማያት ኢታብአነ እግዚአ ውስተ መንሱት፡",
+      "amharic": "ይ.ካ. አንደበቴ የእግዚአብሔርን ምስጋና ይናገራል፡ የሥጋ ፍጥረትም ሁሉ ቅዱስ የሚሆን ስሙን ያመሰግናል ለዘለዓለሙ፡ ይ.ሕ. በሰማይ ያለህ አባታችን ሆይ አቤቱ ወደ ፈተና አታግባን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p136-04",
+      "kind": "paragraph",
+      "number": 132,
+      "geez_numeral": "፻፴፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. ተመጠነ እምሥጋሁ ቅዱስ ወእምደሙ ክቡር ለክርስቶስ፡",
+      "amharic": "ይ.ዲ. ከክርስቶስ ከቅዱስ ሥጋውና ከክቡር ደሙም ተቀበልን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p136-05",
+      "kind": "paragraph",
+      "number": 133,
+      "geez_numeral": "፻፴፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ስብሐተ እግዚአብሔር ይነግር አፉየ ወኵሉ ዘሥጋ ይባርክ ለስሙ ቅዱስ ለዓለም ወለዓለመ ዓለም፡ ይ.ሕ. አቡነ ዘበሰማያት ኢታብአነ እግዚአ ውስተ መንሱት፡",
+      "amharic": "ይ.ካ. አንደበቴ የእግዚአብሔርን ምስጋና ይናገራል፡ የሥጋ ፍጥረትም ሁሉ ቅዱስ የሚሆን ስሙን ያመሰግናል፡ ለዘለዓለሙ፡ ይ.ሕ. በሰማይ ያለህ አባታችን ሆይ አቤቱ ወደ ፈተና አታግባን፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 137,
+    "printed_page_geez": "፻፳፰",
+    "printed_page": 128,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p137-01",
+      "kind": "paragraph",
+      "number": 134,
+      "geez_numeral": "፻፴፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. ወናእኵቶ ይደልወነ ከመ ንሳተፍ ምሥጢረ ክብርተ ወቅድስተ፡",
+      "amharic": "ይ.ዲ. ክብርት ቅድስት የምትሆን ምሥጢርን እንቀበል ዘንድ ልናመሰግነው ይገባናል፡",
+      "uncertain": false
+     },
+     {
+      "id": "p137-02",
+      "kind": "paragraph",
+      "number": 135,
+      "geez_numeral": "፻፴፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ስብሐተ እግዚአብሔር ይነግር አፉየ ወኵሉ ዘሥጋ ይባርክ ለስሙ ቅዱስ ለዓለም ወለዓለመ ዓለም፡ ይ.ሕ. አቡነ ዘበሰማያት ኢታብአነ እግዚአ ውስተ መንሱት፡",
+      "amharic": "ይ.ካ. አንደበቴ የእግዚአብሔርን ምስጋና ይናገራል፡ የሥጋ ፍጥረትም ሁሉ ቅዱስ የሚሆን ስሙን ያመሰግናል፡ ለዘለዓለሙ፡ ይ.ሕ. በሰማይ ያለህ አባታችን ሆይ፡ አቤቱ ወደ ፈተና አታግባን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p137-03",
+      "kind": "paragraph",
+      "number": 136,
+      "geez_numeral": "፻፴፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ለእመ ኮነ ዕዝል፡ አሌዕለከ ንጉሥየ ወአምላኪየ ወእባርክ ለስምከ ለዓለም ወለዓለመ ዓለም፡ ይ.ሕ. አቡነ ዘበሰማያት ኢታብአነ እግዚአ ውስተ መንሱት፡",
+      "amharic": "ይ.ካ. ዕዝል ቢሆን፡ ገዢዬና አምላኬ ከፍ ከፍ አደርግሃለሁ፡ ለስምህም ምስጋናን አቀርባለሁ፡ ለዘለዓለሙ፡ ይ.ሕ. በሰማይ ያለህ አባታችን ሆይ፡ አቤቱ ወደ ፈተና አታግባን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p137-04",
+      "kind": "paragraph",
+      "number": 137,
+      "geez_numeral": "፻፴፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ኵሎ አሚረ እባርከከ ወእሴብሕ ለስምከ ለዓለም ወለዓለመ ዓለም፡ ይ.ሕ. አቡነ ዘበሰማያት ኢታብአነ እግዚአ ውስተ መንሱት፡",
+      "amharic": "ይ.ካ. ቀኑን ሁሉ አመሰግንሃለሁ፡ ለስምህም ምስጋናን አቀርባለሁ ለዘለዓለሙ፡ ይ.ሕ. በሰማይ ያለህ አባታችን ሆይ አቤቱ ወደ ፈተና አታግባን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p137-05",
+      "kind": "paragraph",
+      "number": 138,
+      "geez_numeral": "፻፴፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ስብሐተ እግዚአብሔር ይነግር አፉየ ወኵሉ ዘሥጋ ይባርክ ለስሙ ቅዱስ ለዓለም ወለዓለመ ዓለም፡ ይ.ሕ. አቡነ ዘበሰማያት ኢታብአነ እግዚአ ውስተ መንሱት፡ አኮ በኵሉ ዕዝል ዘይትበሀል አላ በበዓላተ እግዚእነ ወበበዓላተ እግዝእትነ ወበእሑድ ሰንበት።።",
+      "amharic": "ይ.ካ. አንደበቴ የእግዚአብሔርን ምስጋና ይናገራል፡ የሥጋ ፍጥረትም ሁሉ ቅዱስ የሚሆን ስሙን ያመሰግናል ለዘለዓለሙ፡ ይ.ሕ. በሰማይ ያለህ አባታችን ሆይ አቤቱ ወደ ፈተና አታግባን፡ በዕዝል ሁሉ የሚባል አይደለም፡ በጌታችን በዓላት በእመቤታችንም በዓላት፡ እሑድ እሑድ ነው እንጂ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p137-06",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 138,
+    "printed_page_geez": "፻፳፱",
+    "printed_page": 129,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p138-01",
+      "kind": "paragraph",
+      "number": 139,
+      "geez_numeral": "፻፴፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "፻፴፱፡ ይ.ካ. ኀዳፌ ነፍስ፡ ወካዕበ ናስተበቍዕ ዘኵሎ ይእኅዝ እግዚአብሔር አብ ለእግዚእ ወመድኃኒነ ኢየሱስ ክርስቶስ፡",
+      "amharic": "ይ.ካ. ኀዳፌ ነፍስ፡ ዳግመኛም ሁሉን የሚይዝ የጌታችንንና የመድኃኒታችንን የኢየሱስ ክርስቶስን አባት እግዚአብሔርን እንማልዳለን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p138-02",
+      "kind": "paragraph",
+      "number": 140,
+      "geez_numeral": "፻፵",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ነአኵተከ እስመ ከፈልከነ ንንሣእ ዘእምቅዱስ ምሥጢርከ ኢይኩን ለርስሐት ወኢለኵነኔ አላ ለሐድሶ ነፍስ ወሥጋ ወመንፈስ በ፩ዱ ወልድከ ዘቦቱ ለከ ምስሌሁ ወምስለ ቅዱስ መንፈስ ስብሐት ወእኂዝ ይእዜኒ ወዘልፈኒ ወለዓለመ ዓለም፡ አሜን፡",
+      "amharic": "ከቅዱስ ምሥጢርህ እንቀበል ዘንድ አድለኸናልና እናመሰግንሃለን፡ ለኃጢአት ወይም ለፍርድ አይሁን፡ ነፍስንና ሥጋን ደመ ነፍስን ለማደስ ይሁን እንጂ፡ በአንድ ልጅህ በርሱ ያለ ክብር ጽንዕ ላንተ ይገባል፡ ከርሱ ጋራ ከመንፈስ ቅዱስም ጋራ፡ ዛሬም ዘወትርም ለዘለዓለሙ አሜን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p138-03",
+      "kind": "paragraph",
+      "number": 141,
+      "geez_numeral": "፻፵፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ትእዛዝ ዘባስልዮስ፡ ወለእመ ተርፈ ሥጋ ወደም ይመጥዎሙ ካህን ለካህናት ወለዲያቆናት እምቅድመ አቍርሮ ማይ ለለ፩ዱ ፪ተ ጊዜ ከመ ይኩን ሥሉሰ ምስለ እንተ ነሥኡ ቀዲሙ፡ ወለእመ በዝኀ ይንሥኡ ፫ተ ፫ተ ጊዜ ወእምደምኒ ከማሁ ከመ፤ እስመ ኢይትዌለጥ ኀበ ከዊነ ኅብስት ወወይን፡",
+      "amharic": "የባስልዮስ ትእዛዝ፡ ሥጋና ደም ቢተርፍ ካህኑ ማየ መቍረሩን ከመጠጣቱ አስቀድሞ ለካህናቱና ለዲያቆናቱ ለያንዳንዳቸው ሁለት ሁለት ጊዜ ይስጣቸው፡ ቀድሞ ተቀበከሉት ጋራ ሦስት ይሆን ዘንድ፡ የተረፈውም ብዙ ቢሆን ሦስት ሦስት ጊዜ ይቀበሉ፡ ከደሙም እንደዚሁ ኅብስትና ወይን ወደ መሆን አይለወጥ ምና፡",
+      "uncertain": false
+     },
+     {
+      "id": "p138-04",
+      "kind": "paragraph",
+      "number": 142,
+      "geez_numeral": "፻፵፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ዝማሬ፡ ወእምዝ ይበል በግዕዝ ዜማ በ፪ ሃሌ ሉያ ሃሌ ሉያ ወበዕዝል ዜማ በ፪ ሃሌ ሃሌ ሉያ አቡነ ዘበሰማያት ይትቀደስ ስምከ፡ ሥረይ ለነ ኵሎ አበሳነ ኢታብአነ ውስተ መንሱት እግዚአ አድኅነነ እም ዕለት እኪት ወባልሐነ እም ኵሉ መንሱት፡",
+      "amharic": "ይ.ካ. ዝማሬውን፡ ከዚህም በኋላ ይህን ይበል፡ በግዕዝ በ፪፡ ሃሌ ሉያ ሃሌ ሉያ በዕዝል ደግሞ ሃሌ ሃሌ ሉያ በሰማይ ያለህ አባታችን ሆይ ስምህ ይቀደስ ኃጢአታችንን ሁሉ አስተሥርይልን፡ አቤቱ ወደ ፈተና አታግባን፡ ከክፉ ቀን አድነን፡ ከፈተናም ሁሉ አድነን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p138-05",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 139,
+    "printed_page_geez": "፻፴",
+    "printed_page": 130,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p139-01",
+      "kind": "paragraph",
+      "number": 143,
+      "geez_numeral": "፻፵፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወእምድኅረ ተፈጸመ አስተናጽሖ፡ ይ.ካ. መልዐት እግዚአ ምሥጢርከ ቅድስት እንተ ኢትማስን ዘወሀብከነ ለነ ኃይለ ወመድኃኒትነ ተዝካረ ሞትከ ዘህልው ምስሌከ፡",
+      "amharic": "አስተናጽሖ ከፈጸመ በኋላ፡ ይ.ካ. አቤቱ የማታልፍ ቅድስት ምሥጢርህ ለሁሉ ተሰጠች፡ ካንተ ጋራ ያለ የሞትህን መታሰቢያ ኃይልንና መድኃኒትን ለኛ የሰጠኸን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p139-02",
+      "kind": "paragraph",
+      "number": 144,
+      "geez_numeral": "፻፵፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወርኢነ ምሥጢረ ትንሣኤከ ቅድስት፡ ወአውረስነ ሕይወተ ወዐቀበነ ቦቱ በዛቲ ሰዓት ወበኵሉ ጊዜ፡ እስመ አንተ ንጉሥ ክቡር ላዕለ ኵሉ፡ እግዚእነ ወአምላክነ ወመድኃኒነ ኢየሱስ ክርስቶስ፡ ለከ ናዐርግ አኰቴተ ዕበየ ወክብረ ምስለ አቡከ ኄር ሰማያዊ ወምስለ መንፈስ ቅዱስ ማሕየዊ ለዓለመ ዓለም አሜን፡",
+      "amharic": "ክብርት የምትሆን የትንሣኤህንም ምሥጢር አየን፡ ሕይወትንም አውርሰን፡ በዚህች ሰዓት በየጊዜውም ሁሉ በርሱ ጠብቀን፡ ጌታችንና አምላካችን መድኃኒታችንም ኢየሱስ ክርስቶስ ሆይ፡ በሁሉ ላይ የከበርህ ንጉሥ አንተ ነህና ላንተ ምስጋናን ገናንነትን ክብርንም እናቀርብልሃለን፡ ሰማያዊ ከሚሆን ከቸር አባትህ ጋራ፡ ማሕየዊ ከሚሆን ከመንፈስ ቅዱስም ጋራ ለዘለዓለሙ አሜን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p139-03",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p139-04",
+      "kind": "paragraph",
+      "number": 145,
+      "geez_numeral": "፻፵፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ጸሎት እምድኅረ ማየ መቍረር ኅቡረ ይበሉ፡ ዘኵሎሙ ውእቱ፡ እጼሊ ኀቤከ ወእስእለከ እግዚእየ ወአምላኪየ፡ ኖላዊ ኄር ዘአፍቀርከ መርዔተከ ወመጦከ ነፍሰከ ቤዛ አባግዒከ ከመ ተሀበኒ ሥጋከ ወደመከ መብልዐ ጽድቅ ዘበአማን ወስቴ ሕይወት ዘለዓለም፡",
+      "amharic": "ከማየ መቍረር በኋላ የሚጸለይ ጸሎት ነው፡ የሁሉም ነውና በአንድነት ይድገሙ፡ አቤቱ ጌታዬ አምላኬ ወዳንተ እጸልያለሁ እለምንሃለሁም፡ መንጋህን የወደድህ ቸር ጠባቂ ለበጎችህ ቤዛ ሰውነትህን የሰጠህ በእውነት የጽድቅ መብል ሥጋህንና የዘለዓለም የእውነት መጠጥ የሚሆን ደምህን ትሰጠኝ ዘንድ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 140,
+    "printed_page_geez": "፻፴፩",
+    "printed_page": 131,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p140-01",
+      "kind": "paragraph",
+      "number": 146,
+      "geez_numeral": "፻፵፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወካዕበ እስእለከ ወአስተበቍዕከ ኦ እግዚእየ ከመ ኢይግዓዝ ወኢያርስሕ ነፍስየ ወሥጋየ ዝንቱ ሥጋከ ወደምከ ዘነሣእኩ፡ አላ ይኩነኒ ዘያሐይወኒ ወዘያጥዕየኒ ወዘያሌብወኒ ፈሪሃ ዚአከ፡ ወዘይሜህረኒ አፍቅሮተከ ከመ አድሉ ለከ በኵሉ መዋዕለ ሕይወትየ ወእሰብሕከ ዘእንበለ አጽርዖ፡",
+      "amharic": "ዳግመኛም ጌታዬ ሆይ፡ ይህ የተቀበልሁት ሥጋህና ደምህ ሥጋዬንና ነፍሴን እንዳያስነቅፍና እንዳያሳድፍ እለምንሃለሁ፡ እማልድሃለሁ፡ ፈጽሞ የሚያድነኝ አንተን መፍራትንም የሚያስረዳኝ ፍቅርህንም የሚያስተምረኝ ይሁን እንጂ፡ በሕይወቴ ዘመን ሁሉ ላንተ አደላ ዘንድ ያለማቋረጥም አመሰግንህ ዘንድ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p140-02",
+      "kind": "paragraph",
+      "number": 147,
+      "geez_numeral": "፻፵፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ኦ እግዚአ አንጽሓ ለነፍስየ ወካዕበ አጽርያ ከመ ትኩን ለከ መሥዋዕተ፡ ወረስዮ ለልብየ ወይኅድር ይሕየው ወይምላዕ ላዕሌሁ መንፈስ ቅዱስ፡ እስመ ሥጋከ ወደመከ ነሣእኩ በተአምኖ ወተመጠውኩ እምእደ ካህናቲከ ወበላዕኩ፡ እስመ ለከ ስብሐት ለዓለመ ዓለም አሜን፡",
+      "amharic": "አቤቱ ሰውነቴን አንጻት፡ ላንተ መሥዋዕት ትሆን ዘንድ ዳግመኛም አጥራት፡ ልቡናዬንም እንዲድን መንፈስ ቅዱስ እንዲያድርበትና እንዲመላበት አድርገው፡ ሥጋህንና ደምህን አምኜ ተቀብያለሁና፡ ከካህናቱም እጅ ተቀብዬ በላሁ፡ ላንተ ምስጋና ይገባል፡ ለዘለዓለሙ አሜን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p140-03",
+      "kind": "paragraph",
+      "number": 148,
+      "geez_numeral": "፻፵፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. በእንተ አኰቴትነ ናስተበቍዕ ከመ እግዚአብሔር በመጽሐፈ ሕይወት ይጽሐፍ ስእለተነ፡ ወአምላክ ዘለዓለም ይዘክረነ በምዕራፈ ቅዱሳን በዘዚአሁ ብርሃን፡",
+      "amharic": "ይ.ዲ. ስለ ማመስገናችን እንማልዳለን፡ እግዚአብሔር በሕይወት መጽሐፍ ልመናችንን ይጽፍ ዘንድ ለዘለዓለሙ የሚኖር አምላክም በቅዱሳን ማደሪያ በርሱ ብርሃን ያስበን ዘንድ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p140-04",
+      "kind": "paragraph",
+      "number": 149,
+      "geez_numeral": "፻፵፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "በእንተ እለ ተድኅሩ አበዊነ ወአኃዊነ ወአኃቲነ ናስተበቍዕ ከመ እግዚአብሔር ይጸግዎሙ ጽሒቀ ወያስተሐምም ለኵሉ፡ ወይሚጥ እምኔሆሙ ማእሠረ ዝንቱ ዓለም ወየሀቦሙ ግዕዘ ወፍቅረ አሚነ ወተስፋ ሠናየ በእንተ ሥጋሁ ወደሙ ለወልደ እግዚአብሔር ለዓለመ ዓለም አሜን፡ ለይኩን ለይኩን።።",
+      "amharic": "ወደ ኋላ ስላሉ አባቶቻችንና ወንድሞቻችን ስለ እኅቶቻችንም እንማልዳለን፡ እግዚአብሔር ትጋትን ይሰጣቸው ዘንድ፡ ለሁሉም ያስብ ዘንድ፡ የዚህን ዓለም ማሠሪያን ከነርሱ ይመልስ ዘንድ፡ ሥርዓትን ፍቅርንና ማመንን በጎ ተስፋንም ይሰጣቸው ዘንድ፡ ስለ እግዚአብሔር ልጅ ሥጋና ደም ለዘለዓለሙ አሜን፡ ይሁን ይሁን።።",
+      "uncertain": false
+     },
+     {
+      "id": "p140-05",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 141,
+    "printed_page_geez": "፻፴፪",
+    "printed_page": 132,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p141-01",
+      "kind": "paragraph",
+      "number": 150,
+      "geez_numeral": "፻፶",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. አንብሮ እድ፡ እግዚአብሔር ዘለዓለም ብርሃን ሕይወት ዘኢይጠፍዕ ነጽሮሙ ለአግብርቲከ ወለአእማቲከ ወዝራዕ ውስተ ልቦሙ ፈሪሆተ ስምከ ይፍረዩ በበረከት ወጐልቆሙ ምስለ እለ ተውህቦሙ ሥጋከ ወደምከ፡",
+      "amharic": "ይ.ካ. አንብሮ እድ፡ ለዘለዓለሙ የማይጠፋ የሕይወት ብርሃን እግዚአብሔር ሆይ፡ ወንዶችንና ሴቶችን አገልጋዮችህን ተመልከታቸው፡ ስምህን መፍራትንም በልቡናቸው ዝራ፡ በረከትን ያፈሩ ዘንድ ሥጋህና ደምህ ከተሰጣቸውም ጋራ ቍጠራቸው፡",
+      "uncertain": false
+     },
+     {
+      "id": "p141-02",
+      "kind": "paragraph",
+      "number": 151,
+      "geez_numeral": "፻፶፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወይኩን እዴከ ዘየኀድር ላዕሌሆሙ ዲበ እለ አትሐቱ አርእስቲሆሙ ቅድሜከ ሕዝብከ ዕደ ወአንስተ አዕሩገ ወሕፃናተ ደናግለ ወመነኮሳተ ዕቤራተ ወዕጓለ ማውታ፡",
+      "amharic": "እጅህም በላያቸው የሚያድር ይሁን፡ ራሳቸውን በፊትህ ዝቅ ዝቅ ባደረጉ በወገኖችህ ላይ በወንዶቹም በሴቶቹም በሽማግሌዎቹና በሕፃናቱ፡ በደናግሉና በመነኰሳቱም፡ በባልቴቶችና አባት እናት በሞቱባቸው ላይ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p141-03",
+      "kind": "paragraph",
+      "number": 152,
+      "geez_numeral": "፻፶፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወኪያነሂ ደምር ህየ ወክድን ወርዳእ ወአጽንዕ ወኃይል በኃይለ ሊቃነ መላእክቲከ እምኵሉ ምግባረ እኩይ አግኅሠነ ወውስተ ኵሉ ምግባረ ሠናይ ደምረነ፡",
+      "amharic": "እኛንም ከዚያ ጨምር፡ ሠውርና እርዳ አጽና፡ በመላእክት አለቆች ኃይልም አበርታ፡ ከክፉ ሥራ ሁሉ ለየን፡ በበጎውም ሥራ ሁሉ አንድ አድርገን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p141-04",
+      "kind": "paragraph",
+      "number": 153,
+      "geez_numeral": "፻፶፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "በ፩ዱ ወልድከ ዘቦቱ ለከ ምስሌሁ ወምስለ ቅዱስ መንፈስ ስብሐት ወእኂዝ ይእዜኒ ወዘልፈኒ ወለዓለመ ዓለም አሜን።።",
+      "amharic": "ባንድ ልጅህ በርሱ ያለ ክብር ጽንዕ ለአንተ ይገባል፡ ከርሱ ጋራ ከመንፈስ ቅዱስም ጋራ ዛሬም ዘወትርም፡ ለዘለዓለሙ አሜን።።",
+      "uncertain": false
+     },
+     {
+      "id": "p141-05",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p141-06",
+      "kind": "paragraph",
+      "number": 154,
+      "geez_numeral": "፻፶፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ንፍቅ ወዕቀቦሙ በርትዕት ሃይማኖት በስብሐት ወክብር በኵሉ መዋዕለ ሕይወቶሙ፡",
+      "amharic": "ይ.ካ. ንፍቅ፡ በሕይወታቸው ዘመን ሁሉ በቀናች ሃይማኖት በጌትነትና በክብር ጠብቃቸው፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 142,
+    "printed_page_geez": "፻፴፫",
+    "printed_page": 133,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p142-01",
+      "kind": "paragraph",
+      "number": 155,
+      "geez_numeral": "፻፶፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወረስዮሙ ውስተ ፍቅር ወሰላም እንተ ትትሌዓል እምኵሉ ሕሊና ወእምኵሉ ልቡና በስእለት ወበአስተብቍዖት እንተ ትገብር በእንቲአነ እግዝእተ ኵልነ ወላዲተ አምላክ ቅድስት ወንጽሕት ማርያም፡ ወበ፬ቱ ዓበይት ብርሃናውያን ሚካኤል ወገብርኤል ሩፋኤል ወሱርያል፡ ወበ ፬ቱ እንስሳ እለ እንበለ ሥጋ፡ ወበ፳ወ፬ቱ ካህናተ ሰማይ፡",
+      "amharic": "ከሕሊና ሁሉ ከልቡናም ሁሉ ከፍ ባለች ሰላምና ፍቅር አኑራቸው፡ አምላክን የወለደች የሁላችን እመቤት ቅድስት ንጽሕት ማርያም ስለኛ በምታደርገው ልመናና አማላጅነት፡ ብርሃናውያን በሚሆኑ በአራቱ ታላላቆች በሚካኤልና በገብርኤል፡ በሩፋኤልና በሱርያል፡ ሥጋ በሌላቸው በአራቱ እንስሳም፡ በሃያ አራቱም ካህናተ ሰማይ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p142-02",
+      "kind": "paragraph",
+      "number": 156,
+      "geez_numeral": "፻፶፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወአበዊነ ልዑላነ ዝክር ቅዱሳን አብርሃም ይስሐቅ ወያዕቆብ አርእስተ አበው፡ ወዮሐንስ መጥምቅ ፲፼ ወ ፬፼ ወ፵፻ ሕፃናት ቅዱሳን፡ ወአበዊነ ሊቃውንት ሐዋርያት ቅዱሳን፡ ወቅዱስ ማርቆስ ሐዋርያ ወሰማዕት ወወንጌላዊ፡ ፸ወ፪ አርድእት፡ ፭፻ ቢጽ ፫፻፲ ወ፰ ርቱዓነ ሃይማኖት፡ ፫ቱ ደቂቅ አናንያ ወአዛርያ ወሚሳኤል፡ ወ፯ቱ ደቂቅ ቅዱሳን፡",
+      "amharic": "ቅዱሳን በሚሆኑ የስማቸው አጠራር ከፍ ባለው በአበው አለቆች በአብርሃምና በይስሐቅ በያዕቆብም፡ በመጥምቁ ዮሐንስም፡ ቅዱሳን በሚሆኑ በአሥራ አራት እልፍ ከአራት ሺህ ሕፃናት፡ ቅዱሳን በሚሆኑ ሊቃውንት፡ በአባቶቻችን በሐዋርያት፡ ሐዋርያና ሰማዕት ወንጌላዊም በሚሆን በቅዱስ ማርቆስ፡ በ፸፪ቱም አርድእት፡ በአምስት መቶም ባልንጀሮች፡ ሃይማኖታቸው በቀና በ፫፻፲፰ ሊቃውንት፡ በ፫ቱ ደቂቅ በአናንያና በአዛርያ በሚሳኤልም፡ ቅዱሳን በሚሆኑ በ፯ቱ ደቂቅ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 143,
+    "printed_page_geez": "፻፴፬",
+    "printed_page": 134,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p143-01",
+      "kind": "paragraph",
+      "number": 157,
+      "geez_numeral": "፻፶፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወቅዱስ እስጢፋኖስ ሊቀ ዲያቆናት ወቀዳሜ ሰማዕት፡ ወቅዱስ ጊዮርጊስ፡ ወቅዱስ ቴዎድሮስ ምሥራቃዊ ወቅዱስ በናድሌዎስ፡ ወቅዱስ መርቆሬዎስ ወቅዱስ ማማስ፡ ወቅዱስ አቦሊ፡ ወቅዱስ ፊላታዎስ፡ ወቅዱስ መርምህናም፡ ወቅዱስ አባዲር፡ ወቅዱስ ገላውዴዎስ፡ ወቅዱስ ፋሲለደስ፡ ወቅዱስ ፊቅጦር፡ ወቅዱስ ሚናስ፡ ወቅዱስ ቂርቆስ፡ ወእሙ ኢየሉጣ፡ ወኵሎሙ ሰማዕታት ወአባ ኖብ ድንግል ዓዛል ወመስተጋድል ሰማዕተ ዋሕድ፡ ወእግዚእ አብ ዐቢይ ወጻድቅ አባ እንጦንስ ወአቡነ አባ ጳውሊ፡ ወአበዊነ ቅዱሳን ፫ቱ መቃርሳት፡ ወአቡነ አባ ዮሐንስ ሐጺር ወጻድቅ፡ አባ ቡላ ወአቡነ አባ ብሶይ፡ ወአቡነ አባ አሞን፡ ወአቡነ አባ ዮሐንስ ከማ፡ ወአቡነ አባ ጰንጠሌዎን፡ ወአቡነ አባ ሲኖዳ፡ ወአቡነ አባ ብስንዳ፡ ወአቡነ አባ ለትጹን፡ ወአቡነ አባ ጳኵሚስ ወአቡነ አባ አበከረዙን፡ ወአቡነ አባ በርሱማ ወአበዊነ ቅዱሳን ሮማውያን መክሲሞስ ወደማቴዎስ፡ ጽኑዕ ወቅዱስ አባ ሙሴ፡ ፵ወ፱ቱ ሰማዕታት ወኵሎሙ ለባስያነ መስቀል ጻድቃን ወኄራን ወመልአከ ዛቲ ዕለት ቡርክት፡ በረከቶሙ ወጸጋ ረድኤቶሙ ወትንብልና ሣህሎሙ ወትረ የሃሉ ምስለ ኵልነ ሕዝበ ክርስቲያን ለዓለመ ዓለም አሜን፡",
+      "amharic": "የዲያቆናት አለቃ የሰማዕታትም መጀመሪያ በሚሆን በቅዱስ እስጢፋኖስ፡ በቅዱስ ጊዮርጊስም፡ የምሥራቅ ሰው በሚሆን በቅዱስ ቴዎድሮስ፡ በቅዱስ በናድሌዎስም፡ በቅዱስ መርቆሬዎስም፡ በቅዱስ ማማስ፡ በቅዱስ አቦሊ፡ በቅዱስ ፊላታዎስ በቅዱስ መርምህናም፡ በቅዱስ አባዲርም፡ በቅዱስ ገላውዴዎስም፡ በቅዱስ ፋሲለደስ፡ በቅዱስ ፊቅጦርም፡ በቅዱስ ሚናስም፡ በቅዱስ ቂርቆስ በእናቱ በኢየሉጣም፡ በሰማዕታትም ሁሉ፡ የወልድ ዋሕድ ሰማዕት ኃያል ተጋዳይና ድንግል በሚሆን በአባ ኖብ፡ ጌታና ደገኛ አባት በሚሆን በጻድቁ በአባ እንጦንስም፡ በአባታችን በአባ ጳውሊ፡ በቅዱሳን አባቶቻችን በሦስቱ መቃርሳትም፡ በአባታችን በአባ ዮሐንስ ሐጺር፡ በጻድቁ በአባ ቡላም በአባታችን በአባ ብሶይም፡ በአባታችን በአባ አሞንም በአባታችን በአባ ዮሐንስ ከማ፡ በአባታችን በአባ ጰንጠሌዎንም፡ በአባታችን በአባ ሲኖዳም፡ በአባታችን በአባ ብስንዳም፡ በአባታችን በአባ ለትጹንም፡ በአባታችን በአባ ጳኵሚስ፡ በአባታችን በአባ አበከረዙን፡ በአባታችን በአባ በርሱማ፡ በአባታቶቻችን ቅዱሳን ሮማውያን በመክሲሞስና በደማቴዎስ፡ ጽኑ ቅዱስ በሚሆን በአባ ሙሴም፡ በአርባ ዘጠኙ ሰማዕታት፡ መስቀልን በለበሱ ደጋግ በሚሆኑ በጻድቃንም ሁሉ፡ በተባረከች በዚህች ቀን መልአክም፡ በረከታቸውና የረድኤታቸውም ጸጋ የይቅርታቸውም ልመና ዘወትር በሁላችን ላይ ይኑር ለዘለዓለሙ አሜን፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 144,
+    "printed_page_geez": "፻፴፭",
+    "printed_page": 135,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p144-01",
+      "kind": "paragraph",
+      "number": 158,
+      "geez_numeral": "፻፶፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ሕ. ኦ ንጉሠ ሰላም ሰላማዊ ኢየሱስ ክርስቶስ ሰላመከ ሀበነ ወአጽንዕ ለነ ሰላመከ፡ ወሥረይ ለነ ኃጣውኢነ ወረስየነ ድልዋነ ከመ ንሑር ወንእቱ ውስተ አብያቲነ በሰላም፡",
+      "amharic": "ይ.ሕ. የፍቅር ባለቤት የሰላም ንጉሥ ሰላማዊ ኢየሱስ ክርስቶስ ሆይ፡ ሰላምህን ስጠን፡ ሰላምህንም አጽናልን፡ ኃጢአታችንንም ይቅር በለን፡ በሰላም ወደ ቤታችን ሄደን እንገባ ዘንድ የበቃን አድርገን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p144-02",
+      "kind": "paragraph",
+      "number": 159,
+      "geez_numeral": "፻፶፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. አድንኑ አርእስቲክሙ ቅድመ እግዚአብሔር አምላክነ በእደ ገብሩ ካህን ከመ ይባርክሙ፡ ይ.ሕ. አሜን እግዚአብሔር ይባርከነ ወይሣሃለነ፡",
+      "amharic": "ይ.ዲ. በአምላካችን በእግዚአብሔር ፊት ራሳችሁን ዝቅ ዝቅ አድርጉ፡ አገልጋዩ በሚሆን በካህኑ እጅ ይባርካችሁ ዘንድ፡ ይ.ሕ. አገልጋዩ በሚሆን በካህኑ እጅ አሜን ይባርከን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p144-03",
+      "kind": "paragraph",
+      "number": 160,
+      "geez_numeral": "፻፷",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. እንዘ ይባርክ በትእምርተ መስቀል፡ ኦ እግዚአ አድኅን ሕዝበከ ወባርክ ርስተከ፡ ቡራኬ ፫ተ ጊዜ ላዕለ ሕዝብ፡ ረዓዮሙ ወአልዕሎሙ እስከ ለዓለም፡ ወዕቀባ ለቤተ ክርስቲያንከ ቅድስት እንተ አጥረይካ ወቤዘውካ በደሙ ክቡር ለዋሕድ ወልድከ እግዚእነ ወአምላክነ ወመድኃኒነ ኢየሱስ ክርስቶስ፡",
+      "amharic": "ይ.ካ. በመስቀል አመሳቅሎ ሲባርክ፡ አቤቱ ሕዝብህን አድን ርስትህንም ባርክ፡ በሕዝቡ ላይ ሦስት ጊዜ ይባርክ፡ እስከ ዘለዓለሙ ጠብቃቸው፡ ከፍ ከፍም አድርጋቸው፡ በአንድ ልጅህ በጌታችንና በአምላካችን በመድኃኒታችን በኢየሱስ ክርስቶስ በክቡር ደሙ የዋጀሃት፡ ቤዛም የሆንካት ቅድስት ቤተ ክርስቲያንህንም ጠብቃት፡",
+      "uncertain": false
+     },
+     {
+      "id": "p144-04",
+      "kind": "paragraph",
+      "number": 161,
+      "geez_numeral": "፻፷፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወጸዋዕካ ትኩን ማኅደረ ለነገሥት ወለመኳንንት ለዘመድ ንጹሕ ወለሕዝብ ቅዱስ እለ መጻእክሙ ወእለ ተጋባእክሙ ወእለ ጸለይክሙ ውስተ ዛቲ ቅድስት ቤተ ክርስቲያን እለ በላዕክሙ ሥጋሁ ቅዱሰ ወእለ ሰተይክሙ ደሞ ክቡረ ለእግዚእነ ኢየሱስ ክርስቶስ፡",
+      "amharic": "ለነገሥታትና ለመኳንንት ለንጹሕ ወገንና ቅዱስ ለሆነ ሕዝብ ማደሪያ ትሆን ዘንድ የጠራሃት፡ በዚች ቅድስት ቤተ ክርስቲያን መጥታችሁ ተሰብስባችሁ የጸለያችሁ፡ የጌታችንን የኢየሱስ ክርስቶስን ቅዱስ ሥጋውን የበላችሁ፡ ክቡር ደሙንም የጠጣችሁ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 145,
+    "printed_page_geez": "፻፴፮",
+    "printed_page": 136,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p145-01",
+      "kind": "paragraph",
+      "number": 161,
+      "geez_numeral": "፻፷፩",
+      "continued": "continued from page 144",
+      "heading_note": null,
+      "geez": "ይሥረይ ለክሙ ኃጢአተክሙ ዘገበርክሙ እመሂ በአእምሮ አው በኢያእምሮ፡ በዘኀለፈ ይምሀርክሙ ወበዘይመጽእ ይዕቀብክሙ በእንተ ሥጋሁ ሥጋ መለኮት ወበእንተ ደሙ ደመ ሕግ ወሥርዓት ኢየሱስ ክርስቶስ ወልደ እግዚአብሔር ጸባዖት ወወልደ ማርያም ንጽሕት በድንግልና ሕሊና ወበድንግልና ሥጋ ኀትምት ለዓለመ ዓለም አሜን።።",
+      "amharic": "በማወቅ ወይም ባለማወቅ የሠራችሁትን ኃጢአታችሁን ይቅር ይበላችሁ፡ ሥጋ መለኮት ስለሚባል ሥጋው፡ የሕግና የሥርዓት ደም ስለሚሆን ደሙ የአሸናፊ የእግዚአብሔር ልጅ በድንጋሌ ሥጋ በድንጋሌ ሕሊናም ኅትምት የምትሆን የማርያም ልጅ ኢየሱስ ክርስቶስ ባለፈው ይቅር ይበላችሁ፡ በሚመጣውም ይጠብቃችሁ ለዘለዓለሙ አሜን።።",
+      "uncertain": false
+     },
+     {
+      "id": "p145-02",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p145-03",
+      "kind": "paragraph",
+      "number": 162,
+      "geez_numeral": "፻፷፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወእምድኅረ ፈጸመ ግብሮ የሀብ ቡራኬ ወውእቱ ይባርክ በአጽባዕቱ ውስተ ፍጽሞሙ ለሕዝብ፡ ቀሳውስትሰ በተእኅዞ እድ ይትባረኩ በበይናቲሆሙ፡ ወሶበ ይባርክ ይበል ለቀሳውስት፡ ሢመተ እዴሁ ለአቡነ ጴጥሮስ፡ ወለሊሆሙ ይበልዎ፡ እግዚአብሔር ይሢምከ ውስተ ዘለዓለም መንግሥቱ፡ ወለዲያቆናትሂ፡ እግዚአብሔር ልዑል ይባርክ ወያብርህ አዕይንተ አልባቢከ፡ ለምእመናንሂ፡ እግዚአብሔር ልዑል ይባርክ ወያርኢ ገጾ ላዕሌከ፡ ወለአንስትሂ ከማሁ፡ እግዚአብሔር ልዑል ይባርኪ ወያርኢ ገጾ ላዕሌኪ፡",
+      "amharic": "ሥራውን ከፈጸመ በኋላ ቡራኬ ይስጥ፡ እርሱም በጣቱ የሕዝቡን ፊታቸውን ይባርክ፡ ቀሳውስቱ ግን እጅ በእጅ ተያይዘው እርስ በርሳቸው ይባረኩ፡ በሚባርክበትም ጊዜ ለቄሶቹ እንዲህ ይበል፡ የአባታችን የጴጥሮስ የእጁ ሹመት፡ እነርሱም ይበሉት፡ እግዚአብሔር በዘለዓለም መንግሥቱ ይሹምህ፡ ለዲያቆናቱም እንዲህ ይበል፡ ልዑል እግዚአብሔር ይባርክህ ዐይነ ልቡናህንም ያብራልህ፡ ለምእመናንም እንዲህ ይበል፡ ልዑል እግዚአብሔር ይባርክህ ፊቱንም ይግለጽልህ፡ ለሴቶችም እንዲሁ ይበል፡ ልዑል እግዚአብሔር ይባርክሽ ፊቱንም ይግለጽልሽ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 146,
+    "printed_page_geez": "፻፴፯",
+    "printed_page": 137,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p146-01",
+      "kind": "paragraph",
+      "number": 163,
+      "geez_numeral": "፻፷፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወእምዝ ይ.ካ. እግዚአብሔር የሃሉ ምስለ ኵልክሙ፡",
+      "amharic": "ከዚህ በኋላ ይ.ካ. እግዚአብሔር ከሁላችሁ ጋራ ይኑር፡",
+      "uncertain": false
+     },
+     {
+      "id": "p146-02",
+      "kind": "paragraph",
+      "number": 164,
+      "geez_numeral": "፻፷፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ሕ. ምስለ መንፈስከ፡ አሜን እግዚአብሔር ይባርከነ ለአግብርቲሁ በሰላም፡ ሥርየተ ይኩነነ ዘተመጠነ ሥጋከ ወደመከ አብሐነ በመንፈስ ንኪድ ኵሎ ኃይሎ ለጸላዒ፡ በረከተ እዴከ ቅድስት እንተ ምልዕተ ምሕረት፡ ኪያሃ ንሴፎ ኵልነ እምኵሉ ምግባረ እኩይ አግኅሠነ ወውስተ ኵሉ ምግባረ ሠናይ ደምረነ፡",
+      "amharic": "ይ.ሕ. ከመንፈስህ ጋራ አሜን፡ እግዚአብሔር እኛን አገልጋዮቹን በሰላም ይባርከን፡ የተቀበልነው ሥጋህና ደምህ ለሥርየት ይሁነን፡ የጠላትን ኃይል ሁሉ በመንፈስ እንረግጥ ዘንድ አሠልጥነን፡ ምሕረትን የተመላች ክብርት የምትሆን የእጅህን በረከት ሁላችን ተስፋ እናደርጋለን፡ ከክፉ ሥራ ሁሉ አርቀን፡ በበጎውም ሥራ ሁሉ አንድ አድርገን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p146-03",
+      "kind": "paragraph",
+      "number": 165,
+      "geez_numeral": "፻፷፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ቡሩክ ዘወሀበነ ሥጋሁ ቅዱሰ ወደሞ ክቡረ፡ ጸጋ ነሣእነ ወሕይወተ ረከብነ በኃይለ መስቀሉ ለኢየሱስ ክርስቶስ፡ ኪያከ እግዚአ ነአኵት ነሢአነ ጸጋ ዘእመንፈስ ቅዱስ፡ ይ.ዲ. ዕትዉ በሰላም።።",
+      "amharic": "ቅዱስ ሥጋውን ክቡር ደሙንም የሰጠን ቡሩክ ነው፡ ጸጋን ተቀበልን፡ ደኅንነትንም በኢየሱስ ክርስቶስ በመስቀሉ ኃይል አገኘን፡ አቤቱ ከመንፈስ ቅዱስ የተገኘ ጸጋን ተቀብለን አንተን እናመሰግናለን፡ ይ.ዲ. በሰላም ግቡ።።",
+      "uncertain": false
+     },
+     {
+      "id": "p146-04",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p146-05",
+      "kind": "paragraph",
+      "number": 166,
+      "geez_numeral": "፻፷፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ትእዛዝ፡ ኢይደሉ እምድኅረ ተመጥዎ ቍርባን ተሐፅቦ እእዳው ወእጋር ወተዐርቆ አልባስ፡ ወሰጊድ ወአስተብርኮ ወወሪቀ ምራቅ ወአውፅኦ ደም፡ ቀሪጸ አጽፋር ወተላጽዮ ፀጕር ሰዐርት ሐዊረ ፍኖት ወተፋትሖ ምስለ ሰብእ፡ ወበዊዕ ውስተ ቤተ ብለኔ፡ በሊዕ ወሰትይ ዘእንበለ ዐቅም፡ ወተራክቦ ምስለ ብእሲት ወዘይመስሎ ለዝንቱ ኢይደሉ እምድኅረ ነሢአ ቍርባን፡",
+      "amharic": "ትእዛዝ፡ ቍርባን ከተቀበሉ በኋላ እጅና እግርን መታጠብ፡ ከልብስም መራቆት፡ መስገድና መንበርከክ አይገባም፡ ምራቅን መትፋትና ደም ማውጣት፡ ጥፍርን መቍረጥ፡ ጠጕርንም መላጨት፡ መንገድ መሄድ፡ ከሰውም ጋራ መፈራረድ፡ ወደ ውሽባ ቤት መግባት፡ ያለ መጠን መብላትና መጠጣት፡ ከሴት ጋራ መገናኘት፡ ይህን የመሰለ ሁሉ ቍርባን ከተቀበሉ በኋላ አይገባም፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   },
+   {
+    "pdf_page": 147,
+    "printed_page_geez": "፻፴፰",
+    "printed_page": 138,
+    "section_geez": "ቅዳሴ ሐዋርያት",
+    "section_english": "The Anaphora of the Apostles",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p147-01",
+      "kind": "paragraph",
+      "number": 167,
+      "geez_numeral": "፻፷፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ንፍቅ፡ እንዘ ይሜጡ አውሎጊያ ፪ተ ዘተመይጡ ቅድመ፡ እግዚአብሔር አምላክነ ወፈጣሪነ ዘይሁብ ሠናይቶ ወሲሳየ ለኵሉ ዘሥጋ አንተ ውእቱ ዘትሁብ በረከተ ለአግብርቲከ ለእለ ይፈርሁ ስመከ ቅዱሰ ስፋሕ የማነከ ቅዱሰ ዮምኒ በዛቲ ሰዓት፡",
+      "amharic": "ይ.ካ. ንፍቅ፡ አስቀድሞ የተመለሱትን ሁለቱን ኅብስቶች ሲሰጥ፡ አምላካችንና ፈጣሪያችን እግዚአብሔር ለሥጋዊ ሁሉ ቸርነትንና ምግብን የሚሰጥ ነው፡ ቅዱስ ስምህን ለሚፈሩ ባሮችህ በረከትን የምትሰጥ አንተ ነህ፡ ዛሬም በዚህች ሰዓት ቅዱስ ቀኝህን ዘርጋ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p147-02",
+      "kind": "paragraph",
+      "number": 168,
+      "geez_numeral": "፻፷፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወባርክ ዘንተ ኅብስተ በላዕለ እዴየ ወይኩን በረከትከ ወሠናያቲከ በላዕሌሁ፡ ወይኩን ዓዲ ለኵሉ ዘይነሥእ እምኔሁ መድኃኒተ ወፈውሰ ለነፍስ፡ ኃይለ ወጽንዐ ለሥጋ ወለሥርየተ ኃጢአት፡ ዘንተ ሲሳየ ዘወሀብከነ ለአኰቴተ ዚአከ ውእቱ ወከመ ንሰብሕ ለመንግሥትከ ሥሉስ ቅዱስ አብ ወወልድ ወመንፈስ ቅዱስ፡",
+      "amharic": "በእኔ እጅ ላይ ይህን ኅብስት ባርክ፡ በረከትህና ቸርነትህ በላዩ ላይ ይሁን፡ ዳግመኛም ከርሱ ለሚቀበል ሁሉ ለነፍስ መድኃኒትና ፈውስ፡ ለሥጋም ኃይልና ጽንዕ፡ ለኃጢአትም ማስተሥረያ ይሁን፡ ይህን ኅብስት የሰጠኸን አንተን ለማመስገን ነው፡ ልዩ ሦስት አብ ወልድ መንፈስ ቅዱስ ሆይ፡ መንግሥትህንም እናመሰግን ዘንድ ነው፡",
+      "uncertain": false
+     },
+     {
+      "id": "p147-03",
+      "kind": "paragraph",
+      "number": 169,
+      "geez_numeral": "፻፷፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ኦ እግዚአ በረከተ ዚአከ ይኩን ላዕለ ዝንቱ ኅብስት ወላዕለ ዘይሁብ ወላዕለ ዘይነሥእ እምኔሁ ወላዕለ እለ ይትለአኩ በፈሪሆትከ፡",
+      "amharic": "አቤቱ ያንተ በረከት በዚህ ኅብስት ላይ፡ በሚያቀብለውም ላይ፡ ከርሱ በሚቀበለውም ላይ፡ አንተን በመፍራት በሚያገለግሉም ላይ ይሁን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p147-04",
+      "kind": "paragraph",
+      "number": 170,
+      "geez_numeral": "፻፸",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ስብሐት ለአብ ወወልድ ወመንፈስ ቅዱስ ይእዜኒ ወዘልፈኒ ወለዓለመ ዓለም አሜን፡ ተፈጸመ ሥርዓተ ቅዳሴ ዘሐዋርያት በሰላመ እግዚአብሔር አሜን።።",
+      "amharic": "ለአብና ለወልድ ለመንፈስ ቅዱስም ምስጋና ይገባቸዋል፡ ዛሬም ዘወትርም ለዘለዓለሙ አሜን፡ ሐዋርያት የተናገሩት የቅዳሴ ሥርዓት ደረሰ ተፈጸመ፡ በእግዚአብሔር ሰላም አሜን።።",
+      "uncertain": false
+     }
+    ],
+    "division": "d03"
+   }
+  ],
+  "first_pdf_page": 111,
+  "last_pdf_page": 147,
+  "page_count": 37,
+  "entry_count": 188
+ }
+}

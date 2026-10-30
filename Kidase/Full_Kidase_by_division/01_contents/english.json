@@ -1,0 +1,51 @@
+{
+ "title": "Full Kidase",
+ "language": "English",
+ "source": "Full Kidase.pdf (PDF pages 8-420; page numbers are the PDF page numbers)",
+ "ids": "Entry ids are shared between the two files: pNNN-NN = PDF page, entry order on that page.",
+ "uncertain_marker": "Text between ⟦? and ?⟧ is a word the transcriber could not read with confidence.",
+ "division": {
+  "id": "d01",
+  "kind": "contents",
+  "name_geez": "ማውጫ",
+  "name_english": "Contents",
+  "pages": [
+   {
+    "pdf_page": 8,
+    "printed_page_geez": null,
+    "printed_page": null,
+    "section_geez": "ማውጫ",
+    "section_english": "Contents",
+    "page_note": "front matter, unnumbered",
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p008-01",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "CONTENTS",
+      "uncertain": false
+     },
+     {
+      "id": "p008-02",
+      "kind": "contents",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "\nPrayer at the consecration of the New Vessels ... 1-4\nPreparatory Service ... 5-101\nThe Anaphora of the Apostles ... 101-138\nThe Anaphora of the Lord ... 139-153\nThe Anaphora of John, Son of Thunder ... 154-178\nThe Anaphora of St. Mary ... 179-208\nThe Anaphora of Three Hundred ... 209-233\nThe Anaphora of Athanasius ... 234-261\nThe Anaphora of St. Basil ... 262-287\nThe Anaphora of St. Gregory ... 288-306\nThe Anaphora of St. Epiphanius ... 307-327\nThe Anaphora of St. John Chrysostom ... 328-345\nThe Anaphora of St. Cyril ... 346-364\nThe Anaphora of St. Jacob the Serough ... 365-383\nThe Anaphora of St. Dioscorus ... 384-398\nThe Anaphora of St. Gregory II ... 399-410\nAppendix --- Prayer of the Covenant ... 413-454",
+      "uncertain": false
+     }
+    ],
+    "division": "d01"
+   }
+  ],
+  "first_pdf_page": 8,
+  "last_pdf_page": 8,
+  "page_count": 1,
+  "entry_count": 2
+ }
+}

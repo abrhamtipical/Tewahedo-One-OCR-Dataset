@@ -1,0 +1,75 @@
+{
+ "title": "Full Kidase",
+ "language": "Ge'ez (ግዕዝ) and Amharic (አማርኛ)",
+ "source": "Full Kidase.pdf (PDF pages 8-420; page numbers are the PDF page numbers)",
+ "ids": "Entry ids are shared between the two files: pNNN-NN = PDF page, entry order on that page.",
+ "uncertain_marker": "Text between ⟦? and ?⟧ is a word the transcriber could not read with confidence.",
+ "division": {
+  "id": "d17",
+  "kind": "commentary",
+  "name_geez": "ሐተታ",
+  "name_english": "Commentary",
+  "pages": [
+   {
+    "pdf_page": 420,
+    "printed_page_geez": "፬፻፲፩",
+    "printed_page": 411,
+    "section_geez": "ሐተታ",
+    "section_english": "Commentary",
+    "page_note": "two columns: ግዕዝ / አማርኛ; no English column on this page; degraded scan re-read at 450 dpi; Ge'ez numerals in the commentary read from glyph shape and the totals 15+6=21 and 21; the ፲ወ፭ቱ and the two ፪ቱ in the outer-blessing list are inferred from the counts",
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p420-01",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "ሐተታ",
+      "amharic": "ሐተታ",
+      "uncertain": false
+     },
+     {
+      "id": "p420-02",
+      "kind": "commentary",
+      "number": 1,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "ንጽሕፍ ኵልቄ ፵ ወ፪ ቡራኬያት ፳ወ፩ ዘውስጥ ፡ ፳ወ፩ ዘአፍኣ ፡",
+      "amharic": "ይረስዮ የሌላቸው ፯ ናቸው ፡ የእመቤታችን ኦ እግዚኦ በከመ አሜሃ ፡ የግሩም ያንጸበርቅ ዲበ ዝንቱ ኅብስት ፡ የአትናቴምስ እንዘ ትቀድሰ ለውእቱ በውእቱ ፡ የጎርጎርዮስ እጎወ ባስልዮስ ባርክ ርእስየ ወቀድስ ነፍስየ ፡ የቄርሎስ ይባርክ ወይቀድስ ፡ የያዕቆብ ዘሥሩግ ወይትፌኖ ሚሎስ ሰይፈ እሳት መደንግፅ ወያስተርኢ ዲበ ዝንቱ ኅብስት ወጽዋዕ ፡ የጎርጎርዮስ ገባሬ መንክራት አምጣነ ትብልዕዎ ለዝንቱ ኅብስት ወትሰትይዎ ለዝንቱ ጽዋዕ ሲል ነው ።",
+      "uncertain": false
+     },
+     {
+      "id": "p420-03",
+      "kind": "commentary",
+      "number": 2,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "ቡራኬሰ ዘውስጥ ላዕለ ኅብስት ወወይን ፡ ወዘአፍኣሰ ቡራኬ ላዕለ ሕዝብ ወካህናት ፡\nሐተታ እመቦ ዘይብል በአይ ጊዜ እሙንቱ ቡራኬያት ዘውስጥ ፡\nፍካሬ ንብሎ ፫ቱ ሰበ ይብል ካህን ቡሩክ እግዚአብሔር አብ አኃዜ ኵሉ ፡ ወ፫ቱ ሰበ ይጼሊ ጸሎተ እንፎራ ፡ ወሰበ ይቤ አእኵቶ ባረከ ወፈተተ ፡ ፫ቱ ላዕለ ኅብስት ወ፫ቱ ላዕለ ወይን ፡ ወዓዲ ሰበ ይብል ይረስዮ ፩ዱ ላዕለ ኅብስት ወ፩ዱ ላዕለ ወይን ወላዕለ ፪ኤሆሙ ፩ዱ ፡\nአእኵተን ፫ት ቢሉ ከይረስዮ ፮ ፡ አእኵተን ፮ ቢሉ ከይረስዮ ፫ት ይባርኳል ፡\nወ፮ቱ ላዕለ ፪ኤሆሙ እምድኅረ ይቤ አአምን አአምን አአምን ፡ ፲ወ፭ቱ በእደ ካህን ወ፮ቱ በሥጋ ዲበ ደም ፡ ወበደም ዲበ ሥጋ ፡\nወዘአፍኣሰ ቡራኬያት ፫ቱ ሰበ ይብል አርኅቅ እግዚኦ እምኔየ ፡ ወ፫ቱ ሰበ ይጼሊ ጸሎተ ፍትሐት ዘወልድ ወይብል አግብርቲከ እለ ተልእኩ ፡ ወ፫ቱ ሰበ ይቤ ወዕቀባ ለቤተ ክርስቲያንከ ፡ ወ፪ቱ ላዕለ ጸዋትው ሰበ ይብል ኵሉ ሕዝበ ወኵሎ መራዕየ ባርኮሙ ፩ዱ ፡\n፪ቱ ተዘከር እግዚኦ ማኅበረነ ባርኮሙ ሲል ፡ ወ፫ቱ ሰበ ይጼሊ ጸሎተ ቡራኬ ወይብል ባርክ ዲበ ሕዝብከ ፩ዱ ፡ ወባርክ ዲበ እለ ያስተነትኑ ፪ ፡ ወባርክ ርስተከ ፫ ፡ ወ፫ቱ ሰበ ይጼሊ ጸሎተ ንስሓ ፡ ወይብል ኦ እግዚኦ ረስየነ ፍቱሐነ ወግዑዛነ ወለኵሎሙ ሕዝብከ ፍትሐሙ ፡ ወ፩ዱ ላዕለ ዓህል እንዘ ይወጽእ ፡ ወቦ ዘይቤ ፫ቱ ላዕለ ዓህል ፡ ወ፫ቱ ሰበ ይሜርሕ ሕዝበ በደኃሪ እንዘ ይብል ኦ እግዚኦ አድኅን ሕዝበከ ወባርክ ርስተከ ረዐዮሙ ወአልዕሎሙ እስከ ለዓለም ።",
+      "amharic": "አሥሩ ያሥሩ ሕዋሳት ፡ አንዱ የግእዝ ርትዕት ምሳሌ ነው ፡\nየቀረውን ግን መሰል መሰሉን አይቶ አንድ ወገን ማለት ነው እንጂ ከመላው ቅዳሴ አይገኝምና አይቈጠርም ።\n(Amharic column continued from top of page, as printed:)\nየእማሬያት ፲፩ ናቸው ፡\nበጸሎተ እንፎራ ሁለት ፡ በአኵቶ በሥጋው አንድ ፡ በደሙ አንድ ፡ በይረስዮ ሁለት ፡ ሥጋ ቅዱስ ሲል አንድ ፡ ወደም ክቡር ሲል አንድ ፡ እስመ ዝንቱ ውእቱ ሲል አንድ ፡ በመጀመሪያው አአምን አንድ ፡ በመጨረሻው አአምን አንድ ፡ አሥራ አንድ ይሆናል ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p420-04",
+      "kind": "commentary",
+      "number": 3,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "(no corresponding Ge'ez text on this page)",
+      "amharic": "የንፍቅ ዑደት ሥስት ነው ፡\nግብረ ሐዋርያት አንብቦ ሲገባ አንድ ጊዜ ፡\nወንጌል አንብቦ ሲገባ አንድ ጊዜ ፡ ሥራዊተ መላእክቲሁ ብሎ ሲገባ አንድ ጊዜ ይዞራል ፡ ሥስት ይሆናል ፡\nበአትናቴምስ የጎዝኑ በእንተ ፍጥረተ ሰብእ ሲል ይዑድ ንፍቅ ቀሲስ ፡\nበባስልዮስ ወይፈድዮ ለኵሉ በከመ ምግባሩ ሲል ወካህን ንፍቅ ይዑድ ኅበ ታቦት ይላል ፡ ነገር ግን ከሁሉ አይገኝምና ከቊጥር አይገባም ።",
+      "uncertain": false
+     }
+    ],
+    "division": "d17"
+   }
+  ],
+  "first_pdf_page": 420,
+  "last_pdf_page": 420,
+  "page_count": 1,
+  "entry_count": 4
+ }
+}

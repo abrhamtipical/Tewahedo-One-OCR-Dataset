@@ -1,0 +1,192 @@
+{
+ "title": "Full Kidase",
+ "divisions": [
+  {
+   "id": "d01",
+   "kind": "contents",
+   "name_geez": "ማውጫ",
+   "name_english": "Contents",
+   "first_pdf_page": 8,
+   "last_pdf_page": 8,
+   "page_count": 1,
+   "entry_count": 2,
+   "folder": "01_contents"
+  },
+  {
+   "id": "d02",
+   "kind": "preparatory_service",
+   "name_geez": "ሥርዓተ ቅዳሴ",
+   "name_english": "Preparatory Service",
+   "first_pdf_page": 9,
+   "last_pdf_page": 110,
+   "page_count": 102,
+   "entry_count": 558,
+   "folder": "02_preparatory_service"
+  },
+  {
+   "id": "d03",
+   "kind": "anaphora",
+   "name_geez": "ቅዳሴ ሐዋርያት",
+   "name_english": "The Anaphora of the Apostles",
+   "first_pdf_page": 111,
+   "last_pdf_page": 147,
+   "page_count": 37,
+   "entry_count": 188,
+   "folder": "03_the_apostles"
+  },
+  {
+   "id": "d04",
+   "kind": "anaphora",
+   "name_geez": "ቅዳሴ እግዚእ",
+   "name_english": "The Anaphora of the Lord",
+   "first_pdf_page": 148,
+   "last_pdf_page": 162,
+   "page_count": 15,
+   "entry_count": 91,
+   "folder": "04_the_lord"
+  },
+  {
+   "id": "d05",
+   "kind": "anaphora",
+   "name_geez": "ቅዳሴ ዮሐንስ ወልደ ነጐድጓድ",
+   "name_english": "The Anaphora of John, Son of Thunder",
+   "first_pdf_page": 163,
+   "last_pdf_page": 187,
+   "page_count": 25,
+   "entry_count": 140,
+   "folder": "05_john_son_of_thunder"
+  },
+  {
+   "id": "d06",
+   "kind": "anaphora",
+   "name_geez": "ቅዳሴ ማርያም",
+   "name_english": "Anaphora of St. Mary",
+   "first_pdf_page": 188,
+   "last_pdf_page": 217,
+   "page_count": 30,
+   "entry_count": 187,
+   "folder": "06_st_mary"
+  },
+  {
+   "id": "d07",
+   "kind": "anaphora",
+   "name_geez": "ቅዳሴ ዘሠለስቱ ምእት",
+   "name_english": "Anaphora of the Three Hundred",
+   "first_pdf_page": 218,
+   "last_pdf_page": 242,
+   "page_count": 25,
+   "entry_count": 167,
+   "folder": "07_the_three_hundred"
+  },
+  {
+   "id": "d08",
+   "kind": "anaphora",
+   "name_geez": "ቅዳሴ አትናቴዎስ",
+   "name_english": "The Anaphora of St. Athanasius",
+   "first_pdf_page": 243,
+   "last_pdf_page": 270,
+   "page_count": 28,
+   "entry_count": 187,
+   "folder": "08_st_athanasius"
+  },
+  {
+   "id": "d09",
+   "kind": "anaphora",
+   "name_geez": "ቅዳሴ ባስልዮስ",
+   "name_english": "The Anaphora of St. Basil",
+   "first_pdf_page": 271,
+   "last_pdf_page": 296,
+   "page_count": 26,
+   "entry_count": 153,
+   "folder": "09_st_basil"
+  },
+  {
+   "id": "d10",
+   "kind": "anaphora",
+   "name_geez": "ቅዳሴ ጎርጎርዮስ",
+   "name_english": "Anaphora of St. Gregory",
+   "first_pdf_page": 297,
+   "last_pdf_page": 315,
+   "page_count": 19,
+   "entry_count": 117,
+   "folder": "10_st_gregory"
+  },
+  {
+   "id": "d11",
+   "kind": "anaphora",
+   "name_geez": "ቅዳሴ ኤጲፋንዮስ",
+   "name_english": "Anaphora of St. Epiphanius",
+   "first_pdf_page": 316,
+   "last_pdf_page": 336,
+   "page_count": 21,
+   "entry_count": 127,
+   "folder": "11_st_epiphanius"
+  },
+  {
+   "id": "d12",
+   "kind": "anaphora",
+   "name_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+   "name_english": "Anaphora of St. John Chrysostom",
+   "first_pdf_page": 337,
+   "last_pdf_page": 354,
+   "page_count": 18,
+   "entry_count": 117,
+   "folder": "12_st_john_chrysostom"
+  },
+  {
+   "id": "d13",
+   "kind": "anaphora",
+   "name_geez": "ቅዳሴ ቄርሎስ",
+   "name_english": "Anaphora of St. Cyril",
+   "first_pdf_page": 355,
+   "last_pdf_page": 373,
+   "page_count": 19,
+   "entry_count": 124,
+   "folder": "13_st_cyril"
+  },
+  {
+   "id": "d14",
+   "kind": "anaphora",
+   "name_geez": "ቅዳሴ ያዕቆብ ዘሥሩግ",
+   "name_english": "Anaphora of St. Jacob of Serugh",
+   "first_pdf_page": 374,
+   "last_pdf_page": 392,
+   "page_count": 19,
+   "entry_count": 115,
+   "folder": "14_st_jacob_of_serugh"
+  },
+  {
+   "id": "d15",
+   "kind": "anaphora",
+   "name_geez": "ቅዳሴ ዲዮስቆሮስ",
+   "name_english": "Anaphora of St. Dioscorus",
+   "first_pdf_page": 393,
+   "last_pdf_page": 407,
+   "page_count": 15,
+   "entry_count": 97,
+   "folder": "15_st_dioscorus"
+  },
+  {
+   "id": "d16",
+   "kind": "anaphora",
+   "name_geez": "ቅዳሴ ጎርጎርዮስ ካልዕ",
+   "name_english": "Anaphora of St. Gregory II",
+   "first_pdf_page": 408,
+   "last_pdf_page": 419,
+   "page_count": 12,
+   "entry_count": 85,
+   "folder": "16_st_gregory_ii"
+  },
+  {
+   "id": "d17",
+   "kind": "commentary",
+   "name_geez": "ሐተታ",
+   "name_english": "Commentary",
+   "first_pdf_page": 420,
+   "last_pdf_page": 420,
+   "page_count": 1,
+   "entry_count": 4,
+   "folder": "17_commentary"
+  }
+ ]
+}

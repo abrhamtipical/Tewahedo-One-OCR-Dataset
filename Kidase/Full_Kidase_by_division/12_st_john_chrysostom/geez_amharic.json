@@ -1,0 +1,1522 @@
+{
+ "title": "Full Kidase",
+ "language": "Ge'ez (ግዕዝ) and Amharic (አማርኛ)",
+ "source": "Full Kidase.pdf (PDF pages 8-420; page numbers are the PDF page numbers)",
+ "ids": "Entry ids are shared between the two files: pNNN-NN = PDF page, entry order on that page.",
+ "uncertain_marker": "Text between ⟦? and ?⟧ is a word the transcriber could not read with confidence.",
+ "division": {
+  "id": "d12",
+  "kind": "anaphora",
+  "name_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+  "name_english": "Anaphora of St. John Chrysostom",
+  "pages": [
+   {
+    "pdf_page": 337,
+    "printed_page_geez": "፫፻፳፰",
+    "printed_page": 328,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p337-01",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+      "amharic": "የዮሐንስ አፈ ወርቅ ቅዳሴ",
+      "uncertain": false
+     },
+     {
+      "id": "p337-02",
+      "kind": "paragraph",
+      "number": 1,
+      "geez_numeral": "፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "አኰቴተ ቍርባን ዘዮሐንስ አፈወርቅ ጸሎቱ ወበረከቱ የሃሉ ምስለ ርእሰ ሊቃነ ጳጳሳቲነ ዕገሌ ወምስለ ሊቀ ጳጳስነ ዕገሌ፡ ወምስለ ኵልነ ሕዝበ ክርስቲያን ወይዕቀባ ለሀገሪትነ ኢትዮጵያ ለዓለመ ዓለም ።",
+      "amharic": "የዮሐንስ አፈ ወርቅ የቍርባን ምስጋናና ጸሎቱና በረከቱ ከጳጳሳት አለቃና ከጳጳሳችን ዕገሌ ከሁላችንም ጋራ ይሁን ፡ አገራችን ኢትዮጵያንም ይጠብቃት ለዘለዓለሙ ።",
+      "uncertain": false
+     },
+     {
+      "id": "p337-03",
+      "kind": "paragraph",
+      "number": 2,
+      "geez_numeral": "፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. እግዚአብሔር ምስለ ኵልክሙ ፡ ይ.ሕ. ምስለ መንፈስከ ፡ ይ.ካ. አእኵትዎ ለአምላክነ ፡ ይ.ሕ. ርቱዕ ይደሉ ፡ ይ.ካ. አልዕሉ አልባቢክሙ ፡ ይ.ሕ. ብነ ኀበ እግዚአብሔር አምላክነ ፡",
+      "amharic": "ይ.ካ. እግዚአብሔር ከሁላችሁ ጋራ ይሁን ፡ ይ.ሕ. ከመንፈስህ ጋራ ፡ ይ.ካ. አምላካችንን አመስግኑት ፡ ይ.ሕ. እውነት ነው ይገባል ፡ ይ.ካ. ልቡናችሁን ከፍ ከፍ አድርጉ ፡ ይ.ሕ. በአምላካችን እግዚአብሔር ዘንድ አለን ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p337-04",
+      "kind": "paragraph",
+      "number": 3,
+      "geez_numeral": "፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. ላዕለ ይኩን ሕሊናክሙ በሰማይ የሃሉ ልብክሙ አእምሩ ኀበ ዘትቀውሙ ወስምዑ ቃለ ጽድቅ ወአጽምዑ ዜና ሠናየ ፡",
+      "amharic": "ይ.ዲ. ሕሊናችሁ ወደ ላይ ይሁን፡ ልቡናችሁ በሰማይ ይኑር፡ የምትቆሙበትን ዕወቁ፡ የጽድቅንም ቃል ስሙ፡ በጎ ነገርንም አድምጡ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p337-05",
+      "kind": "paragraph",
+      "number": 4,
+      "geez_numeral": "፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ናሁ ንዜኑ ህላዌሁ ለአብ ዘሀሎ እምቅድመ ይትፈጠር ዓለም ወይሄሉ እስከ ለዓለም፡ አልቦ እምቅድሜሁ ወአልቦ እምድኅሬሁ ወአልቦ ዘከማሁ ወአልቦ ዘየአምር ዘከመ እፎ ውእቱ ፡",
+      "amharic": "ይ.ካ. ዓለም ሳይፈጠር የነበረው ለዘለዓለምም የሚኖር የአብን አነዋወሩን እነሆ እንናገራለን፡ ከርሱ አስቀድሞ የለም ፡ ከርሱም በኋላ የለም ፡ እንደ እርሱም ያለ የለም ፡ እንደምንም እንደሆነ የሚያውቅ የለም ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 338,
+    "printed_page_geez": "፫፻፳፱",
+    "printed_page": 329,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p338-01",
+      "kind": "paragraph",
+      "number": 5,
+      "geez_numeral": "፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ዘውእቱ ህልው እምቅድመ ኵሉ እምቅድመ ይትረበባ ሰማያት፡ ወእምቅድመ ያስተርኢ ገጸ የብስ እምቅድመ ይቀሙ አድባራት፡ ወእምቅድመ ይትረኀውኑ አየራት፡ ህልው ውእቱ በሀላዌሁ ፡",
+      "amharic": "እርሱ ከሁሉ አስቀድሞ የነበረ ነው ፡ ሰማያት ሳይዘረጉ፡ የየብሱ ፊት ሳይታይ፡ ተራሮች ሳይቆሙ፡ የአየር ርዝመት ሳይከፈት፡ በባሕርዩ የነበረ ነው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p338-02",
+      "kind": "paragraph",
+      "number": 6,
+      "geez_numeral": "፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "እምቅድመ ይዕምቁ ቀላያት፡ ወእምቅድመ ይፍልሑ አንቅዕተ ማያት ወእምቅድመ ያንበሐብሑ ወሐይዝተ አፍላግ፡ ህልው ውእቱ በሀላዌሁ ፡",
+      "amharic": "ቀላያት ጥልቅ ሳይሆኑ፡ የወንዙም ኅርፎች ሳይፈሱ በባሕርዩ የነበረ ነው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p338-03",
+      "kind": "paragraph",
+      "number": 7,
+      "geez_numeral": "፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "እምቅድመ ይንፍሑ ነፋሳት ፡ ወእምቅድመ ያንበስብስ ፀዓዕ እምቅድመ ይትመልሑ መባርቅት፡ ወእምቅድመ ይድምፀ ነጎድጓድ፡ ወእምቅድመ ይሰሐው ግዘፈ ደመናት፡ ህልው ውእቱ በሀላዌሁ፡",
+      "amharic": "ነፋሳት ሳይነፍሱ ብልጭ ጭታውም ሳይመላለስ፡ መባርቅት ሳይመዘዙ፡ ነጐድጓድም ሳይሰማ፡ የደመናትም ግዘፍ ሳይሳብ በባሕርዩ የነበረ ነው፡",
+      "uncertain": false
+     },
+     {
+      "id": "p338-04",
+      "kind": "paragraph",
+      "number": 8,
+      "geez_numeral": "፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "እምቅድመ ይትጋውሁ ብርሃናት፡ ወእምቅድመ ይንጠላዕ ጽልመት፡ እምቅድመ ይብራህ ብርሃነ መዓልት፡ ወእምቅድመ ይትሐደም ሌሊት፡ ህልው ውእቱ በሀላዌሁ፡",
+      "amharic": "ብርሃናት ሳያበሩ ጨለማ ሳይጋረድ፡ የመዓልትም ብርሃን ሳይበራ፡ ሌሊትም ሳይፈጠር፡ በባሕርዩ የነበረ ነው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p338-05",
+      "kind": "paragraph",
+      "number": 9,
+      "geez_numeral": "፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "እምቅድመ ይስፍን ፀሐይ በኵጎ መዓልት፡ ወእምቅድመ ይምልክ ወርኅ በኵጎ ሌሊት፡ ህልው ውእቱ በሀላዌሁ፡",
+      "amharic": "ፀሐይ የመዓልትን ርዝመት ሳይገዛ፡ ጨረቃም የሌሊትን ርዝመት ሳይገዛ፡ በባሕርዩ የነበረ ነው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p338-06",
+      "kind": "paragraph",
+      "number": 10,
+      "geez_numeral": "፲",
+      "continued": null,
+      "heading_note": null,
+      "geez": "እምቅድመ ይትባረጹ ከዋክብት ወእምቅድመ ይትሐወሱ መናፍስት፡ እምቅድመ ይትፈጠሩ መላእክት፡ ህልው ውእቱ በሀላዌሁ፡",
+      "amharic": "ከዋክብት ሳይብለጨለጩ መናፍስትም ሳይንቃነቁ፡ መላእክትም ሳይፈጠሩ በባሕርዩ የነበረ ነው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p338-07",
+      "kind": "paragraph",
+      "number": 11,
+      "geez_numeral": "፲፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "እምቅድመ ነፍስ ነባቢት፡ ወእምቅድመ ሥጋ መዋቲት፡ እምቅድመ ኵሉ ፍጥረት፡ ዘኅቡእ ወዘክሡት ዘመልዕልት ወዘመትሕት፡ ህልው ውእቱ በሀላዌሁ፡",
+      "amharic": "ከነባቢት ነፍስና ከመዋቲ ሥጋ ከተሠወረውና ከተገለጸው በላይና በታች ካለው ፍጥረት ሁሉ አስቀድሞ በባሕርዩ የነበረ ነው ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 339,
+    "printed_page_geez": "፫፻፴",
+    "printed_page": 330,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p339-01",
+      "kind": "paragraph",
+      "number": 12,
+      "geez_numeral": "፲፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "እምቅድመ ጊዜ ወሰዓት፡ ወእምቅድመ ለያልይ ወዕለታት፡ እምቅድመ አውራኅ ወዓመታት ወእምቅድመ መዋዕል ወአዝማናት፡ ህልው ውእቱ በሀላዌሁ ፡",
+      "amharic": "ከጊዜና ከሰዓት አስቀድሞ ከሌሊትና ከመዓልትም አስቀድሞ ከወርና ከዓመትም አስቀድሞ ፡ ከዕለታትና ከአዝማናትም አስቀድሞ በባሕርዩ የነበረ ነው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p339-02",
+      "kind": "paragraph",
+      "number": 13,
+      "geez_numeral": "፲፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ስብሐቲሁ ዘእምኅቤሁ ወውዳሴሁ እምዚአሁ ምሉዕ ወፍጹም ውእቱ ብዕለ ጸጋሁ ፡",
+      "amharic": "ክብሩ ከርሱ ዘንድ የተገኘ ነው፡ ምስጋናውም ከርሱ የተገኘ ነው፡ የጸጋውም ብዕል ምሉና ፍጹም ነው፡",
+      "uncertain": false
+     },
+     {
+      "id": "p339-03",
+      "kind": "paragraph",
+      "number": 14,
+      "geez_numeral": "፲፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ንንግር እንከ ዕበየ ምሕረቱ ዘተዐውቀ በላዕሌነ ዘኢይትኋለቀ ወዘኢይሰፈር ፡",
+      "amharic": "እንግዲህ የማይቈጠርና የማይሰፈር በእኛ ላይ የታወቀ የቸርነቱን ብዛት እንናገር ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p339-04",
+      "kind": "paragraph",
+      "number": 15,
+      "geez_numeral": "፲፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወሶበ ዐለውነ ትእዛዞ በምክረ ከይሲ ርጉም ወፀዓነ እምገነተ ተድላ ውስተ ሙስና እም ሕይወት ውስተ ሞት እምግዕዛን ውስተ ግብርናት፡ ወተቀነይነ ለአርዑተ ኃጢአት፡",
+      "amharic": "ርጉም በሆነ ከይሲ ምክር ትእዛዙን ባፈረስን ጊዜ ከተድላ ገነት ወደ ጥፋት፡ ከሕይወት ወደ ሞት፡ ከነጻነት ወደ መገዛት ወጣን፡ ለኃጢአት ቀንበር ተገዛን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p339-05",
+      "kind": "paragraph",
+      "number": 16,
+      "geez_numeral": "፲፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ውእቱሰ ኢኀደገነ ወኢተሐየነ ለተግባሩ ወኢተቀየመነ በኃጣውኢነ ፍጹመ ንማስን በከመ አበስነ ሎቱ አላ አፍቀረነ ወሐወጸነ መሐረነ ወተሣሃለነ ወአንገፈነ እምእደ ዘይቀንየነ ፡",
+      "amharic": "እርሱ ግን ፍጥረቶቹን አልተወንም ፡ ቸልም አላለንም፡ እርሱን እንደ በደልነው መጠን ፈጽመን እንጠፋ ዘንድ በኃጢአታችን አልተቀየመንም፡ ወደደን እንጂ፡ ጐበኘንም፡ ማረን፡ ይቅርም አለን ፡ ከሚገዛንም እጅ አዳነን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p339-06",
+      "kind": "paragraph",
+      "number": 17,
+      "geez_numeral": "፲፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ፈነወ ለነ ወልዶ መድኅነ ወመቤዝወ መልእከ ምክሩ የማኑ እደ መዝራዕቱ ኃይሉ ወጥበቡ ለአቡሁ፡ ወቦቱ ገብረ ኵሎ ዘፈቀደ እለ እም ውስተ ዝንቱ ዓለም፡",
+      "amharic": "አዳኝ፡ መድኃኒት፡ የምክሩ አበጋዝ ለአባቱ ቀኝ እጁ ክንዱ፡ ኃይሉና ጥበቡ የሚሆን ልጁን ላከልን፡ በእርሱም ከዚህ ዓለም ወገን የወደደውን ሁሉ አደረገ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 340,
+    "printed_page_geez": "፫፻፴፩",
+    "printed_page": 331,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p340-01",
+      "kind": "paragraph",
+      "number": 18,
+      "geez_numeral": "፲፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ለእለ ኀረየ ኪያሆሙ ጸውዐ ወለእለ ጸውዐ ኪያሆሙ አፍቀረ፡ ለእለ አፍቀረ ኪያሆሙ አክበረ፡ ወለእለ አክበረ ኪያሆሙ አጽደቀ፡ ለእለ አጽደቀ ኪያሆሙ ሠርዐ ከመ ይኩኑ ትርሲተ ወልዱ፡",
+      "amharic": "የመረጣቸውን እነርሱን ጠራቸው፡ የጠራቸውንም እነርሱንም ወደደ፡ የወደዳቸውንም እነርሱንም አከበረ፡ ያከበራቸውን እነርሱን እውነተኞች አደረገ፡ እውነተኞች ያደረጋቸውን እነርሱንም አከናወነ የልጁ ጌጥ ይሆኑ ዘንድ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p340-02",
+      "kind": "paragraph",
+      "number": 19,
+      "geez_numeral": "፲፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወቦቱ አስተጋብአነ እም ዝርወት ውስተ እንተ ተዐቢ ሃይማኖት፡ ወረሰየነ ሎቱ ሕዝበ ጉቡአ፡ ወአቅረበነ ኀቤሁ ለስባሔሁ፡",
+      "amharic": "በእርሱም ከመበተን ከፍ ባለች ሃይማኖት ሰበሰበን፡ ለእርሱ የተሰበሰበ ወገንም አደረገን፡ እርሱን ለማመስገን ወደርሱ አቀረበን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p340-03",
+      "kind": "paragraph",
+      "number": 20,
+      "geez_numeral": "፳",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወጸሐፈ አስማቲነ ውስተ መጽሐፈ ሕይወት ከመ ይኩን ተዝካሮሙ በቅድሜሁ ለስ አሐዱ አሐዱ ለሙታን ወለሕያዋን፡",
+      "amharic": "ስማችንንም በሕይወት መጻፍ ጻፈ፡ የሙታንንም የሕያዋንንም መታሰቢያቸው በያንዳንዳቸው በፊቱ ይሆን ዘንድ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p340-04",
+      "kind": "paragraph",
+      "number": 21,
+      "geez_numeral": "፳፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ. ዲ. በእንተ ብፁዕ፡",
+      "amharic": "ይ.ዲ. በእንተ ብፁዕ ፡ (ቅዳ. ሐዋ. ፮-፱)",
+      "uncertain": false
+     },
+     {
+      "id": "p340-05",
+      "kind": "paragraph",
+      "number": 22,
+      "geez_numeral": "፳፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ. ካ. ንፍቅ ጸሎተ ቡራኬ፡",
+      "amharic": "ይ.ካ. ንፍቅ ጸሎተ ቡራኬ ፡ (ቅዳ. ሐዋ. ፲-፳፩)",
+      "uncertain": false
+     },
+     {
+      "id": "p340-06",
+      "kind": "paragraph",
+      "number": 23,
+      "geez_numeral": "፳፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ. ዲ. ንፍቅ መሐሮሙ እግዚኦ ወተሣሃሎሙ ለሊቃነ ጳጳሳት ጳጳሳት ኤጲስቆጶሳት ቀሳውስት ወዲያቆናት ወኵሎሙ ሕዝበ ክርስቲያን፡",
+      "amharic": "ይ.ዲ. ንፍቅ አቤቱ የጳጳሳትን አለቆች፡ ጳጳሳቱንና ኤጲስቆጶሳቱን ፡ ቀሳውስቱንና ዲያቆናቱን፡ የክርስቲያንንም ወገኖች ሁሉ ማራቸው፡ ይቅር በላቸው፡",
+      "uncertain": false
+     },
+     {
+      "id": "p340-07",
+      "kind": "paragraph",
+      "number": 24,
+      "geez_numeral": "፳፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ. ካ. ንዜኑ ካዕበ ህላዌሁ ለዋሕድ ዘከመ እፎ ውእቱ ወዘከመ እፎ ርደቱ ወዘከመ እፎ ልደቱ፡",
+      "amharic": "ይ.ካ. ዳግመኛ የዋሕድ አነዋወሩ እንደምን እንደሆነ መውረዱም እንዴት እንደሆነ፡ መወለዱም እንዴት እንደሆነ እንናገራለን፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 341,
+    "printed_page_geez": "፫፻፴፪",
+    "printed_page": 332,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p341-01",
+      "kind": "paragraph",
+      "number": 25,
+      "geez_numeral": "፳፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "መጽአ እንዘ ኢይወፅእ እምአቡሁ ወረደ እንዘ ኢይትፈለጥ እምህላዌሁ፡ ነገደ እንዘ ኢይትበዐድ እምሥላሴሁ አጽነነ እንዘ ኢይዘሮ እምድማሬሁ ኀደረ ውስተ ወለተ ሥጋ እንዘ ኢየዐርቅ እመንበሩ፡",
+      "amharic": "ከአባቱ ሳይወጣ መጣ፡ ከአነዋወሩ ሳይለይ ወረደ፡ ከሥስትነቱ ሳይለይ መጣ፡ ከአንድነቱም ሳይለይ ወረደ፡ ከዙፋኑ ሳይለይ በሥጋ ልጅ አደረ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p341-02",
+      "kind": "paragraph",
+      "number": 26,
+      "geez_numeral": "፳፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ. ዲ. እለ ትነብሩ ተንሥኡ ፡",
+      "amharic": "ይ.ዲ. የተቀመጣችሁ ተነሡ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p341-03",
+      "kind": "paragraph",
+      "number": 27,
+      "geez_numeral": "፳፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ. ካ. ተፀንሰ በከርሥ እንዘ ኢይትጋባእ እም ኵለሄ በምልዓቱ፡ ተዐቍረ ውስተ ማኅፀን እንዘ ኢየሐጽጽ በላዕሉ፡ ወተወልደ እንዘ ኢይትዌሰክ በታሕቱ ፡",
+      "amharic": "ይ.ካ. ከምላቱ ሳይወሰን በማኅፀን ተፀነሰ፡ በላይ ሳይጐድል በማኅፀን ተወሰነ፡ በታችም ሳይጨመርበት ተወለደ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p341-04",
+      "kind": "paragraph",
+      "number": 28,
+      "geez_numeral": "፳፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ. ዲ. ውስተ ጽባሕ ነጽሩ ፡",
+      "amharic": "ይ.ዲ. ወደ ምሥራቅ ተመልከቱ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p341-05",
+      "kind": "paragraph",
+      "number": 29,
+      "geez_numeral": "፳፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ. ካ. ኮነ ሰብአ ፍጹመ ዘእንበለ ኃጢአት ወአስተርአየ ከመ ገብር እንዘ ይገብር ከመ እግዚአብሔር በከመ ስምዐ ኮኑ ሰባክያን ወንጌሉ ፡",
+      "amharic": "ይ.ካ. ከኃጢአት በቀር ፈጽሞ ሰው ሆነ፡ እንደ እግዚአብሔር እየሠራ እንደ አገልጋይ ታየ፡ ወንጌሉን ያስተማሩ እንደ መሰከሩ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p341-06",
+      "kind": "paragraph",
+      "number": 30,
+      "geez_numeral": "፴",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ. ዲ. ንነጽር ፡",
+      "amharic": "ይ.ዲ. እናስተውል ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p341-07",
+      "kind": "paragraph",
+      "number": 31,
+      "geez_numeral": "፴፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ.እምንበ አቡሁ ተሰብሐ ወእምንበ መላእክት ተአኰተ እምንበ ሰብእ ተወደሰ ወእምንቤሁ ተቀደሰ ፡",
+      "amharic": "ይ.ካ. ከአባቱ ዘንድ ተመሰገነ፡ ከመላእክትም ዘንድ ተመሰገነ፡ ከሰውም ዘንድ ተመሰገነ፡ ከራሱም ከበረ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p341-08",
+      "kind": "paragraph",
+      "number": 32,
+      "geez_numeral": "፴፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወመልዐ ሰማያተ ወምድረ ቅድሳተ ስብሐቲሁ ወዘልፈ እንከ ንሕነኒ ኢንዕርፍ በአልባቢነ ወናነብብ ቅድሳተ ስብሐቲሁ ወንጸርሕ እንዘ ንብል (ቅዱስ) ፡",
+      "amharic": "የጌትነቱም ምስጋና በሰማይና በምድር መላ፡ እንግዲህ በልቡናችን ዘወትር አናርፍም ፡ ቅዱስ እያልንም የጌትነትን ምስጋና እንናገራለን፡",
+      "uncertain": false
+     },
+     {
+      "id": "p341-09",
+      "kind": "paragraph",
+      "number": 33,
+      "geez_numeral": "፴፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ. ዲ. አውሥኡ ፡",
+      "amharic": "ይ.ዲ. ተሰጥዎውን መልሱ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p341-10",
+      "kind": "paragraph",
+      "number": 34,
+      "geez_numeral": "፴፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ. ሕ. ቅዱስ ቅዱስ ቅዱስ እግዚአብሔር ጸባዖት ፍጹም ምሉዕ ሰማያት ወምድረ ቅድሳተ ስብሐቲከ ፡",
+      "amharic": "ይ.ሕ. ቅዱስ ቅዱስ ቅዱስ ፍጹም አሸናፊ እግዚአብሔር የጌትነትህ ምስጋና በሰማይና በምድር የመላ ነው ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 342,
+    "printed_page_geez": "፫፻፴፫",
+    "printed_page": 333,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p342-01",
+      "kind": "paragraph",
+      "number": 35,
+      "geez_numeral": "፴፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ. ካ. ቅዱስ ቅዱስ ቅዱስ አንተ ዘበአማን ኢየሱስ ክርስቶስ ዘትቄደስ በአፈ ኵሉ ፡",
+      "amharic": "ይ. ካ. በሁሉ አፍ የምትመሰገን እውነተኛ ኢየሱስ ክርስቶስ አንተ ቅዱስ ቅዱስ ቅዱስ ነህ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p342-02",
+      "kind": "paragraph",
+      "number": 36,
+      "geez_numeral": "፴፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወለኵሎሙ ቅዱሳኒሁ በሥናያቲሁ ወሀቦሙ ከመ ይኩኑ ቅዱሳነ፡ እንተ ይእቲ ቅድሳቲሁ እንተ ኢትትነሠት ወኢትማስን፡ ዘዓይን ኢረእየ ወእዝን ኢሰምዐ ውስተ ልበ ሰብእ ዘኢተሐለየ ዘአስተዳለወ እግዚአብሔር ለእለ ያፈቅርዎ ለአርዳኢሁ ቅዱሳን ወለሐዋርያቲሁ ንጹሓን አርአዮሙ ሥርዓተ ምሥጢር ዘቍርባን፡",
+      "amharic": "ለቅዱሳኑም ሁሉ በቸርነቱ ቅዱሳን ይሆኑ ዘንድ ሰጣቸው ፡ ይህችውም የማትፈርስ የማትጠፋ ቅድሳቱ ናት ፡ ዐይን ያላየው ጆሮ ያልሰማው፡ በሰው ልቡና ያልታሰበ እግዚአብሔር ለወዳጆቹ ያዘጋጀው፡ ለቅዱሳን ደቀ መዛሙርቱ ለንጹሐንም ሐዋርያት የቍርባን ምሥጢር ሥርዓትን አሳያቸው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p342-03",
+      "kind": "paragraph",
+      "number": 37,
+      "geez_numeral": "፴፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ. ዲ. አንሥኡ እደዊክሙ ቀሳውስት ፡",
+      "amharic": "ይ.ዲ. ቀሳውስት እጆቻችሁን አንሡ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p342-04",
+      "kind": "paragraph",
+      "number": 38,
+      "geez_numeral": "፴፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ. ካ. ነሥአ ኅብስተ በእደዊሁ ቅዱሳት ወብፁዓት እለ እንበለ ርስሐት ፡\nበዝየ ያንሥአ ኅብስተ፡",
+      "amharic": "ይ.ካ. ነውር በሌለባቸው ቅዱሳት ብፁዓት በሚሆኑ እጆቹ ኅብስቱን አንሥቶ ያዘ፡ በዚህ ጊዜ ኅብስቱን ያንሣ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p342-05",
+      "kind": "paragraph",
+      "number": 39,
+      "geez_numeral": "፴፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ. ሕ. ነአምን ከመ ዝንቱ ውእቱ በአማን ነአምን፡",
+      "amharic": "ይ.ሕ. እናምናለን፡ ይህ እርሱ እንደሆነ በእውነት እናምናለን ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p342-06",
+      "kind": "paragraph",
+      "number": 40,
+      "geez_numeral": "፵",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ. ካ. አንቃዕደወ ሰማየ ኅቤከ ኅበ አቡሁ እግዚአብሔር ወእግዚአ ኵሉ ዘመልዕልተ ኵሉ ፡\nአእኰተ ባረከ፡ቡራኬ ፫ተ ጊዜ ወፈተተ ወወሀቦሙ ለአርዳኢሁ ወይቤሎሙ ዝ ውእቱ ሥጋየ «እማሬ» መብልዐ ጽድቅ ዘበአማን ዘበልዐ እምኔሁ ቦ ሕይወት ዘለዓለም ንሥኡ ብልዑ እምኔሁ ፡",
+      "amharic": "ይ.ካ. የሁሉ በላይና የሁሉ ጌታ እግዚአብሔር ወደሆንህ ወደ አንተ ወዳባቱ አቅንቶ አየ ፡ አመሰገነ፡ ባረከ፡ ሦስት ጊዜ ይባርክ፡ ቈረሰ፡ እውነተኛ የጽድቅ ምግብ ሥጋዬ ይህ ነው፡ «እማሬ» ብሎ ለደቀ መዛሙርቱ ሰጣቸው፡ ከርሱ የበላ የዘለዓለም ሕይወት አለው ንሡ ከርሱ ብሉ አላቸው ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 343,
+    "printed_page_geez": "፫፻፴፬",
+    "printed_page": 334,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p343-01",
+      "kind": "paragraph",
+      "number": 41,
+      "geez_numeral": "፵፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ. ሕ. አሜን አሜን አሜን ነአምን ወንተ አመን ንሴብሐከ አ እግዚእነ ወአምላክነ ከመ ዝንቱ ውእቱ በአማን ነአምን ፡\nይ. ካ. ወከማሁ ጽዋዐኒ ቶስሐ ማየ ወወይነ አእኰተ ባረከ፡ ቡራኬ ፫ተ ጊዜ ወቀደሰ ወወሀቦሙ ለአርዳኢሁ ወይቤሎሙ ዝ ውእቱ ደምየ «እማሬ» ስቴ ሕይወት ዘበአማን ዘሰትየ እምኔሁ ቦ ሕይወት ዘለዓለም ንሥኡ ስትዩ እምኔሁ ኵልክሙ፡\nወይነክንኮ ለጽዋዕ በትእምርተ መስቀል በእዴሁ ዘየማን ፡",
+      "amharic": "ይ.ሕ. አሜን አሜን አሜን እናምናለን ፡ እንታመናለን ፡ ጌታችንና አምላካችን ሆይ እናመሰግንሃለን፡ ይህ እርሱ እንደ ሆነ በእውነት እናምናለን ፡\nይ.ካ. እንዲሁም ጽዋውን ውኃና ወይንን ቀላቅሎ አመሰገነ፡ ባረከ፡ ሦስት ጊዜ ይባርክ፡ አከበረ፡ እውነተኛ የሕይወት መጠጥ ደሜ ይህ ነው «እማሬ» ብሎ ለደቀ መዛሙርቱ ሰጣቸው፡ ከርሱ የጠጣ የዘለዓለም ሕይወት አለው፡ ሁላችሁ ንሡ ከርሱ ጠጡ አላቸው፡\nጽዋውን በቀኝ እጁ በአራቱ ማዕዘን ይወዝውዘው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p343-02",
+      "kind": "paragraph",
+      "number": 42,
+      "geez_numeral": "፵፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ. ሕ. አሜን አሜን አሜን ፡",
+      "amharic": "ይ.ሕ. አሜን፡ አሜን፡ አሜን ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p343-03",
+      "kind": "paragraph",
+      "number": 43,
+      "geez_numeral": "፵፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ. ካ. ተአምር ውእቱ ለክሙ ወለእለ እምድኅሬክሙ ወከመዝ ግበሩ ተዝካርየ እስከ ሶበ እመጽእ ፡\nወሰበሂ ትትጋብኡ በስምየ ዜንዉ ሞትየ ፡ ወትንሣኤየ፡ ወዕርገትየ ውስተ ሰማያት ፡",
+      "amharic": "ይ.ካ. ለናንተ ከእናንተም በኋላ ለሚነሡት ምልክት ነው፡ መታሰቢያዬንም እንዲህ አድርጉ፡ እስክመጣ ድረስ፡ በእኔ ስም በምትሰበሰቡበት ጊዜ ሞቴንና ትንሣኤዬን፡ ወደ ሰማይ ማረጌንም ንገሩ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p343-04",
+      "kind": "paragraph",
+      "number": 44,
+      "geez_numeral": "፵፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ. ሕ. ንዜኑ ሞተከ እግዚኦ ወትንሣኤከ ቅድስተ ነአምን ዕርገተከ ወዳግመ ምጽአተከ ንሴብሐከ ወንተ አመነከ ንስእለከ ወናስ ተበቍዑከ አ እግዚእነ ወአምላክነ።",
+      "amharic": "ይ.ሕ. አቤቱ ሞትህንና ቅድስት ትንሣኤህን፡ እንናገራለን፡ ዕርገትህን ዳግመኛም መምጣትህን እናምናለን፡ እናመሰግንሃለን፡ እናምንሃለንም ፡ ጌታችንና አምላካችን ሆይ እንለምንሃለን፡ እንማልድሃለንም።",
+      "uncertain": false
+     },
+     {
+      "id": "p343-05",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 344,
+    "printed_page_geez": "፫፻፴፭",
+    "printed_page": 335,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p344-01",
+      "kind": "paragraph",
+      "number": 45,
+      "geez_numeral": "፵፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ. ካ. ወንሕነኒ እግዚኦ እለ ተጋባእነ ንዜኑ ሕማሞ ለዘኢየሐምም ንዜኑ ሞቶ ለዘኢይመውት፡ በይእቲ ሌሊት እንተ ባቲ ረፈቀ ምስለ አርዳኢሁ መጠወ ነፍሶ ለሞት በፈቃደ አቡሁ ወበሥምረተ ርእሱ ፡",
+      "amharic": "ይ.ካ. የተሰበሰብን እኛም የማይታመምም የርሱን ሕማሙን እንናገራለን፡ የማይሞት የርሱን ሞቱን እንናገራለን፡ ከደቀ መዛሙርቱ ጋራ በተቀመጠባት በዚያች ሌሊት በአባቱ ፈቃድ በራሱም ፈቃድ ሰውነቱን ለሞት ሰጠ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p344-02",
+      "kind": "paragraph",
+      "number": 46,
+      "geez_numeral": "፵፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "አኅዝዎ ለአኃዜ ኵሉ አሠርዎ ለመላኬ ኵሉ ወሐመይዎ ለወልደ አምላክ ሕያው፡ ሰሐብዎ በመዓት ወተለዎሙ በፍቅር ወሰድዎ እንዘ የሐውር ድኅሬሆሙ ከመ በግዕ የዋሕ ዘኢይነብብ በቅድመ ዘይቀርፃ ፡",
+      "amharic": "ሁሉን የያዘውን ያዙት፡ ሁሉን የሚገዛውን አሠሩት፡ የሕያው የአምላክን ልጅ አሠሩት፡ በቊጣ ጎተቱት፡ በፍቅር ተከተላቸው፡ በሚሸልተው ፊት እንደማይናገር እንደ የዋህ በግ በኋላቸው እየተከተለ ወሰዱት ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p344-03",
+      "kind": "paragraph",
+      "number": 47,
+      "geez_numeral": "፵፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "አቀምዎ ውስተ ዐውድ ለዘሎቱ ይቀውሙ ሊቃነ መላእክት በፍርሃት ወበረዓድ አርስሕዎ ለዘየኅድግ ኃጢአተ ወኰንንዎ ለመኰንነ መኳንንት ፡",
+      "amharic": "ሊቃነ መላእክት በመፍራትና በመንቀጥቀጥ ከፊቱ የሚቆሙለትን በአደባባይ አቆሙት ፡ ኃጢአትን ይቅር የሚለውን ኃጥእ አሉት፡ በመኳንንት በሚፈርደው በርሱ ፈረዱበት ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p344-04",
+      "kind": "paragraph",
+      "number": 48,
+      "geez_numeral": "፵፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወአስተቀጸልዎ አክሊለ ዘሥክ ለዘያስተቄጽሎሙ ጌራ ለሱራፌል፡ አልበስዎ ከለሜዳ ዘለይ ለተሣልቆ ለዘያለብሰሙ ሞጣሕተ ግርማ ለኪሩቤል ፡",
+      "amharic": "ለሱራፌል ዘውድ የሚያቀዳጃቸውን የእሾህ ዘውድ አቀዳጁት፡ ለኪሩቤል የግርማ ልብስ የሚያለብሳቸውን ለመዘበት ቀይ ግምጃ አለበሱት ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p344-05",
+      "kind": "paragraph",
+      "number": 49,
+      "geez_numeral": "፵፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ገብር እኩይ አጽንዐ እዴሁ ወጸፍዖ ገጸ ለዘይሼወሩ እምቅድመ ገጹ ኪሩባውያን በአክናፈ እሳት እንዘ ይትገለበቡ ፡",
+      "amharic": "ኪሩቤል በእሳት ክንፍ ተሸፍነው ከፊቱ የሚሠወሩለትን እርሱን ክፉ ባሪያ እጁን አጽንቶ ፊቱን ጸፋው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p344-06",
+      "kind": "paragraph",
+      "number": 50,
+      "geez_numeral": "፶",
+      "continued": null,
+      "heading_note": null,
+      "geez": "አስተብረኩ ቅድሜሁ እንዘ ይዘነጕግም ለዘሎቱ ይሰግዱ ሠራዊተ መላእክት በዐቢይ ድንጋዔ ፡",
+      "amharic": "የመላእክት ሠራዊት በፍጹም መደንገጥ ለሚሰግዱለት እየዘበቱበት በፊቱ ተንበረከኩ ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 345,
+    "printed_page_geez": "፫፻፴፮",
+    "printed_page": 336,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p345-01",
+      "kind": "paragraph",
+      "number": 51,
+      "geez_numeral": "፶፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "አ ትሕትና ዘመጠነዝ ትሕትና አ ትዕግሥት ዘመጠነዝ ትዕግሥት አ አርምሞት ዘመጠነዝ አርምሞት ፡",
+      "amharic": "ይህን ያህል ትሕትና እንደ ምን ያለ ትሕትና ነው? ይህን ያህል ትዕግሥት እንደ ምን ያለ ትዕግሥት ነው? ይህን ያህል ዝምታ እንደ ምን ያለ ዝምታ ነው?",
+      "uncertain": false
+     },
+     {
+      "id": "p345-02",
+      "kind": "paragraph",
+      "number": 52,
+      "geez_numeral": "፶፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "አ ኂሩት ዘመጠነዝ ኂሩት አ ፍቅር ዘመጠነዝ አፍቅሮተ ሰብእ ፡",
+      "amharic": "ይህን ያህል ቸርነት እንደ ምን ያለ ቸርነት ነው፡ ይህን ያህል ሰውን ማፍቀር እንደምን ያለ ፍቅር ነው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p345-03",
+      "kind": "paragraph",
+      "number": 53,
+      "geez_numeral": "፶፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ፍቅር ሰሐቦ ለወልደ አምላክ እመንበሩ ወአብጽሖ እስከ ለሞት ሰቀልዎ ከመእቡስ ለዘአልቦቱ አበሳ ወኈለቍዎ ምስለ ጌጉያን ለገባሬ ሕይወት ፡",
+      "amharic": "ፍቅር የአምላክን ልጅ ከዙፋኑ ሳበው እስከ ሞትም አደረሰው፡ በደል የሌለበትን እንደ በደለኛ ሰቀሉት ፡ ሕይወትን የሠራውን ከበደለኞች ጋር ቈጠሩት ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p345-04",
+      "kind": "paragraph",
+      "number": 54,
+      "geez_numeral": "፶፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "አ አዕዳው እለ ለሐኪሁ ለአዳም ተቀነዋ በቅንዋተ መስቀል ፡\nአ እጋር እለ አንሶሰዋ ውስተ ገነት ተቀነዋ በቅንዋተ መስቀል ፡",
+      "amharic": "አዳምን የፈጠሩ እጆች በመስቀል ቀኖት ተቸነከሩ፡ ወዮ፡ በገነት የተመላለሱ እግሮች በመስቀል ቀኖት ተቸነከሩ፡ ወዮ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p345-05",
+      "kind": "paragraph",
+      "number": 55,
+      "geez_numeral": "፶፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "አ አፍ ዘነፍሐ ውስተ ገጹ ለአዳም መንፈሰ ሕይወት ብሒዐ መጺጸ ዘምስለ ሐሞት ሰረበ ፡",
+      "amharic": "በአዳም ፊት የሕይወት መንፈስን እፍ ያለ አፍ ከሐሞት ጋራ የተቀላቀለ የከመጠጠ መጻጻን ጠጣ፡ ወዮ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p345-06",
+      "kind": "paragraph",
+      "number": 56,
+      "geez_numeral": "፶፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "አይ አፍ ወአይ ከናፍር ወአይ ልሳን ዘይትናገር ሕማማቲሁ ለወልድ ፡",
+      "amharic": "የወልድን መከራውን የሚናገር ምን አፍ ነው፡ ምን ከንፈር ነው፡ ምን አንደበት ነው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p345-07",
+      "kind": "paragraph",
+      "number": 57,
+      "geez_numeral": "፶፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ልብ ይትከፈል ወሕሊና ይዘበጥ ወነፍስ ትርዕድ ወሥጋ ይደክም ሶበ ይትነገር ሕማማቲሁ ለፍቁር ፡",
+      "amharic": "የፍቁር የጌታ ሕማማት በተነገረ ጊዜ ልብ ይለያል፡ ሕሊናም ይመታል፡ ነፍስም ትንቀጠቀጣለች፡ ሥጋም ይደክማል ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 346,
+    "printed_page_geez": "፫፻፴፯",
+    "printed_page": 337,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p346-01",
+      "kind": "paragraph",
+      "number": 58,
+      "geez_numeral": "፶፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ሞተ ዘኢይመውት ፡ ሞተ ከመ ይሥዐሮ ለሞት ፡ ሞተ ከመ ያሐይዎሙ ለሙታን ፡",
+      "amharic": "የማይሞተው ሞተ ፡ ሞትን ይሽረው ዘንድ ሞተ ፡ ሙታንን ያድናቸው ዘንድ ሞተ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p346-02",
+      "kind": "paragraph",
+      "number": 59,
+      "geez_numeral": "፶፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. ብክይዎ ወላህውዎ እለ ታፈቅርዎ ፡",
+      "amharic": "ይ.ዲ. የምትወዱት ሰዎች ፈጽሞ አልቅሱለት ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p346-03",
+      "kind": "paragraph",
+      "number": 60,
+      "geez_numeral": "፷",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ዬ ዬ ዬ አማኑኤል አምላክነ ፡\nይ.ሕ. ከማሁ ፡",
+      "amharic": "ይ.ካ. ወየው ፡ ወየው ፡ ወየው አማኑኤል አምላካችን ፡\nይ.ሕ. እንደርሱ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p346-04",
+      "kind": "paragraph",
+      "number": 61,
+      "geez_numeral": "፷፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ዬ ዬ ዬ ኢየሱስ መድኃኒነ ፡\nይ.ሕ. ከማሁ ፡",
+      "amharic": "ይ.ካ. ወየው ፡ ወየው ፡ ወየው መድኃኒታችን ኢየሱስ ፡\nይ.ሕ. እንደርሱ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p346-05",
+      "kind": "paragraph",
+      "number": 62,
+      "geez_numeral": "፷፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ዬ ዬ ዬ ክርስቶስ ንጉሥነ ፡\nይ.ሕ. ከማሁ ፡",
+      "amharic": "ይ.ካ. ወየው ፡ ወየው ፡ ወየው ንጉሣችን ክርስቶስ ፡\nይ.ሕ. እንደርሱ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p346-06",
+      "kind": "paragraph",
+      "number": 63,
+      "geez_numeral": "፷፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ዬ ዬ ዬ አውረድዎ እምዕፅ ጻድቃን ወአምጽኡ አፈዋተ ከርቤ ሕውሰ ወልብሰ ገርዜን ንጹሕ ለግንዘተ ሥጋሁ ፡",
+      "amharic": "ይ.ካ. ወየው ፡ ወየው ፡ ወየው ፡ ጻድቃን ከዕንጨት አወረዱት ፡ ሥጋውንም ለመገነዝ ከርቤ የሚባል የጣፈጠ ሽቱንና ንጹሕ በፍታን አመጡ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p346-07",
+      "kind": "paragraph",
+      "number": 64,
+      "geez_numeral": "፷፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ሕ. ቅዱስ እግዚአብሔር ቅዱስ ኃያል ቅዱስ ሕያው ዘኢይመውት ፡ ዘተወልደ እማርያም እምቅድስት ድንግል ተሣሃለነ እግዚኦ ፡ ቅዱስ እግዚአብሔር ቅዱስ ኃያል ቅዱስ ሕያው ዘኢይመውት ፡ ዘተጠምቀ በዮርዳኖስ ወተሰቅለ ዲበ ዕፀ መስቀል ተሣሃለነ እግዚኦ ፡",
+      "amharic": "ይ.ሕ. ቅዱስ እግዚአብሔር ቅዱስ ኃያል ቅዱስ ሕያው የማይሞት የማይለወጥ ፡ ከድንግል ማርያም የተወለደ አቤቱ ይቅር በለን ፡ ቅዱስ እግዚአብሔር ቅዱስ ኃያል ፡ ቅዱስ ሕያው ፡ የማይሞት ፡ የማይለወጥ ፡ በዮርዳኖስ የተጠመቀ በመስቀልም የተሰቀለ ፡ አቤቱ ይቅር በለን ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p346-08",
+      "kind": "paragraph",
+      "number": 65,
+      "geez_numeral": "፷፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "በዝየ ዕርገተ ዕጣን በዕርፈ መስቀል ፡\nይ.ሕ. ተዘከረነ እግዚኦ ፡",
+      "amharic": "በዚህ ጊዜ ቄሱ ዕጣንን በዕርፈ መስቀል ያሳርግ ፡\nይ.ሕ. አቤቱ አስበን ፡\n(ቅዳ. ሐዋ. ቁ. ፴፬)",
+      "uncertain": false
+     },
+     {
+      "id": "p346-09",
+      "kind": "paragraph",
+      "number": 66,
+      "geez_numeral": "፷፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. አመ ሣልስት ዕለት ሠጣ ለነፍሱ ውስተ ሥጋሁ ፡",
+      "amharic": "ይ.ካ. በሦስተኛው ቀን ነፍሱን ከሥጋው ጋራ አዋሐዳት ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 347,
+    "printed_page_geez": "፫፻፴፰",
+    "printed_page": 338,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p347-01",
+      "kind": "paragraph",
+      "number": 67,
+      "geez_numeral": "፷፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ሕ. ቅዱስ እግዚአብሔር ፡ ቅዱስ ኃያል ፡ ቅዱስ ሕያው ዘኢይመውት ፡ ዘተንሥአ እሙታን አመ ሣልስት ዕለት ዐርገ በስብሐት ውስተ ሰማያት ወነበረ በየማነ አቡሁ ፡ ዳግመ ይመጽእ በስብሐት ይኰንን ሕያዋነ ወሙታነ ተሣሃለነ እግዚኦ ፡\nስብሐት ለአብ ፡ ስብሐት ለወልድ ፡ ስብሐት ለመንፈስ ቅዱስ ፡ ይእዜኒ ወዘልፈኒ ወለዓለመ ዓለም አሜን ወአሜን ለይኩን ለይኩን ፡",
+      "amharic": "ይ.ሕ. ቅዱስ እግዚአብሔር ፡ ቅዱስ ኃያል ፡ ቅዱስ ሕያው የማይሞት የማይለወጥ በሦስተኛው ቀን ከሙታን ተለይቶ የተነሣ ፡ በክብር በምስጋና ወደ ሰማይ ዐረገ ፡ በአባቱም ቀኝ ተቀመጠ ፡ ዳግመኛም በጌትነት ይመጣል ፡ በሕያዋንና በሙታን ለመፍረድ ፡ አቤቱ ይቅር በለን ፡ ለአብ ምስጋና ይሁን ፡ ለወልድ ምስጋና ይሁን ፡ ለመንፈስ ቅዱስ ምስጋና ይሁን ፡ ዛሬም ቢሆን ሁልጊዜም ቢሆን ፡ ለዘለዓለሙ አሜን ይሁን ይሁን ይደረግ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p347-02",
+      "kind": "paragraph",
+      "number": 68,
+      "geez_numeral": "፷፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ተንሥአ እሙታን ፡ ፍጹመ ዘእንበለ ሙስና ወአግዐዘነ እምዐርዑተ ኃጢአት ፡ በይእቲ ሥጋ ምስለ ኃይለ መለኮት ውስተ ሰማያት ዐርገ ንበ ዘትካት ህላዌሁ ፡",
+      "amharic": "ይ.ካ. ሙስና (መለወጥ) ሳይኖርበት ከሙታን ተለይቶ ፈጽሞ ተነሣ ፡ ከኃጢአት ቀንበርም ነጻ አደረገን ፡ በዚያች ሥጋ በመለኮት ኃይል ወደ ሰማይ ወደ ቀድሞ አኗኗሩ ዐረገ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p347-03",
+      "kind": "paragraph",
+      "number": 69,
+      "geez_numeral": "፷፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. አድንኑ አርእስቲክሙ ቅድመ እግዚአብሔር ፡",
+      "amharic": "ይ.ዲ. ራሳችሁን በእግዚአብሔር ፊት ዝቅ ዝቅ አድርጉ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p347-04",
+      "kind": "paragraph",
+      "number": 70,
+      "geez_numeral": "፸",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. በለኖሳስ ንስእለከ እግዚኦ ወናስተበቍዐከ በከመ ፈኖከ መንፈሰከ ቅዱሰ ላዕለ አርዳኢከ ቅዱሳን ወላዕለ ሐዋርያቲከ ንጹሓን ፡ ከማሁ ፈኑ ላዕሌነ ውእተ መንፈሰከ ቅዱሰ ዘይቄድስ ነፍሰነ ወሥጋነ ወመንፈሰነ ንኩን ንጹሐነ ቦቱ እምኵሉ ኃጢአትነ ወንቅረብ ለነ ሚአ ምሥጢርከ መለኮታዊ ፡\nእስመ ለከ ይእቲ መንግሥት ኃይል ወስብሐት ለዓለመ ዓለም ፡",
+      "amharic": "ይ.ካ. በቀስታ አቤቱ እንለምንሃለን ፡ እንማልድሃለንም ፡ ለቅዱሳን ደቀ መዛሙርትህና ለንጹሐን ሐዋርያትህ መንፈስ ቅዱስህን እንደ ሰደድህ እንዲሁ ነፍሳችንንና ሥጋችንን መንፈሳችንንም የሚቀድስ ያንን መንፈስ ቅዱስህን ለኛ ላክልን ፡ ከኃጢአታችን ሁሉ በርሱ ንጹሐን እንሆን ዘንድ ፡ መለኮታዊ ምሥጢርህንም ለመቀበል እንቀርብ ዘንድ ፡ መንግሥት ኃይል ምስጋናም የአንተ ናትና ለዘለዓለሙ ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 348,
+    "printed_page_geez": "፫፻፴፱",
+    "printed_page": 339,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p348-01",
+      "kind": "paragraph",
+      "number": 71,
+      "geez_numeral": "፸፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. በልዑል ቃል ተዘከር እግዚኦ ኪዳነ ቃልከ ዘተካየድከ ምስለ አበዊነ ወምስለ ሐዋርያቲከ ቅዱሳን ከመ ትፈኑ ላዕሌነ ውእተ መንፈሰከ ቅዱሰ ዘኢይክል ዓለም ነሢአቶ ፡ ወመሀርከነ ለነ ከመ ንጸውዕከ እንዘ ንብል አቡነ ዘበሰማያት ይትቀደስ ስምከ ትምጻእ መንግሥትከ ፡",
+      "amharic": "ይ.ካ. ከፍ ባለ ቃል ከአባቶቻችን ጋራ ከቅዱሳን ሐዋርያትም ጋራ የተማማልከውን ቃል ኪዳንህን አቤቱ አስብ ፡ ይህ ዓለም መቀበሉን የማይችል ያን መንፈስ ቅዱስህን ለኛ ትሰድልን ዘንድ ፡ በሰማይ ያለህ አባታችን ስምህ ይመስገን መንግሥትህ ትምጣ ብለን እንጠራህ ዘንድ አስተማርከን ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p348-02",
+      "kind": "paragraph",
+      "number": 72,
+      "geez_numeral": "፸፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ውእቱ ዝኩ መንፈስከ ቅዱስ ዘኢይትፈተን ወዘኢየሐጽጽ ፡ ይምጻእ እምላዕሉ እምሰማየ ሰማያት ልዑል ይባርክ ዘንተ ኅብስተ <<እማሬ>> ወጽዋዐኒ ይቀድስ ይረስዮ ለዝንቱ ኅብስት ሱታፌ ሥጋከ ማሕየዊ ፡\nቡራኬ ፩ጸ ጊዜ ፡ ወካዕበ ይረስዮ ለዝንተ ጽዋዕ ሱታፌ ደምከ መስተሣህል ፡\nቡራኬ ፩ጸ ጊዜ ፡ ዓዲ ላዕለ ፪ሆሙ ቡራኬ ፩ጸ ጊዜ ፡",
+      "amharic": "የማይመረመርና ሕፀዐ የሌለበት ይኸው መንፈስ ቅዱስ ልዑል ከሚሆን ከሰማየ ሰማያት ከወደላይ ይምጣ ፡ ይህን ኅብስት «እማሬ» ይባርክ ዘንድ ፡ ጽዋውንም ያከብር ዘንድ ፡ ይህንን ኅብስት ከማሕየዊ ሥጋህ ጋራ አንድ ያደርገው ዘንድ ፡ አንድ ጊዜ ይባርክ ፡ ዳግመኛም ይህን ጽዋ ይቅር ባይ ከሚሆን ደምህ ጋራ አንድ ያደርገው ዘንድ ፡ አንድ ጊዜ ጽዋውን ይባርክ ፡ ዳግመኛ ሁለቱንም ይባርክ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p348-03",
+      "kind": "paragraph",
+      "number": 73,
+      "geez_numeral": "፸፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ሕ. አሜን እግዚኦ መሐረነ እግዚኦ መሐከነ እግዚኦ ተሣሃለነ ፡",
+      "amharic": "ይ.ሕ. አሜን አቤቱ ማረን አቤቱ ራራልን አቤቱ ይቅር በለን ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p348-04",
+      "kind": "paragraph",
+      "number": 74,
+      "geez_numeral": "፸፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. በሁሉ ልብ ናስተብቍዕ ለእግዚአብሔር አምላክነ ኅብረተ መንፈስ ቅዱስ ሠናየ ከመ ይጸግወነ ፡",
+      "amharic": "ይ.ዲ. በፍጹም ልብ አምላካችንን እግዚአብሔርን እንለምነው ፡ ያማረ የመንፈስ ቅዱስን አንድነት ይሰጠን ዘንድ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p348-05",
+      "kind": "paragraph",
+      "number": 75,
+      "geez_numeral": "፸፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ሕ. በከመ ሀሎ ሀልወ ወይሄሉ ለትውልደ ትውልድ ለዓለመ ዓለም ፡",
+      "amharic": "ይ.ሕ. በፊት እንደ ነበረ ለዘለዓለሙ ፡ ለልጅ ልጅም ይኖራል ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 349,
+    "printed_page_geez": "፫፻፵",
+    "printed_page": 340,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p349-01",
+      "kind": "paragraph",
+      "number": 76,
+      "geez_numeral": "፸፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "በዝየ ይጎትም ሥጋ በደም ጠሚያ በአጽባዕቱ ፡\nይ.ካ. ይደመር ምስለ ዝንቱ ኅብስት ወጽዋዕ ይኩን ለቅድሳት ወለአንጽሐ እምርስሐት ወለትንሣኤ እሙታን ለርስተ መንግሥተ ሰማያት ወለሕይወት ዘለዓለም ፡\nይ.ሕ. አሜን ፡",
+      "amharic": "በዚህ ጊዜ ደሙን በጣቱ ጠምቆ በደሙ ሥጋውን ይቅባ ፡\nይ.ካ. ከዚህ ኅብስትና ከወይኑ ጋራ አንድ ይሁን ፡ ለክብር ፡ ከእድፍ ለማንጻት ፡ ከሙታንም ለመነሣት ፡ መንግሥተ ሰማያትን ለመውረስ ፡ ለዘለዓለም ሕይወትም ይሆን ዘንድ ፡\nይ.ሕ. አሜን ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p349-02",
+      "kind": "paragraph",
+      "number": 77,
+      "geez_numeral": "፸፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ሀበነ ንኅበር በዘዚአከ መንፈስ ቅዱስ ፡ ወፈውሰነ በዝንቱ ጽርስ ፎራ ከመ ብከን ሕየው ዘለኵሉ ዓለም ወለዓለመ ዓለም ፡\nይ.ሕ. ከማሁ ፡",
+      "amharic": "ይ.ካ. የአንተ በሚሆን በመንፈስ ቅዱስ አንድ እንሆን ዘንድ መሆንን ስጠን ፡ በዚህም ጽርስ ፎራ (ኅብስት) አድነን ፡ ለዓለሙ ሁሉ በምትሆን በአንተ ለዘለዓለሙ ሕያዋን እንሆን ዘንድ ፡\nይ.ሕ. እንደርሱ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p349-03",
+      "kind": "paragraph",
+      "number": 78,
+      "geez_numeral": "፸፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ቡሩክ ስሙ ለእግዚአብሔር ፡ ወቡሩክ ዘይመጽእ በስመ እግዚአብሔር ወይትባረክ ስመ ስብሐቲሁ ለይኩን ለይኩን ቡሩክ ለይኩን ፡\nይ.ሕ. ከማሁ ።",
+      "amharic": "ይ.ካ. የእግዚአብሔር ስሙ ምስጉን ነው ፡ በእግዚአብሔር ስም የሚመጣውም ምስጉን ነው ፡ የጌትነቱ ስም ይመስገን ፡ ይሁን ፡ ይሁን ፡ የተመሰገነ ይሁን ፡\nይ.ሕ. እንደርሱ ።",
+      "uncertain": false
+     },
+     {
+      "id": "p349-04",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p349-05",
+      "kind": "paragraph",
+      "number": 79,
+      "geez_numeral": "፸፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ፈኑ ጸጋ መንፈስ ቅዱስ ላዕሌነ ፡\nይ.ሕ. ከማሁ ፡",
+      "amharic": "ይ.ካ. የመንፈስ ቅዱስን ጸጋ ላክልን ፡\nይ.ሕ. እንደርሱ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p349-06",
+      "kind": "paragraph",
+      "number": 80,
+      "geez_numeral": "፹",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. ተንሥኡ ለጸሎት ፡\nይ.ሕ. እግዚኦ ተሣሃለነ ፡\nይ.ካ. ሰላም ለኵልክሙ ፡\nይ.ሕ. ምስለ መንፈስከ ፡",
+      "amharic": "ይ.ዲ. ለጸሎት ተነሡ ፡\nይ.ሕ. አቤቱ ይቅር በለን ፡\nይ.ካ. ሰላም ለሁላችሁ ይሁን ፡\nይ.ሕ. ከመንፈስህ ጋራ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p349-07",
+      "kind": "paragraph",
+      "number": 81,
+      "geez_numeral": "፹፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ጸሎተ ፈትቶ ፡ ወካዕበ ናስተበቍዕ ዘኵሎ ይእኅዝ እግዚአብሔር አብ ለእግዚእ ወመድኃኒነ ኢየሱስ ክርስቶስ ፡",
+      "amharic": "ይ.ካ. የመፈተት ጸሎት ፡ ዳግመኛ ሁሉን የሚይዝ የጌታና የመድኃኒታችን የኢየሱስ ክርስቶስን አባት እግዚአብሔርን እንማልዳለን ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 350,
+    "printed_page_geez": "፫፻፵፩",
+    "printed_page": 341,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p350-01",
+      "kind": "paragraph",
+      "number": 82,
+      "geez_numeral": "፹፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "አ ዝንቱ ምሥጢር ዘኢይትፈከር ወዘኢይተረጐም ፡ መኑ ስሙ ወመኑ ስመ አቡሁ አይቴ ብሔሩ ወመኑ የአምር መኅነ ማኅደሩ ፡",
+      "amharic": "ወዮ ይህ ምሥጢር ፈጽሞ የማይተረጐም ነው ፡ ስሙ ማን ነው? የአባቱስ ስም ማነው? ሀገሩ ወዴት ነው? የሚያድርበትንስ ቦታ ማን ያውቃል ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p350-02",
+      "kind": "paragraph",
+      "number": 83,
+      "geez_numeral": "፹፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ኢይክል ሕሊና ልብ አዕሚቆ ወሐሲዮ ከመ ይርከብ ምክንያተ ነገር ወይንግር ኩነቶ ኢዘቀዳማዊ ወኢዘደኃሪ",
+      "amharic": "የልቡና አሳብ አራቆ አስቦ የነገሩን ምክንያት ያገኝ ዘንድ ፡ የቀድሞውን ቢሆን የኋላውንም ቢሆን አኳኋኑን ይነግር ዘንድ አይችልም ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p350-03",
+      "kind": "paragraph",
+      "number": 84,
+      "geez_numeral": "፹፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ውእቱ ዜነወነ በእንተ አሁ ወበእንተ አቡሁ በአምጣነ ንክል ሰሚዖ ከመ አማን ውእቱ መድኃኒነ ዘመጽአ ውስተ ዓለም በልብሰተ ዝኩ ሥጋ እንተ ነሥአ እምኔነ ፡",
+      "amharic": "የርሱን ነገርና የአባቱን ነገር መስማት እንደሚቻለን መጠን እርሱ ነገረን ፡ ከእኛ የነሣውን ይህን ሥጋ በመልበስ ወደዚህ ዓለም የመጣ መድኃኒታችን በእውነት እርሱ እንደሆነ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p350-04",
+      "kind": "paragraph",
+      "number": 85,
+      "geez_numeral": "፹፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ዝንቱ ውእቱ ዘንሕነ ንሠውዖ ለመድኃኒትነ በከመ ተሦዐ በቀራንዮ ለሕይወተ ኵሉ ዓለም ፡ አኮ በከ በከመ ትሬእይዎ ለዝንቱ ኅብስት በከመ ኅብስት ምድራዊ ይቡስ ወብሱል ዘይትገሠሥ ወዘይትለከፍ ፡ አላ እሳተ መለኮት ውእቱ ዘያወዒ ሦከ ኃጢአት ፡ በሳዒ ውእቱ ዘይበልዕ ዐማፅያነ ወውዑይ ውእቱ ዘያወዒ ኃጥአነ ፡",
+      "amharic": "ለዓለሙ ሁሉ ሕይወት ለመሆን በቀራንዮ እንደ ተሠዋ ለደኅንነታችን የምንሠዋው ይህ ነው ፡ ይህ ኅብስት የበሰለና የደረቀ የሚዳሰስና የሚነካ ሆኖ እንደምታዩት ምድራዊ ኅብስት የማይጠቅም (ከንቱ) አይደለም ፡ የኃጢአትን እሾህነት የሚያቃጥል እሳተ መለኮት ነው እንጂ ፡ ዐመፀኞችን የሚያጠፋ በሳዒ ነው ፡ ኃጥአንንም የሚያቃጥል ውዑይ ነው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p350-05",
+      "kind": "paragraph",
+      "number": 86,
+      "geez_numeral": "፹፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "አእምሩ ወሕቱ ርእሰክሙ ውቁኬ አ አኀውየ መሃይምናን ወለእመቦ እምኔነ ዘቦ ነውር ውስተ ሥጋሁ ወኃጢአት ውስተ ነፍሱ ይትገኀሥ ወኢይምጻእ ፡",
+      "amharic": "ዕወቁ ራሳችሁንም መርምሩ ፡ ምእመናን ወንድሞቼ ሆይ ዕወቁ ፡ ከእኛ ወገን በሥጋው ነውር በነፍሱም ኃጢአት ያለበት ሰው ቢኖር ይወገድ ፡ አይምጣም ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 351,
+    "printed_page_geez": "፫፻፵፪",
+    "printed_page": 342,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p351-01",
+      "kind": "paragraph",
+      "number": 87,
+      "geez_numeral": "፹፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወለእመቦ እምኔነ ዘቦ ቂም ውስተ ልቡ ይትገኀሥ ወኢይቁም ወዘሰንጽሐ ነፍሶ ወሥጋሁ ብፁዕ ውእቱ ይምጻእ ወይንሣእ ወይትጋነይ በእንተ ኃጢአቱ እስመ መሐሪ ውእቱ እግዚአብሔር አምላክነ ፡",
+      "amharic": "ከእኛ ወገን በልቡናው ቂም ያለበት ሰው ቢኖር ይወገድ ፡ አይቁም ፡ ሥጋውንና ነፍሱን ያነጻ ሰው ግን ብፁዕ ነው ፡ መጥቶ ይቀበል ፡ ስለ ኃጢአቱም ይለማመን እግዚአብሔር አምላካችን መሐሪ ነውና ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p351-02",
+      "kind": "paragraph",
+      "number": 88,
+      "geez_numeral": "፹፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. ጸልዩ ፡\nይ.ሕ. አቡነ ዘበሰማያት ፡\nዓዲ በከመ ምሕረትከ አምላክነ ወአኮ በከመ አበሳነ ፫ተ ጊዜ ፡",
+      "amharic": "ይ.ዲ. ጸልዩ ፡\nይ.ሕ. አቡነ ዘበሰማያት ፡\n(ቅዳ. ሐዋ. ፷)\nዳግመኛ ፫ ጊዜ አምላካችን ሆይ እንደ ቸርነትህ ነው እንጂ እንደ በደላችን አይደለም ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p351-03",
+      "kind": "paragraph",
+      "number": 89,
+      "geez_numeral": "፹፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ሣህሉሰ ለእግዚአብሔር እምዓለም ወእስከ ለዓለም ፡\nዝኬ ውእቱ ሣህሉ ለእግዚአብሔር ዘፈነወ ወልደ ዋሕደ ዘያዐትት ኃጢአተ ዓለም ፡\nዝኬ ውእቱ ሣህሉ ለእግዚአብሔር ዘወሀቦሙ ለካህናት ልሳናተ እሳት ከመ ይፍትሑ ኵሎ ማዕሠረ ኃጢአት ፡",
+      "amharic": "ይ.ካ. የእግዚአብሔር ይቅርታው ከዓለም ጀምሮ እስከ ዘለዓለም ነው ፡\nየዓለሙን ኃጢአት የሚያስወግድ አንድ ልጁን የሰደደ የእግዚአብሔር ይቅርታው ይህ ነው ፡\nለካህናት ልሳናትን የሰጣቸው የእግዚአብሔር ይቅርታው ይህ ነው ፡ የኃጢአትን ማሠሪያ ይፈቱ ዘንድ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p351-04",
+      "kind": "paragraph",
+      "number": 90,
+      "geez_numeral": "፺",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወይእዜኒ ፍትሐነ እማዕሠሪሁ ለሞት እግዚአብሔር አምላክነ አቡነ ዘበሰማያት ፡",
+      "amharic": "አሁንም የሰማይ አባታችን አምላካችን እግዚአብሔር ሆይ ፡ ከሞት ማሠሪያ ፍታን ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p351-05",
+      "kind": "paragraph",
+      "number": 91,
+      "geez_numeral": "፺፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ሕ. ሠራዊተ መላእክቲሁ ለመድኃኔ ዓለም ይቀውሙ ቅድሜሁ ለመድኃኔ ዓለም ፡\nወይኬልልዎ ለመድኃኔ ዓለም ሥጋሁ ወደሙ ለመድኃኔ ዓለም ፡\nወንብጻሕ ቅድመ ገጹ ለመድኃኔ ዓለም በአሚነ ዚአሁ ለክርስቶስ ንገኒ ፡",
+      "amharic": "ይ.ሕ. የመድኃኔ ዓለም ሠራዊት በመድኃኔ ዓለም ፊት ይቆማሉ ፡\nመድኃኔ ዓለምን ያመሰግኑታል ፡ የመድኃኔ ዓለም ሥጋውና ደሙ ይህ ነው ፡\nወደ መድኃኔ ዓለም ፊት እንቅረብ ፡ እርሱን በማመን ለክርስቶስ እንገዛለን ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 352,
+    "printed_page_geez": "፫፻፵፫",
+    "printed_page": 343,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p352-01",
+      "kind": "paragraph",
+      "number": 92,
+      "geez_numeral": "፺፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. ንፍቅ ፡ አርኅዉ ኖኅተ መኳንንት ፡",
+      "amharic": "ይ.ዲ. ንፍቅ ፡ መኳንንት ደጆችን ክፈቱ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p352-02",
+      "kind": "paragraph",
+      "number": 93,
+      "geez_numeral": "፺፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. እለ ትቀውሙ አትሕቱ ርእሰክሙ ፡",
+      "amharic": "ይ.ዲ. የቆማችሁ ሰዎች ራሳችሁን ዝቅ ዝቅ አድርጉ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p352-03",
+      "kind": "paragraph",
+      "number": 94,
+      "geez_numeral": "፺፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. እወ ኅድጉ ከመ ይኅድግ ለክሙ ፡ እወ ሥረዩ ከመ ይሥረይ ለክሙ እወ ጸልዩ ከመ ኢትባኡ ውስተ መንሱት ፡ መንሱትኬ ውእቱ ነሢአ ሥጋሁ በድፍረት ወተመጥዎ ደሙ ዘእንበለ ፍርሃት እንዘ ቦ ላዕሌሁ ነውረ ኃጢአት ፡",
+      "amharic": "ይ.ካ. በእውነት ተዉ ይተውላችሁ ዘንድ ፡ በእውነት ይቅር በሉ ይቅር ይላችሁ ዘንድ ፡ በእውነት ጸልዩ ወደ ጥፋት እንዳትገቡ ፡ ጥፋትም በላዩ ላይ የኃጢአት ነውር እያለበት ያለ ፍርሃት በድፍረት ሥጋውን ደሙን መቀበል ነው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p352-04",
+      "kind": "paragraph",
+      "number": 95,
+      "geez_numeral": "፺፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወይእዜኒ ንበል በልብ ንጹሕ ወበነፍስ ቅዱስ ወበሥጋ ጽሩይ ንቅረብ ለመድኃኒትነ ንዑ ንስግድ ወንግነይ ሎቱ ፡",
+      "amharic": "አሁንም በንጹሕ ልቡና በቅዱስ ነፍስ ጽሩይ በሆነ ሥጋ ለደኅንነታችን እንቅረብ ፡ ኑ እንስገድለት ፡ እንገዛለትም እንበል ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p352-05",
+      "kind": "paragraph",
+      "number": 96,
+      "geez_numeral": "፺፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. ስግዱ ለእግዚአብሔር በፍርሃት ፡\nይ.ሕ. ቅድሜከ እግዚኦ ንሰግድ ወንሴብሐከ ፡",
+      "amharic": "ይ.ዲ. በፍርሃት ሁናችሁ ለእግዚአብሔር ስገዱ ፡\nይ.ሕ. አቤቱ በፊትህ እንሰግዳለን እናመሰግንሃለንም ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p352-06",
+      "kind": "paragraph",
+      "number": 97,
+      "geez_numeral": "፺፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ጸሎተ ንስሓ ፡",
+      "amharic": "ይ.ካ. ጸሎተ ንስሓ ፡\n(ቅዳ. ሐዋ. ከቍ. ፸፪-፹፰)",
+      "uncertain": false
+     },
+     {
+      "id": "p352-07",
+      "kind": "paragraph",
+      "number": 98,
+      "geez_numeral": "፺፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ ነጽር ፡\nይ.ካ. ቅድሳት ለቅዱሳን ፡\nይ.ሕ. ፩ አብ ቅዱስ ፩ ወልድ ቅዱስ ፩ ውእቱ መንፈስ ቅዱስ ፡",
+      "amharic": "ይ.ዲ. ተመልከት ፡\nይ.ካ. ቅድሳት ለቅዱሳን ፡\nይ.ሕ. ቅዱስ አብ አንድ ነው ፡ ቅዱስ ወልድ አንድ ነው ፡ መንፈስ ቅዱስም አንድ ነው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p352-08",
+      "kind": "paragraph",
+      "number": 99,
+      "geez_numeral": "፺፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. እግዚአብሔር ምስለ ኵልክሙ ፡\nይ.ሕ. ምስለ መንፈስከ ፡",
+      "amharic": "ይ.ካ. እግዚአብሔር ከሁላችሁ ጋራ ይሁን ፡\nይ.ሕ. ከመንፈስህ ጋራ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p352-09",
+      "kind": "paragraph",
+      "number": 100,
+      "geez_numeral": "፻",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወእምዝ ያንሥእ ካህን ኅብስተ ፍጹመ በእዴሁ ወይበል እግዚኦ መሐረነ ክርስቶስ ፫ተ ጊዜ በልዑል ዜማ ፲ወ፭ተ ጊዜ በንዑስ ዜማ ፡\nይ.ሕ. ከማሁ ፡\nወእምዝ ይ.ካ. እግዚኦ መሐረነ ክረስቶስ ፫ተ ጊዜ ይ.ሕ. ፪ተ ጊዜ ፡",
+      "amharic": "ከዚህም በኋላ ቄሱ መላውን ኅብስት በእጁ አንሥቶ ይዞ እንዲህ ይበል ፡ አቤቱ ክርስቶስ ማረን ፡ ፫ ጊዜ በልዑል ዜማ ፲፭ ጊዜ በንኡስ ዜማ ፡\nይ.ሕ. እንደርሱ ፡\nከዚያም በኋላ ይ.ካ. ፫ ጊዜ ይ.ሕ. ፪ ጊዜ ፡",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 353,
+    "printed_page_geez": "፫፻፵፬",
+    "printed_page": 344,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p353-01",
+      "kind": "paragraph",
+      "number": 101,
+      "geez_numeral": "፻፩",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. እለ ውስተ ንስሓ ሀለውክሙ አትሕቱ ርእሰክሙ ፡",
+      "amharic": "ይ.ዲ. በንስሓ ውስጥ ያላችሁ ራሳችሁን ዝቅ ዝቅ አድርጉ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p353-02",
+      "kind": "paragraph",
+      "number": 102,
+      "geez_numeral": "፻፪",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወእምዝ ተመይጦ መንገለ ሕዝብ ፡\nይ.ካ. እግዚአብሔር አምላክነ ይበል ፡",
+      "amharic": "ከዚህም በኋላ ወደ ሕዝቡ ተመልሶ ፡\nይ.ካ. አምላካችን እግዚአብሔር ሆይ (ቅዳ. ሐዋ. ከቍ. ፺፭-፻፴፰)",
+      "uncertain": false
+     },
+     {
+      "id": "p353-03",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p353-04",
+      "kind": "paragraph",
+      "number": 103,
+      "geez_numeral": "፻፫",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ወእምድኅረ ተመጠዉ ፡\nይ.ካ. ኅዳፌ ነፍስ ፡ ቅድመ ዘቅድሳቲከ ስብሐት አትሐቱ አግብርቲከ ወአእማቲከ ክሥደ ነፍስ ወሥጋ ወመንፈስ አጽንን እዝነከ ኅበ ስአለቶሙ ፡",
+      "amharic": "ከተቀበሉ በኋላ ፡\nይ.ካ. ኅዳፌ ነፍስ ፡ በቅድሳትህ ምስጋና ፊት ወንዶችና ሴቶች አገልጋዮችህ የነፍሳቸውንና የሥጋቸውን የመንፈሳቸውንም አንገት ዝቅ ዝቅ አደረጉ ፡ ጆሮህን ወደ ልመናቸው ቀትር (አዘንብል) ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p353-05",
+      "kind": "paragraph",
+      "number": 104,
+      "geez_numeral": "፻፬",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ባርክ ኪያሆሙ ወኪያሆሙ ዘበሰማያት በበረከተ መላእክቲከ ኃይላት ግብረ እደዊሆሙ ባርክ ወኩን ምስሌሆሙ በኵሉ ምግባረ ሠናይ ፡",
+      "amharic": "በሰማያዊ ግብር ያሉትን ወንዶችንም ሴቶችንም ኃይላት በሚባሉ መላእክትህ በረከት ባርክ ፡ የእጃቸውንም ሥራ ባርክ ፡ በበጎው ሥራ ሁሉ ከነርሱ ጋራ ሁን ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p353-06",
+      "kind": "paragraph",
+      "number": 105,
+      "geez_numeral": "፻፭",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ንሥአተ ዘቅዱስከ ምሥጢር ጸግምሙ ለለብም ወለንቅሐት ወለአንፍሶ እምኵሉ እኩይ ፡\nወለሴስዮ ነፍሳት ወሥጋት ወመናፍስቲሆሙ ፡ በእግዚእነ ወመድኃኒነ ኢየሱስ ክርስቶስ ፡",
+      "amharic": "ቅዱስ ምሥጢርህንም መቀበል ስጣቸው ፡ ለማወቅና ለመንቃት ከክፉ ነገርም ሁሉ ለማረፍ ፡ ነፍሳቸውንና ሥጋቸውን መንፈሳቸውንም ለመመገብ ፡ ጤታችን በመድኃኒታችን በኢየሱስ ክርስቶስ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p353-07",
+      "kind": "paragraph",
+      "number": 106,
+      "geez_numeral": "፻፮",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ዘቦቱ ለከ ምስሌሁ ወምስለ ቅዱስ መንፈስ ስብሐት ወእኂዝ ይእዜኒ ወዘልፈኒ ወለዓለመ ዓለም ፡\nይ.ሕ. አሜን ።",
+      "amharic": "በርሱ ያለ ክብር ጽንዕ ለአንተ ይገባል ፡ ከርሱ ጋራ ከመንፈስ ቅዱስም ጋራ ዛሬም ዘወትርም ለዘለዓለሙ ፡\nይ.ሕ. አሜን ።",
+      "uncertain": false
+     },
+     {
+      "id": "p353-08",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   },
+   {
+    "pdf_page": 354,
+    "printed_page_geez": "፫፻፵፭",
+    "printed_page": 345,
+    "section_geez": "ቅዳሴ ዮሐንስ አፈ ወርቅ",
+    "section_english": "Anaphora of St. John Chrysostom",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p354-01",
+      "kind": "paragraph",
+      "number": 107,
+      "geez_numeral": "፻፯",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. አንብሮ እድ ፡ ሠናይ ለክሙ ፡ ሠናይ ለክሙ ፡ ሠናይ ለክሙ ኦ አባግዐ መርዔቱ ለክርስቶስ ፡ በላዕክሙ ወጸገብክሙ ሰተይክሙ ወረወይክሙ በሰላም ዕትዉ ውስተ አብያቲክሙ እግዚአብሔር የሃሉ ምስለ ኵልክሙ ፡",
+      "amharic": "ይ.ካ. አንብሮ እድ ፡ በጎ ነገር ተደረገላችሁ ፡ በጎ ነገር ተደረገላችሁ ፡ በጎ ነገር ተደረገላችሁ ፡ የክርስቶስ የበጎቹ መንጋዎች ሆይ በልታችሁ ጠገባችሁ ፡ ጠጥታችሁ ረካችሁ ፡ በሰላም ወደ ቤታችሁ ግቡ እግዚአብሔር ከሁላችሁ ጋራ ይኑር ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p354-02",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "* * *",
+      "amharic": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p354-03",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "ዘቀዳም ሥዑር ህየንተ ጸልዩ በእንቲአነ ፡",
+      "amharic": "ዘቀዳም ሥዑር ስለ ጸልዩ በእንቲአነ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p354-04",
+      "kind": "paragraph",
+      "number": 108,
+      "geez_numeral": "፻፰",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ዲ. እመስቀሉ ክርስቶስ ውስተ ሲኦል ወሪዶ ለጸላዒ ቀተሎ ርእሰ መተሮ ፡",
+      "amharic": "ይ.ዲ. ክርስቶስ ከመስቀሉ ወደ ሲኦል ወርዶ ጠላት ሰይጣንን ገደለው ፡ ራሱንም ቆረጠው ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p354-05",
+      "kind": "paragraph",
+      "number": 109,
+      "geez_numeral": "፻፱",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ህየንተ ነአኵቶ ይ.ዲ. ተአውቀ እግዚአብሔር በይሁዳ ፡ ተዓውቀ እግዚአብሔር በይሁዳ ፡ ተዓውቀ እግዚአብሔር በይሁዳ ፡",
+      "amharic": "ይ.ዲ. ስለ ነአኵቶ ፡ እግዚአብሔር በይሁዳ ታወቀ ፡ እግዚአብሔር በይሁዳ ታወቀ ፡ እግዚአብሔር በይሁዳ ታወቀ ፡",
+      "uncertain": false
+     },
+     {
+      "id": "p354-06",
+      "kind": "paragraph",
+      "number": 110,
+      "geez_numeral": "፻፲",
+      "continued": null,
+      "heading_note": null,
+      "geez": "ይ.ካ. ህየንተ አሌዕለከ ፡ ይትነሣእ እግዚአብሔር ወይዘረዉ ፀሩ ፡ ይትነሣእ እግዚአብሔር ወይዘረዉ ፀሩ ፡ ይትነሣእ እግዚአብሔር ወይዘረዉ ፀሩ ።",
+      "amharic": "ይ.ካ. ህየንተ አሌዕለከ ፡ እግዚአብሔር ይነሣል ፡ ጠላቶቹም ይበተናሉ ፡ እግዚአብሔር ይነሣል ጠላቶቹም ይበተናሉ ፡ እግዚአብሔር ይነሣል ጠላቶቹም ይበተናሉ ።",
+      "uncertain": false
+     }
+    ],
+    "division": "d12"
+   }
+  ],
+  "first_pdf_page": 337,
+  "last_pdf_page": 354,
+  "page_count": 18,
+  "entry_count": 117
+ }
+}

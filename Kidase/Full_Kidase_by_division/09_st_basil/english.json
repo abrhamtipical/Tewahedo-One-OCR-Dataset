@@ -1,0 +1,1861 @@
+{
+ "title": "Full Kidase",
+ "language": "English",
+ "source": "Full Kidase.pdf (PDF pages 8-420; page numbers are the PDF page numbers)",
+ "ids": "Entry ids are shared between the two files: pNNN-NN = PDF page, entry order on that page.",
+ "uncertain_marker": "Text between ⟦? and ?⟧ is a word the transcriber could not read with confidence.",
+ "division": {
+  "id": "d09",
+  "kind": "anaphora",
+  "name_geez": "ቅዳሴ ባስልዮስ",
+  "name_english": "The Anaphora of St. Basil",
+  "pages": [
+   {
+    "pdf_page": 271,
+    "printed_page_geez": "፪፻፷፪",
+    "printed_page": 262,
+    "section_geez": "ቅዳሴ ባስልዮስ",
+    "section_english": "The Anaphora of St. Basil",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p271-01",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "THE ANAPHORA OF ST. BASIL",
+      "uncertain": false
+     },
+     {
+      "id": "p271-02",
+      "kind": "paragraph",
+      "number": 1,
+      "geez_numeral": "፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "1. The Anaphora of St. Basil: May his prayer and blessing be with us, all Christians world without end. Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p271-03",
+      "kind": "paragraph",
+      "number": 2,
+      "geez_numeral": "፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "2. Priest: O Lord Christ, have pity upon us. O Lord Christ, spare us. O Lord Christ, have mercy upon us. The people shall repeat his words.",
+      "uncertain": false
+     },
+     {
+      "id": "p271-04",
+      "kind": "paragraph",
+      "number": 3,
+      "geez_numeral": "፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "3. Deacon: Jesus Christ, Son of God, hear us and pity us. Rise and stand in awe. Look to the east. Stand well. Stand watchfully. Stand in the fear of God. Draw high in humility. Stand in awe. Look to the east. Answer.",
+      "uncertain": false
+     },
+     {
+      "id": "p271-05",
+      "kind": "paragraph",
+      "number": 4,
+      "geez_numeral": "፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "4. People: Mercy, peace and sacrifice of praise. (to be repeated thrice)",
+      "uncertain": false
+     },
+     {
+      "id": "p271-06",
+      "kind": "paragraph",
+      "number": 5,
+      "geez_numeral": "፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "5. Priest: The Lord be with you all. People: And with your spirit. Priest: Lift up your hearts. People: We have lifted them up unto the Lord our God",
+      "uncertain": false
+     }
+    ],
+    "division": "d09"
+   },
+   {
+    "pdf_page": 272,
+    "printed_page_geez": "፪፻፷፫",
+    "printed_page": 263,
+    "section_geez": "ቅዳሴ ባስልዮስ",
+    "section_english": "The Anaphora of St. Basil",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p272-01",
+      "kind": "paragraph",
+      "number": 6,
+      "geez_numeral": "፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "6. Priest: You give thanks unto our God. People: Truly it is right, righteousness is fitting unto him. Truly it is right, righteousness is fitting unto him. Truly it is right, righteousness is fitting unto him.",
+      "uncertain": false
+     },
+     {
+      "id": "p272-02",
+      "kind": "paragraph",
+      "number": 7,
+      "geez_numeral": "፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "7. Priest: O living Master, Lord our God, who in truth were before the world was created, who reign forever and is in the highest and behold the humble.",
+      "uncertain": false
+     },
+     {
+      "id": "p272-03",
+      "kind": "paragraph",
+      "number": 8,
+      "geez_numeral": "፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "8. The creator of heaven, earth, sea, and all things that are in them. Father of our Lord and our God and our Saviour Jesus Christ, by whom you have made all, visible and invisible, who sit upon the holy throne of his glory, to whom the powers prostrate themselves in purity:",
+      "uncertain": false
+     },
+     {
+      "id": "p272-04",
+      "kind": "paragraph",
+      "number": 9,
+      "geez_numeral": "፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "9. Deacon: You that are sitting, stand up.",
+      "uncertain": false
+     },
+     {
+      "id": "p272-05",
+      "kind": "paragraph",
+      "number": 10,
+      "geez_numeral": "፲",
+      "continued": null,
+      "heading_note": null,
+      "english": "10. Priest: And before whom do stand the angels, the archangels, the judges, the thrones, the authorities, the dominions and all the powers.",
+      "uncertain": false
+     },
+     {
+      "id": "p272-06",
+      "kind": "paragraph",
+      "number": 11,
+      "geez_numeral": "፲፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "11. Deacon: Look to the east.",
+      "uncertain": false
+     },
+     {
+      "id": "p272-07",
+      "kind": "paragraph",
+      "number": 12,
+      "geez_numeral": "፲፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "12. Priest: It is you whom the Cherubim, full of eyes, and the Seraphim with six wings, encircle.",
+      "uncertain": false
+     },
+     {
+      "id": "p272-08",
+      "kind": "paragraph",
+      "number": 13,
+      "geez_numeral": "፲፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "13. Deacon: Let us give heed.",
+      "uncertain": false
+     },
+     {
+      "id": "p272-09",
+      "kind": "paragraph",
+      "number": 14,
+      "geez_numeral": "፲፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "14. Priest: They praise you without ceasing saying:",
+      "uncertain": false
+     }
+    ],
+    "division": "d09"
+   },
+   {
+    "pdf_page": 273,
+    "printed_page_geez": "፪፻፷፬",
+    "printed_page": 264,
+    "section_geez": "ቅዳሴ ባስልዮስ",
+    "section_english": "The Anaphora of St. Basil",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p273-01",
+      "kind": "paragraph",
+      "number": 15,
+      "geez_numeral": "፲፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "15. Deacon: You answer.",
+      "uncertain": false
+     },
+     {
+      "id": "p273-02",
+      "kind": "paragraph",
+      "number": 16,
+      "geez_numeral": "፲፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "16. People: Holy holy holy, perfect Lord of hosts, heaven and earth are full of the holiness of your glory.",
+      "uncertain": false
+     },
+     {
+      "id": "p273-03",
+      "kind": "paragraph",
+      "number": 17,
+      "geez_numeral": "፲፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "17. Priest: Holy holy holy are you, Lord our God and our creator, who put us in the garden of delight.",
+      "uncertain": false
+     },
+     {
+      "id": "p273-04",
+      "kind": "paragraph",
+      "number": 18,
+      "geez_numeral": "፲፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "18. And when we committed iniquity and transgressed through the guile of the serpent we fell far from eternal life and were cast forth out of the garden of delight.",
+      "uncertain": false
+     },
+     {
+      "id": "p273-05",
+      "kind": "paragraph",
+      "number": 19,
+      "geez_numeral": "፲፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "19. You did not leave us forever but did visit us by your holy prophets. And in the end of days you did appear unto us who were sitting in darkness and in the shadow of death. And you did cause to shine upon us Lord and our God Jesus Christ who was made man from the Holy Spirit and from the Holy Virgin Mary. People: Amen, we believe.",
+      "uncertain": false
+     },
+     {
+      "id": "p273-06",
+      "kind": "paragraph",
+      "number": 20,
+      "geez_numeral": "፳",
+      "continued": null,
+      "heading_note": null,
+      "english": "20. Priest: He took flesh and was made man and taught us the path of salvation, and granted us the birth from on high, of water and of the Holy Spirit. People: Amen, we believe.",
+      "uncertain": false
+     },
+     {
+      "id": "p273-07",
+      "kind": "paragraph",
+      "number": 21,
+      "geez_numeral": "፳፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "21. Priest: And he made us unto himself a pure people, and purified us by the Holy Spirit, because he loved his won who are in this world, and gave himself up by his will to deliver us from the death which reigned over us,",
+      "uncertain": false
+     }
+    ],
+    "division": "d09"
+   },
+   {
+    "pdf_page": 274,
+    "printed_page_geez": "፪፻፷፭",
+    "printed_page": 265,
+    "section_geez": "ቅዳሴ ባስልዮስ",
+    "section_english": "Anaphora of Basil",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p274-01",
+      "kind": "paragraph",
+      "number": 22,
+      "geez_numeral": "፳፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "22. by reason of which we were bound and sold through our sins. He descended down into hell from the cross. People: Amen, we believe.",
+      "uncertain": false
+     },
+     {
+      "id": "p274-02",
+      "kind": "paragraph",
+      "number": 23,
+      "geez_numeral": "፳፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "23. Priest: And He rose from the dead on the third day, and ascended in glory unto heaven, and sat down at your right hand, O Father. He has appointed a day of retribution wherein he will appear to judge the world in righteousness and give everyone according to his works.",
+      "uncertain": false
+     },
+     {
+      "id": "p274-03",
+      "kind": "paragraph",
+      "number": 24,
+      "geez_numeral": "፳፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "24. People: According to your mercy, Lord, and not according to our sins. (to be repeated thrice).",
+      "uncertain": false
+     },
+     {
+      "id": "p274-04",
+      "kind": "paragraph",
+      "number": 25,
+      "geez_numeral": "፳፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "25. [RUBRIC] The assistant priest shall go round the ark and bring the censer to the priest who shall cense.",
+      "uncertain": false
+     },
+     {
+      "id": "p274-05",
+      "kind": "paragraph",
+      "number": 26,
+      "geez_numeral": "፳፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "26. People: Remember us, Lord, in your kingdom. (Anaphora of the Apostles No. 34).",
+      "uncertain": false
+     },
+     {
+      "id": "p274-06",
+      "kind": "paragraph",
+      "number": 27,
+      "geez_numeral": "፳፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "27. Priest: He left unto us this great mystery of godliness being willing to give his soul up unto death for the life of all the world.",
+      "uncertain": false
+     },
+     {
+      "id": "p274-07",
+      "kind": "paragraph",
+      "number": 28,
+      "geez_numeral": "፳፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "28. Deacon: Priests, raise up your hands.",
+      "uncertain": false
+     },
+     {
+      "id": "p274-08",
+      "kind": "paragraph",
+      "number": 29,
+      "geez_numeral": "፳፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "29. Priest: He took bread into his holy, pure, spotless, blessed and life-giving hands. [RUBRIC] At this time he shall raise the bread.",
+      "uncertain": false
+     },
+     {
+      "id": "p274-09",
+      "kind": "paragraph",
+      "number": 30,
+      "geez_numeral": "፴",
+      "continued": null,
+      "heading_note": null,
+      "english": "30. People: Amen, we believe; again we believe that this is He, truly we believe.",
+      "uncertain": false
+     }
+    ],
+    "division": "d09"
+   },
+   {
+    "pdf_page": 275,
+    "printed_page_geez": "፪፻፷፮",
+    "printed_page": 266,
+    "section_geez": "ቅዳሴ ባስልዮስ",
+    "section_english": "Anaphora of Basil",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p275-01",
+      "kind": "paragraph",
+      "number": 31,
+      "geez_numeral": "፴፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "31. Priest: He looked up to heaven, O God, towards you, his Father, and the Lord of all who is above all.",
+      "uncertain": false
+     },
+     {
+      "id": "p275-02",
+      "kind": "paragraph",
+      "number": 32,
+      "geez_numeral": "፴፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "32. He gave thanks, blessed (benediction three times. Then he shall indent the Host lightly with his thumb in five places without separation) and broke, and gave it to his holy disciples and to his pure apostles and said unto them, Take, you eat all of it, this (pointing) bread is my body which will be broken on behalf of you for the remission of sin, and thus do in remembrance of me.",
+      "uncertain": false
+     },
+     {
+      "id": "p275-03",
+      "kind": "paragraph",
+      "number": 33,
+      "geez_numeral": "፴፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "33. People: Amen, we believe; amen amen amen, again we believe and confess, we glorify you, O our Lord and our God; that this is He we truly believe.",
+      "uncertain": false
+     },
+     {
+      "id": "p275-04",
+      "kind": "paragraph",
+      "number": 34,
+      "geez_numeral": "፴፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "34. Priest: And likewise also the cup: after mixing in it water and wine, he gave thanks, blessed, (benediction three times) and hallowed and tasted and gave it to his holy disciples and pure apostles and said unto them, Take, you drink all of it, this (pointing) cup is my blood which will be shed on your behalf for the remission of sin. He shall then move the cup with his right hand in the sign of the cross.",
+      "uncertain": false
+     },
+     {
+      "id": "p275-05",
+      "kind": "paragraph",
+      "number": 35,
+      "geez_numeral": "፴፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "35. People: Amen, we believe; again amen amen amen, we believe.",
+      "uncertain": false
+     }
+    ],
+    "division": "d09"
+   },
+   {
+    "pdf_page": 276,
+    "printed_page_geez": "፪፻፷፯",
+    "printed_page": 267,
+    "section_geez": "ቅዳሴ ባስልዮስ",
+    "section_english": "Anaphora of Basil",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p276-01",
+      "kind": "paragraph",
+      "number": 36,
+      "geez_numeral": "፴፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "36. Priest: Thus, as often as you eat of this bread and drink of this cup do it in remembrance of me, proclaim my death and believe in my resurrection until I come.",
+      "uncertain": false
+     },
+     {
+      "id": "p276-02",
+      "kind": "paragraph",
+      "number": 37,
+      "geez_numeral": "፴፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "37. People: We proclaim your death, Lord, and your holy resurrection.",
+      "uncertain": false
+     },
+     {
+      "id": "p276-03",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p276-04",
+      "kind": "paragraph",
+      "number": 38,
+      "geez_numeral": "፴፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "38. Priest: We make memorial also of his holy sufferings and his resurrection from the dead and his ascension unto heaven and his sitting on your right hand, O Father, and his second manifestation – when he shall come bringing great fear – which is full of glory. We offer unto you this offering which becomes you in all things and for all things.",
+      "uncertain": false
+     },
+     {
+      "id": "p276-05",
+      "kind": "paragraph",
+      "number": 39,
+      "geez_numeral": "፴፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "39. Deacon: Worship the Lord with fear.",
+      "uncertain": false
+     },
+     {
+      "id": "p276-06",
+      "kind": "paragraph",
+      "number": 40,
+      "geez_numeral": "፵",
+      "continued": null,
+      "heading_note": null,
+      "english": "40. Priest: (in a low voice) We beseech you, O Lord our God, we, your sinful and unworthy servants, and worship you by the pleasure of your Father, that you may send your Holy Spirit upon this offering, which is offered before you, to purify it and to sanctify us with your holy things.",
+      "uncertain": false
+     }
+    ],
+    "division": "d09"
+   },
+   {
+    "pdf_page": 277,
+    "printed_page_geez": "፪፻፷፰",
+    "printed_page": 268,
+    "section_geez": "ቅዳሴ ባስልዮስ",
+    "section_english": "Anaphora of Basil",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p277-01",
+      "kind": "paragraph",
+      "number": 41,
+      "geez_numeral": "፵፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "41. May he make this (pointing) bread the body of our Lord and our Saviour Jesus Christ (benediction three times) in order that it maybe given for the remission of sin and eternal life unto them who take thereof. People: Amen, we believe.",
+      "uncertain": false
+     },
+     {
+      "id": "p277-02",
+      "kind": "paragraph",
+      "number": 42,
+      "geez_numeral": "፵፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "42. Priest: And also make this (pointing) cup the precious blood of our Lord and our Saviour Jesus Christ (benediction three times) that it may be given for the remission of sin and eternal life unto them who take thereof (benediction over both).",
+      "uncertain": false
+     },
+     {
+      "id": "p277-03",
+      "kind": "paragraph",
+      "number": 43,
+      "geez_numeral": "፵፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "43. People: Amen, we believe; again amen, Lord have pity upon us, Lord spare us, Lord have mercy upon us.",
+      "uncertain": false
+     },
+     {
+      "id": "p277-04",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p277-05",
+      "kind": "paragraph",
+      "number": 44,
+      "geez_numeral": "፵፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "44. Priest: Make us worthy to take of Your holy things in purity of our soul and our body and our spirit, that we may be one body and one spirit and find a portion and inheritance with all your saints whom you did choose.",
+      "uncertain": false
+     },
+     {
+      "id": "p277-06",
+      "kind": "paragraph",
+      "number": 45,
+      "geez_numeral": "፵፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "45. Remember, Lord, the peace of the one holy apostolic Church.",
+      "uncertain": false
+     },
+     {
+      "id": "p277-07",
+      "kind": "paragraph",
+      "number": 46,
+      "geez_numeral": "፵፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "46. Deacon: For the peace of the one holy apostolic Church which is right with God.",
+      "uncertain": false
+     }
+    ],
+    "division": "d09"
+   },
+   {
+    "pdf_page": 278,
+    "printed_page_geez": "፪፻፷፱",
+    "printed_page": 269,
+    "section_geez": "ቅዳሴ ባስልዮስ",
+    "section_english": "Anaphora of Basil",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p278-01",
+      "kind": "paragraph",
+      "number": 47,
+      "geez_numeral": "፵፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "47. Priest: That which you have ransomed with the glorious blood of your Christ. Keep in peace, with all the orthodox bishops, priests and deacons who are in her.",
+      "uncertain": false
+     },
+     {
+      "id": "p278-02",
+      "kind": "paragraph",
+      "number": 48,
+      "geez_numeral": "፵፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "48. First remember, Lord, the honourable father, the Patriarch Abba (......) and our blessed Archbishop Abba (......) and those who, with them, rightly divide the word of truth. Deacon: Pray for the Patriarch Abba (.....) and our Archbishop Abba (......) and all the orthodox bishops.",
+      "uncertain": false
+     },
+     {
+      "id": "p278-03",
+      "kind": "paragraph",
+      "number": 49,
+      "geez_numeral": "፵፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "49. Priest: Keep them for your holy Church to feed your flock in righteousness and peace. Remember, Lord, the orthodox priests and deacons.",
+      "uncertain": false
+     },
+     {
+      "id": "p278-04",
+      "kind": "paragraph",
+      "number": 50,
+      "geez_numeral": "፶",
+      "continued": null,
+      "heading_note": null,
+      "english": "50. Deacon: Pray for the orthodox priests, deacons and assistant deacons and all those who are in this service, and all those who are in virginity and purity, and remember, Lord, all your faithful people, and have mercy upon us all.",
+      "uncertain": false
+     },
+     {
+      "id": "p278-05",
+      "kind": "paragraph",
+      "number": 51,
+      "geez_numeral": "፶፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "51. People: Have mercy upon us, O God, Father Almighty.",
+      "uncertain": false
+     },
+     {
+      "id": "p278-06",
+      "kind": "paragraph",
+      "number": 52,
+      "geez_numeral": "፶፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "52. Priest: Remember, Lord, the salvation of this holy place which is yours:",
+      "uncertain": false
+     },
+     {
+      "id": "p278-07",
+      "kind": "paragraph",
+      "number": 53,
+      "geez_numeral": "፶፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "53. Deacon: Pray for the salvation of this place and the salvation of all the world.",
+      "uncertain": false
+     }
+    ],
+    "division": "d09"
+   },
+   {
+    "pdf_page": 279,
+    "printed_page_geez": "፪፻፸",
+    "printed_page": 270,
+    "section_geez": "ቅዳሴ ባስልዮስ",
+    "section_english": "Anaphora of Basil",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p279-01",
+      "kind": "paragraph",
+      "number": 54,
+      "geez_numeral": "፶፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "54. Priest: and this city and all the cities, villages, islands, places and monasteries which are in true faith and all those who dwell in them:",
+      "uncertain": false
+     },
+     {
+      "id": "p279-02",
+      "kind": "paragraph",
+      "number": 55,
+      "geez_numeral": "፶፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "55. People: Lord have pity upon us, Lord spare us, Lord have mercy upon us.",
+      "uncertain": false
+     },
+     {
+      "id": "p279-03",
+      "kind": "paragraph",
+      "number": 56,
+      "geez_numeral": "፶፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "56. Priest: And this country and all the churches of our Orthodox fathers and those who dwell in them in the faith of God.",
+      "uncertain": false
+     },
+     {
+      "id": "p279-04",
+      "kind": "paragraph",
+      "number": 57,
+      "geez_numeral": "፶፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "57. Give graciously, Lord, rain and suitable weather and the fruit of the earth and bless the herbs.",
+      "uncertain": false
+     },
+     {
+      "id": "p279-05",
+      "kind": "paragraph",
+      "number": 58,
+      "geez_numeral": "፶፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "58. Deacon: Pray for the rain, the wind of the sky, the fruit of the earth, seed, plants, the fruit of the trees and for the vineyards, and for every fruitful tree in the entire world, that Christ our God will bring them into perfection in safety and peace and for give us our sins.",
+      "uncertain": false
+     },
+     {
+      "id": "p279-06",
+      "kind": "paragraph",
+      "number": 59,
+      "geez_numeral": "፶፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "59. People: Lord have pity upon us, Lord spare us, Lord have mercy upon us.",
+      "uncertain": false
+     },
+     {
+      "id": "p279-07",
+      "kind": "paragraph",
+      "number": 60,
+      "geez_numeral": "፷",
+      "continued": null,
+      "heading_note": null,
+      "english": "60. Priest: Bring them up according to their measure that they may grow and prosper through your grace. Make you the face of the earth, to rejoice, water her furrows, let her grain be abundantly multiplied and make ready her seed-time and harvest,",
+      "uncertain": false
+     }
+    ],
+    "division": "d09"
+   },
+   {
+    "pdf_page": 280,
+    "printed_page_geez": "፪፻፸፩",
+    "printed_page": 271,
+    "section_geez": "ቅዳሴ ባስልዮስ",
+    "section_english": "Anaphora of Basil",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p280-01",
+      "kind": "paragraph",
+      "number": 61,
+      "geez_numeral": "፷፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "61. and govern our life as is best for us, bless the crops (fruits) of the year with your goodness, for the sake of the poor of your people, for the sake of the widows and the orphans, and for the sake of the strangers and the wanderers, and for the sake of us all who hope in you and who call your holy and gracious name, because the eyes of all hope in you that you will give them their meat in its good season. Deal with us according to your mercy.",
+      "uncertain": false
+     },
+     {
+      "id": "p280-02",
+      "kind": "paragraph",
+      "number": 62,
+      "geez_numeral": "፷፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "62. O you, who give food unto all flesh, fill our hearts with joy and gladness, give us our sufficiency in all things at all times that we may abound in every good work.",
+      "uncertain": false
+     },
+     {
+      "id": "p280-03",
+      "kind": "paragraph",
+      "number": 63,
+      "geez_numeral": "፷፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "63. People: Lord have pity upon us, Lord spare us, Lord have mercy upon us.",
+      "uncertain": false
+     },
+     {
+      "id": "p280-04",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p280-05",
+      "kind": "paragraph",
+      "number": 64,
+      "geez_numeral": "፷፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "64. Priest: Remember, Lord, our country Ethiopia.",
+      "uncertain": false
+     },
+     {
+      "id": "p280-06",
+      "kind": "paragraph",
+      "number": 65,
+      "geez_numeral": "፷፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "65. Deacon: Pray that God may grant us compassion and mercy before the court of the great rulers that he soften their hearts towards us unto good, and grant salvation and victory unto our country Ethiopia and forgive us our sins.",
+      "uncertain": false
+     },
+     {
+      "id": "p280-07",
+      "kind": "paragraph",
+      "number": 66,
+      "geez_numeral": "፷፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "66. Priest: Keep her for us in righteousness and peace, give her long years, strengthen her kingdom, keep her army, give her power, strength and victory over those who would sow dissension on her frontiers.",
+      "uncertain": false
+     }
+    ],
+    "division": "d09"
+   },
+   {
+    "pdf_page": 281,
+    "printed_page_geez": "፪፻፸፪",
+    "printed_page": 272,
+    "section_geez": "ቅዳሴ ባስልዮስ",
+    "section_english": "Anaphora of Basil",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p281-01",
+      "kind": "paragraph",
+      "number": 67,
+      "geez_numeral": "፷፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "67. And speak in his heart for the sake of your churches, and grant that we may live in rest and quietness and be found worthy to keep your commandments in all godliness which is yours.",
+      "uncertain": false
+     },
+     {
+      "id": "p281-02",
+      "kind": "paragraph",
+      "number": 68,
+      "geez_numeral": "፷፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "68. Remember, Lord, them who have brought you this offering and them on whose behalf they have offered it.",
+      "uncertain": false
+     },
+     {
+      "id": "p281-03",
+      "kind": "paragraph",
+      "number": 69,
+      "geez_numeral": "፷፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "69. Deacon: Pray for this our Sacrifice and the Oblation of our holy communion.",
+      "uncertain": false
+     },
+     {
+      "id": "p281-04",
+      "kind": "paragraph",
+      "number": 70,
+      "geez_numeral": "፸",
+      "continued": null,
+      "heading_note": null,
+      "english": "70. Priest: and those who offered from that which they have: grant them all the heavenly reward because this is the commandment of your only-begotten Son that we should remember your saints who pleased you from the beginning:",
+      "uncertain": false
+     },
+     {
+      "id": "p281-05",
+      "kind": "paragraph",
+      "number": 71,
+      "geez_numeral": "፸፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "71. Our fathers the patriarchs, archbishops, bishops, the prophets, the apostles, the martyrs, the faithful, those who preached the Gospel in the church and all the souls of the righteous perfect in faith.",
+      "uncertain": false
+     },
+     {
+      "id": "p281-06",
+      "kind": "paragraph",
+      "number": 72,
+      "geez_numeral": "፸፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "72. And especially the full of grace at all times, the holy pure mother of God, Virgin Mary.",
+      "uncertain": false
+     },
+     {
+      "id": "p281-07",
+      "kind": "paragraph",
+      "number": 73,
+      "geez_numeral": "፸፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "73. People: Mary, continually virgin. (to be repeated thrice)",
+      "uncertain": false
+     },
+     {
+      "id": "p281-08",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d09"
+   },
+   {
+    "pdf_page": 282,
+    "printed_page_geez": "፪፻፸፫",
+    "printed_page": 273,
+    "section_geez": "ቅዳሴ ባስልዮስ",
+    "section_english": "Anaphora of Basil",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p282-01",
+      "kind": "paragraph",
+      "number": 74,
+      "geez_numeral": "፸፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "74. Priest: And the holy and prophet and martyr and preparer of the way John the Baptist, St. Stephen archdeacon and first martyr, the Apostle and Evangelist and speaker of divinity Mark, head of the bishops and Patriarch. St. Severus, St. Dioscorus, St. Cyril, St. Basil, St. Gregory, St. Athanasius.",
+      "uncertain": false
+     },
+     {
+      "id": "p282-02",
+      "kind": "paragraph",
+      "number": 75,
+      "geez_numeral": "፸፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "75. And our great righteous Abba Antony, the righteous Abba Paule, the three Macarii, the righteous Abba Youhannes, Abba Isdros, the righteous Abba Besoi, our holy fathers Maximos and Domatios, the forty-nine martyrs.",
+      "uncertain": false
+     },
+     {
+      "id": "p282-03",
+      "kind": "paragraph",
+      "number": 76,
+      "geez_numeral": "፸፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "76. And our father Abba Moses, our father Abba Bakimos, our father Abba Pachomius, our father Abba Samuel, our father Abba Daniel, Abba Shenouda, Abba Babnouda, and all the congregation of saints, through whose prayers and supplications have mercy upon us all and save us for the sake of your holy name which has been called upon us.",
+      "uncertain": false
+     },
+     {
+      "id": "p282-04",
+      "kind": "paragraph",
+      "number": 77,
+      "geez_numeral": "፸፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "77. You remember the names of the fathers the Patriarchs who have fallen asleep that the Lord may grant rest to their souls and forgive us our sins.",
+      "uncertain": false
+     }
+    ],
+    "division": "d09"
+   },
+   {
+    "pdf_page": 283,
+    "printed_page_geez": "፪፻፸፬",
+    "printed_page": 274,
+    "section_geez": "ቅዳሴ ባስልዮስ",
+    "section_english": "Anaphora of Basil",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p283-01",
+      "kind": "paragraph",
+      "number": 78,
+      "geez_numeral": "፸፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "78. [RUBRIC] At this time the deacons shall be divided. The ministering deacon shall say: Through the prayers and supplications of the great, holy, glorified, pure and honourable our Lady Virgin Mary, the mother of God.",
+      "uncertain": false
+     },
+     {
+      "id": "p283-02",
+      "kind": "paragraph",
+      "number": 79,
+      "geez_numeral": "፸፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "79. And the holy prophet, preacher and preparer of the way John the Baptist and martyr, St. Stephen archdeacon and first martyr, the holy glorified apostles, the prophets, the martyrs that conquered well, and all the congregation of saints.",
+      "uncertain": false
+     },
+     {
+      "id": "p283-03",
+      "kind": "paragraph",
+      "number": 80,
+      "geez_numeral": "፹",
+      "continued": null,
+      "heading_note": null,
+      "english": "80. And the honourable father Abba (.....) the master and head of the bishops of the great nation of Ethiopia and our honourable father Abba (......) and all our orthodox bishops.",
+      "uncertain": false
+     },
+     {
+      "id": "p283-04",
+      "kind": "paragraph",
+      "number": 81,
+      "geez_numeral": "፹፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "81. For the sake of those who fell asleep and rested, and for the rest of our holy fathers, 1) Mark Apostle and Evangelist and head of the bishops, 2) Annianus, 3) Milius, 4) Cerdo, 5) Primus, 6) Justus, 7) Eumenius, 8) Marcion, 9) Celdion, 10) Agrippinus,",
+      "uncertain": false
+     }
+    ],
+    "division": "d09"
+   },
+   {
+    "pdf_page": 284,
+    "printed_page_geez": "፪፻፸፭",
+    "printed_page": 275,
+    "section_geez": "ቅዳሴ ባስልዮስ",
+    "section_english": "Anaphora of Basil",
+    "page_note": "(continues paragraph ፹፩ / 81)",
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p284-01",
+      "kind": "paragraph",
+      "number": 81,
+      "geez_numeral": "፹፩",
+      "continued": "continued",
+      "heading_note": null,
+      "english": "11) Julian, 12) Demetrius I, 13) Heraclas, 14) Dionysius, 15) Maximus, 16) Theonas, 17) Peter I the last martyr,",
+      "uncertain": false
+     },
+     {
+      "id": "p284-02",
+      "kind": "paragraph",
+      "number": 82,
+      "geez_numeral": "፹፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "82. [RUBRIC] The assistant deacon on the right hand shall say the second part: 18) Achillas, 19) Alexander I, 20) Athanasius I, 21) Peter II, 22) Timothy I, 23) Theophilus, 24) Cyril I, 25) Dioscorus I, 26) Timothy II, 27) Peter III, 28) Athanasius II, 29) John (Youhannes) I, 30) John (Youhannes) II, 31) Dioscorus II, 32) Timothy III, 33) Theodosius I, 34) Peter IV, 35) Damian, 36) Anastasius, 37) Andronicus, 38) Benjamin I, 39) Agatho, 40) John (Youhannes) III,",
+      "uncertain": false
+     },
+     {
+      "id": "p284-03",
+      "kind": "paragraph",
+      "number": 83,
+      "geez_numeral": "፹፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "83. [RUBRIC] The assistant deacon on the left hand shall say the third part: 41) Isaac, 42) Simon I, 43) Alexander II, 44) Cosmas I, 45) Theodore, 46) (Mikael) Kahel I, 47) Mennas I, 48) John (Youhannes) IV, 49) Mark II, 50) Jacob, 51) Simon II, 52) Joseph (Yousab) I,",
+      "uncertain": false
+     }
+    ],
+    "division": "d09"
+   },
+   {
+    "pdf_page": 285,
+    "printed_page_geez": "፪፻፸፮",
+    "printed_page": 276,
+    "section_geez": "ቅዳሴ ባስልዮስ",
+    "section_english": "Anaphora of Basil",
+    "page_note": "(continues paragraph ፹፫ / 83; the small ordinal numerals in the Amharic list are read as best as possible)",
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p285-01",
+      "kind": "paragraph",
+      "number": 83,
+      "geez_numeral": "፹፫",
+      "continued": "continued",
+      "heading_note": null,
+      "english": "53) (Mikael) Kahel II, 54) Cosmas II, Shenouda I 55) Michael I, 56) Gabriel I, 57) Cosmas III, 58) Macarius I, 59) Theophanius, 60) Mennas II, 61) Abrham II, 62) Philotheos, 63) Zacharias, 64) Shenouda II,",
+      "uncertain": false
+     },
+     {
+      "id": "p285-02",
+      "kind": "paragraph",
+      "number": 84,
+      "geez_numeral": "፹፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "84. [RUBRIC] All the deacons shall say the fourth part: 65) Christodulos (servant of Christ), 66) Cyril II, 67) Michael II, 68) Macarius II, 69) Gabriel II, 70) Michael III, 71) John (Youhannes) V, 72) Mark III, 73) John (Youhannes) VI, 74) Cyril III, 75) Athanasius III, 76) Gabriel III, 78) John (Youhannes) VII, 79) Theodosius II, 80) John (Youhannes) VIII, 81) John (Youhannes) IX 82) Benjamin II, 83) Peter V, 84) Mark IV, 85) John (Youhannes) X, 86) Gabriel IV, 87) Matthew I, 88) Gabriel V, 89) John (Youhannes) XI, 90) Matthew II, 91) Gabriel VI, 92) Michael IV, 93) John (Youhannes) XII, 94) John (Youhannes) XIII, 95) Gabriel VII, 96) John (Younhannes) XIV, 97) Gabriel VIII, 98) Mark V, 99) John (Youhannes) XV, 100) Matthew III, 101) Mark VI,",
+      "uncertain": false
+     }
+    ],
+    "division": "d09"
+   },
+   {
+    "pdf_page": 286,
+    "printed_page_geez": "፪፻፸፯",
+    "printed_page": 277,
+    "section_geez": "ቅዳሴ ባስልዮስ",
+    "section_english": "Anaphora of Basil",
+    "page_note": "(continues paragraph ፹፬ / 84; the small ordinal numerals in the Amharic list are read as best as possible)",
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p286-01",
+      "kind": "paragraph",
+      "number": 84,
+      "geez_numeral": "፹፬",
+      "continued": "continued",
+      "heading_note": null,
+      "english": "102) Matthew IV, 103) John (Yoyhannes) XVI, 104) Peter VI, 105) John (Youhannes) XVII, 106) Mark VII, 107) John (Youhannes) XVIII, 108) Mark VIII, 109) Peter VII, 110) Cyril IV, 111) Demetrius II, 112) Cyril V, 113) John (Youhannes) XIX, and 114) Macarius III, The hundred and fourteen, and him who wears the cross Severus, Patriarch of Antioch.",
+      "uncertain": false
+     },
+     {
+      "id": "p286-02",
+      "kind": "paragraph",
+      "number": 85,
+      "geez_numeral": "፹፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "85. Priest: Shall say secretly: Remember also, Lord, all those who fell asleep and rested in the right faith, the clergy in the office of priesthood, and all the congregation of the laity.",
+      "uncertain": false
+     },
+     {
+      "id": "p286-03",
+      "kind": "paragraph",
+      "number": 86,
+      "geez_numeral": "፹፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "86. And again grant rest to the souls of them all in the bosom of Abraham, Isaac and Jacob, and place them in the green place where there is water of rest in the garden of delight, the place whence soreness of heart and sorrow and sighing have fled away, in the light of your saints.",
+      "uncertain": false
+     },
+     {
+      "id": "p286-04",
+      "kind": "paragraph",
+      "number": 87,
+      "geez_numeral": "፹፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "87. Deacon: For the sake of the blessed ... (Anaphora of the Apostles No. 6-9).",
+      "uncertain": false
+     },
+     {
+      "id": "p286-05",
+      "kind": "paragraph",
+      "number": 88,
+      "geez_numeral": "፹፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "88. The assistant priest shall say the following instead of the prayer of benediction: O Holy Trinity, who holdest all the world, who had done great and wonderful deeds through the power of your word,",
+      "uncertain": false
+     }
+    ],
+    "division": "d09"
+   },
+   {
+    "pdf_page": 287,
+    "printed_page_geez": "፪፻፸፰",
+    "printed_page": 278,
+    "section_geez": "ቅዳሴ ባስልዮስ",
+    "section_english": "Anaphora of Basil",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p287-01",
+      "kind": "paragraph",
+      "number": 89,
+      "geez_numeral": "፹፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "89. bless the east and the west, the north and south, the north east and the south east, (the north west and the south west), bless the heaven, the earth, the sea, the rivers, the source of water, and all the springs of water.",
+      "uncertain": false
+     },
+     {
+      "id": "p287-02",
+      "kind": "paragraph",
+      "number": 90,
+      "geez_numeral": "፺",
+      "continued": null,
+      "heading_note": null,
+      "english": "90. Bless the winds of the sky and the rains. Bless the sun, moon and stars. Bless the mountains and hills, the trees, herbs and the fruit of the earth.",
+      "uncertain": false
+     },
+     {
+      "id": "p287-03",
+      "kind": "paragraph",
+      "number": 91,
+      "geez_numeral": "፺፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "91. Bless those that are under heaven and those that are under earth. O Christ our God, fill their hearts with the fear of your name and make their lives to prosper forever. Benediction over the people three times.",
+      "uncertain": false
+     },
+     {
+      "id": "p287-04",
+      "kind": "paragraph",
+      "number": 92,
+      "geez_numeral": "፺፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "92. Asst. Deacon: Lord, pity and have mercy upon the patriarchs, archbishops, bishops, priests, deacons and all the Christian people .",
+      "uncertain": false
+     },
+     {
+      "id": "p287-05",
+      "kind": "paragraph",
+      "number": 93,
+      "geez_numeral": "፺፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "93. Priest: Abba Antony, Abba Macarius, Abba Paul, Abba Macari, Abba Youhannes, Abba Besoi, Abba Isdros,",
+      "uncertain": false
+     }
+    ],
+    "division": "d09"
+   },
+   {
+    "pdf_page": 288,
+    "printed_page_geez": "፪፻፸፱",
+    "printed_page": 279,
+    "section_geez": "ቅዳሴ ባስልዮስ",
+    "section_english": "Anaphora of Basil",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p288-01",
+      "kind": "paragraph",
+      "number": 94,
+      "geez_numeral": "፺፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "94. and our Roman fathers Maximos and Domatios, Abba Moses, Abba Daniel, Abba Barsoma, Abba Abounafar, Abba Pachomius, Abba Shenouda, Abba Babnouda,",
+      "uncertain": false
+     },
+     {
+      "id": "p288-02",
+      "kind": "paragraph",
+      "number": 95,
+      "geez_numeral": "፺፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "95. and all those who taught rightly and established the true word, the orthodox bishops, priests, deacons, clergy, laity, all these.",
+      "uncertain": false
+     },
+     {
+      "id": "p288-03",
+      "kind": "paragraph",
+      "number": 96,
+      "geez_numeral": "፺፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "96. Deacon: Pray for our fathers and our brothers who have fallen asleep and rested in the faith of Christ since the creation of the world.",
+      "uncertain": false
+     },
+     {
+      "id": "p288-04",
+      "kind": "paragraph",
+      "number": 97,
+      "geez_numeral": "፺፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "97. Priest: Our holy fathers the patriarchs, and our fathers the bishops, and our fathers the bishops of villages, and our fathers the priests, and our brothers the deacons, and our fathers the monks, and our brothers the laity,",
+      "uncertain": false
+     },
+     {
+      "id": "p288-05",
+      "kind": "paragraph",
+      "number": 98,
+      "geez_numeral": "፺፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "98. and for all the Christian people who have rested, that Christ our Lord may grant rest to the souls of them all in the bosom of our righteous fathers Abraham, Isaac and Jacob, in the garden of delight. May He also grant mercy unto us and forgive us our sins.",
+      "uncertain": false
+     }
+    ],
+    "division": "d09"
+   },
+   {
+    "pdf_page": 289,
+    "printed_page_geez": "፪፻፹",
+    "printed_page": 280,
+    "section_geez": "ቅዳሴ ባስልዮስ",
+    "section_english": "Anaphora of Basil",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p289-01",
+      "kind": "paragraph",
+      "number": 99,
+      "geez_numeral": "፺፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "99. Deacon: You pray for the sorrowful.",
+      "uncertain": false
+     },
+     {
+      "id": "p289-02",
+      "kind": "paragraph",
+      "number": 100,
+      "geez_numeral": "፻",
+      "continued": null,
+      "heading_note": null,
+      "english": "100. People: O Lord have compassion upon them, O Lord have mercy upon them, O Lord rest them. Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p289-03",
+      "kind": "paragraph",
+      "number": 101,
+      "geez_numeral": "፻፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "101. Priest: O Lord, rest the souls of these who are in this place. And us also, who are pilgrims in this place, you do keep in your faith, here and in every place; and grant us always your peace and save us unto the end of our days, and lead us unto your everlasting kingdom.",
+      "uncertain": false
+     },
+     {
+      "id": "p289-04",
+      "kind": "paragraph",
+      "number": 102,
+      "geez_numeral": "፻፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "102. People: With all the heart let us beseech the lord our God that he may grant unto us the good communion of the Holy Spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p289-05",
+      "kind": "paragraph",
+      "number": 103,
+      "geez_numeral": "፻፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "103. People: As it was, is and shall be unto generations of generations, world without end.",
+      "uncertain": false
+     },
+     {
+      "id": "p289-06",
+      "kind": "paragraph",
+      "number": 104,
+      "geez_numeral": "፻፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "104. Priest: That as in this place, so also at all times your great and holy name may be glorified, extolled and blessed which is in all things glorious and blessed together with your beloved Son Jesus Christ and the Holy Spirit, world without end.",
+      "uncertain": false
+     }
+    ],
+    "division": "d09"
+   },
+   {
+    "pdf_page": 290,
+    "printed_page_geez": "፪፻፹፩",
+    "printed_page": 281,
+    "section_geez": "ቅዳሴ ባስልዮስ",
+    "section_english": "Anaphora of Basil",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p290-01",
+      "kind": "paragraph",
+      "number": 105,
+      "geez_numeral": "፻፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "105. Priest: Grant us to be united through your Holy Spirit, and heal us by this oblation that we may live in you forever. People: The people shall repeat his words.",
+      "uncertain": false
+     },
+     {
+      "id": "p290-02",
+      "kind": "paragraph",
+      "number": 106,
+      "geez_numeral": "፻፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "106. Priest: Blessed be the name of the Lord, and blessed be he that comes in the name of the Lord, and let the name of his glory be blessed. So be it, so be it, so be it blessed. People: The people shall repeat his words.",
+      "uncertain": false
+     },
+     {
+      "id": "p290-03",
+      "kind": "paragraph",
+      "number": 107,
+      "geez_numeral": "፻፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "107. Priest: Send the grace of the Holy Spirit upon us. People: The people shall repeat his words.",
+      "uncertain": false
+     },
+     {
+      "id": "p290-04",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p290-05",
+      "kind": "paragraph",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": "unnumbered",
+      "english": "Deacon: Stand up for prayer. People: Lord, have mercy upon us. Priest: Peace be unto you all. People: And with your spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p290-06",
+      "kind": "paragraph",
+      "number": 108,
+      "geez_numeral": "፻፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "108. Priest: Prayer of fraction. Again we give thanks unto God almighty the Father of our Lord and our God and our Saviour Jesus Christ, because he has made us worthy even now to stand in this holy and pure place and lift up our hands and minister unto His holy name.",
+      "uncertain": false
+     }
+    ],
+    "division": "d09"
+   },
+   {
+    "pdf_page": 291,
+    "printed_page_geez": "፪፻፹፪",
+    "printed_page": 282,
+    "section_geez": "ቅዳሴ ባስልዮስ",
+    "section_english": "Anaphora of Basil",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p291-01",
+      "kind": "paragraph",
+      "number": 109,
+      "geez_numeral": "፻፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "109. Let us also entreat the almighty Lord our God that he may make us worthy even of the communion and participation of his divine and undying mysteries, the holy body and the precious blood of his Chirst.",
+      "uncertain": false
+     },
+     {
+      "id": "p291-02",
+      "kind": "paragraph",
+      "number": 110,
+      "geez_numeral": "፻፲",
+      "continued": null,
+      "heading_note": null,
+      "english": "110. Deacon: You pray. People: Our Father who are in heaven ...",
+      "uncertain": false
+     },
+     {
+      "id": "p291-03",
+      "kind": "paragraph",
+      "number": 111,
+      "geez_numeral": "፻፲፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "111. Priest: Master, Lord, Lord our God, for ever great, you are he whose honourable glory is wonderful, who keeps his covenant and mercy with those who love him from all their hearts,",
+      "uncertain": false
+     },
+     {
+      "id": "p291-04",
+      "kind": "paragraph",
+      "number": 112,
+      "geez_numeral": "፻፲፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "112. who granted us salvation from our sins through his only-begotten Son Jesus Christ, our Lord, the life of all, the helper of those who flee to him and the hope of those who cry unto him,",
+      "uncertain": false
+     },
+     {
+      "id": "p291-05",
+      "kind": "paragraph",
+      "number": 113,
+      "geez_numeral": "፻፲፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "113. before whom stand thousands of thousand and ten thousand and ten thousand of thousand of holy angels and archangels, Seraphim and Cherubim and all the countless congregation of heavenly powers.",
+      "uncertain": false
+     },
+     {
+      "id": "p291-06",
+      "kind": "paragraph",
+      "number": 114,
+      "geez_numeral": "፻፲፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "114. O God who have sanctified this offering, which has been prepared before you, through the descent of the Holy Spirit upon it, clean as, O Master, from all our sins, hidden and open.",
+      "uncertain": false
+     }
+    ],
+    "division": "d09"
+   },
+   {
+    "pdf_page": 292,
+    "printed_page_geez": "፪፻፹፫",
+    "printed_page": 283,
+    "section_geez": "ቅዳሴ ባስልዮስ",
+    "section_english": "Anaphora of Basil",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p292-01",
+      "kind": "paragraph",
+      "number": 115,
+      "geez_numeral": "፻፲፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "115. And let every thought which displeases your goodness, O God, lover of man, be far from us. Cleanse our souls, bodies, spirits and hearts, that we may, with pure heart and enlightened soul and rejoicing lips, dare to call upon you without fear, O holy Father, saying: Our Father who are in heaven.",
+      "uncertain": false
+     },
+     {
+      "id": "p292-02",
+      "kind": "paragraph",
+      "number": 116,
+      "geez_numeral": "፻፲፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "116. People: The hosts of the angels of the Saviour of the world stand before the Saviour of the world and they encircle the Saviour of the world, even the body and blood of the Saviour of the world. Let us draw near the face of the Saviour of the world. In that faith which is of him let us submit ourselves to Christ.",
+      "uncertain": false
+     },
+     {
+      "id": "p292-03",
+      "kind": "paragraph",
+      "number": 117,
+      "geez_numeral": "፻፲፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "117. Asst. Deacon: You princes, open the gates.",
+      "uncertain": false
+     },
+     {
+      "id": "p292-04",
+      "kind": "paragraph",
+      "number": 118,
+      "geez_numeral": "፻፲፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "118. Deacon: You, who are standing, bow your heads.",
+      "uncertain": false
+     },
+     {
+      "id": "p292-05",
+      "kind": "paragraph",
+      "number": 119,
+      "geez_numeral": "፻፲፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "119. Priest: Behold, with us today at this table is Emmanuel, the Lamb of God that takes away the sin of the world, giver of his word through the thrones,",
+      "uncertain": false
+     },
+     {
+      "id": "p292-06",
+      "kind": "paragraph",
+      "number": 120,
+      "geez_numeral": "፻፳",
+      "continued": null,
+      "heading_note": null,
+      "english": "120. all the hosts of angels who stand before him cry and bless him, and archangels bow and worship him who has a great name which is invisible.",
+      "uncertain": false
+     }
+    ],
+    "division": "d09"
+   },
+   {
+    "pdf_page": 293,
+    "printed_page_geez": "፪፻፹፬",
+    "printed_page": 284,
+    "section_geez": "ቅዳሴ ባስልዮስ",
+    "section_english": "Anaphora of Basil",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p293-01",
+      "kind": "paragraph",
+      "number": 121,
+      "geez_numeral": "፻፳፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "121. The four praising and singing beasts who carry his throne cry and bless him, and the twenty-four priests, carrying in their hands golden censers full of incense which is the prayer of the pure, offer it upward as an acceptable sacrifice before the living One for ever.",
+      "uncertain": false
+     },
+     {
+      "id": "p293-02",
+      "kind": "paragraph",
+      "number": 122,
+      "geez_numeral": "፻፳፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "122. The hundred and forty-four thousand pure virgins who washed their robes in the blood of the Lamb praise and bless the Lord of hosts saying: Amen halleluia, holy Father Lord of hosts, Amen. Halleluia, holy only-begotten Son, Jesus Christ, our Lord, Amen. Halleluia, holy holy Spirit the comforter Paraclete, Amen. Halleluia, holy and chosen Virgin Mary, mother of God, Amen. Halleluia, this sacrifice, pure also and chosen, Amen halleluia.",
+      "uncertain": false
+     },
+     {
+      "id": "p293-03",
+      "kind": "paragraph",
+      "number": 123,
+      "geez_numeral": "፻፳፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "123. For this reason our Saviour cried saying, \"My flesh is indeed the meat of righteousness and my blood is indeed the drink of life; he that eats my flesh and drinks my blood dwells in me and I also dwell in him,\"",
+      "uncertain": false
+     }
+    ],
+    "division": "d09"
+   },
+   {
+    "pdf_page": 294,
+    "printed_page_geez": "፪፻፹፭",
+    "printed_page": 285,
+    "section_geez": "ቅዳሴ ባስልዮስ",
+    "section_english": "Anaphora of Basil",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p294-01",
+      "kind": "paragraph",
+      "number": 124,
+      "geez_numeral": "፻፳፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "124. that we may, with pure heart and rejoicing lips, graciously dare to say, O holy God the Father, (let us say) Our Father who are in heaven ...",
+      "uncertain": false
+     },
+     {
+      "id": "p294-02",
+      "kind": "paragraph",
+      "number": 125,
+      "geez_numeral": "፻፳፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "125. Deacon: Worship the Lord with fear.",
+      "uncertain": false
+     },
+     {
+      "id": "p294-03",
+      "kind": "paragraph",
+      "number": 126,
+      "geez_numeral": "፻፳፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "126. People: Before you, Lord, we worship and we do glorify you.",
+      "uncertain": false
+     },
+     {
+      "id": "p294-04",
+      "kind": "paragraph",
+      "number": 127,
+      "geez_numeral": "፻፳፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "127. Priest: Prayer of Penitence. (Anaphora of the Apostles No. 72-88).",
+      "uncertain": false
+     },
+     {
+      "id": "p294-05",
+      "kind": "paragraph",
+      "number": 128,
+      "geez_numeral": "፻፳፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "128. Deacon: Give heed.",
+      "uncertain": false
+     },
+     {
+      "id": "p294-06",
+      "kind": "paragraph",
+      "number": 129,
+      "geez_numeral": "፻፳፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "129. Priest: Holy things for the holy.",
+      "uncertain": false
+     },
+     {
+      "id": "p294-07",
+      "kind": "paragraph",
+      "number": 130,
+      "geez_numeral": "፻፴",
+      "continued": null,
+      "heading_note": null,
+      "english": "130. People: One is the Holy Father, one is the Holy Son, one is the Holy Spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p294-08",
+      "kind": "paragraph",
+      "number": 131,
+      "geez_numeral": "፻፴፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "131. Priest: The Lord be with you all. People: And with your spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p294-09",
+      "kind": "paragraph",
+      "number": 132,
+      "geez_numeral": "፻፴፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "132. [RUBRIC] The priest shall then lift up the whole Host with his hand and say: O Lord Christ, have compassion upon us. (three times in a loud chant and fifteen times in a low chant) The people shall repeat his words. Then the priest shall repeat them three times and the people twice.",
+      "uncertain": false
+     },
+     {
+      "id": "p294-10",
+      "kind": "paragraph",
+      "number": 133,
+      "geez_numeral": "፻፴፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "133. Deacon: You, that are penitent, bow your heads.",
+      "uncertain": false
+     }
+    ],
+    "division": "d09"
+   },
+   {
+    "pdf_page": 295,
+    "printed_page_geez": "፪፻፹፮",
+    "printed_page": 286,
+    "section_geez": "ቅዳሴ ባስልዮስ",
+    "section_english": "Anaphora of Basil",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p295-01",
+      "kind": "paragraph",
+      "number": 134,
+      "geez_numeral": "፻፴፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "134. [RUBRIC] Then the priest shall turn to the people and say: Lord our God ... (Anaphora of the Apostles 96-138).",
+      "uncertain": false
+     },
+     {
+      "id": "p295-02",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p295-03",
+      "kind": "paragraph",
+      "number": 135,
+      "geez_numeral": "፻፴፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "135. [RUBRIC] After receiving the Holy Communion: Pilot of the soul: Then was our mouth filled with laughter and our tongue with singing, we who have received this indestructible mystery.",
+      "uncertain": false
+     },
+     {
+      "id": "p295-04",
+      "kind": "paragraph",
+      "number": 136,
+      "geez_numeral": "፻፴፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "136. O Lord, that which eye has not seen nor ear heard neither has it entered into the heart of man, you have prepared, O God, for them that love your holy name,",
+      "uncertain": false
+     },
+     {
+      "id": "p295-05",
+      "kind": "paragraph",
+      "number": 137,
+      "geez_numeral": "፻፴፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "137. and revealed unto us very babes who are in your holy church: even so Father for so it seemed good in your sight because you are compassionate, O Lord our God.",
+      "uncertain": false
+     },
+     {
+      "id": "p295-06",
+      "kind": "paragraph",
+      "number": 138,
+      "geez_numeral": "፻፴፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "138. Deacon: You pray.",
+      "uncertain": false
+     },
+     {
+      "id": "p295-07",
+      "kind": "paragraph",
+      "number": 139,
+      "geez_numeral": "፻፴፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "139. Priest: And to you we send, unto the highest heaven, glory and honour, Father, Son and Holy Spirit, both now and ever and world without end. People: Amen.",
+      "uncertain": false
+     }
+    ],
+    "division": "d09"
+   },
+   {
+    "pdf_page": 296,
+    "printed_page_geez": "፪፻፹፯",
+    "printed_page": 287,
+    "section_geez": "ቅዳሴ ባስልዮስ",
+    "section_english": "Anaphora of Basil",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p296-01",
+      "kind": "paragraph",
+      "number": 140,
+      "geez_numeral": "፻፵",
+      "continued": null,
+      "heading_note": null,
+      "english": "140. Priest: The Laying on of the Hand. Dwell, Lord, in these your servants who serve you and call upon your holy name, and who have bowed their heads before you, and walk with them, and help them in every good work, and purify their hearts from every evil earthly deed,",
+      "uncertain": false
+     },
+     {
+      "id": "p296-02",
+      "kind": "paragraph",
+      "number": 141,
+      "geez_numeral": "፻፵፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "141. and grant them to live and think of the eternal life and understand that which pleases you, through your only-begotten Son our Lord and our God and our Saviour Jesus Christ unto whom we all cry and say, Have mercy upon us, Lord our Saviour, world without end, Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p296-03",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d09"
+   }
+  ],
+  "first_pdf_page": 271,
+  "last_pdf_page": 296,
+  "page_count": 26,
+  "entry_count": 153
+ }
+}

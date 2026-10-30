@@ -1,0 +1,2225 @@
+{
+ "title": "Full Kidase",
+ "language": "English",
+ "source": "Full Kidase.pdf (PDF pages 8-420; page numbers are the PDF page numbers)",
+ "ids": "Entry ids are shared between the two files: pNNN-NN = PDF page, entry order on that page.",
+ "uncertain_marker": "Text between ⟦? and ?⟧ is a word the transcriber could not read with confidence.",
+ "division": {
+  "id": "d08",
+  "kind": "anaphora",
+  "name_geez": "ቅዳሴ አትናቴዎስ",
+  "name_english": "The Anaphora of St. Athanasius",
+  "pages": [
+   {
+    "pdf_page": 243,
+    "printed_page_geez": "፪፻፴፬",
+    "printed_page": 234,
+    "section_geez": "ቅዳሴ አትናቴዎስ",
+    "section_english": "The Anaphora of St. Athanasius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p243-01",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "THE ANAPHORA OF ST. ATHANASIUS",
+      "uncertain": false
+     },
+     {
+      "id": "p243-02",
+      "kind": "paragraph",
+      "number": 1,
+      "geez_numeral": "፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "1. The Anaphora of St. Athanasius, Patriarch of the City of Alexandria; may his prayer and blessing be with our Patriarch … archbishop … with all christen … people and our country Ethiopia world with out end. Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p243-03",
+      "kind": "paragraph",
+      "number": 2,
+      "geez_numeral": "፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "2. Priest: The Lord be with you all. People: And with your spirit. Priest: You give thanks unto our God. People: It is right, it is just. Priest: Lift up your hearts. People: We have lifted them up unto the Lord our God.",
+      "uncertain": false
+     },
+     {
+      "id": "p243-04",
+      "kind": "paragraph",
+      "number": 3,
+      "geez_numeral": "፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "3. Deacon: You who have gathered this day in this church, listen to the Anaphora of the holy Sabbath of the Christians.",
+      "uncertain": false
+     }
+    ],
+    "division": "d08"
+   },
+   {
+    "pdf_page": 244,
+    "printed_page_geez": "፪፻፴፭",
+    "printed_page": 235,
+    "section_geez": "ቅዳሴ አትናቴዎስ",
+    "section_english": "The Anaphora of St. Athanasius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p244-01",
+      "kind": "paragraph",
+      "number": 4,
+      "geez_numeral": "፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "4. Priest: I will cause heaven and earth to bear witness against you so that you may stand in fear and trembling, none making any disturbance.",
+      "uncertain": false
+     },
+     {
+      "id": "p244-02",
+      "kind": "paragraph",
+      "number": 5,
+      "geez_numeral": "፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "5. Let no one remain here who is angry with his brother, like the vengeful Cain.",
+      "uncertain": false
+     },
+     {
+      "id": "p244-03",
+      "kind": "paragraph",
+      "number": 6,
+      "geez_numeral": "፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "6. Let no one remain here who is quarreling with his brother, like Dathan and Abiram who quarreled with Moses.",
+      "uncertain": false
+     },
+     {
+      "id": "p244-04",
+      "kind": "paragraph",
+      "number": 7,
+      "geez_numeral": "፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "7. Let no one remain here who is deceitful towards another, like the serpent which deceived Eve.",
+      "uncertain": false
+     },
+     {
+      "id": "p244-05",
+      "kind": "paragraph",
+      "number": 8,
+      "geez_numeral": "፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "8. O priests, you are the bright eyes of God; look to one another; investigate your people prudently in order that no adulterer, murder, idolater, thief or liar should stand and join you in prayer, even those are as the five dogs that are judged without entering the kingdom of God.",
+      "uncertain": false
+     },
+     {
+      "id": "p244-06",
+      "kind": "paragraph",
+      "number": 9,
+      "geez_numeral": "፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "9. Rebuke the sinner as him who is your brother, and scold him openly if he has committed a sin unto death.",
+      "uncertain": false
+     },
+     {
+      "id": "p244-07",
+      "kind": "paragraph",
+      "number": 10,
+      "geez_numeral": "፲",
+      "continued": null,
+      "heading_note": null,
+      "english": "10. Advice the wicked to leave that way and submit himself unto God so that he may forgive him.",
+      "uncertain": false
+     },
+     {
+      "id": "p244-08",
+      "kind": "paragraph",
+      "number": 11,
+      "geez_numeral": "፲፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "11. O deacons, lights and messengers of the church, drive away from it that wolf, so that it may not be among the sheep; the kite, that it may not be among the doves, and take away the tares so that they may not be (found) among the wheat.",
+      "uncertain": false
+     }
+    ],
+    "division": "d08"
+   },
+   {
+    "pdf_page": 245,
+    "printed_page_geez": "፪፻፴፮",
+    "printed_page": 236,
+    "section_geez": "ቅዳሴ አትናቴዎስ",
+    "section_english": "The Anaphora of St. Athanasius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p245-01",
+      "kind": "paragraph",
+      "number": 12,
+      "geez_numeral": "፲፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "12. You investigate that which is without and not that which is within, but that which is within God knows and examines kith his light.",
+      "uncertain": false
+     },
+     {
+      "id": "p245-02",
+      "kind": "paragraph",
+      "number": 13,
+      "geez_numeral": "፲፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "13. Deacon: You, that are sitting, stand up.",
+      "uncertain": false
+     },
+     {
+      "id": "p245-03",
+      "kind": "paragraph",
+      "number": 14,
+      "geez_numeral": "፲፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "14. Priest: Let the inner ears of the heart be opened and not those planted outside; let the inner eyes of the heart be uncovered and not those which are bright outside.",
+      "uncertain": false
+     },
+     {
+      "id": "p245-04",
+      "kind": "paragraph",
+      "number": 15,
+      "geez_numeral": "፲፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "15. Let not our mind be like the wave of the sea which now ascends and now descends, but let it be like the pillar of fire which was from earth to heaven.",
+      "uncertain": false
+     },
+     {
+      "id": "p245-05",
+      "kind": "paragraph",
+      "number": 16,
+      "geez_numeral": "፲፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "16. Let our hearts be united in his fear like the golden curtain which is tightly woven.",
+      "uncertain": false
+     },
+     {
+      "id": "p245-06",
+      "kind": "paragraph",
+      "number": 17,
+      "geez_numeral": "፲፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "17. Let us raise our hands unto him and stretch them to the right and to the left as a sword of fire to frighten Satan as it was said.",
+      "uncertain": false
+     },
+     {
+      "id": "p245-07",
+      "kind": "paragraph",
+      "number": 18,
+      "geez_numeral": "፲፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "18. And let our feet stand firm in the house of God like candle-sticks which do not move day or night, and let us always live in such a way because God is regarding us.",
+      "uncertain": false
+     }
+    ],
+    "division": "d08"
+   },
+   {
+    "pdf_page": 246,
+    "printed_page_geez": "፪፻፴፯",
+    "printed_page": 237,
+    "section_geez": "ቅዳሴ አትናቴዎስ",
+    "section_english": "The Anaphora of St. Athanasius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p246-01",
+      "kind": "paragraph",
+      "number": 19,
+      "geez_numeral": "፲፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "19. Deacon: Look to the east.",
+      "uncertain": false
+     },
+     {
+      "id": "p246-02",
+      "kind": "paragraph",
+      "number": 20,
+      "geez_numeral": "፳",
+      "continued": null,
+      "heading_note": null,
+      "english": "20. Priest: Man that is in honour and understands not is like the beasts that perish.",
+      "uncertain": false
+     },
+     {
+      "id": "p246-03",
+      "kind": "paragraph",
+      "number": 21,
+      "geez_numeral": "፳፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "21. Man, being a king, knew not, and so, at his own will, debased himself and became a servant; and those who are not lords ruled over him.",
+      "uncertain": false
+     },
+     {
+      "id": "p246-04",
+      "kind": "paragraph",
+      "number": 22,
+      "geez_numeral": "፳፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "22. Man, being rich, knew not, and so, impoverished himself as it pleased him and let his stomach be hungry and his soul thirsty.",
+      "uncertain": false
+     },
+     {
+      "id": "p246-05",
+      "kind": "paragraph",
+      "number": 23,
+      "geez_numeral": "፳፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "23. O Lord, how much have you done for man! You did stretch heaven as a tent for his astonishment, and widen the earth for the tread of his feet.",
+      "uncertain": false
+     },
+     {
+      "id": "p246-06",
+      "kind": "paragraph",
+      "number": 24,
+      "geez_numeral": "፳፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "24. You keep water in the womb of clouds to feed him, you did light the sun that he might be illumined by day, you did prepare the moon lest the darkness of night should cover him, you did cause the light of the stars to shine upon him that he might know the work of your fingers, you did give him the days of the week, the years, the seasons and the days of the month so that he might serve you.",
+      "uncertain": false
+     }
+    ],
+    "division": "d08"
+   },
+   {
+    "pdf_page": 247,
+    "printed_page_geez": "፪፻፴፰",
+    "printed_page": 238,
+    "section_geez": "ቅዳሴ አትናቴዎስ",
+    "section_english": "The Anaphora of St. Athanasius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p247-01",
+      "kind": "paragraph",
+      "number": 25,
+      "geez_numeral": "፳፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "25. Oh, you did show the hard hearted man death and life, but he desired death and disdained life, not the death of the body prepared for the righteous and the unrighteous like sleep for a little while until the time, but eternal and everlasting death the days of which are innumerable and endless.",
+      "uncertain": false
+     },
+     {
+      "id": "p247-02",
+      "kind": "paragraph",
+      "number": 26,
+      "geez_numeral": "፳፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "26. Man, who had been clothed with a garment of light, let his body be found naked and was covered with garments of skins.",
+      "uncertain": false
+     },
+     {
+      "id": "p247-03",
+      "kind": "paragraph",
+      "number": 27,
+      "geez_numeral": "፳፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "27. Man, being a ruler under the Lord, stole and ate of the tree which was not prepared for him.",
+      "uncertain": false
+     },
+     {
+      "id": "p247-04",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p247-05",
+      "kind": "paragraph",
+      "number": 28,
+      "geez_numeral": "፳፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "28. O Adam, what wrong did we do to you that you did bring the sentence of death upon us? O Adam, what wrong did we do to you that you did not let us rejoice in paradise, the abode of the Lord?",
+      "uncertain": false
+     },
+     {
+      "id": "p247-06",
+      "kind": "paragraph",
+      "number": 29,
+      "geez_numeral": "፳፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "29. O Eve, what wrong did we do to you that now our body is darkened through the multitude of sins instead of being worthy to live in the likeness of the heavenly ones?",
+      "uncertain": false
+     },
+     {
+      "id": "p247-07",
+      "kind": "paragraph",
+      "number": 30,
+      "geez_numeral": "፴",
+      "continued": null,
+      "heading_note": null,
+      "english": "30. O Eve, what wrong did we do to you that now all your daughters weep when they give birth in pain and suffering and issue blood as you did make that tree in the garden to bleed?",
+      "uncertain": false
+     }
+    ],
+    "division": "d08"
+   },
+   {
+    "pdf_page": 248,
+    "printed_page_geez": "፪፻፴፱",
+    "printed_page": 239,
+    "section_geez": "ቅዳሴ አትናቴዎስ",
+    "section_english": "The Anaphora of St. Athanasius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p248-01",
+      "kind": "paragraph",
+      "number": 31,
+      "geez_numeral": "፴፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "31. O Adam and Eve, it is impossible for us to blame you as it is impossible for man to blame the tongue while speaking with it. Likewise you are one with us and we are of one kind with you.",
+      "uncertain": false
+     },
+     {
+      "id": "p248-02",
+      "kind": "paragraph",
+      "number": 32,
+      "geez_numeral": "፴፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "32. O Adam and Eve, you became penitent through the reproof of the merciful Lord. O Adam and Eve, you were truly saved and you entered into your previous inheritance through the blood of your Redeemer without hindrance. All the heretics who do not believe in your Redeemer are not your children though they seem to be like you.",
+      "uncertain": false
+     },
+     {
+      "id": "p248-03",
+      "kind": "paragraph",
+      "number": 33,
+      "geez_numeral": "፴፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "33. But we who believed in Your only Son are the true image and likeness, got from Your loins.",
+      "uncertain": false
+     },
+     {
+      "id": "p248-04",
+      "kind": "paragraph",
+      "number": 34,
+      "geez_numeral": "፴፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "34. Behold sin has consumed us, your children, like fire, and lust has burnt us, not the lust of the soul but the lust of the flesh through which the soul is destroyed.",
+      "uncertain": false
+     },
+     {
+      "id": "p248-05",
+      "kind": "paragraph",
+      "number": 35,
+      "geez_numeral": "፴፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "35. Henceforth let us say, Hail, you garden of happiness into which it is impossible for us to enter save by the breastplate.",
+      "uncertain": false
+     },
+     {
+      "id": "p248-06",
+      "kind": "paragraph",
+      "number": 36,
+      "geez_numeral": "፴፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "36. Hail O you eastern garden of Our Father Adam in which it is impossible for us to rejoice unless we make weak our bodies here.",
+      "uncertain": false
+     }
+    ],
+    "division": "d08"
+   },
+   {
+    "pdf_page": 249,
+    "printed_page_geez": "፪፻፵",
+    "printed_page": 240,
+    "section_geez": "ቅዳሴ አትናቴዎስ",
+    "section_english": "The Anaphora of St. Athanasius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p249-01",
+      "kind": "paragraph",
+      "number": 37,
+      "geez_numeral": "፴፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "37. Hail you ground of Eden in which it is impossible for us to walk unless we prevent our feet from vain walking.",
+      "uncertain": false
+     },
+     {
+      "id": "p249-02",
+      "kind": "paragraph",
+      "number": 38,
+      "geez_numeral": "፴፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "38. Let us also say, O Seraph, guard of the garden with the sword of fire, allow us to enter and see the abode of the Lord though we may not stay in it.",
+      "uncertain": false
+     },
+     {
+      "id": "p249-03",
+      "kind": "paragraph",
+      "number": 39,
+      "geez_numeral": "፴፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "39. O Seraph, allow us to enter and see the abode of life though we may not hide there.",
+      "uncertain": false
+     },
+     {
+      "id": "p249-04",
+      "kind": "paragraph",
+      "number": 40,
+      "geez_numeral": "፵",
+      "continued": null,
+      "heading_note": null,
+      "english": "40. O Seraph, allow us to enter into the garden and smell its perfume that its savour may be poured into our hearts.",
+      "uncertain": false
+     },
+     {
+      "id": "p249-05",
+      "kind": "paragraph",
+      "number": 41,
+      "geez_numeral": "፵፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "41. O Seraph, admit us into the previous inheritance of our father that we may be pleased with its trees, though we may not pluck with our hands from its fruit as before.",
+      "uncertain": false
+     },
+     {
+      "id": "p249-06",
+      "kind": "paragraph",
+      "number": 42,
+      "geez_numeral": "፵፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "42. O Seraph, allow us to enter and see the streams of light irrigating the garden, Gihon, Pison, Hiddekel and Euphrates.",
+      "uncertain": false
+     },
+     {
+      "id": "p249-07",
+      "kind": "paragraph",
+      "number": 43,
+      "geez_numeral": "፵፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "43. There is that which proceeds from the east and flows to the west to irrigate that which is there.",
+      "uncertain": false
+     },
+     {
+      "id": "p249-08",
+      "kind": "paragraph",
+      "number": 44,
+      "geez_numeral": "፵፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "44. There is that which proceeds from the west and flows to the east to irrigate that which is there.",
+      "uncertain": false
+     }
+    ],
+    "division": "d08"
+   },
+   {
+    "pdf_page": 250,
+    "printed_page_geez": "፪፻፵፩",
+    "printed_page": 241,
+    "section_geez": "ቅዳሴ አትናቴዎስ",
+    "section_english": "The Anaphora of St. Athanasius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p250-01",
+      "kind": "paragraph",
+      "number": 45,
+      "geez_numeral": "፵፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "45. There is that which springs from the south and is poured to the north to irrigate that which is there.",
+      "uncertain": false
+     },
+     {
+      "id": "p250-02",
+      "kind": "paragraph",
+      "number": 46,
+      "geez_numeral": "፵፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "46. There is that which springs from the north and is poured to the south to irrigate that which is there. As it was said, Wonderful is the movement of the sea, likewise wonderful is the movement of the rivers without noise. What shall we say: we play like the harp which has no soul.",
+      "uncertain": false
+     },
+     {
+      "id": "p250-03",
+      "kind": "paragraph",
+      "number": 47,
+      "geez_numeral": "፵፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "47. But we, who are anointed with the grace of God, true Christians, the people of Christ and Messiah, let us watch, hasten, be jealous and draw near to pass from honour to honour. First of all let us subject our bodies, and let us always separate our minds from dissipation that the Lord our God may willingly accept our prayer.",
+      "uncertain": false
+     },
+     {
+      "id": "p250-04",
+      "kind": "paragraph",
+      "number": 48,
+      "geez_numeral": "፵፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "48. Deacon: Let us give heed.",
+      "uncertain": false
+     },
+     {
+      "id": "p250-05",
+      "kind": "paragraph",
+      "number": 49,
+      "geez_numeral": "፵፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "49. Priest: We have not here a proud, swelling, and crooked city which is not straight, but we have that which is above where the prophets and apostles have come before us.",
+      "uncertain": false
+     },
+     {
+      "id": "p250-06",
+      "kind": "paragraph",
+      "number": 50,
+      "geez_numeral": "፶",
+      "continued": null,
+      "heading_note": null,
+      "english": "50. We have not here a house built on sand against which the winds blow and the floods beat, but the free Jerusalem which is above and into which the patriarchs, bishops, priests and deacons have entered before us.",
+      "uncertain": false
+     }
+    ],
+    "division": "d08"
+   },
+   {
+    "pdf_page": 251,
+    "printed_page_geez": "፪፻፵፪",
+    "printed_page": 242,
+    "section_geez": "ቅዳሴ አትናቴዎስ",
+    "section_english": "The Anaphora of St. Athanasius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p251-01",
+      "kind": "paragraph",
+      "number": 51,
+      "geez_numeral": "፶፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "51. And they, being clothed in flesh like us, resembled the angels in their lives, purified their souls, made white their garments, did not defile the abode of their body, and their names were written in the book of life through the blood of the Lamb.",
+      "uncertain": false
+     },
+     {
+      "id": "p251-02",
+      "kind": "paragraph",
+      "number": 52,
+      "geez_numeral": "፶፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "52. We, who were born in flesh like them, have three births: one is the holy baptism which makes us like Christ, one is the body and blood of Christ which forgive iniquity and sin, and one is the tears of penitence which flow from within like Jordan and bring us in purity before God. So let us all, being purified, wash our bodies with water.",
+      "uncertain": false
+     },
+     {
+      "id": "p251-03",
+      "kind": "paragraph",
+      "number": 53,
+      "geez_numeral": "፶፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "53. And let us be like the angels who praise God with the word of holiness, according to their ranks, their congregation, their tribes, their hosts, their names and their number. There are those who cover, those who encircle, those who make a joyful noise, those who sing, those who give thanks and those who glorify. Those of six wings say, Holy holy holy, perfect Lord of hosts. Let us say also with them, Holy holy holy God.",
+      "uncertain": false
+     },
+     {
+      "id": "p251-04",
+      "kind": "paragraph",
+      "number": 54,
+      "geez_numeral": "፶፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "54. Deacon: You answer. People: Holy holy holy, perfect Lord of hosts, heaven and earth are full of holiness of your glory.",
+      "uncertain": false
+     },
+     {
+      "id": "p251-05",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d08"
+   },
+   {
+    "pdf_page": 252,
+    "printed_page_geez": "፪፻፵፫",
+    "printed_page": 243,
+    "section_geez": "ቅዳሴ አትናቴዎስ",
+    "section_english": "The Anaphora of St. Athanasius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p252-01",
+      "kind": "paragraph",
+      "number": 55,
+      "geez_numeral": "፶፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "55. Priest: Come, let us exalt; come, let us praise; come, let us honour; come, let us celebrate the chief of the holy days which is the holy Sabbath of the Christians. Let us say, This is the day which the Lord has made; we will rejoice and be glad in it; and let us sing with Asaph, the prophet, saying: Rejoice in God who helped us.",
+      "uncertain": false
+     },
+     {
+      "id": "p252-02",
+      "kind": "paragraph",
+      "number": 56,
+      "geez_numeral": "፶፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "56. Truly let us rejoice in God who has granted us freedom from slavery, light from darkness; make a joyful noise unto the God of Jacob.",
+      "uncertain": false
+     },
+     {
+      "id": "p252-03",
+      "kind": "paragraph",
+      "number": 57,
+      "geez_numeral": "፶፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "57. Truly let us make a joyful noise unto the God of the holy prophets and unto the Lord of the pure apostles. Take a psalm and bring hither the timbrel.",
+      "uncertain": false
+     },
+     {
+      "id": "p252-04",
+      "kind": "paragraph",
+      "number": 58,
+      "geez_numeral": "፶፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "58. Truly let us take the Gospel in which there are humility and love, and let us leave the Law in which there are the judgement of death and the penalty of a life for a life: As the psaltery is pleasant with the harp so the commandment of the Gospel is good with its fulfillment.",
+      "uncertain": false
+     },
+     {
+      "id": "p252-05",
+      "kind": "paragraph",
+      "number": 59,
+      "geez_numeral": "፶፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "59. The harp is the Faith with which the martyrs are clothed. Blow up the trumpet in the new moon.",
+      "uncertain": false
+     },
+     {
+      "id": "p252-06",
+      "kind": "paragraph",
+      "number": 60,
+      "geez_numeral": "፷",
+      "continued": null,
+      "heading_note": null,
+      "english": "60. Truly let us say: Halleluia in the Psalm of David the prophet, in the time appointed, on our solemn feast day. Truly it is the appointed time in which God began to do his work.",
+      "uncertain": false
+     }
+    ],
+    "division": "d08"
+   },
+   {
+    "pdf_page": 253,
+    "printed_page_geez": "፪፻፵፬",
+    "printed_page": 244,
+    "section_geez": "ቅዳሴ አትናቴዎስ",
+    "section_english": "The Anaphora of St. Athanasius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p253-01",
+      "kind": "paragraph",
+      "number": 61,
+      "geez_numeral": "፷፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "61. Oh, this day is the first but not the last. Oh, this day is the last which exists forever.",
+      "uncertain": false
+     },
+     {
+      "id": "p253-02",
+      "kind": "paragraph",
+      "number": 62,
+      "geez_numeral": "፷፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "62. Oh, this day was declared to Abraham and caused him to desire, prophesy and rejoice.",
+      "uncertain": false
+     },
+     {
+      "id": "p253-03",
+      "kind": "paragraph",
+      "number": 63,
+      "geez_numeral": "፷፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "63. Oh, this day was declared to Moses on the Mount of Sinai and was hidden from the Israelites.",
+      "uncertain": false
+     },
+     {
+      "id": "p253-04",
+      "kind": "paragraph",
+      "number": 64,
+      "geez_numeral": "፷፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "64. Oh, this day was known by the prophets and was hidden from the people of the Jews, but to us it has been absolutely revealed; it alternates like the sun, it rules every week and reigns every week and is numbered every week.",
+      "uncertain": false
+     },
+     {
+      "id": "p253-05",
+      "kind": "paragraph",
+      "number": 65,
+      "geez_numeral": "፷፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "65. Oh, this day is what the Father hallowed, the Son blessed and the Holy Spirit exalted. Let us rejoice and be glad in it and sanctify it that we may be sanctified through it.",
+      "uncertain": false
+     },
+     {
+      "id": "p253-06",
+      "kind": "paragraph",
+      "number": 66,
+      "geez_numeral": "፷፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "66. O other days of the week, which are introduced through it to the seasons and to the days of the month, you come; let us praise the holy Sabbath of the Christians which is the chief of the holy days.",
+      "uncertain": false
+     },
+     {
+      "id": "p253-07",
+      "kind": "paragraph",
+      "number": 67,
+      "geez_numeral": "፷፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "67. Oh, this day is that in which the old ceased and the new was confirmed; Oh, this day is that in which the prisoners were released and the slaves were set free.",
+      "uncertain": false
+     }
+    ],
+    "division": "d08"
+   },
+   {
+    "pdf_page": 254,
+    "printed_page_geez": "፪፻፵፭",
+    "printed_page": 245,
+    "section_geez": "ቅዳሴ አትናቴዎስ",
+    "section_english": "The Anaphora of St. Athanasius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p254-01",
+      "kind": "paragraph",
+      "number": 68,
+      "geez_numeral": "፷፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "68. Oh, this day is that on which the ruined was rebuilt and Satan was destroyed.",
+      "uncertain": false
+     },
+     {
+      "id": "p254-02",
+      "kind": "paragraph",
+      "number": 69,
+      "geez_numeral": "፷፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "69. Again, when this day rules there will be a new work and a new thing; and at that time there will not be the light of the sun or the moon or the stars or candle or any light, winter or summer.",
+      "uncertain": false
+     },
+     {
+      "id": "p254-03",
+      "kind": "paragraph",
+      "number": 70,
+      "geez_numeral": "፸",
+      "continued": null,
+      "heading_note": null,
+      "english": "70. The earth will rest for seven days while there will not be in it any moving thing of all the living creatures. There will be sent a sounding word; through the same word the existing heaven will be destroyed and the earth will pass away.",
+      "uncertain": false
+     },
+     {
+      "id": "p254-04",
+      "kind": "paragraph",
+      "number": 71,
+      "geez_numeral": "፸፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "71. At that time the graves will be opened and the dead that waxed old from the beginning of the world will rise in the twinkling of an eye. The Father will grant to his Son the kingdom and the judgement; then there will be revealed the power of a new lightning and a fearful sound of thunder which ear has not heard and eye has not seen from the beginning.",
+      "uncertain": false
+     },
+     {
+      "id": "p254-05",
+      "kind": "paragraph",
+      "number": 72,
+      "geez_numeral": "፸፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "72. There will stand before him the fearful angels with the wings of fire who have no names, and whom they do not call such and such a one, and who lived within the veil of the Father, and they are the messengers of his face. Their wings will strike one against another, they will sound, thunder and draw out their swords and let them glitter to show their strength.",
+      "uncertain": false
+     }
+    ],
+    "division": "d08"
+   },
+   {
+    "pdf_page": 255,
+    "printed_page_geez": "፪፻፵፮",
+    "printed_page": 246,
+    "section_geez": "ቅዳሴ አትናቴዎስ",
+    "section_english": "The Anaphora of St. Athanasius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p255-01",
+      "kind": "paragraph",
+      "number": 73,
+      "geez_numeral": "፸፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "73. At that time the sea of fire will be opened to its very depth and the pit of frost which is under it will be opened also; the river of fire will flood that every one may see that which waists for him.",
+      "uncertain": false
+     },
+     {
+      "id": "p255-02",
+      "kind": "paragraph",
+      "number": 74,
+      "geez_numeral": "፸፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "74. At that time the books will be opened; the works will be revealed; the tongue will keep silent; the talkative mouth will be dumb, and all the creatures will stand in fear and tremble and there will be a great silence; and upon the whole earth there will not be a space as wide as a foot's span, and they will be thronged like the seeds in a pomegranate.",
+      "uncertain": false
+     },
+     {
+      "id": "p255-03",
+      "kind": "paragraph",
+      "number": 75,
+      "geez_numeral": "፸፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "75. At that time there will neither be short nor tall, neither black nor red, but one body and one appearance.",
+      "uncertain": false
+     },
+     {
+      "id": "p255-04",
+      "kind": "paragraph",
+      "number": 76,
+      "geez_numeral": "፸፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "76. At that time there will not be a ransom of the soul, neither will man be judged for his wife, nor the father for his son, nor the mother for her daughter, but everyone will take the recompense of his work.",
+      "uncertain": false
+     },
+     {
+      "id": "p255-05",
+      "kind": "paragraph",
+      "number": 77,
+      "geez_numeral": "፸፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "77. He will not be afraid of the rich because of his wealth but as it was accounted to him; he will not pity the poor because of his poverty unless he is pleased with him.",
+      "uncertain": false
+     },
+     {
+      "id": "p255-06",
+      "kind": "paragraph",
+      "number": 78,
+      "geez_numeral": "፸፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "78. At that time the righteous will rejoice because they mourned in their life, the sinners will weep because they loved laughter and mirth and because the day of recompense and condemnation will fall upon them.",
+      "uncertain": false
+     }
+    ],
+    "division": "d08"
+   },
+   {
+    "pdf_page": 256,
+    "printed_page_geez": "፪፻፵፯",
+    "printed_page": 247,
+    "section_geez": "ቅዳሴ አትናቴዎስ",
+    "section_english": "The Anaphora of St. Athanasius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p256-01",
+      "kind": "paragraph",
+      "number": 79,
+      "geez_numeral": "፸፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "79. At that time the rich will become poor because they completed their pleasure unrighteously, and the poor will become rich because they accepted their poverty with thankfulness.",
+      "uncertain": false
+     },
+     {
+      "id": "p256-02",
+      "kind": "paragraph",
+      "number": 80,
+      "geez_numeral": "፹",
+      "continued": null,
+      "heading_note": null,
+      "english": "80. At that time the hungry will be satisfied because they suffered in their lives.",
+      "uncertain": false
+     },
+     {
+      "id": "p256-03",
+      "kind": "paragraph",
+      "number": 81,
+      "geez_numeral": "፹፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "81. At that time the speakers will keep silent because they spoke vain and worthless (words). But the patient will speak because they did not let their tongue run to backbiting and did not sadden their neighbour at all.",
+      "uncertain": false
+     },
+     {
+      "id": "p256-04",
+      "kind": "paragraph",
+      "number": 82,
+      "geez_numeral": "፹፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "82. At that time the strong will become weak because they destroyed their bodies in fornication, and the weak will become strong because they weakened their strength in prostration and watchfulness day and night.",
+      "uncertain": false
+     },
+     {
+      "id": "p256-05",
+      "kind": "paragraph",
+      "number": 83,
+      "geez_numeral": "፹፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "83. At that time the hands of the powerful will become withered because they stretched their hands to steal and caused the widow and the orphan to weep.",
+      "uncertain": false
+     },
+     {
+      "id": "p256-06",
+      "kind": "paragraph",
+      "number": 84,
+      "geez_numeral": "፹፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "84. At that time the rejected will fly like eagles, their wings will develop and their strength will be renewed.",
+      "uncertain": false
+     },
+     {
+      "id": "p256-07",
+      "kind": "paragraph",
+      "number": 85,
+      "geez_numeral": "፹፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "85. At that time the haughty and the proud will be uncovered and their nakedness will be revealed.",
+      "uncertain": false
+     }
+    ],
+    "division": "d08"
+   },
+   {
+    "pdf_page": 257,
+    "printed_page_geez": "፪፻፵፰",
+    "printed_page": 248,
+    "section_geez": "ቅዳሴ አትናቴዎስ",
+    "section_english": "The Anaphora of St. Athanasius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p257-01",
+      "kind": "paragraph",
+      "number": 86,
+      "geez_numeral": "፹፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "86. At that time that naked will be clothed because the showers of rain and the dew wet them and they suffered from cold and frost, and the heat of the sun burnt them.",
+      "uncertain": false
+     },
+     {
+      "id": "p257-02",
+      "kind": "paragraph",
+      "number": 87,
+      "geez_numeral": "፹፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "87. At that time there will be neither spear nor shield, neither bow nor arrow, because everything on earth will pass away.",
+      "uncertain": false
+     },
+     {
+      "id": "p257-03",
+      "kind": "paragraph",
+      "number": 88,
+      "geez_numeral": "፹፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "88. At that time the King will judge a right judgement which has no partiality of persons.",
+      "uncertain": false
+     },
+     {
+      "id": "p257-04",
+      "kind": "paragraph",
+      "number": 89,
+      "geez_numeral": "፹፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "89. At that time the sinners will be separated from the righteous, and the unclean from the clean.",
+      "uncertain": false
+     },
+     {
+      "id": "p257-05",
+      "kind": "paragraph",
+      "number": 90,
+      "geez_numeral": "፺",
+      "continued": null,
+      "heading_note": null,
+      "english": "90. How great will be the shout of that time, how great will be the cry of that time, and how much will be the tears of that time when the Creator will weep for his creatures formed with his hand, when he will see them going in the way of destruction!",
+      "uncertain": false
+     },
+     {
+      "id": "p257-06",
+      "kind": "paragraph",
+      "number": 91,
+      "geez_numeral": "፺፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "91. At that time the sinners will weep for themselves, the righteous will weep for their relatives and the angels of heaven will be sad for the creation of man.",
+      "uncertain": false
+     },
+     {
+      "id": "p257-07",
+      "kind": "paragraph",
+      "number": 92,
+      "geez_numeral": "፺፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "92. At that time the assistant priest shall go round the altar holding the censer.",
+      "uncertain": false
+     },
+     {
+      "id": "p257-08",
+      "kind": "paragraph",
+      "number": 93,
+      "geez_numeral": "፺፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "93. Priest: At that time when all is fulfilled there will be pitched a tent of light for his elect and his righteous and there will be stretched a curtain of fire of seven divisions for them.",
+      "uncertain": false
+     }
+    ],
+    "division": "d08"
+   },
+   {
+    "pdf_page": 258,
+    "printed_page_geez": "፪፻፵፱",
+    "printed_page": 249,
+    "section_geez": "ቅዳሴ አትናቴዎስ",
+    "section_english": "The Anaphora of St. Athanasius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p258-01",
+      "kind": "paragraph",
+      "number": 94,
+      "geez_numeral": "፺፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "94. There will enter the High Priest Jesus Christ into the mystery and he will have the priests stand at his right hand and the deacon at his left hand to show them the order of the mystery.",
+      "uncertain": false
+     },
+     {
+      "id": "p258-02",
+      "kind": "paragraph",
+      "number": 95,
+      "geez_numeral": "፺፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "95. What will the mystery of that time look like, what will be its name and what will be spoken about it? Today it is impossible for them to speak about it, and to conceive it is not in the heart of mortal man.",
+      "uncertain": false
+     },
+     {
+      "id": "p258-03",
+      "kind": "paragraph",
+      "number": 96,
+      "geez_numeral": "፺፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "96. O ordained priests, honour be to you when you minister with the Lord of heaven and earth.",
+      "uncertain": false
+     },
+     {
+      "id": "p258-04",
+      "kind": "paragraph",
+      "number": 97,
+      "geez_numeral": "፺፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "97. O chosen deacons who resemble a pure spring of gold, joy be to you when you see the wonderful mystery.",
+      "uncertain": false
+     },
+     {
+      "id": "p258-05",
+      "kind": "paragraph",
+      "number": 98,
+      "geez_numeral": "፺፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "98. O holy fathers who resemble the pure golden pillars standing on the sapphire stones, you will be worthy to be called blessed.",
+      "uncertain": false
+     },
+     {
+      "id": "p258-06",
+      "kind": "paragraph",
+      "number": 99,
+      "geez_numeral": "፺፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "99. O all believers who resemble the bright stars, greatness will be yours when you enter into that wedding, the marriage of Christ, greatness will be yours when you see your God girded and walking with you and giving you his gifts.",
+      "uncertain": false
+     },
+     {
+      "id": "p258-07",
+      "kind": "paragraph",
+      "number": 100,
+      "geez_numeral": "፻",
+      "continued": null,
+      "heading_note": null,
+      "english": "100. At that time pray and intercede on our behalf that he may have compassion and mercy upon us not according to our merit but according to your merit, not according to our evil deeds but according to the mercy of our God.",
+      "uncertain": false
+     }
+    ],
+    "division": "d08"
+   },
+   {
+    "pdf_page": 259,
+    "printed_page_geez": "፪፻፶",
+    "printed_page": 250,
+    "section_geez": "ቅዳሴ አትናቴዎስ",
+    "section_english": "The Anaphora of St. Athanasius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p259-01",
+      "kind": "paragraph",
+      "number": 101,
+      "geez_numeral": "፻፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "101. People: According to your mercy, our God, and not according to our sins. (to be repeated thrice)",
+      "uncertain": false
+     },
+     {
+      "id": "p259-02",
+      "kind": "paragraph",
+      "number": 102,
+      "geez_numeral": "፻፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "102. Priest: We pray you, Lord, and beseech you on behalf of our fathers and brothers who have fallen asleep and departed from this corruptible world, grant them to rest well because there is no one pure before you from filthiness since man is the mire of sin.",
+      "uncertain": false
+     },
+     {
+      "id": "p259-03",
+      "kind": "paragraph",
+      "number": 103,
+      "geez_numeral": "፻፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "103. If you, Lord, should mark iniquities, O Lord, who shall stand before you.",
+      "uncertain": false
+     },
+     {
+      "id": "p259-04",
+      "kind": "paragraph",
+      "number": 104,
+      "geez_numeral": "፻፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "104. Today on this day the Sabbath of light, in which your body and blood are prepared, we remember those whose names we know through the word of this deacon, and remember you through your mercy those whose names we do not know. Write their names in the book of life in free Jerusalem.",
+      "uncertain": false
+     },
+     {
+      "id": "p259-05",
+      "kind": "paragraph",
+      "number": 105,
+      "geez_numeral": "፻፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "105. Deacon: For the sake of the blessed … (Anaphora of the Apostles No. 6-9).",
+      "uncertain": false
+     },
+     {
+      "id": "p259-06",
+      "kind": "paragraph",
+      "number": 106,
+      "geez_numeral": "፻፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "106. Asst. Priest: Prayer of benediction. (Anaphora of the Apostles No. 10-21).",
+      "uncertain": false
+     },
+     {
+      "id": "p259-07",
+      "kind": "paragraph",
+      "number": 107,
+      "geez_numeral": "፻፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "107. Asst. Deacon: Lord, pity and have mercy upon the patriarchs, archbishops, bishops, priests, deacons and all the Christian people.",
+      "uncertain": false
+     },
+     {
+      "id": "p259-08",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d08"
+   },
+   {
+    "pdf_page": 260,
+    "printed_page_geez": "፪፻፶፩",
+    "printed_page": 251,
+    "section_geez": "ቅዳሴ አትናቴዎስ",
+    "section_english": "The Anaphora of St. Athanasius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p260-01",
+      "kind": "paragraph",
+      "number": 108,
+      "geez_numeral": "፻፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "108. Priest: Before this your Anaphora there are glory, thanksgiving, greatness and exaltation. Jesus Christ the Son of the living God, your greatness is inestimable, your kingdom is endless, your government is unlimited, and your rule is boundless.",
+      "uncertain": false
+     },
+     {
+      "id": "p260-02",
+      "kind": "paragraph",
+      "number": 109,
+      "geez_numeral": "፻፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "109. It is not known whence your divinity proceeds, and where your existence takes place; it is not understood when your divinity floods, and where your nature is limited.",
+      "uncertain": false
+     },
+     {
+      "id": "p260-03",
+      "kind": "paragraph",
+      "number": 110,
+      "geez_numeral": "፻፲",
+      "continued": null,
+      "heading_note": null,
+      "english": "110. The mind of man can not reach your beginning and the speed of angels can not find your end. You are invisible to the eyes of all, and you are heard by the ears of all.",
+      "uncertain": false
+     },
+     {
+      "id": "p260-04",
+      "kind": "paragraph",
+      "number": 111,
+      "geez_numeral": "፻፲፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "111. You are far and high from the eyes of all, and you are near all those who fear you, you rest with them and fulfill their will.",
+      "uncertain": false
+     },
+     {
+      "id": "p260-05",
+      "kind": "paragraph",
+      "number": 112,
+      "geez_numeral": "፻፲፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "112. O you who desire not the death of the sinner but his return:",
+      "uncertain": false
+     },
+     {
+      "id": "p260-06",
+      "kind": "paragraph",
+      "number": 113,
+      "geez_numeral": "፻፲፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "113. O you who let the infant proceed from the loins of man and send it to the womb of woman and wrap it with a very thin covering, and congeal it through your wisdom while it is water, and do breathe upon it the Spirit of life, and on the fortieth day you do predestinate it either for riches or poverty, justification or destruction:",
+      "uncertain": false
+     }
+    ],
+    "division": "d08"
+   },
+   {
+    "pdf_page": 261,
+    "printed_page_geez": "፪፻፶፪",
+    "printed_page": 252,
+    "section_geez": "ቅዳሴ አትናቴዎስ",
+    "section_english": "The Anaphora of St. Athanasius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p261-01",
+      "kind": "paragraph",
+      "number": 114,
+      "geez_numeral": "፻፲፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "114. Also you take it out from there, open its eyes to see the earth to which it will return, open its throat to cry and move its hands and feet to know the breast of its mother:",
+      "uncertain": false
+     },
+     {
+      "id": "p261-02",
+      "kind": "paragraph",
+      "number": 115,
+      "geez_numeral": "፻፲፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "115. O you who let it grow and mature and reach old age:",
+      "uncertain": false
+     },
+     {
+      "id": "p261-03",
+      "kind": "paragraph",
+      "number": 116,
+      "geez_numeral": "፻፲፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "116. O you who let the wind sound without being seen, and make the mist go without sound:",
+      "uncertain": false
+     },
+     {
+      "id": "p261-04",
+      "kind": "paragraph",
+      "number": 117,
+      "geez_numeral": "፻፲፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "117. O you who have the treasury of glory which all glories cannot fill:",
+      "uncertain": false
+     },
+     {
+      "id": "p261-05",
+      "kind": "paragraph",
+      "number": 118,
+      "geez_numeral": "፻፲፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "118. Who, like you, has covered his throne with fire, has drawn the picture of water in his garments; who, like you, has weighed the mountains with balances and measured the sea water in the hollow of his hand?",
+      "uncertain": false
+     },
+     {
+      "id": "p261-06",
+      "kind": "paragraph",
+      "number": 119,
+      "geez_numeral": "፻፲፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "119. Who, like you, lays the beams of his chambers in the water, makes his surrounding walls of fire? Neither the upper firmament of water descends to the surrounding walls of fire through your wisdom, nor do the lower surrounding walls ascend to the firmament of water of your existence.",
+      "uncertain": false
+     },
+     {
+      "id": "p261-07",
+      "kind": "paragraph",
+      "number": 120,
+      "geez_numeral": "፻፳",
+      "continued": null,
+      "heading_note": null,
+      "english": "120. This is a wonderful, admirable and marvellous thing. Of which shall I think and about which shall I marvel? O your existence with your Father in silence and holiness? Or of your babyhood in the bosom of your mother like other babies?",
+      "uncertain": false
+     }
+    ],
+    "division": "d08"
+   },
+   {
+    "pdf_page": 262,
+    "printed_page_geez": "፪፻፶፫",
+    "printed_page": 253,
+    "section_geez": "ቅዳሴ አትናቴዎስ",
+    "section_english": "The Anaphora of St. Athanasius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p262-01",
+      "kind": "paragraph",
+      "number": 121,
+      "geez_numeral": "፻፳፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "121. Of which shall I think and about which shall I marvel? Of the glory sent to you by the Seraphim like the waves of the sea? Or of your standing in humility in Jordan?",
+      "uncertain": false
+     },
+     {
+      "id": "p262-02",
+      "kind": "paragraph",
+      "number": 122,
+      "geez_numeral": "፻፳፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "122. O Lord, while you are above, you are alone beneath, and while you are beneath, you are above in Trinity.",
+      "uncertain": false
+     },
+     {
+      "id": "p262-03",
+      "kind": "paragraph",
+      "number": 123,
+      "geez_numeral": "፻፳፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "123. We spoke, as much as we could, even till heaven, but we could not pass beyond that, because there is the sea of fire which would not let our mind go any further. You yourself know your nature, and you yourself understand your divinity. At this time he shall cense. (Anaphora of the Apostles No. 35).",
+      "uncertain": false
+     },
+     {
+      "id": "p262-04",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p262-05",
+      "kind": "paragraph",
+      "number": 124,
+      "geez_numeral": "፻፳፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "124. People: Remember us, Lord, in your kingdom … (Anaphora of the Apostles No. 34).",
+      "uncertain": false
+     },
+     {
+      "id": "p262-06",
+      "kind": "paragraph",
+      "number": 125,
+      "geez_numeral": "፻፳፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "125. Priest: This (pointing) bread, even your body, we offer unto you. And this (pointing) cup, even your blood, we offer unto you. Because of our sin and iniquity and because of the folly of your people you did not hide the mystery of your divinity's greatness from your disciples.",
+      "uncertain": false
+     },
+     {
+      "id": "p262-07",
+      "kind": "paragraph",
+      "number": 126,
+      "geez_numeral": "፻፳፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "126. Deacon: Priests, raise up your hands.",
+      "uncertain": false
+     },
+     {
+      "id": "p262-08",
+      "kind": "paragraph",
+      "number": 127,
+      "geez_numeral": "፻፳፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "127. Priest: You did take bread before them. (At this time he shall raise the bread).",
+      "uncertain": false
+     }
+    ],
+    "division": "d08"
+   },
+   {
+    "pdf_page": 263,
+    "printed_page_geez": "፪፻፶፬",
+    "printed_page": 254,
+    "section_geez": "ቅዳሴ አትናቴዎስ",
+    "section_english": "The Anaphora of St. Athanasius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p263-01",
+      "kind": "paragraph",
+      "number": 128,
+      "geez_numeral": "፻፳፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "128. People: We believe that this is He, truly we believe.",
+      "uncertain": false
+     },
+     {
+      "id": "p263-02",
+      "kind": "paragraph",
+      "number": 129,
+      "geez_numeral": "፻፳፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "129. Priest: You did give thanks, bless (benediction three times) and break.",
+      "uncertain": false
+     },
+     {
+      "id": "p263-03",
+      "kind": "paragraph",
+      "number": 130,
+      "geez_numeral": "፻፴",
+      "continued": null,
+      "heading_note": null,
+      "english": "130. Then he shall indent the Host lightly with his thumb in five places without separation. And you did give it to them saying, Take, eat, this (pointing) bread is my body which does not differ from it.",
+      "uncertain": false
+     },
+     {
+      "id": "p263-04",
+      "kind": "paragraph",
+      "number": 131,
+      "geez_numeral": "፻፴፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "131. People: Amen amen amen, we believe and confess, we glorify you, O our Lord and our God; that this is He we truly believe.",
+      "uncertain": false
+     },
+     {
+      "id": "p263-05",
+      "kind": "paragraph",
+      "number": 132,
+      "geez_numeral": "፻፴፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "132. Priest: And likewise also the cup: mixing water with wine therein, you did give thanks, bless and hallow (benediction three times) and you did give it to them saying, Take, drink, this (pointing) cup is my blood which does not differ from it. He shall move the cup with his right hand in the sign of the cross. People: Amen amen amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p263-06",
+      "kind": "paragraph",
+      "number": 133,
+      "geez_numeral": "፻፴፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "133. Priest: As often as you eat this bread, and drink this cup proclaim my death and my resurrection and believe in my ascension into heaven, hoping for my second advent in glory. People: We proclaim Your death Lord and Your Holy resurrection.",
+      "uncertain": false
+     }
+    ],
+    "division": "d08"
+   },
+   {
+    "pdf_page": 264,
+    "printed_page_geez": "፪፻፶፭",
+    "printed_page": 255,
+    "section_geez": "ቅዳሴ አትናቴዎስ",
+    "section_english": "The Anaphora of St. Athanasius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p264-01",
+      "kind": "paragraph",
+      "number": 134,
+      "geez_numeral": "፻፴፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "134. Priest: As you did not hide from your disciples the mystery of your divinity's greatness, they also did not hide anything from us, and they ordained us patriarchs, bishops, priests and deacons to serve your church.",
+      "uncertain": false
+     },
+     {
+      "id": "p264-02",
+      "kind": "paragraph",
+      "number": 135,
+      "geez_numeral": "፻፴፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "135. Cut off from the earth the remembrance of all who reject our law, and do not write their names in the book of life.",
+      "uncertain": false
+     },
+     {
+      "id": "p264-03",
+      "kind": "paragraph",
+      "number": 136,
+      "geez_numeral": "፻፴፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "136. Hang chains of fire round the necks of all those who do not agree with the congregation of the apostles in the holy church, that they may be drawn by them into great sorrow.",
+      "uncertain": false
+     },
+     {
+      "id": "p264-04",
+      "kind": "paragraph",
+      "number": 137,
+      "geez_numeral": "፻፴፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "137. Draw out your sword and stop the way against all of them that hate your holy name, and let the earth which they tread be a slough and swallow them up that they may go down alive into hell.",
+      "uncertain": false
+     },
+     {
+      "id": "p264-05",
+      "kind": "paragraph",
+      "number": 138,
+      "geez_numeral": "፻፴፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "138. And keep us through your mercy, we that are persecuted for your name, and have been plundered by the heretics, that we may strengthen the hearts of your believers.",
+      "uncertain": false
+     },
+     {
+      "id": "p264-06",
+      "kind": "paragraph",
+      "number": 139,
+      "geez_numeral": "፻፴፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "139. People: Amen, Lord have pity upon us, Lord spare us, Lord have mercy upon us:",
+      "uncertain": false
+     },
+     {
+      "id": "p264-07",
+      "kind": "paragraph",
+      "number": 140,
+      "geez_numeral": "፻፵",
+      "continued": null,
+      "heading_note": null,
+      "english": "140. Priest: Because the cunning opposers who do not pity your flock have multiplied.",
+      "uncertain": false
+     }
+    ],
+    "division": "d08"
+   },
+   {
+    "pdf_page": 265,
+    "printed_page_geez": "፪፻፶፮",
+    "printed_page": 256,
+    "section_geez": "ቅዳሴ አትናቴዎስ",
+    "section_english": "The Anaphora of St. Athanasius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p265-01",
+      "kind": "paragraph",
+      "number": 141,
+      "geez_numeral": "፻፵፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "141. Deacon: With all the heart let us beseech the Lord our God that he grant unto us the good communion of the Holy Spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p265-02",
+      "kind": "paragraph",
+      "number": 142,
+      "geez_numeral": "፻፵፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "142. People: As it was, is and shall be unto generations of generations, world without end.",
+      "uncertain": false
+     },
+     {
+      "id": "p265-03",
+      "kind": "paragraph",
+      "number": 143,
+      "geez_numeral": "፻፵፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "143. At this time he shall dip his finger into the Blood and sign the Body. Priest: Grant it together unto all of them, hallowing one through another. (benediction once over the bread, once over the cup, and once more over both).",
+      "uncertain": false
+     },
+     {
+      "id": "p265-04",
+      "kind": "paragraph",
+      "number": 144,
+      "geez_numeral": "፻፵፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "144. O Son, cry as a sufferer and say, Eloi, Eloi, lama sabachthani and while it is in their mouth say, Abba, my Father, have compassion and mercy on those who eat my body and drink my blood.",
+      "uncertain": false
+     },
+     {
+      "id": "p265-05",
+      "kind": "paragraph",
+      "number": 145,
+      "geez_numeral": "፻፵፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "145. Priest: Grant us to be united through your Holy Spirit, heal us by this oblation that we may live in you forever. People: The people shall repeat his words.",
+      "uncertain": false
+     },
+     {
+      "id": "p265-06",
+      "kind": "paragraph",
+      "number": 146,
+      "geez_numeral": "፻፵፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "146. Priest: Blessed be the name of the Lord, and blessed be he that comes in the name of the Lord, and let the name of his glory be blessed. So be it, so be it, so be it blessed. People: The people shall repeat his words.",
+      "uncertain": false
+     }
+    ],
+    "division": "d08"
+   },
+   {
+    "pdf_page": 266,
+    "printed_page_geez": "፪፻፶፯",
+    "printed_page": 257,
+    "section_geez": "ቅዳሴ አትናቴዎስ",
+    "section_english": "The Anaphora of St. Athanasius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p266-01",
+      "kind": "paragraph",
+      "number": 147,
+      "geez_numeral": "፻፵፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "147. Priest: Send the grace of the Holy Spirit upon us. People: The people shall repeat his words.",
+      "uncertain": false
+     },
+     {
+      "id": "p266-02",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p266-03",
+      "kind": "paragraph",
+      "number": 148,
+      "geez_numeral": "፻፵፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "148. Deacon: Stand up for prayer. People: Lord have mercy upon us. Priest: Peace be unto you all. People: And with your spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p266-04",
+      "kind": "paragraph",
+      "number": 149,
+      "geez_numeral": "፻፵፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "149. Priest: Prayer of Fraction. Again we supplicate the God of mercy and minister to him who is himself the minister; we sacrifice to him who is himself the sacrifice, and we offer to him who is himself the offering.",
+      "uncertain": false
+     },
+     {
+      "id": "p266-05",
+      "kind": "paragraph",
+      "number": 150,
+      "geez_numeral": "፻፶",
+      "continued": null,
+      "heading_note": null,
+      "english": "150. Let that lamb come from the highest that we may see him with our eyes, slay him with our hands and rejoice in him.",
+      "uncertain": false
+     },
+     {
+      "id": "p266-06",
+      "kind": "paragraph",
+      "number": 151,
+      "geez_numeral": "፻፶፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "151. May his body be rejoined with this bread and may his blood be poured into this cup.",
+      "uncertain": false
+     },
+     {
+      "id": "p266-07",
+      "kind": "paragraph",
+      "number": 152,
+      "geez_numeral": "፻፶፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "152. Let none of us think when he eats of this bread that he eats mere flesh without blood and Spirit. Let none of us think when he drinks of this cup that he drinks mere blood without body and Spirit; but one is the Body, Blood and Spirit,",
+      "uncertain": false
+     },
+     {
+      "id": "p266-08",
+      "kind": "paragraph",
+      "number": 153,
+      "geez_numeral": "፻፶፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "153. as the divinity of the Lord our God became one with his humanity.",
+      "uncertain": false
+     }
+    ],
+    "division": "d08"
+   },
+   {
+    "pdf_page": 267,
+    "printed_page_geez": "፪፻፶፰",
+    "printed_page": 258,
+    "section_geez": "ቅዳሴ አትናቴዎስ",
+    "section_english": "The Anaphora of St. Athanasius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p267-01",
+      "kind": "paragraph",
+      "number": 154,
+      "geez_numeral": "፻፶፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "154. Deacon: You pray. People: Our father who are in heaven … (Anaphora of the Apostles No. 60)",
+      "uncertain": false
+     },
+     {
+      "id": "p267-02",
+      "kind": "paragraph",
+      "number": 155,
+      "geez_numeral": "፻፶፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "155. Priest: We pray you, O Father, and beseech your kindness to send your beloved Son, whose nature can not be traced, being the fire of the godhead.",
+      "uncertain": false
+     },
+     {
+      "id": "p267-03",
+      "kind": "paragraph",
+      "number": 156,
+      "geez_numeral": "፻፶፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "156. Therefore let us see him who resembles fire in the spiritual rite of his death, of his death which speaks. May Jesus Christ be joined with this sacrifice, world without end.",
+      "uncertain": false
+     },
+     {
+      "id": "p267-04",
+      "kind": "paragraph",
+      "number": 157,
+      "geez_numeral": "፻፶፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "157. People: The hosts of the angels of the Saviour of the world stand before the Saviour of the world, and they encircle the Saviour of the world, even the body and blood of the Saviour of the world. Let us draw near to the face of the Saviour of the world. In the faith which is of him let us submit ourselves to Christ.",
+      "uncertain": false
+     },
+     {
+      "id": "p267-05",
+      "kind": "paragraph",
+      "number": 158,
+      "geez_numeral": "፻፶፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "158. Asst. Deacon: You princes, open the gates.",
+      "uncertain": false
+     },
+     {
+      "id": "p267-06",
+      "kind": "paragraph",
+      "number": 159,
+      "geez_numeral": "፻፶፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "159. Deacon: You, who are standing, bow your heads.",
+      "uncertain": false
+     },
+     {
+      "id": "p267-07",
+      "kind": "paragraph",
+      "number": 160,
+      "geez_numeral": "፻፷",
+      "continued": null,
+      "heading_note": null,
+      "english": "160. Priest: O this day, the holy Sabbath of Christians, you are glorious like the Father, ruling like the Son, and living like the Holy Spirit. O this day, the holy Sabbath of the Christians, offer prayer and supplication towards the Lord our God on behalf of us, world without end.",
+      "uncertain": false
+     }
+    ],
+    "division": "d08"
+   },
+   {
+    "pdf_page": 268,
+    "printed_page_geez": "፪፻፶፱",
+    "printed_page": 259,
+    "section_geez": "ቅዳሴ አትናቴዎስ",
+    "section_english": "The Anaphora of St. Athanasius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p268-01",
+      "kind": "paragraph",
+      "number": 161,
+      "geez_numeral": "፻፷፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "161. Deacon: Worship the Lord with fear. People: Before you, Lord, we worship, and we do glorify you.",
+      "uncertain": false
+     },
+     {
+      "id": "p268-02",
+      "kind": "paragraph",
+      "number": 162,
+      "geez_numeral": "፻፷፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "162. Priest: Prayer of Penitence. (Anaphora of the Apostles No. 79-88).",
+      "uncertain": false
+     },
+     {
+      "id": "p268-03",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p268-04",
+      "kind": "paragraph",
+      "number": 163,
+      "geez_numeral": "፻፷፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "163. Deacon: Give heed. Priest: Holy things for the holy. People: One is the Holy Father, one is the Holy Son, one is the Holy Spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p268-05",
+      "kind": "paragraph",
+      "number": 164,
+      "geez_numeral": "፻፷፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "164. Priest: The Lord be with you all. People: And with your spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p268-06",
+      "kind": "paragraph",
+      "number": 165,
+      "geez_numeral": "፻፷፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "165. The priest shall then lift up the whole Host with his hand and say: O Lord Christ, have compassion upon us. (three times in a loud chant, and fifteen times in a low chant). The people shall repeat his words. Then the priest shall repeat them three times, and the people twice.",
+      "uncertain": false
+     },
+     {
+      "id": "p268-07",
+      "kind": "paragraph",
+      "number": 166,
+      "geez_numeral": "፻፷፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "166. Deacon: You, that are penitent, bow your heads.",
+      "uncertain": false
+     },
+     {
+      "id": "p268-08",
+      "kind": "paragraph",
+      "number": 167,
+      "geez_numeral": "፻፷፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "167. Then the priest shall turn to the people and say: Priest: Lord our God, look upon those who are penitent. (Anaphora of the Apostle No. 95-96)",
+      "uncertain": false
+     },
+     {
+      "id": "p268-09",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d08"
+   },
+   {
+    "pdf_page": 269,
+    "printed_page_geez": "፪፻፷",
+    "printed_page": 260,
+    "section_geez": "ቅዳሴ አትናቴዎስ",
+    "section_english": "The Anaphora of St. Athanasius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p269-01",
+      "kind": "paragraph",
+      "number": 168,
+      "geez_numeral": "፻፷፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "168. After receiving the Holy Communion. Priest: Pilot of the soul. As David said in the Psalms: Lord, who shall abide in your tabernacle? Who shall dwell in the hill of your sanctuary?",
+      "uncertain": false
+     },
+     {
+      "id": "p269-02",
+      "kind": "paragraph",
+      "number": 169,
+      "geez_numeral": "፻፷፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "169. Then the Holy Spirit answered and said: He that walks uprightly, and works righteousness, and speaks the truth in his heart. He who does not backbite with his tongue nor does evil to his neighbour, nor takes up a reproach against his neighbour. In whose eyes a vile person is contemned; but he honours them that fear the Lord. He that swears to his neighbour and does not lie. He that puts not out his money to usury, nor take a bribe against the innocent. He that does these things shall never be moved.",
+      "uncertain": false
+     },
+     {
+      "id": "p269-03",
+      "kind": "paragraph",
+      "number": 170,
+      "geez_numeral": "፻፸",
+      "continued": null,
+      "heading_note": null,
+      "english": "170. Again he said: Who shall ascend into the hill of the Lord? Or who shall stand in the place of his sanctuary?",
+      "uncertain": false
+     },
+     {
+      "id": "p269-04",
+      "kind": "paragraph",
+      "number": 171,
+      "geez_numeral": "፻፸፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "171. Then the Holy Spirit answered and said: He that has a pure heart and clean hands; who has not lifted up his soul unto vanity, nor sworn to his neighbour deceitfully. He shall receive the blessing from the Lord, and shall enter the city whose builder and maker is the Lord our God. Deacon: You pray.",
+      "uncertain": false
+     }
+    ],
+    "division": "d08"
+   },
+   {
+    "pdf_page": 270,
+    "printed_page_geez": "፪፻፷፩",
+    "printed_page": 261,
+    "section_geez": "ቅዳሴ አትናቴዎስ",
+    "section_english": "The Anaphora of St. Athanasius",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p270-01",
+      "kind": "paragraph",
+      "number": 172,
+      "geez_numeral": "፻፸፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "172. Priest: come let us exalt; come, let us praise; come, let us honour; come, let us celebrate the chief of the holy days which is the holy Sabbath of the Christians.",
+      "uncertain": false
+     },
+     {
+      "id": "p270-02",
+      "kind": "paragraph",
+      "number": 173,
+      "geez_numeral": "፻፸፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "173. As we rejoiced yesterday at its entering so also let us bid it farewell rejoicing still as it departs, watching it for our body's rest.",
+      "uncertain": false
+     },
+     {
+      "id": "p270-03",
+      "kind": "paragraph",
+      "number": 174,
+      "geez_numeral": "፻፸፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "174. And our rest is not to sleep like a suffering one in his disease, but to watch day and night that we may be beloved of this day.",
+      "uncertain": false
+     },
+     {
+      "id": "p270-04",
+      "kind": "paragraph",
+      "number": 175,
+      "geez_numeral": "፻፸፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "175. Again let us say, Pray for us and intercede towards the Lord our God for us who have become like animals and even have done evil more than them.",
+      "uncertain": false
+     },
+     {
+      "id": "p270-05",
+      "kind": "paragraph",
+      "number": 176,
+      "geez_numeral": "፻፸፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "176. O holy, come unto us every week that we may rejoice in you, world without end. People: Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p270-06",
+      "kind": "paragraph",
+      "number": 177,
+      "geez_numeral": "፻፸፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "177. The Laying of the Hand. Priest: He called them \"my priests\", and loved them more than all. That which was not done to the angels has been done to the priests.",
+      "uncertain": false
+     },
+     {
+      "id": "p270-07",
+      "kind": "paragraph",
+      "number": 178,
+      "geez_numeral": "፻፸፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "178. O Lord our God and our Father who are in heaven, grant that the holy body of your Son and the precious blood of your Messiah, which we have received at the hands of the priests, may be for life, salvation, remission of sin and everlasting life, world without end. Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p270-08",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d08"
+   }
+  ],
+  "first_pdf_page": 243,
+  "last_pdf_page": 270,
+  "page_count": 28,
+  "entry_count": 187
+ }
+}

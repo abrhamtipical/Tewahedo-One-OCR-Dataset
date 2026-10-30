@@ -1,0 +1,2249 @@
+{
+ "title": "Full Kidase",
+ "language": "English",
+ "source": "Full Kidase.pdf (PDF pages 8-420; page numbers are the PDF page numbers)",
+ "ids": "Entry ids are shared between the two files: pNNN-NN = PDF page, entry order on that page.",
+ "uncertain_marker": "Text between ⟦? and ?⟧ is a word the transcriber could not read with confidence.",
+ "division": {
+  "id": "d06",
+  "kind": "anaphora",
+  "name_geez": "ቅዳሴ ማርያም",
+  "name_english": "Anaphora of St. Mary",
+  "pages": [
+   {
+    "pdf_page": 188,
+    "printed_page_geez": "፻፸፱",
+    "printed_page": 179,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p188-01",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "THE ANAPHORA OF ST. MARY",
+      "uncertain": false
+     },
+     {
+      "id": "p188-02",
+      "kind": "paragraph",
+      "number": 1,
+      "geez_numeral": "፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "1. The Anaphora of our Lady, the Virgin Mary, mother of God, which Abba Heryacos, Bishop of the Province of Behnesa, composed through the Holy Spirit. May her prayer, her blessing and the mercy of her beloved Son be with our Patriarch, our archbishop, with all Christian people and our country Ethiopia, world without end. Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p188-03",
+      "kind": "paragraph",
+      "number": 2,
+      "geez_numeral": "፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "2. Priest: The Lord be with you all. People: And with your spirit. Priest: Give thanks to our God. People: It is right, it is just. Priest: Lift up your hearts. People: We have lifted them up unto the Lord our God.",
+      "uncertain": false
+     },
+     {
+      "id": "p188-04",
+      "kind": "paragraph",
+      "number": 3,
+      "geez_numeral": "፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "3. Priest: My heart is inditing a good matter; my heart is inditing a good matter; my heart is inditing a good matter.",
+      "uncertain": false
+     },
+     {
+      "id": "p188-05",
+      "kind": "paragraph",
+      "number": 4,
+      "geez_numeral": "፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "4. And I speak of the Anaphora of Mary, not at length but briefly. And I speak the praise of the Virgin, not in many words, which would be forgotten, but in few. And I speak of the exaltation of the Virgin.",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 189,
+    "printed_page_geez": "፻፹",
+    "printed_page": 180,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p189-01",
+      "kind": "paragraph",
+      "number": 5,
+      "geez_numeral": "፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "5. And today I stand, this very day, in humility and love before this mighty mystery and before this table and offering.",
+      "uncertain": false
+     },
+     {
+      "id": "p189-02",
+      "kind": "paragraph",
+      "number": 6,
+      "geez_numeral": "፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "6. Truly this is the offering which those whose spirits are defiled cannot taste. It is not like the sacrifice of the fore-fathers which depended upon the blood of sheep and oxen and cows, but it is fire.",
+      "uncertain": false
+     },
+     {
+      "id": "p189-03",
+      "kind": "paragraph",
+      "number": 7,
+      "geez_numeral": "፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "7. It is fire, giver of life to the upright in heart who fulfil His will. It is a consuming fire to the unrighteous who deny his name.",
+      "uncertain": false
+     },
+     {
+      "id": "p189-04",
+      "kind": "paragraph",
+      "number": 8,
+      "geez_numeral": "፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "8. Truly it is a fire which the firerobed Cherubim and Seraphim, who are a flame of fire, cannot touch.",
+      "uncertain": false
+     },
+     {
+      "id": "p189-05",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p189-06",
+      "kind": "paragraph",
+      "number": 9,
+      "geez_numeral": "፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "9. O Mary, for this we love and exalt you, because you did bear for us the true Food of righteousness and the true Drink of life.",
+      "uncertain": false
+     },
+     {
+      "id": "p189-07",
+      "kind": "paragraph",
+      "number": 10,
+      "geez_numeral": "፲",
+      "continued": null,
+      "heading_note": null,
+      "english": "10. O our fathers, consecrated by the laying on of hands, who are the successors of the apostles, we have taken you for intercessors to wards God, and we have taken for intercessors between us and God during our days those two: The Patriarch of the great Nation of Ethiopia Abba (……….), and the blessed Archbishop, Abba (……), the Primate of the country of our fathers.",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 190,
+    "printed_page_geez": "፻፹፩",
+    "printed_page": 181,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p190-01",
+      "kind": "paragraph",
+      "number": 11,
+      "geez_numeral": "፲፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "11. Deacon: For the sake of the blessed, happy, prosperous, holy and pure Virgin Mary, our Lady, Parent of God, glorified by all.",
+      "uncertain": false
+     },
+     {
+      "id": "p190-02",
+      "kind": "paragraph",
+      "number": 12,
+      "geez_numeral": "፲፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "12. And for the sake of the holy, honourable, spiritual, heavenly and mighty archangels; and for the sake of John the Baptist, the preacher and preparer of the way. And for the sake of the holy and glorified ministers, Matthew, Mark, Luke and John, the four Evangelists:",
+      "uncertain": false
+     },
+     {
+      "id": "p190-03",
+      "kind": "paragraph",
+      "number": 13,
+      "geez_numeral": "፲፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "13. For the holy servants Peter and James; John and Andrew; Philip and Bartholomew; Thomas and Matthew; James the son of Alphaeus; Thaddaeus and Simon and Matthias; the twelve Apostles; and the Apostles James, brother of our Lord and Bishop of Jerusalem; and the holy glorious Stephen, the archdeacon and the pro martyr.",
+      "uncertain": false
+     },
+     {
+      "id": "p190-04",
+      "kind": "paragraph",
+      "number": 14,
+      "geez_numeral": "፲፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "14. And for the sake of all saints and martyrs who have gone to their rest in the true faith: Paul, Timothy, Silas, and Barnabas, Titus, Philemon and Clement, the seventy-two disciples, the five hundred brothers, the three hundred and eighteen orthodox fathers.",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 191,
+    "printed_page_geez": "፻፹፪",
+    "printed_page": 182,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p191-01",
+      "kind": "paragraph",
+      "number": 15,
+      "geez_numeral": "፲፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "15. Lord, remember each and all and the holy Patriarch Abba (……) and the blessed and holy Archbishop Abba (……) to preserve their life and save them and forgive their sin, and to have compassion upon us through their prayers, world without end.",
+      "uncertain": false
+     },
+     {
+      "id": "p191-02",
+      "kind": "paragraph",
+      "number": 16,
+      "geez_numeral": "፲፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "16. The assistant priest shall say \"The Prayer of Benediction\". (Anaphora of the Apostles No. 10-21).",
+      "uncertain": false
+     },
+     {
+      "id": "p191-03",
+      "kind": "paragraph",
+      "number": 17,
+      "geez_numeral": "፲፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "17. Asst. Deacon: Lord, pity and have mercy upon the patriarchs, archbishops, bishops, priests, deacons and all the Christian people.",
+      "uncertain": false
+     },
+     {
+      "id": "p191-04",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p191-05",
+      "kind": "paragraph",
+      "number": 18,
+      "geez_numeral": "፲፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "18. Priest: O Interceder, intercede with your Son for the sake of each and all to give rest to the souls of all the patriarchs, archbishops, bishops, priests and deacons who keep straight the way of the true word: kings, rulers, princes, those in authority, young men, virgins, monks, rich, poor, great, small, old women, orphans, sojourners, miserable, and all Christian people from the congregation of the church who in days gone by have gone to their rest.",
+      "uncertain": false
+     },
+     {
+      "id": "p191-06",
+      "kind": "paragraph",
+      "number": 19,
+      "geez_numeral": "፲፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "19. Make earnest intercession for those who have fallen asleep in this place that he (the Son) may give their souls a quiet rest,",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 192,
+    "printed_page_geez": "፻፹፫",
+    "printed_page": 183,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p192-01",
+      "kind": "paragraph",
+      "number": 20,
+      "geez_numeral": "፳",
+      "continued": null,
+      "heading_note": null,
+      "english": "20. in every place which is called the place of the victorious martyrs, in the place of the blessed righteous, in the place of the watchful angels. You are the inheritance in every place, and your name is acceptable in front of God.",
+      "uncertain": false
+     },
+     {
+      "id": "p192-02",
+      "kind": "paragraph",
+      "number": 21,
+      "geez_numeral": "፳፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "21. Deacon: You that are sitting, stand up.",
+      "uncertain": false
+     },
+     {
+      "id": "p192-03",
+      "kind": "paragraph",
+      "number": 22,
+      "geez_numeral": "፳፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "22. Priest: Let us stand up in the fear of God to exalt and glorify her who is full of glory saying: O you who are full of grace, O you who are the channel of joy, you have a more beautiful countenance that the Cherubim of many eyes and the Seraphim of six wings.",
+      "uncertain": false
+     },
+     {
+      "id": "p192-04",
+      "kind": "paragraph",
+      "number": 23,
+      "geez_numeral": "፳፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "23. Deacon: Look to the east.",
+      "uncertain": false
+     },
+     {
+      "id": "p192-05",
+      "kind": "paragraph",
+      "number": 24,
+      "geez_numeral": "፳፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "24. Priest: Truly God the Father looked down from heaven towards the east, the west, the north and the south, and towards all the ends (of the earth). He breathed in every savour and found none like unto you. He approved your savour and loved your beauty and so sent to you his Son whom he loves.",
+      "uncertain": false
+     },
+     {
+      "id": "p192-06",
+      "kind": "paragraph",
+      "number": 25,
+      "geez_numeral": "፳፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "25. Deacon: Let us give attention.",
+      "uncertain": false
+     },
+     {
+      "id": "p192-07",
+      "kind": "paragraph",
+      "number": 26,
+      "geez_numeral": "፳፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "26. Priest: Holy is God the Father who loved you, holy is the only-begotten Son who abode in your womb, and holy is the Paraclete, the Spirit of righteousness, who strengthened you.",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 193,
+    "printed_page_geez": "፻፹፬",
+    "printed_page": 184,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p193-01",
+      "kind": "paragraph",
+      "number": 27,
+      "geez_numeral": "፳፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "27. Deacon: Answer you.",
+      "uncertain": false
+     },
+     {
+      "id": "p193-02",
+      "kind": "paragraph",
+      "number": 28,
+      "geez_numeral": "፳፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "28. People: Holy holy holy, perfect Lord of hosts, heaven and earth are full of the holiness of your glory.",
+      "uncertain": false
+     },
+     {
+      "id": "p193-03",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p193-04",
+      "kind": "paragraph",
+      "number": 29,
+      "geez_numeral": "፳፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "29. Priest: O Virgin, full of glory, with whom and with what likeness shall we liken you? You are the loom from which Emmanuel took his ineffable garment of flesh. He made the wrap from the same flesh as that of Adam, and the woof is your flesh. The shuttle is the Word himself, Jesus Christ. The length of the wrap is the shadow of God the Most High. The weaver is the Holy Spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p193-05",
+      "kind": "paragraph",
+      "number": 30,
+      "geez_numeral": "፴",
+      "continued": null,
+      "heading_note": null,
+      "english": "30. How marvellous and wonderful is this thing! O bridge over which the ancient fathers crossed from death unto life! O ladder from earth to heaven, through you the first creation was renewed!",
+      "uncertain": false
+     },
+     {
+      "id": "p193-06",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p193-07",
+      "kind": "paragraph",
+      "number": 31,
+      "geez_numeral": "፴፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "31. You were the hope of Adam when he was driven out from paradise, the meekness of Abel who was killed through unrighteousness, the kindness of Seth, the works of Enoch, the ark of Noah through which he was saved from the evil destruction, the blessing and portion of Shem,",
+      "uncertain": false
+     },
+     {
+      "id": "p193-08",
+      "kind": "paragraph",
+      "number": 32,
+      "geez_numeral": "፴፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "32. the sojourning of Abraham, the saviour of Isaac, the ladder of Jacob, the comforter of Joseph,",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 194,
+    "printed_page_geez": "፻፹፭",
+    "printed_page": 185,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p194-01",
+      "kind": "paragraph",
+      "number": 33,
+      "geez_numeral": "፴፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "33. the tables of Moses, the bush of Sinai, the bells in the garment of Aaron the priest, the rod which grew, blossomed and bore fruit,",
+      "uncertain": false
+     },
+     {
+      "id": "p194-02",
+      "kind": "paragraph",
+      "number": 34,
+      "geez_numeral": "፴፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "34. the stone of testimony of Joshua, the fleece of Gideon, the bottle of ointment and horn of oil of Samuel, the root of Jesse of which he boasted, the chariots of Amminadib, the harp of David, the crown of Solomon, the garden enclosed, the spring shut up,",
+      "uncertain": false
+     },
+     {
+      "id": "p194-03",
+      "kind": "paragraph",
+      "number": 35,
+      "geez_numeral": "፴፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "35. the golden omer of Elijah, the cruse of Elisha, the virgin conception of which Isaiah prophesied, the first giving birth without knowing man of which Daniel (also spoke),",
+      "uncertain": false
+     },
+     {
+      "id": "p194-04",
+      "kind": "paragraph",
+      "number": 36,
+      "geez_numeral": "፴፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "36. the mountain of Pharan of Habakkuk, the closed house in the east of Ezekiel, the place in Bethlehem from which the law goes forth, the land of Ephratah of Micah, the tree of life of Silondis, the healer of Nahum's wounds, the rejoicing of Zechariah, the clean hall of Malachi.",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 195,
+    "printed_page_geez": "፻፹፮",
+    "printed_page": 186,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p195-01",
+      "kind": "paragraph",
+      "number": 37,
+      "geez_numeral": "፴፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "37. O Virgin, you are the ideal and the prophecy of the prophets; the favour of the apostles, the mother of martyrs; the sister of angels; the boast of the young men and the virgins and the monks who are watchful day and night at your gates.",
+      "uncertain": false
+     },
+     {
+      "id": "p195-02",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     },
+     {
+      "id": "p195-03",
+      "kind": "paragraph",
+      "number": 38,
+      "geez_numeral": "፴፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "38. O Virgin, you were not conceived through unclean lust, but in lawful marriage you were born from Hannah and Eliakim.",
+      "uncertain": false
+     },
+     {
+      "id": "p195-04",
+      "kind": "paragraph",
+      "number": 39,
+      "geez_numeral": "፴፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "39. O Virgin, you did not grow in mirth like the Hebrew daughters who stiffened their necks, but you did live in the sanctuary in holiness and purity.",
+      "uncertain": false
+     },
+     {
+      "id": "p195-05",
+      "kind": "paragraph",
+      "number": 40,
+      "geez_numeral": "፵",
+      "continued": null,
+      "heading_note": null,
+      "english": "40. O Virgin, you did not eat earthly bread but heavenly bread prepared in the heaven of heavens.",
+      "uncertain": false
+     },
+     {
+      "id": "p195-06",
+      "kind": "paragraph",
+      "number": 41,
+      "geez_numeral": "፵፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "41. O Virgin, you did not drink earthly drink but heavenly drink poured from the heaven of heavens.",
+      "uncertain": false
+     },
+     {
+      "id": "p195-07",
+      "kind": "paragraph",
+      "number": 42,
+      "geez_numeral": "፵፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "42. O Virgin, you did not know uncleanness like the women that were before you and are to come after you, but you are adorned with holiness and purity.",
+      "uncertain": false
+     },
+     {
+      "id": "p195-08",
+      "kind": "paragraph",
+      "number": 43,
+      "geez_numeral": "፵፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "43. O Virgin, the wicked young men could not entice you, but the angels of heaven visited you, and, as it was said, the priests and the high priests praised you.",
+      "uncertain": false
+     },
+     {
+      "id": "p195-09",
+      "kind": "paragraph",
+      "number": 44,
+      "geez_numeral": "፵፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "44. O Virgin, you were not espoused to Joseph for coming together, but in order that he might keep you in purity and thus it was fulfilled.",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 196,
+    "printed_page_geez": "፻፹፯",
+    "printed_page": 187,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p196-01",
+      "kind": "paragraph",
+      "number": 45,
+      "geez_numeral": "፵፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "45. When God the Father saw your purity he sent to you his effulgent angel, whose name is Gabriel, and he said unto you: The Holy Ghost shall come upon you, and the power of the Highest shall overshadow you.",
+      "uncertain": false
+     },
+     {
+      "id": "p196-02",
+      "kind": "paragraph",
+      "number": 46,
+      "geez_numeral": "፵፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "46. The Word came to you without being separated from the bosom of his Father; you did conceive him without his being limited, and he stayed in your womb without making subtraction from above or addition beneath.",
+      "uncertain": false
+     },
+     {
+      "id": "p196-03",
+      "kind": "paragraph",
+      "number": 47,
+      "geez_numeral": "፵፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "47. There abode in your womb the inestimable and unsearchable fire of the godhead. It is not just to compare him with earthly fire. Fire has measurement and volume but of the Deity it can not be said that it is like this or even seems to be like this.",
+      "uncertain": false
+     },
+     {
+      "id": "p196-04",
+      "kind": "paragraph",
+      "number": 48,
+      "geez_numeral": "፵፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "48. The Godhead has no circle like the sun and moon, nor stature like man, but he is mighty and sitting in his highest heaven which neither the thought of man nor the knowledge of angels can reach.",
+      "uncertain": false
+     },
+     {
+      "id": "p196-05",
+      "kind": "paragraph",
+      "number": 49,
+      "geez_numeral": "፵፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "49. The Deity has neither above nor beneath, neither left nor right, but he always fills all things.",
+      "uncertain": false
+     },
+     {
+      "id": "p196-06",
+      "kind": "paragraph",
+      "number": 50,
+      "geez_numeral": "፶",
+      "continued": null,
+      "heading_note": null,
+      "english": "50. The Deity has not place wherein to stretch or contract himself but he fills every place.",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 197,
+    "printed_page_geez": "፻፹፰",
+    "printed_page": 188,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p197-01",
+      "kind": "paragraph",
+      "number": 51,
+      "geez_numeral": "፶፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "51. The Deity has neither firmament above nor foundation beneath, but He himself is the firmament and the foundation.",
+      "uncertain": false
+     },
+     {
+      "id": "p197-02",
+      "kind": "paragraph",
+      "number": 52,
+      "geez_numeral": "፶፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "52. The Deity does not stoop or bow down the head to take up that which is on earth, but all is in His hand as He showed to Peter.",
+      "uncertain": false
+     },
+     {
+      "id": "p197-03",
+      "kind": "paragraph",
+      "number": 53,
+      "geez_numeral": "፶፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "53. The Deity has neither chest nor back by which He can be seen, and through which He can be seen, and through which he can be limited, but He is covered with the flame of fire and He Himself is the flame of fire. The Deity is clean, pure and bright.",
+      "uncertain": false
+     },
+     {
+      "id": "p197-04",
+      "kind": "paragraph",
+      "number": 54,
+      "geez_numeral": "፶፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "54. We believe that the Father who sends is Father in his nature. We believe that the Son who is sent is Son in his nature. We believe that the life-giving Holy Spirit is Holy Spirit in his nature. Three names but one God.",
+      "uncertain": false
+     },
+     {
+      "id": "p197-05",
+      "kind": "paragraph",
+      "number": 55,
+      "geez_numeral": "፶፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "55. It is not with the Deity as it was with Abraham who was older than Isaac, or with Isaac who was older than Jacob, but the Father is not older than the Son, neither is the Son older than the Holy Spirit, and the Holy Spirit is not younger than the Son, neither is the Son younger than his Father.",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 198,
+    "printed_page_geez": "፻፹፱",
+    "printed_page": 189,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p198-01",
+      "kind": "paragraph",
+      "number": 56,
+      "geez_numeral": "፶፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "56. It is not with the Deity as it was with Abraham who gave commands to Isaac, or with Isaac who gave orders to Jacob, but the Father, being Father, does not give orders to the Son; and the Son, being Son, is not exalted; and the Holy Spirit is equal:",
+      "uncertain": false
+     },
+     {
+      "id": "p198-02",
+      "kind": "paragraph",
+      "number": 57,
+      "geez_numeral": "፶፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "57. But the Divine Father, Son and Holy Spirit are one God, one kingdom, one authority and one government.",
+      "uncertain": false
+     },
+     {
+      "id": "p198-03",
+      "kind": "paragraph",
+      "number": 58,
+      "geez_numeral": "፶፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "58. The Father, the Son and the Holy Spirit think. The Father, the Son and the Holy Spirit speak. The Father, the Son and the Holy Spirit like.",
+      "uncertain": false
+     },
+     {
+      "id": "p198-04",
+      "kind": "paragraph",
+      "number": 59,
+      "geez_numeral": "፶፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "59. The Father, the Son and the Holy Spirit take counsel. The Father, the Son and the Holy Spirit utter the word. The Father, the Son and the Holy Spirit complete.",
+      "uncertain": false
+     },
+     {
+      "id": "p198-05",
+      "kind": "paragraph",
+      "number": 60,
+      "geez_numeral": "፷",
+      "continued": null,
+      "heading_note": null,
+      "english": "60. The Father, the Son and the Holy Spirit make. The Father, the Son and the Holy Spirit unite. The Father, the Son and the Holy Spirit create well.",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 199,
+    "printed_page_geez": "፻፺",
+    "printed_page": 190,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p199-01",
+      "kind": "paragraph",
+      "number": 61,
+      "geez_numeral": "፷፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "61. The Father, the Son and the Holy Spirit send. The Father, the Son and the Holy Spirit give authority. The Father, the Son and the Holy Spirit bear witness.",
+      "uncertain": false
+     },
+     {
+      "id": "p199-02",
+      "kind": "paragraph",
+      "number": 62,
+      "geez_numeral": "፷፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "62. The Father, the Son and the Holy Spirit draw. The Father, the Son and the Holy Spirit accustom. The Father, the Son and the Holy Spirit advise.",
+      "uncertain": false
+     },
+     {
+      "id": "p199-03",
+      "kind": "paragraph",
+      "number": 63,
+      "geez_numeral": "፷፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "63. The Father, the Son and the Holy Spirit purify. The Father, the Son and the Holy Spirit cleanse. The Father, the Son and the Holy Spirit hallow.",
+      "uncertain": false
+     },
+     {
+      "id": "p199-04",
+      "kind": "paragraph",
+      "number": 64,
+      "geez_numeral": "፷፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "64. The Father, the Son and the Holy Spirit strengthen. The Father, the Son and the Holy Spirit encourage. The Father, the Son and the Holy Spirit teach.",
+      "uncertain": false
+     },
+     {
+      "id": "p199-05",
+      "kind": "paragraph",
+      "number": 65,
+      "geez_numeral": "፷፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "65. The Father, the Son and the Holy Spirit crown. The Father, the Son and the Holy Spirit clothe. The Father, the Son and the Holy Spirit grant grace.",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 200,
+    "printed_page_geez": "፻፺፩",
+    "printed_page": 191,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p200-01",
+      "kind": "paragraph",
+      "number": 66,
+      "geez_numeral": "፷፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "66. The Father, the Son and the Holy Spirit sit. The Father, the Son and he Holy Spirit judge. The Father, the Son and the Holy Spirit examine.",
+      "uncertain": false
+     },
+     {
+      "id": "p200-02",
+      "kind": "paragraph",
+      "number": 67,
+      "geez_numeral": "፷፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "67. Thus we, believe and confess without separating or dividing, the oneness and unity so that it will not be divided or separated. Let us distinguish so that it will not be confused.",
+      "uncertain": false
+     },
+     {
+      "id": "p200-03",
+      "kind": "paragraph",
+      "number": 68,
+      "geez_numeral": "፷፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "68. We do not say Three as we say Abrahan, Isaac and Jacob, but one in three persons.",
+      "uncertain": false
+     },
+     {
+      "id": "p200-04",
+      "kind": "paragraph",
+      "number": 69,
+      "geez_numeral": "፷፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "69. We do not say One like Adam the first creature, but three with one nature.",
+      "uncertain": false
+     },
+     {
+      "id": "p200-05",
+      "kind": "paragraph",
+      "number": 70,
+      "geez_numeral": "፸",
+      "continued": null,
+      "heading_note": null,
+      "english": "70. Now we hear the wicked Jews and the unrighteous Ishmaelites, who, being without understanding, say God is one person and one body; they are of a blind heart.",
+      "uncertain": false
+     },
+     {
+      "id": "p200-06",
+      "kind": "paragraph",
+      "number": 71,
+      "geez_numeral": "፸፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "71. Now we see the idolatrous heathen whose idols are many and whose devils are many.",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 201,
+    "printed_page_geez": "፻፺፪",
+    "printed_page": 192,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p201-01",
+      "kind": "paragraph",
+      "number": 72,
+      "geez_numeral": "፸፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "72. But we follow the leaders to the good way as the Apostles taught us saying:",
+      "uncertain": false
+     },
+     {
+      "id": "p201-02",
+      "kind": "paragraph",
+      "number": 73,
+      "geez_numeral": "፸፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "73. The Father is the sun, the Son is the sun, and the Holy Spirit is the sun: but it is one sun of righteousness over all.",
+      "uncertain": false
+     },
+     {
+      "id": "p201-03",
+      "kind": "paragraph",
+      "number": 74,
+      "geez_numeral": "፸፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "74. The Father is fire, the Son is fire, and the Holy Spirit is fire; but it is one fire of life in the highest heaven.",
+      "uncertain": false
+     },
+     {
+      "id": "p201-04",
+      "kind": "paragraph",
+      "number": 75,
+      "geez_numeral": "፸፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "75. The Father is the dawn, the Son is the dawn, the Holy Spirit is the dawn: but it is one eastern dawn through which, by the ray of its light, the darkness was destroyed.",
+      "uncertain": false
+     },
+     {
+      "id": "p201-05",
+      "kind": "paragraph",
+      "number": 76,
+      "geez_numeral": "፸፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "76. The Father is the vine, the Son is the vine and the Holy Spirit is the vine: but it is in one vine of life from which all the world tasted.",
+      "uncertain": false
+     },
+     {
+      "id": "p201-06",
+      "kind": "paragraph",
+      "number": 77,
+      "geez_numeral": "፸፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "77. The Father is milk, the Son is milk and the Holy Spirit is milk: but it is one milk without anything added.",
+      "uncertain": false
+     },
+     {
+      "id": "p201-07",
+      "kind": "paragraph",
+      "number": 78,
+      "geez_numeral": "፸፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "78. Thus we believe and thus we confess and say the creed.",
+      "uncertain": false
+     },
+     {
+      "id": "p201-08",
+      "kind": "paragraph",
+      "number": 79,
+      "geez_numeral": "፸፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "79. The people shall say the creed of the 318. (Anaphora of the There Hundred No. 1-10).",
+      "uncertain": false
+     },
+     {
+      "id": "p201-09",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 202,
+    "printed_page_geez": "፻፺፫",
+    "printed_page": 193,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p202-01",
+      "kind": "paragraph",
+      "number": 80,
+      "geez_numeral": "፹",
+      "continued": null,
+      "heading_note": null,
+      "english": "80. Let us now return again to speak of the holy Virgin, speaking of her conception which is wonderful to all, and saying: O Virgin, when there abode in your womb the fire of the Godhead, whose face is fire, whose clothes are fire, whose covering is fire, how did it not burn you?",
+      "uncertain": false
+     },
+     {
+      "id": "p202-02",
+      "kind": "paragraph",
+      "number": 81,
+      "geez_numeral": "፹፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "81. In what part of your womb were the seven curtains of the flame of fire prepared and spread? Were they in the right or the left of your side while you were a small body?",
+      "uncertain": false
+     },
+     {
+      "id": "p202-03",
+      "kind": "paragraph",
+      "number": 82,
+      "geez_numeral": "፹፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "82. In what part of your womb was the glittering Cherubic throne, compassed by the flame of fire, prepared and planted while you were a young bride?",
+      "uncertain": false
+     },
+     {
+      "id": "p202-04",
+      "kind": "paragraph",
+      "number": 83,
+      "geez_numeral": "፹፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "83. How wonderful it is! to be a mother and a maid at the same time; the narrowness of the womb and the infinite; conception without knowing man, as a bee conceives, from the voice of a word; milk is found with virginity.",
+      "uncertain": false
+     },
+     {
+      "id": "p202-05",
+      "kind": "paragraph",
+      "number": 84,
+      "geez_numeral": "፹፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "84. When I think of this my mind likes to swim in the depth of your Son's nature, and the billows from the hiding-place of your Beloved sweep across it.",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 203,
+    "printed_page_geez": "፻፺፬",
+    "printed_page": 194,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p203-01",
+      "kind": "paragraph",
+      "number": 85,
+      "geez_numeral": "፹፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "85. Again when I think of this my mind likes to soar and ascend secretly and draw back the curtains of the hiding-places of the Living One; it becomes afraid of the flame of fire and does not reach even one fourth of the way to heaven.",
+      "uncertain": false
+     },
+     {
+      "id": "p203-02",
+      "kind": "paragraph",
+      "number": 86,
+      "geez_numeral": "፹፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "86. When I think of this my mind likes to mount the shoulders of the winds to fly east, west, north and south to all the ends (of the world) to see the nature of the creatures, to measure the depths of the seas and to know the height of heaven, and travelling thus to every part it becomes faint and returns again to its former place.",
+      "uncertain": false
+     },
+     {
+      "id": "p203-03",
+      "kind": "paragraph",
+      "number": 87,
+      "geez_numeral": "፹፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "87. Now let us not further enquire or even think of the greatness and profoundity of him whose grandeur can not worthily be praised, no, not by the tongues of the prophets or of the apostles.",
+      "uncertain": false
+     },
+     {
+      "id": "p203-04",
+      "kind": "paragraph",
+      "number": 88,
+      "geez_numeral": "፹፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "88. He is the mighty One whom none can discern by subtle device – but he became humble among us; he is the most high, to whom none can attain – but among us he took upon him the form of a servant; he is the impalpable fire, but we saw him and felt him and ate and drank with him. Now let us praise him saying.",
+      "uncertain": false
+     },
+     {
+      "id": "p203-05",
+      "kind": "paragraph",
+      "number": 89,
+      "geez_numeral": "፹፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "89. People: Holy God, holy Mighty, holy Living, Immortal (Trice again) … (See Preparatory Service\") pp 174 and Anaphora of St. John Chrysostom No. 64-67).",
+      "uncertain": false
+     },
+     {
+      "id": "p203-06",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 204,
+    "printed_page_geez": "፻፺፭",
+    "printed_page": 195,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p204-01",
+      "kind": "paragraph",
+      "number": 90,
+      "geez_numeral": "፺",
+      "continued": null,
+      "heading_note": null,
+      "english": "90. O Virgin who gives us the fruit that can be eaten, and the spring of that which can be drunk:",
+      "uncertain": false
+     },
+     {
+      "id": "p204-02",
+      "kind": "paragraph",
+      "number": 91,
+      "geez_numeral": "፺፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "91. O Bread got from you that gives life and salvation to those who eat of it in faith.",
+      "uncertain": false
+     },
+     {
+      "id": "p204-03",
+      "kind": "paragraph",
+      "number": 92,
+      "geez_numeral": "፺፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "92. O Bread got from you, that is as hard as the stone of \"Admas\", which cannot be chewed, to those who do not eat of it in faith.",
+      "uncertain": false
+     },
+     {
+      "id": "p204-04",
+      "kind": "paragraph",
+      "number": 93,
+      "geez_numeral": "፺፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "93. O Cup got from you that helps those who drink of it in faith to indite wisdom, and that gives them life.",
+      "uncertain": false
+     },
+     {
+      "id": "p204-05",
+      "kind": "paragraph",
+      "number": 94,
+      "geez_numeral": "፺፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "94. O Cup got from you, that intoxicates those who do not drink of it in faith and causes them to stumble and fall and adds sin to them instead of the remission of sin!",
+      "uncertain": false
+     },
+     {
+      "id": "p204-06",
+      "kind": "paragraph",
+      "number": 95,
+      "geez_numeral": "፺፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "95. And now let us glorify Him saying: Glory be to You, glory to Your kingdom, glory with pure incense we offer to You.",
+      "uncertain": false
+     },
+     {
+      "id": "p204-07",
+      "kind": "paragraph",
+      "number": 96,
+      "geez_numeral": "፺፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "96. At this time he shall offer incense. People: Remember us, Lord, in your kingdom … (Anaphora of the Apostles No. 34).",
+      "uncertain": false
+     },
+     {
+      "id": "p204-08",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 205,
+    "printed_page_geez": "፻፺፮",
+    "printed_page": 196,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p205-01",
+      "kind": "paragraph",
+      "number": 97,
+      "geez_numeral": "፺፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "97. Priest: Jesus Christ, Son of the living God, from whom is found every good gift and every perfect gift, became man, fulfilled all the law of man yet without sin, and learnt the law of the Hebrews.",
+      "uncertain": false
+     },
+     {
+      "id": "p205-02",
+      "kind": "paragraph",
+      "number": 98,
+      "geez_numeral": "፺፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "98. He was baptised by John, tempted in the wilderness, hungered and thirsted and did miracles.",
+      "uncertain": false
+     },
+     {
+      "id": "p205-03",
+      "kind": "paragraph",
+      "number": 99,
+      "geez_numeral": "፺፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "99. In the same night in which He gave His soul to death He showed his disciples many signs concerning His sufferings, crucifixion, death, his resurrection on the third day with body and soul, with bone and blood, as it was before when his disciples were with him on his right and left, and when there was counted with them Judas whose creation was like the tares added to wheat, and who betrayed him.",
+      "uncertain": false
+     },
+     {
+      "id": "p205-04",
+      "kind": "paragraph",
+      "number": 100,
+      "geez_numeral": "፻",
+      "continued": null,
+      "heading_note": null,
+      "english": "100. Deacon: Priests, raise up your hands.",
+      "uncertain": false
+     },
+     {
+      "id": "p205-05",
+      "kind": "paragraph",
+      "number": 101,
+      "geez_numeral": "፻፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "101. Priest: At that time Jesus Christ took bread in His holy, blessed, pure and spotless hands:",
+      "uncertain": false
+     },
+     {
+      "id": "p205-06",
+      "kind": "paragraph",
+      "number": 102,
+      "geez_numeral": "፻፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "102. People: We believe that this is He, truly we believe.",
+      "uncertain": false
+     },
+     {
+      "id": "p205-07",
+      "kind": "paragraph",
+      "number": 103,
+      "geez_numeral": "፻፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "103. Priest: He looked up to heaven towards you his Father, interceded with his parent, and committed his disciples to him to keep them from all evil: Blessed while he (it) was blessed (benediction three times), broke while he (it) was holy:",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 206,
+    "printed_page_geez": "፻፺፯",
+    "printed_page": 197,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p206-01",
+      "kind": "paragraph",
+      "number": 104,
+      "geez_numeral": "፻፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "104. Then he shall indent the Host lightly with his thumb in five places without Separation.",
+      "uncertain": false
+     },
+     {
+      "id": "p206-02",
+      "kind": "paragraph",
+      "number": 105,
+      "geez_numeral": "፻፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "105. And gave it to his disciples and said unto them: Take, eat, this (pointing) bread is my body which will be given to you as a propitiation for all the world.",
+      "uncertain": false
+     },
+     {
+      "id": "p206-03",
+      "kind": "paragraph",
+      "number": 106,
+      "geez_numeral": "፻፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "106. People: Amen amen amen, we believe and confess, we glorify you, O our Lord and our God; that this is He we truly believe.",
+      "uncertain": false
+     },
+     {
+      "id": "p206-04",
+      "kind": "paragraph",
+      "number": 107,
+      "geez_numeral": "፻፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "107. Priest: And likewise also the cup (benediction three times) after supper: he pointed and said: Take, drink, this (pointing) cup is my blood which the spear will shed for your sake.",
+      "uncertain": false
+     },
+     {
+      "id": "p206-05",
+      "kind": "paragraph",
+      "number": 108,
+      "geez_numeral": "፻፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "108. He shall then move the cup with his right hand in the sign of the cross.",
+      "uncertain": false
+     },
+     {
+      "id": "p206-06",
+      "kind": "paragraph",
+      "number": 109,
+      "geez_numeral": "፻፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "109. People: Amen amen amen, we believe and confess…",
+      "uncertain": false
+     },
+     {
+      "id": "p206-07",
+      "kind": "paragraph",
+      "number": 110,
+      "geez_numeral": "፻፲",
+      "continued": null,
+      "heading_note": null,
+      "english": "110. Priest: And as often as you do this do it in remembrance of my death, and proclaim the rememberance of my resurrection.",
+      "uncertain": false
+     },
+     {
+      "id": "p206-08",
+      "kind": "paragraph",
+      "number": 111,
+      "geez_numeral": "፻፲፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "111. People: We proclaim your death, Lord, and your holy resurrection, we believe in your ascension and your second advent. We glorify you and confess you, we offer our prayer unto you and supplicate you, O our Lord and our God.",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 207,
+    "printed_page_geez": "፻፺፰",
+    "printed_page": 198,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p207-01",
+      "kind": "paragraph",
+      "number": 112,
+      "geez_numeral": "፻፲፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "112. Priest: O our Lord, as it happened then bless, break and give this (pointing) bread (benediction once). People: Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p207-02",
+      "kind": "paragraph",
+      "number": 113,
+      "geez_numeral": "፻፲፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "113. Priest: O our Lord, as it happened then bless, hallow and give this (pointing) cup (benediction once over the cup, and once more over both). People: Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p207-03",
+      "kind": "paragraph",
+      "number": 114,
+      "geez_numeral": "፻፲፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "114. Priest: And this my ministry: purify and choose it and let it please you. People: Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p207-04",
+      "kind": "paragraph",
+      "number": 115,
+      "geez_numeral": "፻፲፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "115. Priest: And this priest who is with me to help me in this ministry, and me, make like Joseph and Nicodemus who wrapped your body. People: Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p207-05",
+      "kind": "paragraph",
+      "number": 116,
+      "geez_numeral": "፻፲፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "116. Priest: And the deacon sent according to the law of ministry, suffer to reach our great rank of priesthood, and make him full of grace, righteousness and favour like Stephen who saw the Trinity and marvelled and was astonished through the descent of the Holy Spirit. People: Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p207-06",
+      "kind": "paragraph",
+      "number": 117,
+      "geez_numeral": "፻፲፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "117. Priest: And this people who have gathered together in your holy church with priests and deacons, great and small, make worthy to take your holy mystery; have compassion and do not judge them. People: Amen, Lord have pity upon us, Lord spare us, Lord have mercy upon us.",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 208,
+    "printed_page_geez": "፻፺፱",
+    "printed_page": 199,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p208-01",
+      "kind": "paragraph",
+      "number": 118,
+      "geez_numeral": "፻፲፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "118. Priest: O Lord Christ, have mercy upon us (three times). People: The people shall repeat his words.",
+      "uncertain": false
+     },
+     {
+      "id": "p208-02",
+      "kind": "paragraph",
+      "number": 119,
+      "geez_numeral": "፻፲፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "119. Deacon: With all the heart let us beseech the Lord our God that He grant unto us the good communion of the Holy Spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p208-03",
+      "kind": "paragraph",
+      "number": 120,
+      "geez_numeral": "፻፳",
+      "continued": null,
+      "heading_note": null,
+      "english": "120. People: As it was, is and shall be unto generations of generations, world without end.",
+      "uncertain": false
+     },
+     {
+      "id": "p208-04",
+      "kind": "paragraph",
+      "number": 121,
+      "geez_numeral": "፻፳፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "121. He then shall dip his finger into the Blood and sign the Body. Priest: Grant it to all of them that take of it that it may be unto them for everlasting life.",
+      "uncertain": false
+     },
+     {
+      "id": "p208-05",
+      "kind": "paragraph",
+      "number": 122,
+      "geez_numeral": "፻፳፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "122. Grant us to be united through the Holy Spirit, and heal us by this oblation that we may live in you forever. People: The people shall repeat his words.",
+      "uncertain": false
+     },
+     {
+      "id": "p208-06",
+      "kind": "paragraph",
+      "number": 123,
+      "geez_numeral": "፻፳፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "123. Priest: Blessed be the name of the Lord, and blessed be he that comes in the name of the Lord, and let the name of his glory be blessed. So be it, so be it, so be it blessed. People: The people shall repeat his words.",
+      "uncertain": false
+     },
+     {
+      "id": "p208-07",
+      "kind": "paragraph",
+      "number": 124,
+      "geez_numeral": "፻፳፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "124. Priest: Send the grace of the Holy Spirit upon us. People: The people shall repeat his words.",
+      "uncertain": false
+     },
+     {
+      "id": "p208-08",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 209,
+    "printed_page_geez": "፪፻",
+    "printed_page": 200,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p209-01",
+      "kind": "paragraph",
+      "number": 125,
+      "geez_numeral": "፻፳፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "125. Deacon: Stand up for prayer. People: Lord have mercy upon us. Priest: Peace be unto you all. People: And with your spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p209-02",
+      "kind": "paragraph",
+      "number": 126,
+      "geez_numeral": "፻፳፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "126. The priest shall say the \"Prayer of Fraction\". God, maker of all, the Beginner of all, the Completer of all, the Almighty, the Holder of all, you are he whom angels, archangels, thrones, authorities, lords, powers, the sun, the moon, the stars and the whole creation worship, because they are His subjects, dominions, and are ruled by Him. Though He was rich in everything yet He became poor in everything.",
+      "uncertain": false
+     },
+     {
+      "id": "p209-03",
+      "kind": "paragraph",
+      "number": 127,
+      "geez_numeral": "፻፳፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "127. Love drew the mighty Son down from his throne and led him to death.",
+      "uncertain": false
+     },
+     {
+      "id": "p209-04",
+      "kind": "paragraph",
+      "number": 128,
+      "geez_numeral": "፻፳፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "128. O Ox, who with your horn does not make any attack against those who draw you, but bows down your neck to those who slay you:",
+      "uncertain": false
+     },
+     {
+      "id": "p209-05",
+      "kind": "paragraph",
+      "number": 129,
+      "geez_numeral": "፻፳፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "129. O sheep dumb before your shearers; O Patience who did not open your mouth at the time of your sufferings before those who pierced you:",
+      "uncertain": false
+     },
+     {
+      "id": "p209-06",
+      "kind": "paragraph",
+      "number": 130,
+      "geez_numeral": "፻፴",
+      "continued": null,
+      "heading_note": null,
+      "english": "130. O Bread found in the treasure which Joseph obtained in merchandise, in which also he found the pearl of great price:",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 210,
+    "printed_page_geez": "፪፻፩",
+    "printed_page": 201,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p210-01",
+      "kind": "paragraph",
+      "number": 131,
+      "geez_numeral": "፻፴፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "131. O cup found in the house into which no man entered:",
+      "uncertain": false
+     },
+     {
+      "id": "p210-02",
+      "kind": "paragraph",
+      "number": 132,
+      "geez_numeral": "፻፴፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "132. O this sign of the cross separated from this host without being divided or alienated, but its appearance, taste and softness are the same:",
+      "uncertain": false
+     },
+     {
+      "id": "p210-03",
+      "kind": "paragraph",
+      "number": 133,
+      "geez_numeral": "፻፴፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "133. As His divinity was not separated or divided from His Humanity so also this sign of the cross is not separated or divided from this host:",
+      "uncertain": false
+     },
+     {
+      "id": "p210-04",
+      "kind": "paragraph",
+      "number": 134,
+      "geez_numeral": "፻፴፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "134. Likewise also let your greatness be united with our humility and our humility with your greatness, you almighty Lord our God.",
+      "uncertain": false
+     },
+     {
+      "id": "p210-05",
+      "kind": "paragraph",
+      "number": 135,
+      "geez_numeral": "፻፴፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "135. Deacon: You pray. People: Our Father who are in heaven … (Anaphora of the Apostles No. 60)",
+      "uncertain": false
+     },
+     {
+      "id": "p210-06",
+      "kind": "paragraph",
+      "number": 136,
+      "geez_numeral": "፻፴፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "136. Priest: Let us hear then, till our latest bread, this word through which we will be accused, judged and forgiven.",
+      "uncertain": false
+     },
+     {
+      "id": "p210-07",
+      "kind": "paragraph",
+      "number": 137,
+      "geez_numeral": "፻፴፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "137. As the Son came from the heaven of heavens for judgement and mercy, this bread will be accuser, judge and forgiver.",
+      "uncertain": false
+     },
+     {
+      "id": "p210-08",
+      "kind": "paragraph",
+      "number": 138,
+      "geez_numeral": "፻፴፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "138. Let the soul fear, the nerves tremble and the door of the heart be broken by this majestic word.",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 211,
+    "printed_page_geez": "፪፻፪",
+    "printed_page": 202,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p211-01",
+      "kind": "paragraph",
+      "number": 139,
+      "geez_numeral": "፻፴፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "139. Now this divine bread has been broken and this life-giving cup has been prepared. Let him who desires to take, come; but first examine yourselves and cleanse your bodies.",
+      "uncertain": false
+     },
+     {
+      "id": "p211-02",
+      "kind": "paragraph",
+      "number": 140,
+      "geez_numeral": "፻፵",
+      "continued": null,
+      "heading_note": null,
+      "english": "140. If there is an impure one let him not approach, and if there is any one who has fallen into sin let him not forget it because it must not be forgotten.",
+      "uncertain": false
+     },
+     {
+      "id": "p211-03",
+      "kind": "paragraph",
+      "number": 141,
+      "geez_numeral": "፻፵፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "141. If there is any one who disdains this Holy Communion let him not approach, but let him be prevented. As you see this bread is not as perishable as the earthly bread, but it is the fire of the godhead.",
+      "uncertain": false
+     },
+     {
+      "id": "p211-04",
+      "kind": "paragraph",
+      "number": 142,
+      "geez_numeral": "፻፵፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "142. What mouth is that which takes in this bread, what teeth are those which masticate this bread, and what stomach is that which can contain this bread!",
+      "uncertain": false
+     },
+     {
+      "id": "p211-05",
+      "kind": "paragraph",
+      "number": 143,
+      "geez_numeral": "፻፵፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "143. And now let us say: According to your mercy, our God, and not according to our sins.",
+      "uncertain": false
+     },
+     {
+      "id": "p211-06",
+      "kind": "paragraph",
+      "number": 144,
+      "geez_numeral": "፻፵፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "144. People: According to your mercy, our God, and not according to our sins. (to be repeated thrice).",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 212,
+    "printed_page_geez": "፪፻፫",
+    "printed_page": 203,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p212-01",
+      "kind": "paragraph",
+      "number": 145,
+      "geez_numeral": "፻፵፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "145. Afterwards the people shall say: The hosts of the angels of the Saviour of the world stand before the Saviour of the world. And they encircle the Saviour of the world, even the body and blood of the Saviour of the world. And let us come before the face of the Saviour of the world in the faith which is of Him we give thanks to, (it can also be said: trusting her prayer we venerate Mary) to praise Christ .",
+      "uncertain": false
+     },
+     {
+      "id": "p212-02",
+      "kind": "paragraph",
+      "number": 146,
+      "geez_numeral": "፻፵፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "146. Asst. Deacon: You princes, open the gates.",
+      "uncertain": false
+     },
+     {
+      "id": "p212-03",
+      "kind": "paragraph",
+      "number": 147,
+      "geez_numeral": "፻፵፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "147. Deacon: You, who are standing, bow your heads.",
+      "uncertain": false
+     },
+     {
+      "id": "p212-04",
+      "kind": "paragraph",
+      "number": 148,
+      "geez_numeral": "፻፵፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "148. Priest: We lay our souls before You, Lord, maker of all, the invisible God. We humble ourselves to You, the humbler of all. We worship You, who make all to worship you. We serve you, ruler of all.",
+      "uncertain": false
+     },
+     {
+      "id": "p212-05",
+      "kind": "paragraph",
+      "number": 149,
+      "geez_numeral": "፻፵፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "149. O You who discover that which is hidden and cover as in secret all that is open: O You who are able to send forth that which is within and take within that which is without: Hear now the cries of Your people who call upon You in righteousness.",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 213,
+    "printed_page_geez": "፪፻፬",
+    "printed_page": 204,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p213-01",
+      "kind": "paragraph",
+      "number": 150,
+      "geez_numeral": "፻፶",
+      "continued": null,
+      "heading_note": null,
+      "english": "150. Deacon: Worship the Lord with fear. People: Before you, Lord, we worship, and we do glorify you.",
+      "uncertain": false
+     },
+     {
+      "id": "p213-02",
+      "kind": "paragraph",
+      "number": 151,
+      "geez_numeral": "፻፶፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "151. The priest shall say \"The prayer of Penitence\". (Anaphora of the Apostles No. 72-88).",
+      "uncertain": false
+     },
+     {
+      "id": "p213-03",
+      "kind": "paragraph",
+      "number": 152,
+      "geez_numeral": "፻፶፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "152. Deacon: Give attention. Priest: Holy things for the holy. People: One is the Holy Father, one is the Holy Son, one is the Holy Spirit.",
+      "uncertain": false
+     },
+     {
+      "id": "p213-04",
+      "kind": "paragraph",
+      "number": 153,
+      "geez_numeral": "፻፶፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "153. Priest: The Lord be with you all. People: And with your spirit. Then the priest shall raise the whole Host with his hand and say: O Lord Christ, have compassion upon us. (three times in a loud chant and fifteen times in a low chant). The people shall repeat his words. Then the priest shall say three times: O Lord Christ, have compassion upon us. The people shall say twice: O Lord Christ, have compassion upon us.",
+      "uncertain": false
+     },
+     {
+      "id": "p213-05",
+      "kind": "paragraph",
+      "number": 154,
+      "geez_numeral": "፻፶፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "154. Deacon: You, that are penitent, bow your heads.",
+      "uncertain": false
+     },
+     {
+      "id": "p213-06",
+      "kind": "paragraph",
+      "number": 155,
+      "geez_numeral": "፻፶፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "155. Then the priest shall turn to the people and say: Lord our God …(Anaphora of the Apostles No. 95-126).",
+      "uncertain": false
+     },
+     {
+      "id": "p213-07",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 214,
+    "printed_page_geez": "፪፻፭",
+    "printed_page": 205,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p214-01",
+      "kind": "paragraph",
+      "number": 156,
+      "geez_numeral": "፻፶፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "156. After receiving (the Holy Communion) the following Prayer shall follow instead of \"The Prayer of the Pilot of the Soul\": Priest: O you, Christian people, as you have gathered together on this day, so also may He gather you on the holy mount of Sion and in the free Jerusalem in heaven.",
+      "uncertain": false
+     },
+     {
+      "id": "p214-02",
+      "kind": "paragraph",
+      "number": 157,
+      "geez_numeral": "፻፶፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "157. And as you have heard this voice of Mary's praise, likewise may He make you worthy to hear the word of the infant's harps and the angels' song which softens even the very bones because of the multitude of its melodies.",
+      "uncertain": false
+     },
+     {
+      "id": "p214-03",
+      "kind": "paragraph",
+      "number": 158,
+      "geez_numeral": "፻፶፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "158. May He lead you where there were stretched out the tabernacles of the flaming fire wherein the High Priest is, and wherein are the pictured appearance of His face, the pure crown, and the bright dress which the hand of man did not make, but it was woven above.",
+      "uncertain": false
+     },
+     {
+      "id": "p214-04",
+      "kind": "paragraph",
+      "number": 159,
+      "geez_numeral": "፻፶፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "159. May He lead you to where are the congregation of the holy prophets, the congregation of the preaching apostles, the congregation of the victorious martyrs, the congregation of the blessed righteous, the congregation of the ordained priests, the congregation of the watchful angels, and the congregation of virgins and perfect monks, with all the perfect congregations of the one holy universal Church, and with them where there is the Ark of the wilderness, that is our Lady Mary.",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 215,
+    "printed_page_geez": "፪፻፮",
+    "printed_page": 206,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p215-01",
+      "kind": "paragraph",
+      "number": 160,
+      "geez_numeral": "፻፷",
+      "continued": null,
+      "heading_note": null,
+      "english": "160. Let us not henceforth be decked with haughtiness or pride which clothe with death and lead down to hades.",
+      "uncertain": false
+     },
+     {
+      "id": "p215-02",
+      "kind": "paragraph",
+      "number": 161,
+      "geez_numeral": "፻፷፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "161. Let us henceforth have humility with purity, not only purity of the flesh because the prophets saw the Lord through purity of the spirit, seeing Him face to face.",
+      "uncertain": false
+     },
+     {
+      "id": "p215-03",
+      "kind": "paragraph",
+      "number": 162,
+      "geez_numeral": "፻፷፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "162. Let us henceforth have love and meekness like the apostles, because they loved their Lord who granted them authority like His own to bind and loose the bonds of wickedness.",
+      "uncertain": false
+     },
+     {
+      "id": "p215-04",
+      "kind": "paragraph",
+      "number": 163,
+      "geez_numeral": "፻፷፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "163. Let us henceforth have silence and patience like Mary because our Lord praised her saying: And Mary hath chosen that good part, which shall not be taken away from her.",
+      "uncertain": false
+     },
+     {
+      "id": "p215-05",
+      "kind": "paragraph",
+      "number": 164,
+      "geez_numeral": "፻፷፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "164. And now let us pray the Lord our God, giver of grace. Deacon: You pray.",
+      "uncertain": false
+     },
+     {
+      "id": "p215-06",
+      "kind": "paragraph",
+      "number": 165,
+      "geez_numeral": "፻፷፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "165. Priest: O Virgin, remind Him who remembers, who never forget any.",
+      "uncertain": false
+     },
+     {
+      "id": "p215-07",
+      "kind": "paragraph",
+      "number": 166,
+      "geez_numeral": "፻፷፮",
+      "continued": null,
+      "heading_note": null,
+      "english": "166. O Virgin, remind him of His birth, delivered from you at Bethlehem, of His being wrapped in swaddling clothes and His being warmed by the breath of ass and cow on the cold days.",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 216,
+    "printed_page_geez": "፪፻፯",
+    "printed_page": 207,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p216-01",
+      "kind": "paragraph",
+      "number": 167,
+      "geez_numeral": "፻፷፯",
+      "continued": null,
+      "heading_note": null,
+      "english": "167. O Virgin, remind Him of his flight with you when you did travel from one country to another in the days of the cursed Herod.",
+      "uncertain": false
+     },
+     {
+      "id": "p216-02",
+      "kind": "paragraph",
+      "number": 168,
+      "geez_numeral": "፻፷፰",
+      "continued": null,
+      "heading_note": null,
+      "english": "168. O Virgin, remind Him of the bitter tears shed from your eyes and dropped on the face of your beloved Son.",
+      "uncertain": false
+     },
+     {
+      "id": "p216-03",
+      "kind": "paragraph",
+      "number": 169,
+      "geez_numeral": "፻፷፱",
+      "continued": null,
+      "heading_note": null,
+      "english": "169. O Virgin, remind Him of hunger, thirst, poverty, sadness and all the trouble which you did suffer together with Him.",
+      "uncertain": false
+     },
+     {
+      "id": "p216-04",
+      "kind": "paragraph",
+      "number": 170,
+      "geez_numeral": "፻፸",
+      "continued": null,
+      "heading_note": null,
+      "english": "170. Remind Him of mercy and not of destruction. Remind Him of compassion and not of anger.",
+      "uncertain": false
+     },
+     {
+      "id": "p216-05",
+      "kind": "paragraph",
+      "number": 171,
+      "geez_numeral": "፻፸፩",
+      "continued": null,
+      "heading_note": null,
+      "english": "171. Remind Him of the sinners and not of the righteous. Remind Him of the impure and not of the pure.",
+      "uncertain": false
+     },
+     {
+      "id": "p216-06",
+      "kind": "paragraph",
+      "number": 172,
+      "geez_numeral": "፻፸፪",
+      "continued": null,
+      "heading_note": null,
+      "english": "172. And now let us glorify the Father, the Son and the Holy Spirit, both now and ever, and world without end. People: Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p216-07",
+      "kind": "paragraph",
+      "number": 173,
+      "geez_numeral": "፻፸፫",
+      "continued": null,
+      "heading_note": null,
+      "english": "173. Priest: The Laying on of the Hand. We offer thanksgiving to God for all the graces he has granted and because He granted his Mother to be glorified through this Anaphora, and because He made us worthy to begin it through His kindness, and to complete it through His will, He too whom is glory and who is wise, world without end, Amen.",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   },
+   {
+    "pdf_page": 217,
+    "printed_page_geez": "፪፻፰",
+    "printed_page": 208,
+    "section_geez": "ቅዳሴ ማርያም",
+    "section_english": "Anaphora of St. Mary",
+    "page_note": null,
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p217-01",
+      "kind": "paragraph",
+      "number": 174,
+      "geez_numeral": "፻፸፬",
+      "continued": null,
+      "heading_note": null,
+      "english": "174. (I found in it that which says. Any priest who celebrates this Anaphora does not sanctify Mary but he himself will be sanctified, and all those who hear it will be sanctified, because our Lady Mary is always sanctified in heaven and earth.)",
+      "uncertain": false
+     },
+     {
+      "id": "p217-02",
+      "kind": "paragraph",
+      "number": 175,
+      "geez_numeral": "፻፸፭",
+      "continued": null,
+      "heading_note": null,
+      "english": "175. May the accepted blessing of her prayer, the perfect gift of her help, and the compassion of her beloved Son, filling the ends (of the world), be with all of us world without end. Amen.",
+      "uncertain": false
+     },
+     {
+      "id": "p217-03",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "english": "* * *",
+      "uncertain": false
+     }
+    ],
+    "division": "d06"
+   }
+  ],
+  "first_pdf_page": 188,
+  "last_pdf_page": 217,
+  "page_count": 30,
+  "entry_count": 187
+ }
+}

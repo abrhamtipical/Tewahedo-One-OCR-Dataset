@@ -1,0 +1,53 @@
+{
+ "title": "Full Kidase",
+ "language": "Ge'ez (ግዕዝ) and Amharic (አማርኛ)",
+ "source": "Full Kidase.pdf (PDF pages 8-420; page numbers are the PDF page numbers)",
+ "ids": "Entry ids are shared between the two files: pNNN-NN = PDF page, entry order on that page.",
+ "uncertain_marker": "Text between ⟦? and ?⟧ is a word the transcriber could not read with confidence.",
+ "division": {
+  "id": "d01",
+  "kind": "contents",
+  "name_geez": "ማውጫ",
+  "name_english": "Contents",
+  "pages": [
+   {
+    "pdf_page": 8,
+    "printed_page_geez": null,
+    "printed_page": null,
+    "section_geez": "ማውጫ",
+    "section_english": "Contents",
+    "page_note": "front matter, unnumbered",
+    "duplicate_of_pdf_page": null,
+    "entries": [
+     {
+      "id": "p008-01",
+      "kind": "rubric",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "ማውጫ",
+      "amharic": "ማውጫ",
+      "uncertain": false
+     },
+     {
+      "id": "p008-02",
+      "kind": "contents",
+      "number": null,
+      "geez_numeral": null,
+      "continued": null,
+      "heading_note": null,
+      "geez": "(Amharic table of contents; Ge'ez-numeral page ranges are degraded and each range marked [illegible] per audit rule)",
+      "amharic": "\n1. ጸሎት ላዕለ ንዋያት ሐዲሳት — ከ[illegible - page 8, line 1]\n2. ሥርዓተ ቅዳሴ — ከ[illegible - page 8, line 2]\n3. ቅዳሴ ሐዋርያት — ከ[illegible - page 8, line 3]\n4. ቅዳሴ እግዚእ — ከ[illegible - page 8, line 4]\n5. ዮሐንስ ወልደ ነጐድጓድ — ከ[illegible - page 8, line 5]\n6. ቅዳሴ ማርያም — ከ[illegible - page 8, line 6]\n7. ቅዳሴ ሥለስቱ ምዕት — ከ[illegible - page 8, line 7]\n8. ቅዳሴ አትናቴምስ — ከ[illegible - page 8, line 8]\n9. ቅዳሴ ባስልዮስ — ከ[illegible - page 8, line 9]\n10. ቅዳሴ ጎርጎርዮስ — ከ[illegible - page 8, line 10]\n11. ቅዳሴ ኤጲፋንዮስ — ከ[illegible - page 8, line 11]\n12. ቅዳሴ ዮሐንስ አፈወርቅ — ከ[illegible - page 8, line 12]\n13. ቅዳሴ ቄርሎስ — ከ[illegible - page 8, line 13]\n14. ቅዳሴ ያዕቆብ ዘሥሩግ — ከ[illegible - page 8, line 14]\n15. ቅዳሴ ዲዮስቆሮስ — ከ[illegible - page 8, line 15]\n16. ቅዳሴ ጎርጎርዮስ ሰልዕ — ከ[illegible - page 8, line 16]\n17. ጸሎት ኪዳንና መስተብቍዕ — ከ[illegible - page 8, line 17]",
+      "uncertain": false
+     }
+    ],
+    "division": "d01"
+   }
+  ],
+  "first_pdf_page": 8,
+  "last_pdf_page": 8,
+  "page_count": 1,
+  "entry_count": 2
+ }
+}
