@@ -1,0 +1,2323 @@
+/*
+ * Title:      ሰዓታት — ፲፬. ለኖህ ሐመሩ — Book of Hours (Seatat) — Section 14
+ * Language:   Ge'ez, with the Amharic translation where the book has it
+ * Source:     Mets'hafe Se'atat in Ge'ez and Amharic (night and dawn);
+ *             Amharic translation by Aleqa Mekonnen Solomon of Debre Libanos,
+ *             Tensae Zegubae Press. Text typed and edited from the printed
+ *             book by Abraham Sisay. Passages the book lacks are supplied
+ *             from the Se'atat text this app already had (EOTC traditional
+ *             liturgy), marked in the entry metadata.
+ * Ownership:  This text belongs to the Ethiopian Orthodox Tewahedo Church.
+ *             It is the Church's public heritage and is not the property of
+ *             any individual, publisher or application.
+ * Status:     Public content, shared for the faithful.
+ * Note:       This notice is metadata only and is never shown in the app.
+ */
+[
+  {
+    "sortOder": 0,
+    "text": "ሰላም ፡ ለኪ ፡ ማርያም ፡ ለኖኅ ፡ ሐመሩ ፡ ሰላም ፡ ለኪ ።",
+    "title": "ሰላም ለኪ ማርያም ለኖኅ ሐመሩ",
+    "turn": "በአሳዳሪ › በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 1,
+    "text": "ለአሮን ፡ በትሩ ፡ ሰላም ፡ ለኪ ፡ ለጌዴዎን ፡ ፀምሩ ። ሰላም ፡ ለኪ ።",
+    "title": "ሰላም ለኪ ማርያም ለኖኅ ሐመሩ",
+    "turn": "በአሳዳሪ › በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez",
+      "filledFromOldText": [
+        "ለጌዴዎን ፀምሩ። ሰላም ለኪ"
+      ]
+    }
+  },
+  {
+    "sortOder": 2,
+    "text": "ለዳዊት ፡ መሰንቆ ፡ መዝሙሩ ፡ ሰላም ፡ ለኪ ።",
+    "title": "ሰላም ለኪ ማርያም ለኖኅ ሐመሩ",
+    "turn": "በአሳዳሪ › በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 3,
+    "text": "ለጌዴዎን ፡ ፀምሩ ፡ ሰላም ፡ ለኪ ።",
+    "title": "ሰላም ለኪ ማርያም ለኖኅ ሐመሩ",
+    "turn": "በአሳዳሪ › በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 4,
+    "text": "ለሰሎሞን ፡ መንበረ ፡ ክብሩ ፡ ሰላም ፡ ለኪ ።",
+    "title": "ሰላም ለኪ ማርያም ለኖኅ ሐመሩ",
+    "turn": "በአሳዳሪ › በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 5,
+    "text": "ለፍሬ ፡ ስብሓት ፡ መዖሩ ፡ ሰላም ፡ ለኪ ።",
+    "title": "ሰላም ለኪ ማርያም ለኖኅ ሐመሩ",
+    "turn": "በአሳዳሪ › በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 6,
+    "text": "እንዘ ፡ ንሴፈዎ ፡ ለበረከትኪ ፡ ዘምስለ ፡ አምኀ ፡ ንዕግድ ፡ ለኪ ።",
+    "title": "ሰላም ለኪ ማርያም ለኖኅ ሐመሩ",
+    "turn": "በአሳዳሪ › በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 7,
+    "text": "ጽጌ ፡ ዘሰአመቶ ፡ ለሐርጌ ።",
+    "title": "ጽጌ ዘሰአመቶ ለሐርጌ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 8,
+    "text": "አምኀ ፡ ስብሓት ፡ ናቄርብ ፡ በኢኑታጌ ፡ ማርያም ፡ ዘመነ ፡ ጽጌ ፤ በሰጊድ ፡ ሰላም ።",
+    "title": "አምኀ ስብሓት ናቄርብ በኢኑታጌ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 9,
+    "text": "ለንባብኪ ፡ ሐዋዝ ፡ ለነገርኪ ፡ ምዑዝ ።",
+    "title": "ለንባብኪ ሐዋዝ ለነገርኪ ምዑዝ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 10,
+    "text": "ለጣዕመ ፡ ቃልኪ ፡ ናዛዜ ፡ ትኩዝ ፡ ማርያም ፡ መዖረ ፡ ቤዝ ፤ በሰጊድ ፡ ሰላም ።",
+    "title": "ለጣዕመ ቃልኪ ናዛዜ ትኩዝ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 11,
+    "text": "ለአስናንኪ ፡ ዘልዑል ፡ እምርዕየተ ፡ በረድ ፡ ኅዩል ፡ ወለልሳንኪ ፡ ተንባሊተ ፡ ሣህል ፡ ለጉርዔኪ ፡ ፈልፈለ ፡ ብዕ ፤ በሰጊድ ፡ ሰላም ።",
+    "title": "ለአስናንኪ ዘልዑል እምርዕየተ በረድ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 12,
+    "text": "ለክሣድክ ፡ በኃኪ ፡ ማርያም ፡ እምነ ፡ እግዝእትነ ፡ ትምክህቶሙ ፡ አንቲ ፡ ለአዝማድነ ።",
+    "title": "በሐኪ በሐኪ ማርያም እምነ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 13,
+    "text": "በሰይፈ ፡ መ ፡ ስና ፡ ዕብዒ ፡ ፀረ ፡ ነፍሳቲነ ፡ አንሶስዊ ፡ ወንዒ ፡ ማዕከሌነ ፡ በሰጊድ ፡ ሰላም ።",
+    "title": "በሐኪ በሐኪ ማርያም እምነ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 14,
+    "text": "ተሞጢሐኪ ፡ ብርሃነ ፡ ወኀዚለኪ ፡ ሕፃነ ፡ ዮም ፡ (እም) ፡ ሰላመ ፡ ወልድኪ ፡ የሀሉ ፡ ምስሌነ ።",
+    "title": "ተሞጢሐኪ ብርሃነ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez",
+      "filledFromOldText": [
+        "(እም)"
+      ]
+    }
+  },
+  {
+    "sortOder": 15,
+    "text": "በሰጊድ ፡ ሰላም ፡ ለኵሎን ፡ መልክእኪ ፡ ማርያም ፡ ለዝክረ ፡ ስምኪ ፡ እም ፡ እምነ ፡ ጥሁም ።",
+    "title": "በሰጊድ ሰላም ለኲሎን መልክኣትኪ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 16,
+    "text": "ማርያም ፡ አንቲ ፡ ወለተ ፡ አዳም ።",
+    "title": "በሰጊድ ሰላም ለኲሎን መልክኣትኪ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 17,
+    "text": "ሰፋኒት ፡ በርሕበ ፡ ዓለም ፡ በሰጊድ ፡ ሰላም ።",
+    "title": "በሰጊድ ሰላም ለኲሎን መልክኣትኪ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 18,
+    "text": "ለስእርትኪ ፡ ሰላም ፡ ዘድላሌሁ ፡ ጸሊም ።",
+    "title": "ለሥእርትኪ ሰላም",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 19,
+    "text": "ወለድማኅኪ ፡ ዕንቈ ፡ ክብር ፡ ዘሶም ።",
+    "title": "ለሥእርትኪ ሰላም",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 20,
+    "text": "ለላህየ ፡ ገጽኪ ፡ ዘያደምም ፡ በሰጊድ ፡ ሰላም ።",
+    "title": "ለሥእርትኪ ሰላም",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 21,
+    "text": "ለቀራንብትኪ ፡ ስን ፡ ዘኢተኵህላ ፡ በልብን ።",
+    "title": "ለቀራንብትኪ ሥን",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 22,
+    "text": "ለአዕይንትኪ ፡ ፍሡሓት ፡ እምወይን ።",
+    "title": "ለቀራንብትኪ ሥን",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 23,
+    "text": "ለመላትህኪ ፡ ጽጌ ፡ ሮማን ፡ በሰጊድ ።",
+    "title": "ለቀራንብትኪ ሥን",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 24,
+    "text": "ሰላም ።",
+    "title": "ለቀራንብትኪ ሥን",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 25,
+    "text": "ለአዕዛንኪ ፡ ብስር ፡ ስሙዓተ ፡ ዜና ፡ መንክር ።",
+    "title": "ለአዕዛንኪ ብሥር",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 26,
+    "text": "ወለአዕናፍኪ ፡ ኮለ ፡ ሐይቀ ፡ ባሕር ።",
+    "title": "ለአዕዛንኪ ብሥር",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 27,
+    "text": "ለከናፍርኪ ፡ ፍሕሦ ፡ ቄዶር ፡ በሰጊድ ፡ ሰላም ፡ ለክሣድኪ ።",
+    "title": "ለአዕዛንኪ ብሥር",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez",
+      "filledFromOldText": [
+        "ለክሣድኪ"
+      ]
+    }
+  },
+  {
+    "sortOder": 28,
+    "text": "ለአፉኪ ፡ ጽጌ ፡ እለ ፡ ሰዐማሁ ፡ ለሐርጌ ። አምኃ ፡ ስብሐት ፡ ናቄርብ ፡ በኢኑታጌ ። ማርያም ፡ ዘመነ ፡ ጽጌ ። በሰጊድ ፡ ሰላም ።",
+    "title": "ለአፉኪ ጽጌ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 29,
+    "text": "ለንባብኪ ፡ ሐዋዝ ፡ ለነገርኪ ፡ ምዑዝ ። ለጣዕመ ፡ ቃልኪ ፡ ናዛዜ ፡ ትኩዝ ። ማርያም ፡ መጾረ ፡ ቤዝ ። በሰጊድ ፡ ሰላም ።",
+    "title": "ለንባብኪ ሐዋዝ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 30,
+    "text": "ለአስናንኪ ፡ ዘሉል ፡ እምርዕየተ ፡ በረድ ፡ ኅዩል ። ወለልሳንኪ ፡ ተንባሊተ ፡ ሣህል ። ለጒርዔኪ ፡ ፈልፈለ ፡ ብዕል ፡ በሰጊድ ፡ ሰላም ።",
+    "title": "ለአስናንኪ ዘሉል",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 31,
+    "text": "ማኅፈድ ።",
+    "title": "ለክሣድኪ ማኅፈድ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 32,
+    "text": "ዲበ ፡ ተልፍዮስ ፡ ውዱድ ።",
+    "title": "ለክሣድኪ ማኅፈድ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 33,
+    "text": "ወለእንግድዓኪ ፡ ሠረገላ ፡ ነድ ።",
+    "title": "ለክሣድኪ ማኅፈድ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 34,
+    "text": "ለሕፅንኪ ፡ ኢያሰጲድ ፤ በሰጊድ ፡ ሰላም ።",
+    "title": "ለክሣድኪ ማኅፈድ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 35,
+    "text": "ለመትከፍትኪ ፡ አጽናን ፡ ጸዋሪተ ፡ ክርስቶስ ፡ ሕፃን ።",
+    "title": "ለመትከፍትኪ አጥናን",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 36,
+    "text": "ወአመ ፡ ጐየይኪ ፡ በብዙኅ ፡ ኀዘን ።",
+    "title": "ለመትከፍትኪ አጥናን",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 37,
+    "text": "ቍ ፡ ቍስቋመ ፡ ደብረ ፡ ኪዳን ፤ በሰጊድ ፡ ሰላም ።",
+    "title": "ለመትከፍትኪ አጥናን",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 38,
+    "text": "ለአዕዳውኪ ፡ ተድላ ፡ ወለእራህኪ ፡ ዕብላ ።",
+    "title": "ለአዕዳውኪ ተድላ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 39,
+    "text": "ለአፃብዕኪ ፡ ዘእሳት ፡ ጌልጌላ ።",
+    "title": "ለአዕዳውኪ ተድላ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 40,
+    "text": "ወለአጥባትኪ ፡ አምሳለ ፡ ኄላ ፡ በሰጊድ ፡ ሰላም ።",
+    "title": "ለአዕዳውኪ ተድላ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 41,
+    "text": "ለዘባንኪ ፡ ፋሌቅ ፡ እምሰማየ ፡ ሰማያት ፡ ምጡቅ ።",
+    "title": "ለዘባንኪ ፋሌቅ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 42,
+    "text": "ለገቦ ፡ ዘ ፡ አኪ ፡ ሐመልማለ ፡ ወርቅ ።",
+    "title": "ለዘባንኪ ፋሌቅ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 43,
+    "text": "ወለአክናፍኪ ፡ ዘውግ ፡ ማዕነቅ ፡ በሰጊድ ፡ ሰላም ።",
+    "title": "ለዘባንኪ ፋሌቅ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 44,
+    "text": "አኪ ፡ ልብ ፡ እንተ ፡ ተመሰለ ፡ ርግበ ።",
+    "title": "ዘዚአኪ ልበ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 45,
+    "text": "ለተወክፎ ፡ ብስራት ፡ ጉብርኤል ፡ በከመ ፡ ነበበ ፡ በሐሤት ፡ ዘአስተርከበ ፤ በሰጊድ ፡ ሰላም ።",
+    "title": "ዘዚአኪ ልበ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 46,
+    "text": "ለከርሥኪ ፡ ጽጌ ፡ ረዳ ፡ ከመ ፡ ቀርነ ፡ ነጌ ፡ ሰሌዳ ።",
+    "title": "ለከርሥኪ ጽጌ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 47,
+    "text": "ለማሕፀንኪ ፡ ዘሰንፔር ፡ ፀዓዳ ።",
+    "title": "ለከርሥኪ ጽጌ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 48,
+    "text": "ወለኅንብርትኪ ፡ ዘኤጴሞዳ ።",
+    "title": "ለከርሥኪ ጽጌ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 49,
+    "text": "በሰጊደ ፡ ሰላም ።",
+    "title": "ለከርሥኪ ጽጌ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 50,
+    "text": "ለድንግልናከ ፡ ክልዔ ፡ እንተ ፡ ወልደ ፡ ቡዝ ፡ ዘትሔ ።",
+    "title": "ለድንግልናኪ ክልኤ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 51,
+    "text": "እንበለ ፡ አርኅዎ ፡ ዘቦአ ፡ ወወጽአ ፡ ኤሎሄ ፡ ማርያም ፡ ገነተ ፡ ርኄ ፡ በሰጊድ ፡ ሰላም ።",
+    "title": "ለድንግልናኪ ክልኤ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 52,
+    "text": "ለድንግልናኪ ፡ ካዕበ ፡ ነቢየ ፡ መንፈስ ፡ የበበ ፡ ተደንግሎ ፡ ሥጋ ፡ ወነፍስ ፡ ለመኑ ፡ ተውህበ ።",
+    "title": "ለድንግልናኪ ካዕበ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 53,
+    "text": "በቀደ ፡ ምት ፡ ዘኢተረክበ ፡ በሰጊድ ፡ ሰላም ።",
+    "title": "ለድንግልናኪ ካዕበ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 54,
+    "text": "ለሐ ፡ ጽንዕ ፡ ወለአብራክኪ ፡ ርትዕ ።",
+    "title": "ለሐቋኪ ጽንዕ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 55,
+    "text": "ወለአዕጋሪኪ ፡ ዕፁባት ፡ በቅብዕ ።",
+    "title": "ለሐቋኪ ጽንዕ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 56,
+    "text": "ለመከየድኪ ፡ ምስለ ፡ አፃብዕ ።",
+    "title": "ለሐቋኪ ጽንዕ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 57,
+    "text": "በሰጊድ ፡ ሰላም ።",
+    "title": "ለሐቋኪ ጽንዕ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 58,
+    "text": "ለአጽፋርኪ ፡ ኵሎን ፡ ዘኊላቌሆን ፡ ፳ ፡ ሀገረ ፡ አድኅኖ ፡ ሕንጽት ፡ ዘነቢይ ፡ ዕዝራ ።",
+    "title": "ለአጽፋርኪ ኲሎን",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 59,
+    "text": "ማርያም ፡ ወለተ ፡ ቅስራ ፤ በሰጊድ ፡ ሰላም ።",
+    "title": "ለአጽፋርኪ ኲሎን",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 60,
+    "text": "ለአእፅምትኪ ፡ ኵሉ ፡ በሐርያተ ፡ ሰማይ ፡ ዘላዕሉ ።",
+    "title": "ለአዕፅምትኪ ኲሉ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 61,
+    "text": "በአምትንት ፡ ወሥርው ፡ እለ ፡ ተሰንሰሉ ።",
+    "title": "ለአዕፅምትኪ ኲሉ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 62,
+    "text": "ወለደም ፡ ነፍስተ ፡ እሉ ፤ በሰጊደ ፡ ሰላም ።",
+    "title": "ለአዕፅምትኪ ኲሉ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 63,
+    "text": "ለጽንሰትኪ ፡ በከርሥ ፡ እንበለ ፡ አበሳ ፡ ወርኵስ ፡ ለተበኵሮትኪ ፡ እንበለ ፡ ደነስ ።",
+    "title": "ለፅንሰትኪ በከርሥ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 64,
+    "text": "ወለበዓትኪ ፡ ቤተ ፡ መቅደስ ።",
+    "title": "ለፅንሰትኪ በከርሥ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 65,
+    "text": "በሰጊድ ፡ ሰላም ።",
+    "title": "ለፅንሰትኪ በከርሥ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 66,
+    "text": "ለተኅጽኖትከኪ ፡ በድክትምና ፡ እምድኅረ ፡ ፈላሰት ፡ ሐና ።",
+    "title": "ለተሐፅኖትኪ በድክትምና",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 67,
+    "text": "ለነሶሳውኪ ፡ ዘመቅደስ ፡ ፍና ፡ ወለንብረትኪ ፡ ዞበፅሙና ።",
+    "title": "ለተሐፅኖትኪ በድክትምና",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 68,
+    "text": "በሰጊድ ፡ ሰላም ።",
+    "title": "ለተሐፅኖትኪ በድክትምና",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 69,
+    "text": "ለሕሊናኪ ፡ ንጽሕት ፡ እምነ ፡ ኵሉ ፡ ትሕዝብት ።",
+    "title": "ለሕሊናኪ ንጽሕት",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 70,
+    "text": "ለንጽሐ ፡ ሥጋኪ ፡ ዘአልቦ ፡ ርስሐት ።",
+    "title": "ለሕሊናኪ ንጽሕት",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 71,
+    "text": "ለቆምኪ ፡ ስነ ፡ በቀልት ፡ በሰጊድ ፡ ሰላም ።",
+    "title": "ለሕሊናኪ ንጽሕት",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 72,
+    "text": "ለአሣዕንኪ ፡ ወርኅ ፡ ወለቶታንኪ ፡ ጐሕ ።",
+    "title": "ለአሣዕንኪ ወርኅ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 73,
+    "text": "ለልብስኪ ፡ ንጽሕ ፡ ለአጽፍኪ ፡ በርህ ፡ ወለአክሊልኪ ፡ ጐሐ ፡ ጽባሕ ፤ በሰጊድ ፡ ሰላም ።",
+    "title": "ለአሣዕንኪ ወርኅ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 74,
+    "text": "ዘፀነስኪዮ ፡ ለፍሕም ፡ በማሕፀነ ፡ ሥጋ ፡ ድኩም ።",
+    "title": "ዘፀነስኪዮ ለፍሕም",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 75,
+    "text": "ለድንግልናኪ ፡ እንተ ፡ ዘልፍ ፡ ኅቱም ።",
+    "title": "ዘፀነስኪዮ ለፍሕም",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 76,
+    "text": "ማርያም ፡ ጥዕምተ ፡ ስም ፡ በሰጊድ ፡ ሰላም ።",
+    "title": "ዘፀነስኪዮ ለፍሕም",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 77,
+    "text": "ምስለ ፡ ወልድኪ ፡ ግሩም ፡ መደኃኔ ፡ ኵሉ ፡ ዓለም ።",
+    "title": "ምስለ ወልድኪ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 78,
+    "text": "በረኃብ ፡ ወጽምዕ ፡ በሐፍ ፡ ወድካም ።",
+    "title": "ምስለ ወልድኪ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 79,
+    "text": "ዘጐየይኪ ፡ ደብረ ፡ ቊስቋም ፤ በሰጊድ ፡ ሰላም ።",
+    "title": "ምስለ ወልድኪ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 80,
+    "text": "ምስለ ፡ ወልድኪ ፡ ልዑል ፡ በዘባንኪ ፡ ኅዙል ። ።",
+    "title": "ምስለ ወልድኪ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez",
+      "filledFromOldText": [
+        "ኅዙል።"
+      ]
+    }
+  },
+  {
+    "sortOder": 81,
+    "text": "ጐየይኪ ፡ እፎ ፡ ድንግል ፡ ምድረ ፡ ግብፅ ፡ ደወል ፡ በአንብዕ ፡ ወነኮላል ፤ በሰጊድ ፡ ሰላም ።",
+    "title": "ምስለ ወልድኪ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 82,
+    "text": "ምስለ ፡ ወልድኪ ፡ ንጉሥ ፡ ቀዳሴ ፡ ሥጋ ፡ ወነፍስ ።",
+    "title": "ምስለ ወልድኪ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 83,
+    "text": "ጐየይኪ ፡ እፎ ፡ ድንግል ፡ እምገጸ ፡ ሄሮድስ ።",
+    "title": "ምስለ ወልድኪ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 84,
+    "text": "በንዴት ፡ ወበተጽናስ ፤ በሰጊድ ፡ ሰላም ።",
+    "title": "ምስለ ወልድኪ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 85,
+    "text": "ምስለ ፡ ወልድኪ ፡ ሕያው ፡ በዘባንኪ ፡ ሕልው ።",
+    "title": "ምስለ ወልድኪ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 86,
+    "text": "ጐየይኪ ፡ እፎ ፡ ድንግል ፡ ምድረ ፡ ግብፅ ፡ ፍናው ፡ በአንብዕ ፡ ወሰቆቃው ፣ በሰጊድ ፡ ሰላም ።",
+    "title": "ምስለ ወልድኪ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 87,
+    "text": "ምስለ ፡ ወልድኪ ፡ ጻድቅ ፡ በዘባንኪ ፡ ልዑቅ ።",
+    "title": "ምስለ ወልድኪ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 88,
+    "text": "ጐየይከ ፡ እፎ ፡ ድንግል ፡ ምድረ ፡ ግብፅ ፡ ርኁቅ ።",
+    "title": "ምስለ ወልድኪ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 89,
+    "text": "በረኃብ ፡ እንበለ ፡ ስንቅ ፤ በሰጊድ ፡ ሰላም ፡ ምስለ ፡ ወልድኪ ፡ ፍቁር ፡ በሰዓ ፡ ስቅለቱ ፡ ለበኵር ፡ እንዘ ፡ ተሓምሚ ፡ ድንግል ፡ በብዙኅ ፡ ገዓር ፡ አንብዓኪ ፡ አንብዓ ፡ መሪር ፡ በሰጊድ ፡ ሰላም ።",
+    "title": "ምስለ ወልድኪ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 90,
+    "text": "ምረ ፡ ወልድኪ ፡ መድኅን ፡ ዘሰቀልዎ ፡ አብዳን ፡ በደመ ፡ ገቦፁ ፡ ቤዘወ ፡ ነፍሰ ፡ ኃጥአን ።",
+    "title": "ምስለ ወልድኪ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 91,
+    "text": "ለአዳም ፡ ወለሔዋን ፤ በሰጊድ ፡ ሰላም ፡ ሓለጸአተ ፡ ነፍስኪ ፡ ዛቲ ፡ እምዓለመ ፡ ሥጋ ፡ መዋቲ ።",
+    "title": "ለፀአተ ነፍስኪ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 92,
+    "text": "ማርያም ፡ አንቲ ፡ ወለቱ ፡ ለማቲ ።",
+    "title": "ለፀአተ ነፍስኪ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 93,
+    "text": "በስብሓት ፡ ዘትትአኰቲ ፤ በሰጊድ ፡ ሰላም ።",
+    "title": "ለፀአተ ነፍስኪ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 94,
+    "text": "ዝዚአኪ ፡ በድን ፡ ዘመዓዛሁ ፡ ስኂን ።",
+    "title": "ዘዚአኪ በድን",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 95,
+    "text": "ወለግንዘትኪ ፡ በእደ ፡ ቡሩካን ።",
+    "title": "ዘዚአኪ በድን",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 96,
+    "text": "ለመቃብርኪ ፡ ጌቴሤማን ፤ በሰጊድ ፡ ሰላም ።",
+    "title": "ዘዚአኪ በድን",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 97,
+    "text": "ለመቃብርኪ ፡ ሶቤ ፡ ለጌቴሴማን ፡ በመርኅባ ፡ ጌቴሴማኒስ ፡ ለሥጋኪ ፡ ምስካባ ።",
+    "title": "ለመቃብርኪ ሶቤ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 98,
+    "text": "ማርያም ።",
+    "title": "ለመቃብርኪ ሶቤ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 99,
+    "text": "ስኂነ ፡ ሳባ ።",
+    "title": "ለመቃብርኪ ሶቤ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 100,
+    "text": "በሰጊድ ፡ ሰላም ።",
+    "title": "ለመቃብርኪ ሶቤ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 101,
+    "text": "ለፍልሰትኪ ፡ ከብካብ ፡ ኀበ ፡ ዘሉዓሌ ፡ ተድባብ ።",
+    "title": "ለፍልሰትኪ ከብካብ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 102,
+    "text": "እንዘ ፡ ይዌድሰኪ ፡ ዘራማ ፡ ኪሩብ ፡ ንግሥትየ ፡ መርዓተ ፡ አብ ፡ በሰጊድ ፡ ሰላም ።",
+    "title": "ለፍልሰትኪ ከብካብ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 103,
+    "text": "ለመንፈሰ ፡ ሕይወት ፡ ላኪ ፡ ፀጋ ፡ መንፈስ ፡ ቅዱስ ፡ ለበስኪ ፡ ወኃይለ ፡ ልዑል ፡ ለዘአጽንዓኪ ።",
+    "title": "ለመንፈሰ ሕይወት",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 104,
+    "text": "ወለዘተወልደ ፡ እማሕፀንኪ ፤ በሰጊድ ፡ ሰላም ።",
+    "title": "ለመንፈሰ ሕይወት",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 105,
+    "text": "ገነይኩ ፣ ለኪ ፡ ኦንግሥሥተ ፡ ሰማይ ፡ ዓይ ።",
+    "title": "ገነይኩ ለኪ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 106,
+    "text": "ለባሲተ ፡ ብሩህ ፡ ፀሐይ ።",
+    "title": "ገነይኩ ለኪ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 107,
+    "text": "ከመ ፡ ርእሰ ፡ ፶ ፡ ወሳልላይ ።",
+    "title": "ገነይኩ ለኪ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 108,
+    "text": "አስተበንተ ፡ ድንግል ፡ እመ ፡ አዶናይ ።",
+    "title": "ገነይኩ ለኪ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 109,
+    "text": "በቅድሜኪ ፡ ነፍስየ ፡ ትዕበይ ፤ እሰግድ ፡ ለኪ ።",
+    "title": "ገነይኩ ለኪ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 110,
+    "text": "እሰግድ ፡ ለኪ ፡ ከመ ፡ ኃጢኣትየ ፡ ታሥተስርዬ ።",
+    "title": "እሰግድ ለኪ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 111,
+    "text": "ማርያም ፣ ንግሥት ፡ ቅድመ ፡ ዓይነ ፡ ኵሉ ፡ ጸላዪ ።",
+    "title": "እሰግድ ለኪ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 112,
+    "text": "ሥእለ ፡ አድኅኖ ፡ ሥእልኪ ፡ እንተ ፡ ትሰመይ ።",
+    "title": "እሰግድ ለኪ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 113,
+    "text": "ተአከመ ፡ ታርእዪ ፡ እሰግድ ፡ ለኪ ።",
+    "title": "እሰግድ ለኪ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 114,
+    "text": "ማርያም ፡ ረድአቶ ፡ ለዘእም ፡ አራቱ ፡ ተነጽሐ ።",
+    "title": "ማርያም ረድአቶ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 115,
+    "text": "ሥእለ ፡ አድኅኖ ፡ ሥእልኪ ፡ መዝራዕተ ፡ ሰፊሐ ፡ ትርድዓነ ፡ ከመ ፡ አሜሃ ።",
+    "title": "ማርያም ረድአቶ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 116,
+    "text": "እሰግድ ፡ ለኪ ።",
+    "title": "ማርያም ረድአቶ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 117,
+    "text": "ማርያም ፡ ሥእልኪ ፡ ሥእለ ፡ አድኅኖ ፡ እንተ ፡ ታሌዕሊ ፡ ኵሎ ።",
+    "title": "ማርያም ሥዕልኪ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 118,
+    "text": "ለዘተወስለ ፡ ብኪ ፡ መኑ ፡ ይክሎ ።",
+    "title": "ማርያም ሥዕልኪ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 119,
+    "text": "ሰይጣን ፡ ኢይሄይሎ ፡ እሰግድ ፡ ለኪ ።",
+    "title": "ማርያም ሥዕልኪ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 120,
+    "text": "ማርያም ፡ ሥእልኪ ፡ ሥእለ ፡ ኣድኅኖ ፡ ተብህለ ፡ በእዝንቱ ፡ ላዕሌየ ።",
+    "title": "ማርያም ሥዕልኪ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 121,
+    "text": "ፍቅርኪ ፡ መሰለ ።",
+    "title": "ማርያም ሥዕልኪ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 122,
+    "text": "መዋግደ ፡ ወማዕበለ ፡ እሰግድ ፡ ለኪ ።",
+    "title": "ማርያም ሥዕልኪ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 123,
+    "text": "ለሥዕለ ፡ አድኅኖ ፡ ሥእልኪ ፡ ዘአስተቄጸላ ፡ አፉየ ።",
+    "title": "ለሥዕለ አድኅኖ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 124,
+    "text": "ጽጌ ፡ ረዳ ፡ ስብሓት ፡ ንሥኢ ፡ ማርያም ፡ ቅደሜየ ።",
+    "title": "ለሥዕለ አድኅኖ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 125,
+    "text": "ዘካርያስ ፡ ከመ ፡ አርአየ ።",
+    "title": "ለሥዕለ አድኅኖ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 126,
+    "text": "እሰግድ ፡ ለኪ ።",
+    "title": "ለሥዕለ አድኅኖ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 127,
+    "text": "ማርያም ፡ ኩኒ ፡ ለሕይወትየ ፡ ፀወኖ ።",
+    "title": "ማርያም ኩኒ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 128,
+    "text": "እስመ ፡ ተማሕፀንኩ ፡ አንሰ ፡ ተማሕዕኖ ።",
+    "title": "ማርያም ኩኒ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 129,
+    "text": "በሥእልኪ ፡ ሥእለ ፡ አድኅኖ ።",
+    "title": "ማርያም ኩኒ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 130,
+    "text": "እሰግድ ፡ ለኪ ።",
+    "title": "ማርያም ኩኒ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 131,
+    "text": "ማርያም ፡ ኩኒ ፡ ለእርቃንየ ፡ ክዳኖ ።",
+    "title": "ማርያም ኩኒ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 132,
+    "text": "እስመ ፡ ተማሕፀንኩ ፡ አንሰ ፡ ተማሕፅኖ ፡ በሥእልኪ ፡ ሥእለ ፡ አድኅኖ ።",
+    "title": "ማርያም ኩኒ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 133,
+    "text": "እሰግድ ፡ ለኪ ።",
+    "title": "ማርያም ኩኒ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 134,
+    "text": "ማርያም ፡ ኩኒ ፡ ለልቡናዬ ፡ ብርሃኖ ፡ እስመ ፡ ተማሕጋንኩ ፡ አንሰ ፡ ተማሕፅኖ ፡ በሥእልኪ ፡ ሥእለ ፡ አድኅኖ ፡ እሰግድ ፡ ለኪ ።",
+    "title": "ማርያም ኩኒ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 135,
+    "text": "በእንተ ፡ ዛቲ ፡ ግርምት ፡ ሥእለ ፡ አድኅኖ ፡ ሥእልኪ ።",
+    "title": "በእንተ ዛቲ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 136,
+    "text": "ወሥእለ ፡ መለኮት ፡ ሕፃንኪ ።",
+    "title": "በእንተ ዛቲ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 137,
+    "text": "ጽጌያተ ፡ ማኅሌት ፡ ስብዓ ፡ ዘአወፈይኩኪ ፡ ንሥኢ ፡ ማርያም ፡ ቀጸላ ፡ ይኩንኪ ፡ እሰግድ ፡ ለኪ ።",
+    "title": "በእንተ ዛቲ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 138,
+    "text": "ክርስቶስ ፡ ቅቡዕ ፡ ዘአልባሰጥሮስ ፡ ዕፍረት ። ሀገረ ፡ ዳዊት ፡ ለቤዛ ፡ ነፍሳት ።",
+    "title": "በሰጊድ ስብሐት",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez",
+      "filledFromOldText": [
+        "ዘአልባሰጥሮስ ዕፍረት። ሀገረ"
+      ]
+    }
+  },
+  {
+    "sortOder": 139,
+    "text": "ዘወረድከ ፡ እምሰማያት ።",
+    "title": "በሰጊድ ስብሐት",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 140,
+    "text": "ለመዓዛ ፡ ስምከ ፡ አፈዋት ።",
+    "title": "ለመዓዛ ስምከ አፈዋት",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 141,
+    "text": "ዘአልባስጥሮስ ፡ ዕፍረተ ፡ ሀገረ ፡ በሰጊድ ፡ ስብሓት ።",
+    "title": "በሰጊድ ስብሐት",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 142,
+    "text": "ለስእርትከ ፡ ድሉል ፡ ከመ ፡ ሜላተ ፡ ወርቅ ፡ ፍቱል ።",
+    "title": "ለሥእርትከ ድሉል",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 143,
+    "text": "ወለድማኅከ ፡ ፀዋሬ ፡ አክሊል ።",
+    "title": "ለሥእርትከ ድሉል",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 144,
+    "text": "ኢየሱስ ፡ ወልደ ፡ ድንግል ፡ በሰ ፡ ስብ ።",
+    "title": "ለሥእርትከ ድሉል",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 145,
+    "text": "ለአእይንቲከ ፡ ኵህል ፡ ማዕከለ ፡ ቀራንብት ፡ ሥዑል ።",
+    "title": "ለአዕይንቲከ ኲሕል",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 146,
+    "text": "ለላኅየ ፡ ገጽክ ፡ ሠረገላ ፡ ጠል ።",
+    "title": "ለአዕይንቲከ ኲሕል",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 147,
+    "text": "ያሕመለምል ፡ ወያጸድል ።",
+    "title": "ለአዕይንቲከ ኲሕል",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 148,
+    "text": "በሰጊድ ፡ ስብሓት ፡ ለአዕዛኒከ ፡ ጽዋዕ ፡ ጸሎተ ፡ ቅዱሳን ፡ ምሉዕ ።",
+    "title": "ለአእዛኒከ ጽዋዕ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 149,
+    "text": "ወለአዕናፊከ ፡ ማኅፈደ ፡ ምሥዋዕ ።",
+    "title": "ለአእዛኒከ ጽዋዕ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 150,
+    "text": "ለከናፍሪከ ፡ ጽጌ ፡ ከርካዕ ።",
+    "title": "ለአእዛኒከ ጽዋዕ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 151,
+    "text": "በሰጊድ ፡ ስብሓት ።",
+    "title": "ለአእዛኒከ ጽዋዕ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 152,
+    "text": "ለመላትሂከ ፡ ብርሃን ፡ ከመ ፡ ጽጌ ፡ ቀይህ ፡ ሮማን ።",
+    "title": "ለመላትሒከ ብርሃን",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 153,
+    "text": "ኢየሱስ ፡ ክርስቶስ ፡ መዓዛ ፡ ዕጣን ።",
+    "title": "ለመላትሒከ ብርሃን",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 154,
+    "text": "ዘትጼኑ ፡ ከመ ፡ ስኂን ።",
+    "title": "ለመላትሒከ ብርሃን",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 155,
+    "text": "በሰጊድ ፡ ስብሓት ።",
+    "title": "ለመላትሒከ ብርሃን",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 156,
+    "text": "ለአፉ ፡ ከ ፡ ከርቤ ፡ ለልሳንከ ፡ ነባቤ ።",
+    "title": "ለአፉከ ከርቤ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 157,
+    "text": "ቃልከኒ ፡ ከልሐ ፡ በመስቀል ፡ ሶቤ ።",
+    "title": "ለአፉከ ከርቤ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 158,
+    "text": "ፀሚዕኩ ፡ እስከነ ፡ ትቤ ፡ በሰጊድ ፡ ስብሓት ።",
+    "title": "ለአፉከ ከርቤ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 159,
+    "text": "ለአስናኒከ ፡ ጸዓዳ ፡ ወለጒርዔከ ፡ እንግዳ ።",
+    "title": "ለአስናኒከ ጸዓዳ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 160,
+    "text": "ለእስትንፋስከ ፡ መዓዛ ፡ ጽጌረዳ ።",
+    "title": "ለአስናኒከ ጸዓዳ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 161,
+    "text": "ዘትጼኑ ፡ ፍኖተ ፡ በዳ ፡ በሰጊድ ፡ ስብሓት ።",
+    "title": "ለአስናኒከ ጸዓዳ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 162,
+    "text": "ለፅሕምከ ፡ ዘቦ ፡ ቅሩቢ ፡ መታክፍት ፡ ገቦ ።",
+    "title": "ለጽሕምከ ዘቦ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 163,
+    "text": "ከመ ፡ ፅሕመ ፡ አሮን ፡ ካህን ፡ ምሳሌ ፡ ዘአልቦ ፡ ■ ፡ ኢየሱስ ፡ ቀርነ ፡ የብቦ ።",
+    "title": "ለጽሕምከ ዘቦ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 164,
+    "text": "በሰጊድ ፡ ስብሓት ።",
+    "title": "ለጽሕምከ ዘቦ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 165,
+    "text": "ለክሳድከ ፡ ልሁይ ፡ መፆረ ፡ ርእስ ፡ ዓባይ ፡ ■ ፡ ወለእንግድዓከ ፡ እንግድዓ ፡ ፀሐይ ።",
+    "title": "ለክሣድከ ልሁይ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 166,
+    "text": "ኢየሱስ ፡ ዕንቆ ፡ ባሕርይ ።",
+    "title": "ለክሣድከ ልሁይ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 167,
+    "text": "በሰጊድ ፡ ስብሓት ።",
+    "title": "ለክሣድከ ልሁይ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 168,
+    "text": "ለዘባንከ ፡ ልሁብ ፡ በልብሰ ፡ ጠባይዕ ፡ ግልበብ ።",
+    "title": "ለዘባንከ ልሁብ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 169,
+    "text": "ኢየሱስ ፡ ክርስቶስ ፡ ምሉዓ ፡ ጥበብ ።",
+    "title": "ለዘባንከ ልሁብ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 170,
+    "text": "የዋህ ፡ አምሳለ ፡ ርግብ ።",
+    "title": "ለዘባንከ ልሁብ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 171,
+    "text": "በሰጊድ ፡ ስብሓት ።",
+    "title": "ለዘባንከ ልሁብ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 172,
+    "text": "ለአእዳዊከ ፡ መስቀል ፡ ወለእራህከ ፡ ወንጌል ፡ ለመዛርኢከ ፡ መዛርዓ ፡ ሣህል ።",
+    "title": "ለአእዳዊከ መስቀል",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 173,
+    "text": "ኢየሱስ ፡ ገባሬ ፡ ኃይል ።",
+    "title": "ለአእዳዊከ መስቀል",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 174,
+    "text": "በሰጊድ ፡ ስብሓት ።",
+    "title": "ለአእዳዊከ መስቀል",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 175,
+    "text": "ለእመትከ ፡ ክቡር ፡ ፈጣሬ ፡ ሰማያት ፡ ወምድር ። ወለአፃብኢከ ፡ ከሣቴ ፡ ዕውር ። ኢየሱስ ፡ ፈጻሜ ፡ ፍቅር ። በሰጊድ ፡ ስብሐት ።",
+    "title": "ለእመትከ ክቡር",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 176,
+    "text": "ለአጽፋሪከ ፡ ዘዕንቊ ፡ ከመ ፡ ጽጌ ፡ ረዳ ፡ ዘሐይቅ ። ለገቦ ፡ ዚአከ ፡ ሐመልማለ ፡ ወርቅ ። ኢየሱስ ፡ ፀሐየ ፡ ጽድቅ ። በሰጊድ ፡ ስብሐት ።",
+    "title": "ለአጽፋሪከ ዘዕንቊ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 177,
+    "text": "ለልብከ ፡ ጽሌ ፡ ወለሕሊናከ ፡ ቢረሌ ። ለንዋየ ፡ ውስጥከ ፡ ዘአልቦ ፡ ምሳሌ ። ኢየሱስ ፡ አምላከ ፡ ሉዓሌ ። በሰጊድ ፡ ስብሐት ።",
+    "title": "ለልብከ ጽሌ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 178,
+    "text": "ለኅንብርትከ ፡ ማኅየዊ ። ማእከለ ፡ ከርሥ ፡ ሀላዊ ። እስመ ፡ ለሐቋከ ፡ አምላካዊ ፡ ወለአቊያጺከ ፡ መለኮታዊ ። በሰጊድ ፡ ስብሐት ።",
+    "title": "ለኅንብርትከ ማኅየዊ።",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 179,
+    "text": "ለአብራኪከ ፡ መንበር ፡ ምስማከ ፡ ሰኰና ፡ ወእግር ። ለመከየድከ ፡ ስኩዐ ፡ አጽፋር ። ዘትከይድ ፡ ዘባነ ፡ ባሕር ። በሰጊድ ፡ ስብሐት ።",
+    "title": "ለአብራኪከ መንበር",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 180,
+    "text": "ስነ ፡ ቆምከ ፡ በቀልት ፡ ወለመልክእከ ፡ ሕይወት ፡ ኢየሱስ ፡ ክርስቶስ ፡ ዓምደ ፡ ሃይማኖት ፡ ሥርግው ፡ ስነ ፡ ስብሓት ፡ በሰጊድ ፡ ስብሓት ።",
+    "title": "ሥነ ቆምከ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 181,
+    "text": "ለፅንሰትከ ፡ በከርሥ ፡ ለነሢአ ፡ ሥጋ ፡ ወነፍስ ፡ ፖለልደትከ ፡ እንበለ ፡ ደነስ ፡ ጥምቀትበ ፡ በዮርዳኖስ ፡ በሰጊድ ፡ ስብሐት ።",
+    "title": "ለፅንሰትከ በከርሥ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 182,
+    "text": "ብርሃነ ፡ ብርሃናት ፡ ሠረቀ ፡ ሕማርያም ፡ ድንግል ፡ ዘይነብር ፡ ወትረ ፡ መልዕልተ ፡ ጜልጜል ፡ ሰመየቶ ፡ አማኑኤል ፡ በሰጊድ ፡ ስብሓት ።",
+    "title": "ብርሃነ ብርሃናት",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 183,
+    "text": "ለአፃብኢከ ፡ ከሣቲ ፡ ስውር ።",
+    "title": "ለአፃብኢከ ከሣቲ ስውር",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 184,
+    "text": "ኢያሱስ ፡ በሰጊድ ፡ ስብሓት ።",
+    "title": "ኢያሱስ በሰጊድ ስብሓት",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 185,
+    "text": "ለእመትከ ፡ ክቡር ፡ ፈጣሬ ፡ ሰማያት ፡ ወምድር ።",
+    "title": "ለእመትከ ክቡር ፈጣሬ ሰማያት",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 186,
+    "text": "ረዳ ፡ ነብር ፡ ፍቅር ።",
+    "title": "ረዳ ነብር ፍቅር",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 187,
+    "text": "ለአጽፋሪከ ፡ ዘዕንቀ ፡ ከመ ፡ ጽጌ ፡ ለገቦ ፡ ዚአከ ፡ ሐመልማለ ፡ ወርቅ ፡ ኢየሱስ ፡ ፀሐየ ፡ ጽድቅ ።",
+    "title": "ለአጽፋሪከ ዘዕንቀ ከመ ጽጌ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 188,
+    "text": "በሰጊድ ፡ ስብሓት ።",
+    "title": "በሰጊድ ስብሓት",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 189,
+    "text": "ለልብከ ፡ ጽሌ ፡ ለሕሊናከ ፡ ቢረሌ ።",
+    "title": "ለልብከ ጽሌ ለሕሊናከ ቢረሌ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 190,
+    "text": "ለንዋየ ፡ ውስጥከ ፡ ዘአልቦ ፡ ምሳሌ ።",
+    "title": "ለንዋየ ውስጥከ ዘአልቦ ምሳሌ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 191,
+    "text": "ኢየሱስ ፡ አምላከ ፡ በሰጊድ ፡ ስብሓት ።",
+    "title": "ኢየሱስ አምላከ በሰጊድ ስብሓት",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 192,
+    "text": "ለሕንብርትከ ፡ ማኅየዊ ።",
+    "title": "ለሕንብርትከ ማኅየዊ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 193,
+    "text": "ማዕከለ ፡ ከር ፡ ሃላዊ ።",
+    "title": "ማዕከለ ከር ሃላዊ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 194,
+    "text": "እስመ ፡ ለሐቌከ ፡ አምላካዊ ፡ ወለአቍያጺክ ፡ መለኮታዊ ፡ በሰጊድ ፡ ስብሓት ።",
+    "title": "እስመ ለሐቌከ አምላካዊ ወለአቍያጺክ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 195,
+    "text": "ለኦብራኪከ ፡ መንበር ፡ ምስማከ ፡ ሰኰና ፡ ወእግር ።",
+    "title": "ለኦብራኪከ መንበር ምስማከ ሰኰና",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 196,
+    "text": "ለመክየድክ ፡ ስኩዓ ፡ አጽፋር ፡ ዘትከይድ ፡ ዘባነ ፡ ባሕር ፡ በሰጊድ ፡ ስብሓት ።",
+    "title": "ለመክየድክ ስኩዓ አጽፋር ዘትከይድ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 197,
+    "text": "ለጽፍአትከ ፡ በዓውድ ፡ በዕደ ፡ ዓላውያን ፡ አይሁድ ፡ ኢየሱስ ፡ ክርስቶስ ፡ ወልደ ፡ አብ ፡ ዋሕድ ፡ ከመ ፡ ትኩን ፡ ቤዛ ፡ ትውልድ ፡ በሰጊድ ፡ ስብሓት ።",
+    "title": "ለጽፍዓትከ በዐውድ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 198,
+    "text": "ለሕማምከ ፡ መጽዕር ፡ ወለሞትከ ፡ መሪር ፡ ለተኰርዖትከ ፡ በሕለት ፡ ወበትር ፡ ስቅለትከ ፡ በጊዜ ፡ ቀትር ፡ በሰጊድ ፡ ስብሓት ።",
+    "title": "ለሕማምከ መጽዕር",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 199,
+    "text": "ጊዜ ፡ ትወጽእ ፡ ነፍስከ ፡ መንጦላዕተ ፡ ምኵራብ ፡ ተሠጠ ፡ ፀሐይ ፡ ደንገፀ ፡ ወወርኅ ፡ እንሶጠጠ ፡ ትስብእትከ ፡ ጊዜ ፡ ተፈልጠ ፡ በሰጊድ ፡ ስብሓት ።",
+    "title": "ጊዜ ትወጽእ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 200,
+    "text": "ዘወደዩከ ፡ በሠርክ ፡ ውሣጤ ፡ መቃብር ፡ ሐዲስ ፡ ጻድቃን ፡ ዮሴፍ ፡ ወኒቆዲሞስ ፡ እንዘ ፡ ይብሎ ፡ ቅዱስ ፡ ቅዱስ ፡ ቅዱስ ፡ በሰጊድ ፡ ስብሓት ።",
+    "title": "ዘወደዩከ በሠርክ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 201,
+    "text": "ሰሐበቶ ፡ ፍቅር ፡ ወአገበረቶ ፡ ትሕትና ፡ ለወልደ ፡ ማርያም ፡ ድንግል ፡ ዘአልቦ ፡ ሙስና ።",
+    "title": "ሰሐበቶ ፍቅር",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 202,
+    "text": "ለመሬት ፡ እስከ ፡ ተከድና ፡ በሰጊድ ፡ ስብሓት ።",
+    "title": "ሰሐበቶ ፍቅር",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 203,
+    "text": "ለትንሣኤከ ፡ በግርማ ፡ ተካፈለከ ፡ ሰቂማ ፡ ላዕለ ፡ ምድረ ፡ ግብፅ ፡ ደብረ ፡ ዘይት ፡ ስማ ፡ ወለፅርገትስ ፡ መልዕልተ ፡ ራማ ፡ በሰጊድ ፡ ስብሓት ።",
+    "title": "ለትንሣኤክ በግርማ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 204,
+    "text": "ለዕርገትከ ፡ ግሩም ፡ ዘኢይትነገር ፡ መድምም ። ኢየሱስ ፡ ክርስቶስ ፡ መድኃኔ ፡ ዓለም ። አስምዓነ ፡ ቃለ ፡ ሰላም ። በሰጊድ ፡ ስብሐት ።",
+    "title": "ለዕርገትከ ግሩም",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 205,
+    "text": "ለምጽዓትከ ፡ ከዋላ ፡ ውስተ ፡ ኑኀ ፡ ዘመን ፡ ወዕድሜ ። ለመለኮትከ ፡ ዘአልቦ ፡ ፍጻሜ ። ኢየሱስ ፡ አምላከ ፡ ሱላሜ ። በሰጊድ ፡ ስብሐት ።",
+    "title": "ለምጽዓትከ ከዋላ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 206,
+    "text": "ፈጸምነ ፡ በዝ ፡ ስብሓተ ፡ መልክዕከ ፡ በዕጊድ ።",
+    "title": "ፈጸምነ በዝ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 207,
+    "text": "ፈኑ ፡ ለነ ፡ እግዚኦ ፡ መንፈሰ ፡ ጰራቅሊጦስ ፡ ነድ ፡ አርአያ ፡ አንበቦሙ ፡ በገሃድ ፡ ለሐዋርያት ፡ ኄራን ፡ ንቡራነ ፡ ዕድ ፡ ያንብበነ ፡ በስሩስት ፡ ወሜድ ።",
+    "title": "ፈጸምነ በዝ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez",
+      "filledFromOldText": [
+        "እግዚኦ"
+      ]
+    }
+  }
+]

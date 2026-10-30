@@ -1,0 +1,1280 @@
+/*
+ * Title:      ሰዓታት — ፲፭. ተፈሥሒ ማርያም — Book of Hours (Seatat) — Section 15
+ * Language:   Ge'ez, with the Amharic translation where the book has it
+ * Source:     Mets'hafe Se'atat in Ge'ez and Amharic (night and dawn);
+ *             Amharic translation by Aleqa Mekonnen Solomon of Debre Libanos,
+ *             Tensae Zegubae Press. Text typed and edited from the printed
+ *             book by Abraham Sisay. Passages the book lacks are supplied
+ *             from the Se'atat text this app already had (EOTC traditional
+ *             liturgy), marked in the entry metadata.
+ * Ownership:  This text belongs to the Ethiopian Orthodox Tewahedo Church.
+ *             It is the Church's public heritage and is not the property of
+ *             any individual, publisher or application.
+ * Status:     Public content, shared for the faithful.
+ * Note:       This notice is metadata only and is never shown in the app.
+ */
+[
+  {
+    "sortOder": 0,
+    "text": "ሰላም ፡ ለማርያም ፡ ዐጽፈ ፡ ወልድ ፡ ዋሕድ ። ወመንበረ ፡ ሕያው ፡ ነድ ። ለድንግልናሃ ፡ ይደሉ ፡ ሰጊድ ። ለማርያም ፡ ዘይቤ ፡ ኢይሰግድ ። ሞጸፈ ፡ መብረቅ ፡ በሊኅ ፡ በርእሱ ፡ ለይረድ ።",
+    "title": "ሰላም ለማርያም ዐጽፈ ወልድ ዋሕድ",
+    "turn": "ይ.ካ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 1,
+    "text": "ተፈሥሒ ፡ ማርያም ፡ ድንግልተ ፡ ሥጋ ፡ ወሕሊና ፡ ተፈሥሒ ፡ ማርያም ፡ ወለተ ፡ ኢያቄም ፡ ወሐና ፡ ጳጦስ ፡ አንቲ ፡ ዘአስተርአይኪ ፡ በደብረ ፡ ሲና ፡ ጎመረ ፡ ወርቅየ ፡ መሥፈርቱ ፡ ለመና ፡ ማርያም ፡ ለዕበየኪ ፡ ይደሉ ፡ መሐና ።",
+    "title": "ድንግልተ ሥጋ ወሕሊና",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 2,
+    "text": "ተፈሥሒ ፡ ማርያም ፡ ድንግልተ ፡ ሕሊና ፡ ወሥጋ ፡ ተፈሥሒ ፡ ማርያም ፡ እንበለ ፡ ሕፀፅ ፡ ወንትጋ ፡ ተፈሥሒ ፤ አንቀጽ ፡ ዘኢተርኅወ ፡ መንሥጋ ፡ ለነፍስ ፡ ዚአየ ፡ ውስተ ፡ ሲዖል ፡ ኢይኅድጋ ።",
+    "title": "ድንግልተ ሕሊና ወሥጋ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 3,
+    "text": "ፍሬ ፡ ማሕፀንኪ ፡ ወልድ ፡ ይክፍለኒ ፡ ፀጋ ፡ ኀበ ፡ ይገብሩ ፡ ኅሩያን ፡ እንግልጋ ።",
+    "title": "ድንግልተ ሕሊና ወሥጋ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 4,
+    "text": "ተፈሥሒ ፡ ማርያም ፡ ደደልወኪ ፡ ተፈሥሖ ፡ ተራኅርኂ ፡ ድንግል ፡ ዘልማድኪ ፡ ተራኅርኆ ።",
+    "title": "ይደልወኪ ተፈሥሖ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 5,
+    "text": "ገብርኪ ፡ ኃጥእ ፡ ሶበ ።",
+    "title": "ይደልወኪ ተፈሥሖ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 6,
+    "text": "ጸራኅኩ ፡ በከልሖ ፡ ለቃለ ፡ አፉየ ፡ ተወኪፈኪ ፡ ጽራኈ ፡ ኣሆ ፡ ኦሆ ፡ በልኒ ፡ አሆ ።",
+    "title": "ይደልወኪ ተፈሥሖ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 7,
+    "text": "ለቤተ ፡ መርዓ ፡ እሁበከ ፡ መርኈ ።",
+    "title": "ይደልወኪ ተፈሥሖ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 8,
+    "text": "ተፈሥሒ ፡ ማርያም ፡ ወለተ ፡ ሣራ ፡ ወርብቃ ።",
+    "title": "ወለተ ሣራ ወርብቃ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 9,
+    "text": "ተፈሥሒ ፡ ማርያም ፡ ለደወለ ፡ ምስር ፡ ማዕንቃ ።",
+    "title": "ወለተ ሣራ ወርብቃ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 10,
+    "text": "ለረዲኦትየ ፡ ፍጡነ ፡ እንተ ፡ ትሰወጢ ፡ ከመ ፡ ባዚቃ ።",
+    "title": "ወለተ ሣራ ወርብቃ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 11,
+    "text": "ብጽሒ ፡ በኢጐንድዮ ፡ ኀበ ፡ ሃሎኩ ፡ ጥቃ ።",
+    "title": "ወለተ ሣራ ወርብቃ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 12,
+    "text": "ከመ ፡ ትፈጽሚ ፡ ለልብየ ፡ ጻሕቃ ።",
+    "title": "ወለተ ሣራ ወርብቃ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 13,
+    "text": "ተፈሥሒ ፡ ማርያም ፡ እንተ ፡ አልብኪ ፡ ምሳሌ ።",
+    "title": "እንተ አልብኪ ምሳሌ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 14,
+    "text": "ተፈሥሒ ፡ ማርያም ፡ ታቦተ ፡ ኅርመት ፡ ወጽሌ ፡ ተፈሥሒ ፡ ጽሪት ፡ ዘዕፍረትየ ፡ ቢረሌ ።",
+    "title": "እንተ አልብኪ ምሳሌ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 15,
+    "text": "አስተበፅዕ ፡ አንሰ ፡ በጉባዔ ፡ ዘለኪ ፡ ድንጋሌ ፡ በኢውላውሌ ፡ እንዘ ፡ እብል ፡ አሌ ።",
+    "title": "እንተ አልብኪ ምሳሌ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 16,
+    "text": "አንገፈኒ ፡ በትንባሌ ፡ እምብካይ ፡ ወወይሌ ።",
+    "title": "እንተ አልብኪ ምሳሌ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 17,
+    "text": "ተፈሥ ፡ ሒ ፡ ማርያም ፡ በአክናፈ ፡ ንጽሕኪ ፡ ምንታዌ ፡ ዘአምሰጥኪ ፡ ቅድመ ፡ እምቄዓተ ፡ ሕምዙ ፡ ለአርዌ ።",
+    "title": "ዘአክናፈ ንጽሕኪ ምንታዌ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 18,
+    "text": "መጽሐፈ ፡ ብስራት ፡ ይብሉኪ ፡ እለ ፡ ሀለው ፡ ምድረ ፡ ጼዋዌ ።",
+    "title": "ዘአክናፈ ንጽሕኪ ምንታዌ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 19,
+    "text": "መክፈልተ ፡ ርስትየ ፡ አንቲ ፡ ማርያም ፡ እንተ ፡ አልብኪ ፡ ምንሣዌ ።",
+    "title": "ዘአክናፈ ንጽሕኪ ምንታዌ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 20,
+    "text": "ዘፈለጠ ፡ ሊተ ፡ ኢያሱ ፡ ዘነዌ ።",
+    "title": "ዘአክናፈ ንጽሕኪ ምንታዌ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 21,
+    "text": "ተፈሥሒ ፡ ማርያም ፡ ወለተ ፡ አዳም ፡ ወሔዋ ፡ ተፈሥሒ ፡ ማርያም ፡ ሐዳስዩ ፡ ጣዕዋ ።",
+    "title": "ወለተ አዳም ወሔዋ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 22,
+    "text": "ርጢነ ፡ መደኃኒት ፡ ወልድኪ ፡ ለቍስልየ ፡ ዘየሐይዋ ።",
+    "title": "ወለተ አዳም ወሔዋ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 23,
+    "text": "ቀይዮ ፡ በሰይፍኪ ፡ ለፀርየ ፡ ነዋ ።",
+    "title": "ወለተ አዳም ወሔዋ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 24,
+    "text": "ሰይጣን ፡ ስሙ ፡ ለነፍስየ ፡ ዕድዋ ።",
+    "title": "ወለተ አዳም ወሔዋ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 25,
+    "text": "ተፈሥሒ ፡ እብለኪ ፡ ማርያም ፡ በከመ ፡ ገብርኤል ፡ መልአክ ፡ ቡርክት ፡ አንቲ ፡ እምአንስት ፡ ወፍሬ ፡ ከርሥኪ ፡ ብሩክ ።",
+    "title": "ተፈሥሒ እብለኪ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 26,
+    "text": "ለዕበየ ፡ ንግሥ ፡ ኪ ፡ ዘልፈ ፡ እንዘ ፡ እሰግድ ፡ በብረክ ።",
+    "title": "ተፈሥሒ እብለኪ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 27,
+    "text": "አመሥጥ ፡ አንሰ ፡ በጽንዕኪ ፡ ዘእምፀርየ ፡ ድሩክ ።",
+    "title": "ተፈሥሒ እብለኪ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 28,
+    "text": "ዘይፈቅድ ፡ ይንዐወኒ ፡ በጽባሕ ፡ ወሠርክ ።",
+    "title": "ተፈሥሒ እብለኪ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 29,
+    "text": "ተፈሥሒ ፡ ማርያም ፡ ሰርጐ ፡ አሮን ፡ ሌዋዊ ።",
+    "title": "ሠርጐ አሮን ሌዋዊ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 30,
+    "text": "ተፈሥሒ ፡ ማርያም ፡ ወለተ ፡ ዳዊት ፡ ስንቃዊ ።",
+    "title": "ሠርጐ አሮን ሌዋዊ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 31,
+    "text": "ሙካፈ ፡ ስዕለቱ ፡ ለኢዮብ ፡ አመ ፡ በቊስሉ ፡ ይደዊ ።",
+    "title": "ሠርጐ አሮን ሌዋዊ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 32,
+    "text": "ከመ ፡ ትሂጲዮ ፡ ለፀርየ ፡ ነፍሳተ ፡ ብዙኃን ፡ ነዓዊ ።",
+    "title": "ሠርጐ አሮን ሌዋዊ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 33,
+    "text": "በዲበ ፡ አብትር ፡ ቀስተኪ ፡ ቀስትዊ ።",
+    "title": "ሠርጐ አሮን ሌዋዊ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 34,
+    "text": "ተፈሥሒ ፡ ማርያም ፡ ዚኢየሐልቅ ፡ ትፍሥሕትኪ ።",
+    "title": "ዘኢየሐልቅ ትፍሥሕትኪ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 35,
+    "text": "ተፈሥሒ ፡ ማርያም ፡ ዘኢይቀብል ፡ መዝገብኪ ።",
+    "title": "ዘኢየሐልቅ ትፍሥሕትኪ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 36,
+    "text": "ተፈሥሒ ፡ ማርያም ፡ ዘኢየሐጽጽ ፡ ዝክረ ፡ ውዳሴኪ ፡ ኢትመንንኒ ፡ ለገብርኪ ፡ ዘአጥረየኒ ፡ ወልድከ ፡ እስመ ፡ አንቲ ፡ ሊተ ፡ ወአነ ፡ ለኪ ።",
+    "title": "ዘኢየሐልቅ ትፍሥሕትኪ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 37,
+    "text": "በመኑ ፡ እትሜካህ ፡ ማርያም ፡ ዘእንበሌኪ ፡ ምክህየ ፡ ቀርነ ፡ መድኃኒትየ ።",
+    "title": "በመኑ እትሜካህ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 38,
+    "text": "ብኪ ፡ ጸናዕኩ ፡ እምከርሠ ፡ እምየ ።",
+    "title": "በመኑ እትሜካህ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 39,
+    "text": "ማርያም ፡ ጠረጴዛሁ ፡ ለቁርባነ ፡ ወንጌል ፡ ብዕልየ ፡ ውስተ ፡ እዴኪ ፡ ገደፍኩ ፡ ነፍስየ ፡ ወሥጋየ ።",
+    "title": "በመኑ እትሜካህ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 40,
+    "text": "በመኑ ፡ እከብር ፡ ማርያም ፡ ዘእንበሌኪ ፡ ክብረ ፡ ኵሉ ፡ ነቅዓ ፡ ምድር ፡ አንቲ ፡ ወጠለ ፡ ሰማይ ፡ ዘላዕሉ ፡ አንቲ ፡ ውእቱ ፡ ለዳዊት ፡ ስርጐ ፡ አክሊሉ ።",
+    "title": "በመኑ እከብር ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 41,
+    "text": "ብኪ ፡ እለ ፡ ተወከሉ ፡ ኢተኀፍሩ ፡ ወኢተኀጉሉ ፡ መግቦሙ ፡ ወመርሆሙ ፡ ወልድኪ ፡ በሣህሉ ።",
+    "title": "በመኑ እከብር ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez",
+      "filledFromOldText": [
+        "ወልድኪ"
+      ]
+    }
+  },
+  {
+    "sortOder": 42,
+    "text": "በመኑ ፡ እትፈሣሕ ፡ ማርያም ፡ ዘእንበሌኪ ፡ ፍሥሐ ።",
+    "title": "በመኑ እትፌሣሕ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 43,
+    "text": "እንተ ፡ ወለድ ፡ ከመ ፡ እሕሊ ፡ ሌኪ ፡ ምሕረት ፡ ወፍትሐ ፡ ሶበ ፡ እዜከር ፡ ርኅራኄኪ ፡ ንሕኑሐ ።",
+    "title": "በመኑ እትፌሣሕ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 44,
+    "text": "ወዝሕዙሐ ።",
+    "title": "በመኑ እትፌሣሕ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 45,
+    "text": "እምሀኬቱ ፡ ኅሊናየ ፡ ነቅሐ ።",
+    "title": "በመኑ እትፌሣሕ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 46,
+    "text": "ኦ ፡ ፍጡነ ፡ ረድኤት ፡ ለጽኑዕ ፡ ወለድኩም ። ወለነፍሰ ፡ ኵሉ ፡ ቃውም ። ጊዮርጊስ ፡ የዋህ ፡ እንበለ ፡ መስፈርት ፡ ወዐቅም ። ከመ ፡ እግዝእትከ ፡ ቡርክት ፡ ማርያም ። ርኅሩኃ ፡ ልብ ፡ አንተ ፡ እምበቀል ፡ ወቂም ።",
+    "title": "ኦ ፍጡነ ረድኤት ለጽኑዕ ወለድኩም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 47,
+    "text": "ኦ ፡ ፍጡነ ፡ ረድኤት ፡ በብዙኅ ፡ ጾታ ፡ ከመ ፡ እግዝእትከ ፡ ርግበ ፡ ኤፍራታ ። በሰማይ ፡ በላዕሉ ፡ ወበምድር ፡ በታሕታ ። አምሕለከ ፡ ጊዮርጊስ ፡ በስመ ፡ እምከ ፡ ቴዎብስታ ። ሞገሰ ፡ ስምከ ፡ ተሀበኒ ፡ ከመ ፡ ስምከ ፡ መንታ ።",
+    "title": "ኦ ፍጡነ ረድኤት በብዙኅ ጾታ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 48,
+    "text": "ኦ ፡ ፍጡነ ፡ ረድኤት ፡ እምሩጸተ ፡ ነፋስ ፡ ወዐውሎ ። ለዘይጼውዓከ ፡ በተወክሎ ። ጊዮርጊስ ፡ ቅረብ ፡ ለምሕረት ፡ ወለተሣህሎ ። ተወከፍ ፡ ወትረ ፡ ጸሎትየ ፡ ወቃለ ፡ ጽራሕየ ፡ ኵሎ ። እስመ ፡ ልበ ፡ አምላክ ፡ ርኅሩኅ ፡ በኀቤከ ፡ ሀሎ ።",
+    "title": "ኦ ፍጡነ ረድኤት እምሩጸተ ነፋስ ወዐውሎ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 49,
+    "text": "አፍጣኒተ ፡ ረድኤት ፡ ማርያም ፡ በጊዜ ፡ ምንዳቤ ፡ ወዓጸባ ። ለዓይን ፡ እምቀራንባ ። አንቲ ፡ ውእቱ ፡ ረዳኢተ ፡ ያዕቆብ ፡ በቤተ ፡ ላባ ። በኵሉ ፡ ሕሊናሃ ፡ ወበኵሉ ፡ አልባባ ። ዘኢታፈቅረኪ ፡ ነፍስ ፡ ትሠሮ ፡ እምሕዝባ ።",
+    "title": "አፍጣኒተ ረድኤት ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 50,
+    "text": "ምንተኑ ፡ ኣአስየኪ ፡ ዕሤተ ።",
+    "title": "በመኑ እትፌሣሕ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 51,
+    "text": "ምንተኑ ፡ አዐሥየኪ ፡ ዕሤተ ። በእንተ ፡ ኵሉ ፡ ዘገበርኪ ፡ ሊተ ። ማርያም ፡ ሠናይት ፡ ዘታፈቅሪ ፡ ምሕረተ ። ሶበሰ ፡ ትትዓቀቢ ፡ ዘዚአየ ፡ ኃጢአተ ። እምኢሐየውኩ ፡ አሐተ ፡ ሰዓተ ።",
+    "title": "ምንተኑ አዐሥየኪ ዕሤተ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 52,
+    "text": "በእንተ ፡ ኩሉ ፡ ዘገበርኪ ፡ በሰላመ ፡ ገብርኤል ፡ መልአክ ፡ ኦ ፡ እግዝእትየ ፡ ማርያም ፡ ሰላም ፡ ለኪ ። ድንግል ፡ በሕሊናኪ ፡ ወድንግል ፡ በሥጋኪ ። እመ ፡ እግዚአብሔር ፡ ጸባኦት ፡ ሰላም ፡ ለኪ ። ቡርክት ፡ አንቲ ፡ እምአንስት ፡ ወብሩክ ፡ ፍሬ ፡ ከርሥኪ ።",
+    "title": "በሰላመ ገብርኤል መልአክ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez",
+      "filledFromOldText": [
+        "በሰላመ ገብርኤል መልአክ ኦ እግዝእትየ ማርያም ሰላም ለኪ። ድንግል በሕሊናኪ ወድንግል በሥጋኪ። እመ እግዚአብሔር ጸባኦት ሰላም ለኪ። ቡርክት"
+      ]
+    }
+  },
+  {
+    "sortOder": 53,
+    "text": "ተፈሥሒ ፡ ፍሥሕት ፡ ኦ ፡ ምልእተ ፡ ፀጋ ፡ እግዚአብሔር ፡ ምስሌኪ ።",
+    "title": "በሰላመ ገብርኤል መልአክ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 54,
+    "text": "ተፈሥሒ ፡ ማርያም ፡ ለአዳም ፡ ፋሲካሁ ፤ ወማዕዶተ ፡ ለሔዋን ፡ እንተ ፡ ይእቲ ፡ አጽመ ፡ ገፀሁ ።",
+    "title": "ለአዳም ፋሲካሁ",
+    "turn": "ይ.ካ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 55,
+    "text": "እስመ ፡ ግዕዛኖሙ ፡ ኮነ ፡ ለወልድኪ ፡ በትንሣኤሁ ።",
+    "title": "ለአዳም ፋሲካሁ",
+    "turn": "ይ.ካ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 56,
+    "text": "ዐወርኅ ፡ ዕብሬትኪ ፡ እግዝእትየ ፡ ዘኢይትረከብ ፡ ከማሁ ።",
+    "title": "ለአዳም ፋሲካሁ",
+    "turn": "ይ.ካ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 57,
+    "text": "መኑ ፡ ዘይቴክዝ ፡ ወመኑ ፡ ዘይላሁ ፡ ተፈሥሒ ፡ ማርያም ፡ ወለተ ፡ አሮን ፡ ወሙሴ ፡ ዘትትቄጸሊ ፡ አብያዘ ፡ ወትሤአኒ ፡ ብናሴ ።",
+    "title": "ወለተ አሮን ወሙሴ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 58,
+    "text": "ለኀይለ ፡ ተአምርኪ ፡ ዝንቱ ፡ ሶበ ፡ ናቄርብ ፡ ውዳሴ ።",
+    "title": "ወለተ አሮን ወሙሴ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 59,
+    "text": "ኅትሚ ፡ ፍጽመ ፡ ዚአነ ፡ በማኅተመ ፡ ቅድስት ፡ ሥላሴ ፡ አርእስተ ፡ አቃርብት ፡ ንኪድ ፡ ወንቀጥቅጥ ፡ ከይሴ ።",
+    "title": "ወለተ አሮን ወሙሴ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 60,
+    "text": "ተፈሥሒ ፡ ማርያም ፡ ወለተ ፡ ዳዊት ፡ ወወልዱ ፡ ጽጌ ፡ መዓዛ ፡ ዘዐርገ ፡ ለአብርሃም ፡ እምሥርወ ፡ ጕንዱ ።",
+    "title": "ወለተ ዳዊት ወወልዱ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 61,
+    "text": "ያሥተፌሥሐኒ ፡ ጥቀ ፡ ዜና ፡ ተአምርኪ ፡ ለለአሐዱ ።",
+    "title": "ወለተ ዳዊት ወወልዱ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez",
+      "filledFromOldText": [
+        "ጥቀ"
+      ]
+    }
+  },
+  {
+    "sortOder": 62,
+    "text": "አይሁድሰ ፡ ሶበ ፡ መንክራተኪ ፡ ክሕዱ ።",
+    "title": "ወለተ ዳዊት ወወልዱ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 63,
+    "text": "ሕያዋኒሆሙ ፡ ሲኦለ ፡ ወረዱ ።",
+    "title": "ወለተ ዳዊት ወወልዱ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 64,
+    "text": "አአኵተኪ ፡ ማርያም ፡ ወሀቢተ ፡ ጸጋ ፡ በከንቱ ፡ እስመ ፡ ዐልዐልከኒ ፡ ሊተ ፡ እመሬተ ፡ ምድር ፡ ዘታሕቱ ።",
+    "title": "አአኵተኪ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 65,
+    "text": "አንሥኦተ ፡ ነዳይሰ ፡ ወአልዕሎ ፡ ምስኪን ፡ ጊዜ ፡ ድቀቱ ።",
+    "title": "አአኵተኪ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 66,
+    "text": "ሊተ ፡ ማርያም ፡ ሠናይት ፡ ዘታፈቅረ ፡ ምሕረተ ።",
+    "title": "ሊተ ማርያም ሠናይት ዘታፈቅረ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 67,
+    "text": "ሶበሰ ፡ ትትአቀቢ ፡ ዘዚአየ ፡ ኀጢአተ ።",
+    "title": "ሶበሰ ትትአቀቢ ዘዚአየ ኀጢአተ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 68,
+    "text": "እምጺሐዮኩ ፡ አሐተ ፡ ሰዓተ ።",
+    "title": "እምጺሐዮኩ አሐተ ሰዓተ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 69,
+    "text": "እወ ፡ እወ ፡ ለልብኪ ፡ ከመ ፡ ከማሁ ፡ ሥምረቱ ።",
+    "title": "አአኵተኪ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 70,
+    "text": "እወ ፡ ለዝኒ ፡ ፈቀድኪ ፡ ታሠንዪ ፡ ሎ ፡ ነአኵተኪ ፡ ማርያም ፡ ወንሴብሓኪ ፡ ወትረ ።",
+    "title": "አአኵተኪ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 71,
+    "text": "ሰርከ ፡ ወነግሀ ፡ ኵሎ ፡ አሚረ ።",
+    "title": "ነአኵተኪ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 72,
+    "text": "እምኀይለ ፡ ተአምርኪ ፡ ዝንቱ ፡ ሶበ ፡ ንሬኢ ፡ ኅቡረ ።",
+    "title": "ነአኵተኪ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 73,
+    "text": "ለልበ ፡ ጠቢባን ፡ መላእክት ፡ ዘያረስኦሙ ፡ ምክረ ።",
+    "title": "ነአኵተኪ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 74,
+    "text": "ወለሕፃናት ፡ ይከሥት ፡ ስውረ ።",
+    "title": "ነአኵተኪ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 75,
+    "text": "በሰላመ ፡ ገብርኤል ፡ መልአክ ፡ እግዝእትየ ፡ ማርያም ፡ ሰላም ፡ ለኪ ።",
+    "title": "በሰላመ ገብርኤል መልአክ ኣግዝእትየ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 76,
+    "text": "ድንግል ፡ በሕሊናኪ ፡ ወድንግል ፡ በሥጋኪ ፡ እመ ፡ እግዚአብሔር ፡ ጸባዖት ፡ ሰላም ፡ ለኪ ።",
+    "title": "ድንግል በሕሊናኪ ወድንግል በሥጋኪ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 77,
+    "text": "ቡርክት ፡ ጽብኢ ፡ ማርያም ፡ እለ ፡ ይጸብኡኒ ፡ በተኃብሎ ።",
+    "title": "ጽብዒ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 78,
+    "text": "ወግፍዒ ፡ ካዕበ ፡ እለ ፡ ይገፍዑኒ ፡ ኵሎ ።",
+    "title": "ጽብዒ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 79,
+    "text": "ተአምረኪ ፡ ታርእዪ ፡ ወለወልድኪ ፡ በቀሎ ፡ ይብል ፡ አብድ ፡ አኮኑ ፡ እግዚአብሔር ፡ ኢሀሎ ።",
+    "title": "ጽብዒ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 80,
+    "text": "ሶበ ፡ ላዕሌሁ ፡ ፍጡነ ፡ ኢያርአየ ፡ ኃይሎ ።",
+    "title": "ጽብዒ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 81,
+    "text": "ንዒ ፡ ማርያም ፡ ምስለ ፡ ወልድኪ ፡ መዋዒ ።",
+    "title": "ንዒ ማርያም ምስለ ወልድኪ መዋዒ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 82,
+    "text": "ከመ ፡ ታውድቂ ፡ ፍጡነ ፡ ርእሰ ፡ ጸር ፡ ወጸላኢ ።",
+    "title": "ንዒ ማርያም ምስለ ወልድኪ መዋዒ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 83,
+    "text": "እስመ ፡ ፈታሒት ፡ አንቲ ፡ ማዕከለ ፡ ግፉዕ ፡ ወገፋዒ ።",
+    "title": "ንዒ ማርያም ምስለ ወልድኪ መዋዒ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 84,
+    "text": "ብፁዕ ፡ ብእሲ ፡ ድቅተ ፡ ጸሩ ፡ ዘይሬኢ ።",
+    "title": "ንዒ ማርያም ምስለ ወልድኪ መዋዒ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 85,
+    "text": "ወብፁዕ ፡ ካዕበ ፡ ፍትሐኪ ፡ ሰማዒ ።",
+    "title": "ንዒ ማርያም ምስለ ወልድኪ መዋዒ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 86,
+    "text": "ዝውእቱ ፡ ዕድሜ ፡ ሣህልኪ ፡ ወዘተአምርኪ ፡ ጊዜ ።",
+    "title": "ዝ ውእቱ ዕድሜ ሣህልኪ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 87,
+    "text": "ማርያም ፡ ድንግል ፡ ምልእተ ፡ ምሕረት ፡ ከመ ፡ ተከዜ ።",
+    "title": "ዝ ውእቱ ዕድሜ ሣህልኪ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 88,
+    "text": "እስከ ፤ ማዕዜኑ ፡ እሄሉ ፡ ማዕከለ ፡ ብካይ ፡ ወእንባዜ ።",
+    "title": "ዝ ውእቱ ዕድሜ ሣህልኪ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 89,
+    "text": "ኦናዛዚት ፡ እንተ ፡ ወለድኪ ፡ ናዛዜ ።",
+    "title": "ዝ ውእቱ ዕድሜ ሣህልኪ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 90,
+    "text": "ኦንግሥት ።",
+    "title": "ኦንግሥት",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 91,
+    "text": "በቋዒት ፡ ብቊዕኒ ፡ ይእዜ ።",
+    "title": "ዝ ውእቱ ዕድሜ ሣህልኪ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 92,
+    "text": "ሙሴ ፡ ነቢይ ፡ አመ ፡ ሕዘቢሁ ፡ ቈስሉ ፡ ተአምረ ፡ ገብረ ፡ ለአረዌ ፡ ብርት ፡ በምስሉ ።",
+    "title": "ሙሴ ነቢይ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 93,
+    "text": "እምዝኒ ፡ የዐቢ ፡ ኃይለ ፡ ተአምርኪ ፡ ንግሥተ ፡ ኵሉ ።",
+    "title": "ሙሴ ነቢይ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 94,
+    "text": "ወኅበ ፡ ተተክለ ፡ ለዋሕድኪ ፡ መስቀሉ ።",
+    "title": "ሙሴ ነቢይ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 95,
+    "text": "ሠራዊተ ፡ ደዌ ፡ ወሞት ፡ ቀሪበ ፡ ኢይክሉ ።",
+    "title": "ሙሴ ነቢይ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 96,
+    "text": "ፈሪሆትኪ ፡ ማርያም ፡ ቀዳሜ ፡ ኵሎ ፡ ተዐውቆ ።",
+    "title": "ፈሪሆትኪ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 97,
+    "text": "ወአፍቅሮትኪ ፡ ካዕበ ፡ መሠረተ ፡ ጥበብ ፡ ወአጠይቆ ።",
+    "title": "ፈሪሆትኪ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 98,
+    "text": "ተአምረኪ ፡ እሴብሕ ፡ በቃለ ፡ መዝሙር ፡ ወመሰንቆ ።",
+    "title": "ፈሪሆትኪ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 99,
+    "text": "በውስተ ፡ ተአምርኪ ፡ እግዝእትየ ፡ ለዘ ፡ አብአ ፡ ናፍቆ ።",
+    "title": "ፈሪሆትኪ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 100,
+    "text": "ምንተ ፡ ረከቡ ፡ ካህናተ ፡ ሐሊባ ፡ ወሀላ ። መንክራተ ፡ አምላክ ፡ ዘርእዩ ፡ እምሰኪኖን ፡ እስከ ፡ ጌልጌላ ። ካህናተ ፡ ቤትኪሰ ፡ ማርያም ፡ ርግበ ፡ ገሊላ ። እንዘ ፡ ይትአመኑ ፡ ለተአምርኪ ፡ ኃይላ ። ያፈልሱ ፡ ደብረ ፡ ወይመልሑ ፡ ሰግላ ።",
+    "title": "ምንተ ረከቡ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 101,
+    "text": "አፍተዎ ፡ መዊት ፡ ወሲኦል ፡ አጸሐቆ ።",
+    "title": "አፍተዎ መዊት ወሲኦል አጸሐቆ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 102,
+    "text": "ታዓብዮ ፡ ነፍስየ ፡ ለእግዚአብሔር ፡ ፫ ፡ በል ፡ ሰአሊ ፡ ለነ ፡ ማርያም ፡ ሰአሊ ፡ ለነ ፡ ማርያም ፡ ኀበ ፡ ወልድኪ ፡ ኄር ፡ መድኃኔ ፡ ዓለም ።",
+    "title": "ፈሪሆትኪ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 103,
+    "text": "ይቴክዝ ፡ አብድ ፡ ሶበ ፡ ልበ ፡ ጥበበ ፡ ውሕዶ ። በኢያእምሮቱ ፡ አብዝኃ ፡ ሕማመ ፡ ዘይፈደፍዶ ። ፍሡሕሰ ፡ ለፍቅርኪ ፡ ዘይጸመዶ ። በቅድመ ፡ ሥዕልኪ ፡ እግዝእትየ ፡ ለለጊዜ ፡ ያነሥእ ፡ እዶ ። ተስፋሁ ፡ ይረክብ ፡ ወይፌጽም ፡ መፍቅዶ ።",
+    "title": "ይቴክዝ አብድ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 104,
+    "text": "ዕቀብኒ ፡ በተአምርኪ ፡ ወአድኅነኒ ፡ እምማቴ ። በከመ ፡ አድኃኖ ፡ ወልድኪ ፡ ለዮናስ ፡ ወልደ ፡ አማቴ ። መዋዕለ ፡ ዕረፍት ፡ አንቲ ፡ ማርያም ፡ ጰንጠቆስቴ ። እምኃይለ ፡ ድካም ፡ ያጸንዕ ፡ መዋቴ ። ኅብስት ፡ ስብሐትኪ ፡ ወፍቅርኪ ፡ ስቴ ።",
+    "title": "ዕቀብኒ በተአምርኪ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 105,
+    "text": "በስመ ፡ አብ ፡ ወወልድ ፡ ወመንፈስ ፡ ቅዱስ ፡ ሥላሴ ፡ ብሂልየ ፡ ወጠንኩ ፡ ዘለኪ ፡ ውዳሴማርያም ፡ እኅቱ ፡ ለሙሴ ።",
+    "title": "በስመ አብ ወወልድ ወመንፈስ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 106,
+    "text": "ሰአሊ ፡ ለነ ፡ ማርያም ፡ ኀበ ፡ ወልድኪ ፡ ኄር ፡ መድኃኔ ፡ ዓለም ።",
+    "title": "ፈሪሆትኪ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 107,
+    "text": "ሴስይኒ ፡ ማርያም ፡ ለፀማድኪ ፡ ሀሳብ ። ኅብሰተ ፡ አእምሮ ፡ ሠናይ ፡ ወወይነ ፡ ጥበብ ። እመኒ ፡ ፈድፈደ ፡ ኃጢአትየ ፡ እምሕዝብ ። ተዘከሪ ፡ እግዝእትየ ፡ በርኀራኄኪ ፡ ዕፁብ ። ከመ ፡ አስተይኪዮ ፡ ማየ ፡ ለጽሙዕ ፡ ከልብ ።",
+    "title": "ሴስይኒ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 108,
+    "text": "ኦ ፡ ፍጡነ ፡ ረድኤት ፡ ለጽኑዕ ፡ ወለድኩም ። ወለነፍሰ ፡ ኵሉ ፡ ቃውም ። ጊዮርጊስ ፡ የዋህ ፡ እንበለ ፡ መስፈርት ፡ ወዐቅም ። ከመ ፡ እግዝእትከ ፡ ቡርክት ፡ ማርያም ። ርኅሩኃ ፡ ልብ ፡ አንተ ፡ እምበቀል ፡ ወቂም ።",
+    "title": "ኦ ፍጡነ ረድኤት ለጽኑዕ ወለድኩም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 109,
+    "text": "ኦ ፡ ፍጡነ ፡ ረድኤት ፡ በብዙኅ ፡ ጾታ ፡ ከመ ፡ እግዝእትከ ፡ ርግበ ፡ ኤፍራታ ። በሰማይ ፡ በላዕሉ ፡ ወበምድር ፡ በታሕታ ። አምሕለከ ፡ ጊዮርጊስ ፡ በስመ ፡ እምከ ፡ ቴዎብስታ ። ሞገሰ ፡ ስምከ ፡ ተሀበኒ ፡ ከመ ፡ ስምከ ፡ መንታ ።",
+    "title": "ኦ ፍጡነ ረድኤት በብዙኅ ጾታ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 110,
+    "text": "ኦ ፡ ፍጡነ ፡ ረድኤት ፡ እምሩጸተ ፡ ነፋስ ፡ ወዐውሎ ። ለዘይጼውዓከ ፡ በተወክሎ ። ጊዮርጊስ ፡ ቅረብ ፡ ለምሕረት ፡ ወለተሣህሎ ። ተወከፍ ፡ ወትረ ፡ ጸሎትየ ፡ ወቃለ ፡ ጽራሕየ ፡ ኵሎ ። እስመ ፡ ልበ ፡ አምላክ ፡ ርኅሩኅ ፡ በኀቤከ ፡ ሀሎ ።",
+    "title": "ኦ ፍጡነ ረድኤት እምሩጸተ ነፋስ ወዐውሎ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 111,
+    "text": "አፍጣኒተ ፡ ረድኤት ፡ ማርያም ፡ በጊዜ ፡ ምንዳቤ ፡ ወዓጸባ ። ለዓይን ፡ እምቀራንባ ። አንቲ ፡ ውእቱ ፡ ረዳኢተ ፡ ያዕቆብ ፡ በቤተ ፡ ላባ ። በኵሉ ፡ ሕሊናሃ ፡ ወበኵሉ ፡ አልባባ ። ዘኢታፈቅረኪ ፡ ነፍስ ፡ ትሠሮ ፡ እምሕዝባ ።",
+    "title": "አፍጣኒተ ረድኤት ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 112,
+    "text": "ለዘኢያፈቅረኪ ፡ እግዝእትየ ፡ ማርያም ፡ ውኩፈ ፡ ኢይኩን ፡ ጸሎቱ ። ይትገዘም ፡ ኑኃ ፡ ዓመቱ ፡ ወይጥፋዕ ፡ በከንቱ ። በአፈ ፡ መላእክት ፡ ወሰብእ ፡ ይትረገም ፡ ለለዕለቱ ። ዘአስተማሰሎ ፡ በተውኔት ፡ ለማኅሌተ ፡ ስምኪ ፡ ዝንቱ ። ጌጋዩ ፡ ወኃጢአቱ ፡ ኢይትኃደግ ፡ ሎቱ ።",
+    "title": "ለዘኢያፈቅረኪ እግዝእትየ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 113,
+    "text": "እሰግድ ፡ ቅድመ ፡ ማርያም ፡ ለዝክረ ፡ ስምኪ ፡ በጽዋዔ ። ወእሰግድ ፡ ካዕበ ፡ ለድንግልናኪ ፡ ክልኤ ። ወእሰግድ ፡ ሥልሰ ፡ ለሥዕልኪ ፡ ቅድመ ፡ ጉባ ፡ ኤ ። ዘኢሰገደ ፡ ለሥዕልኪ ፡ አሥሪጾ ፡ ምማዔ ። በሥጋሁ ፡ ወበነፍሱ ፡ ኢይርከብ ፡ ትንሣኤ ።",
+    "title": "እሰግድ ቅድመ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  }
+]

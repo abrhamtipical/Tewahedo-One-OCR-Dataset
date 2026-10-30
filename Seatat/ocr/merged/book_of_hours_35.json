@@ -1,0 +1,401 @@
+/*
+ * Title:      ሰዓታት — ጳውሎስ ወጴጥሮስ ወግብረ ሐዋርያት — Book of Hours (Seatat) — Paul, Peter and the Acts of the Apostles
+ * Language:   Ge'ez, with the Amharic translation where the book has it
+ * Source:     Mets'hafe Se'atat in Ge'ez and Amharic (night and dawn);
+ *             Amharic translation by Aleqa Mekonnen Solomon of Debre Libanos,
+ *             Tensae Zegubae Press. Text typed and edited from the printed
+ *             book by Abraham Sisay. Passages the book lacks are supplied
+ *             from the Se'atat text this app already had (EOTC traditional
+ *             liturgy), marked in the entry metadata.
+ * Ownership:  This text belongs to the Ethiopian Orthodox Tewahedo Church.
+ *             It is the Church's public heritage and is not the property of
+ *             any individual, publisher or application.
+ * Status:     Public content, shared for the faithful.
+ * Note:       This notice is metadata only and is never shown in the app.
+ */
+[
+  {
+    "sortOder": 0,
+    "text": "ከመ ፡ ትክሥት ፡ ብርሃነ ፡ ለአሕዛብ ፡ ሃሴ ፡ ሉያ ፡ ሃሌ ፡ ሉያ ፡ ሃሌ ፡ ሉያ ፡ አድኅነኒ ፡ በየማንከ ።",
+    "amh": "ለአሕዛብ ፡ ብርሃንን ፡ ትገልጥ ፡ ዘንድ ፡ ቅድመ ፡ ዓለም ፡ የነበርኽ ፡ ዓለምን ፡ አሳልፈህ ፡ የምትኖር ፡ በሥልጣንህ ፡ አድነኝ ።",
+    "title": "ከመ ትክሥት ብርሃነ ለአሕዛብ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 1,
+    "text": "ወክብረ ፡ ለሕዝብከ ፡ እስራኤል ፡ ሃሌ ፡ ሎያ ፡ ሃሌ ፡ ሉያ ፡ ሃሌ ፡ ሉያ ፡ አድኅነኒ ፡ በየማንከ ።",
+    "amh": "ለእስራኤልም ፡ ክብርን ፡ ትሰጥ ፡ ዘንድ ። ቅድመ ፡ ዓለም ፡ የነበርኽ ፡ ዓለምን ፡ አሳልፈህ ፡ የምትኖር ፡ በሥልጣንህ ፡ አድነኝ ።",
+    "title": "ወክብረ ለሕዝብከ እስራኤል ሃሌ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 2,
+    "text": "ስብሐት ፡ ለአብ ፡ ወወልድ ፡ ወመንፈስ ፡ ቅዱስ ፡ ሃሌ ፡ ሉያ ፡ ሃሌ ፡ ሉያ ፡ አድኅነኒ ፡ በየማንከ ።",
+    "amh": "ለመንፈስ ፡ ቅዱስ ፡ ለአብ ፡ ለወልድ ፡ ምስጋና ፡ ይገባቸዋል ። ቅድመ ፡ ዓለም ፡ የነበርኽ ፡ ዓለምን ፡ አሳልፈህ ፡ የምትኖር ፡ በሥልጣንህ ፡ አድነኝ ።",
+    "title": "ስብሐት ለአብ ወወልድ ወመንፈስ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 3,
+    "text": "ለዓለም ፡ ወለዓለመ ፡ ዓለም ፡ ሃሌ ፡ ሉያ ፡ ሃሌ ፡ ሉያ ፡ ሃሌ ፡ ሉያ ፡ አድኅነኒ ፡ በየማንስ ።",
+    "amh": "በዚህ ፡ ዓለም ፡ በወዲያውም ፡ ዓለም ፡ ምስጋና ፡ ይገባቸዋል ። ቅድመ ፡ ዓለም ፡ የነበርኽ ፡ ዓለምን ፡ አሳልፈህ ፡ የምትኖር ፡ በሥልጣንህ ፡ አድነኝ ።",
+    "title": "ለዓለም ወለዓለመ ዓለም ሃሌ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 4,
+    "text": "ዘአስተዳሎከ ፡ ቅድመ ፡ ኵሉ ፡ ሕዝብከ ፡ ሃሌ ፡ ሎያ ፡ ሃሌ ፡ ሉያ ፡ ሃሌ ፡ ሉያ ፡ አድኅነኒ ፡ በየማንከ ።",
+    "amh": "በወገኖችህ ፡ ሁሉ ፡ ፊት ፡ ያዘጋጀኸው ፡ ቅድመ ፡ ዓለም ፡ የነበርህ ፡ ዓለምን ፡ አሳልፈኽ ፡ የምትኖር ፡ በሥልጣንሀ ፡ አድነኝ ።",
+    "title": "ዘአስተዳሎከ ቅድመ ኵሉ ሕዝብከ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 5,
+    "text": "ጳውሎስ ፡ በል ፡ ኦ ፡ ነቅዓ ፡ ጥበብ ፡ ልሳነ ፡ ዕፍረት ፡ ጳውሎስ ፡ አስተምህር ፡ ለነ ፡ ሰአልናከ ፡ ሃሌ ፡ ሉያ ፡ ሃሌ ፡ ሉያ ፡ ሃሌ ፡ ሉያ ፡ ከመ ፡ ንትሉ ፡ ንሕነ ፡ አሠረ ፡ ትምህርትከ ፡ ወንርከብ ፡ መክፈልተ ፡ ውስተ ፡ ርስትከ ፡ ሐዋ ፡ ጴጥሮስ ፡ በል ።",
+    "amh": "ነገርህ ፡ የተወደደ ፡ የዕውቀት ፡ መገኛ ፡ ጳውሎስ ፡ ሆይ ፡ እንድታማልደን ፡ እንለምንሃለን ፡ የትምህርትህን ፡ ፍለጋ ፡ እንከተል ፡ ዘንድ ፡ በርስትህ ፡ በመንግሥተ ፡ ሰማያት ፡ ዕድል ፡ ፈንታ ፡ እናገኝ ፡ ዘንድ ።",
+    "title": "ጳውሎስ በል ኦ ነቅዓ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 6,
+    "text": "ዘርእስከ ፡ መልዕልተ ፡ ኵሎሙ ፡ ቅዱሳን ፡ ጴጥሮስ ፡ ክቡር ፡ መክብበ ፡ ክርስቲያን ፡ ሃሌ ፡ ሉያ ፡ ሃሌ ፡ ሉያ ፡ ሃሌ ፡ ሉያ ፡ ባርክ ፡ ማኅበረነ ፡ በሢመተ ፡ እዴከ ፡ ወንቁም ፡ ድርገተ ፡ ዘምስሌከ ።",
+    "amh": "የምዕመናን ፡ አለቃ ፡ ሹመትህ ፡ ከሐዋርያት ፡ በላይ ፡ የሚሆን ፡ ክቡር ፡ ጴጥሮስ ፡ ሆይ ፡ እኛን ፡ ወገኖችህን ፡ እጅህን ፡ ጭነህ ፡ ባርከን ፡ አክብረን ፡ ካንተ ፡ ጋራ ፡ ባንድነት ፡ እንቆም ፡ ዘንድ ።",
+    "title": "ዘርእስከ መልዕልተ ኵሎሙ ቅዱሳን",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 7,
+    "text": "ሃሌ ፡ ሎያ ፡ ሃሌ ፡ ሎያ ፡ ሃሌ ፡ ሉያ ፡ ከዋክብት ፡ ብሩሃን ፡ ሐዋርያት ፡ መምህራን ፡ ሰአሉ ፡ ለነ ፡ ስርየተ ፡ ለኃጥኣን",
+    "amh": "ብሩሃን ፡ ከዋክብት ፡ የምትሆኑ ፡ መምህራን ፡ ሐዋርያት ፡ ኃጥኣን ፡ ለምንሆን ፡ ለኛ ፡ ስርየትን ፡ ለምኑልን ።",
+    "title": "ሃሌ ሎያ ሃሌ ሎያ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 8,
+    "text": "ግብረ ፡ ሐዋርያት ፡ በል ፡ ሃሌ ፡ ሉያ ፡ ሃሌ ፡ ሉያ ፡ ሃሌ ፡ ሉያ ፡ ትግሁ ፡ እንከ ፡ አኀወየ ፡ እስመ ፡ ኢተአምሩ ፡ ጊዜ ፡ ይመጽእ ፡ ሐዳስ ፡ በዓለ ፡ ቤት ፡ ትግሁ ፡ እንከ ፡ አኀውየ ።",
+    "amh": "ቅድመ ፡ ዓለም ፡ የነበረ ፡ ዓለምን ፡ አሳልፎ ፡ የሚኖር ፡ እንግዳ ፡ ባለቤት ፡ ጌታ ፡ የሚመጣበትን ፡ ጊዜ ፡ አታውቁምና ፡ ወንድሞቼ ፡ ተግታችሁ ፡ ኑሩ ።",
+    "title": "ግብረ ሐዋርያት በል ሃሌ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 9,
+    "text": "እመሂ ፡ ሠርከ ፡ ወእመ ፡ ጸቢሖ ፡ ኢይርከብክሙ ፡ እንዘ ፡ ትነው ፡ ሙ ፡ ትግሁ ፡ እንከ ፡ አኀውየ ፡ እስመ ፡ ኢተአምሩ ፡ ጊዜ ፡ ይመጽእ ፡ ሐዳስ ፡ በዓለ ፡ ቤት ።",
+    "amh": "ማታም ፡ ጧትም ፡ ቢሆን ፡ ተኝታችሁ ፡ እንዳያገኛችሁ ፡ የሚመጣበትን ፡ አታውቁምና ፡ ወንድሞቼ ፡ ተግታችሁ ፡ ኑሩ ።",
+    "title": "እመሂ ሠርከ ወእመ ጸቢሖ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 10,
+    "text": "ለይኩን ፡ ቅኑተ ፡ ሐቌክሙ ፡ ወኅተወ ፡ ማኅተዊክሙ ፡ ትግሁ ፡ እንከ ፡ አኀውየ ።",
+    "amh": "ወገባችሁ ፡ የታጠቀ ፡ ፋናችሁ ፡ የበራ ፡ ይሁን ፡ ወንድሞቼ ፡ ተግታችሁ ፡ ኑሩ ።",
+    "title": "ለይኩን ቅኑተ ሐቌክሙ ወኅተወ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 11,
+    "text": "ተስኢነክሙ ፡ ኃይለ ፡ ወንጌል ፡ ወእንዘ ፡ ትትሜክሑ ፡ በሞገሰ ፡ መስቀል ፡ ትግሁ ፡ እንከ ፡ አኀውየ ።",
+    "amh": "የወንጌልን ፡ ሥራ ፡ ተጫምታችሁ ፡ በመስቀሉ ፡ ሞገስ ፡ እየተመካችሁ ፡ ወንድሞቼ ፡ ተግታችሁ ፡ ኑሩ ።",
+    "title": "ተስኢነክሙ ኃይለ ወንጌል ወእንዘ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 12,
+    "text": "ሞገስ ፡ ወሰላም ፡ ይብዛኅ ፡ ለክሙ ፡ በኢየሱስ ፡ ክርስቶስ ፡ ትግሁ ፡ እንከ ፡ አኃውየ ።",
+    "amh": "በኢየሱስ ፡ ክርስቶስ ፡ ባለሟልነት ፡ ፍቅር ፡ አንድነት ፡ ይበዛላችሁ ፡ አንድወንድሞቼ ፡ ተግታችሁ ፡ ኑሩ ።",
+    "title": "ሞገስ ወሰላም ይብዛኅ ለክሙ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 13,
+    "text": "ተወከሉ ፡ በእግዚአብሔር ፡ ወአስምኩ ፡ ላዕለ ፡ እግዚእ ፡ ይቤ ፡ ነቢይ ፡ እምሰዓተ ፡ ጽባሕ ፡ እስከ ፡ ሌሊት ፡ ተወከለ ፡ እስራኤል ፡ በእግዚኣብሔር ።",
+    "amh": "በእግዚአብሔር ፡ እመኑ ፡ እግዚአብሔርን ፡ ጥግ ፡ አድርጉ ፡ እስራኤል ፡ ከጧት ፡ እስከ ፡ ማታ ፡ በእግዚአብሔር ፡ አመነ ፡ ብሎ ፡ ነቢዩ ፡ እንደ ፡ ተናገረ ።",
+    "title": "ተወከሉ በእግዚአብሔር ወአስምኩ ላዕለ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 14,
+    "text": "እግዚኦ ፡ መሐረነ ፡ ፲፪ ፡ በል ፡ ወጸሎተ ፡ ሃይማኖት",
+    "amh": "እግዚኦ ፡ መሐረነ ፡ ፲፪ ፡ ጊዜ ፡ ጸሎተ ፡ ሃይማኖትን",
+    "title": "እግዚኦ መሐረነ ፲፪ በል",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 15,
+    "text": "ዕግትዋ ፡ ለጽዮን ፡ ወሕቀፍዋ ፡ ወተናገሩ ፡ በውስተ ፡ ማኅፈዲሃ ።",
+    "amh": "ጽዮንን ፡ ክበቧት ፡ ባደባባይዋም ፡ ተነጋገሩ ።",
+    "title": "ዕግትዋ ለጽዮን ወሕቀፍዋ ወተናገሩ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 16,
+    "text": "ሃሌ ፡ ሎያ ፣ ሃሌ ፣ ሉያ ፡ ሃሌ ፡ ሉያ ፡ ነቢያት ፡ አቅርንቲሃ ፡ ወሐዋርያት ፡ መኃትዊሃ ።",
+    "amh": "ቅድመ ፡ ዓለም ፡ የነበርክ ፡ ዓለምን ፡ አሳልፈህ ፡ የምትኖር ፡ ነቢያት ፡ ቀንዶቿ ፡ ሐዋርያት ፡ ፋናዎቿ ፡ ናቸውና ።",
+    "title": "ሃሌ ሎያ ሃሌ ሉያ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 17,
+    "text": "ማኅበረ ፡ ቅዱሳን ፡ ወሰማዕት ፡ ቅድሜሃ ፡ ወድኅሬሃ ።",
+    "amh": "የሰማዕታትና ፡ የቅዱሳን ፡ አንድነት ፡ በፊቷና ፡ በኋላዋ ፡ ናቸውና ።",
+    "title": "ማኅበረ ቅዱሳን ወሰማዕት ቅድሜሃ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 18,
+    "text": "ሃሌ ፡ ሉያ ፡ ሃሌ ፡ ሉያ ፡ ሃሌ ፡ ሉያ ፡ ሃሌ ፡ ሉያ ፡ እሙንቱ ፡ ለጒንደ ፡ ወይን ፡ ሐረጉ ፡ ለሙሐዘ ፡ ወንጌል ፡ አፍላጉ ፡ አክብሮ ፡ ሰንበታት ፡ ክልኤቱ ፡ እለ ፡ ሐገጉ ።",
+    "amh": "ለወይን ፡ ግንድ ፡ ሐረጉ ፡ ቅድመ ፡ ዓለም ፡ የነበረ ፡ ለወንጌል ፡ ፈሳሽነት ፡ ወንዞቹ ፡ ሁለቱን ፡ ሰንበታት ፡ ዓለምን ፡ አሳልፎ ፡ የሚኖር ፡ ተጠ ፡ በግዕ ፡ ሉያ ፡ አክብሩ ፡ ብለው ፡ ሥራት ፡ የሠሩ ፡ እሊህ ፡ ሐዋርያት ፡ ናቸው ።",
+    "title": "ሃሌ ሉያ ሃሌ ሉያ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 19,
+    "text": "በግዕ ፡ ተሠዋ ፡ መድኃኒት ፡ ብሐ ፡ ጽዋዓ ፡ መድኃኒት ፡ ተቀድሐ ፡ ሰባኬ ፡ ወንጌል ፡ ዮሐንስ ፡ ከልሐ ።",
+    "amh": "የሚሆን ፡ መጠጥ ፡ ተቀዳ ፡ እያለ ፡ ወንጌልን ፡ ያስተማረ ፡ ዮሐንስ ፡ ተናገረ ።",
+    "title": "በግዕ ተሠዋ መድኃኒት ብሐ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 20,
+    "text": "ይትባረክ ፡ እግዚአብሔር ፡ ዘባረካ ፡ ለሰንበት ።",
+    "amh": "ሰንበትን ፡ የባረካት ፡ እግዚአብሔር ፡ ይክበር ።",
+    "title": "ይትባረክ እግዚአብሔር ዘባረካ ለሰንበት",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 21,
+    "text": "ይትቀደስ ፡ እግዚአብሔር ፡ ዘቀደሳ ፡ ለሰንበት ።",
+    "amh": "ሰንበትን ፡ ያመሰገናት ፡ እግዚአብሔር ፡ ይመስገን ።",
+    "title": "ይትቀደስ እግዚአብሔር ዘቀደሳ ለሰንበት",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 22,
+    "text": "ይትለግል ፡ እግዚአብሔር ፡ ዘዓልዓላ ፡ ለሰንበት ።",
+    "amh": "ሰንበትን ፡ ከፍ ፡ ከፍ ፡ ያደረጋት ፡ እግዚአብሔር ፡ ልዑል ፡ ክቡር ፡ ነው",
+    "title": "ይትለግል እግዚአብሔር ዘዓልዓላ ለሰንበት",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 23,
+    "text": "ሃሌ ፡ ሉያ ፡ ሃሌ ፡ ሉያ ፡ ሃሌ ፡ ሉያ ፡ ዐቢይ ፡ ስብሐተ ፡ መንግሥቱ ፡ ወግሩም ፡ በመለኮቱ ፡ እስመ ፡ ተለዓለ ፡ ስሙ ፡ ለባሕቲቱ",
+    "amh": "ቅድመ ፡ ዓለም ፡ የነበረ ፡ ዓለምን ፡ አሳልፎ ፡ የሚኖር ፡ እሱ ፡ የመንግሥቱ ፡ ምስጋና ፡ ፍጹም ፡ ነው ። በመለኮትነቱም ፡ ግሩም ፡ ድንቅ ፡ ነው ፡ ስሙ ፡ ለብቻው ፡ ከፍ ፡ ክፍ ፡ ያለ ፡ ነውና ።",
+    "title": "ሃሌ ሉያ ሃሌ ሉያ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 24,
+    "text": "ጎሕ ፡ ጎሐ ፡ ወኮነ ፡ ጽባሐ ፡ ፍሥሐ ፡ ንበላ ፡ ለእመ",
+    "amh": "ጎሕ ፣ ቀደደ ፡ ጧትም ፡ ሆነ ፡ የደስታ ፡ መገኛ ፡ ቤተ ፡ ክርስቲያንን ፡ ቸር ፡ አለሽ ፡ እንበላት",
+    "title": "ጎሕ ጎሐ ወኮነ ጽባሐ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 25,
+    "text": "ንግድፍ ፡ እምላዕሌነ ፡ ኵሎ ፡ ምግባረ ፡ ጽልመት ፡ ወንልበስ ፡ ወልታ ፡ ብርሃን ፡ ይቤ ፡ ጳውሎስ ፡ በውስተ ፡ መልእክቱ ፡ እመ ፡ ተሣተፍነ ፡ በሞቱ ፡ ንትመሰሎ ፡ በሕይወቱ ፡ ናስተፋጥን ፡ በዊአ ፡ ውስተ ፡ ሰንበቱ ።",
+    "amh": "የጨለማ ፡ ድንቁርና ፡ ሥራን ፡ ትተን ፡ የብርሃን ፡ ማለት ፡ የእውቀት ፡ ሥራ ፡ እንሥራ ፡ ጳውሎስ ፡ በጻፈወ ፡ ደብዳቤ ፡ በሞቱ ፡ ጋሻ ፡ ከመሰልነው ፡ በሕይወቱ ፡ እንመስለዋለን ፡ ብሎ ፡ እንደተናገረ ፡ ዕረፍት ፡ ወዳለ ፡ በት ፡ ቦታው ፡ እንገባ ፡ ዘንድ ፡ እንቸኩል ።",
+    "title": "ንግድፍ እምላዕሌነ ኵሎ ምግባረ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 26,
+    "text": "ዮሐንስ ፡ ንጹሕ ፡ በአምሳለ ፡ ትጉሃን ።",
+    "amh": "ዮሐንስ ፡ እንደ ፡ መላእክት ፡ ንጹሕ ፡ ነው",
+    "title": "ዮሐንስ ንጹሕ በአምሳለ ትጉሃን",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 27,
+    "text": "ዮሐንስ ፡ ድንግል ፡ ምክሐ ፡ ቅዱሳን ።",
+    "amh": "ድንግል ፡ ዮሐንስ ፡ የቅዱሳን ፡ መመኪያ ፡ ነው ።",
+    "title": "ዮሐንስ ድንግል ምክሐ ቅዱሳን",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 28,
+    "text": "ዮሐንስ ፡ ሥርግው ፡ በቀጸላ ፡ ስን ፡ ወበሜላተ ፡ ብር ፡ አርጋኖን ፡ ዘቤተ ፡ ክርስቲያን ። ወበቃለ ፡ ቀርን ፡ ዘይኬልህ ፡ በኤፌሶን ፡ ይስአል ፡ ለነ ፡ ስርየተ ፡ ለኃጥኣን ።",
+    "amh": "ዮሐንስ ፡ በብርሃን ፡ መጐናጠፊያና ፡ ሻሽ ፡ የተጌጠ ፡ ነው ። ዮሐንስ ፡ የቤተ ፡ ክርስቲያን ፡ በገና ፡ ነው ። በኤፌሶን ፡ አዋጅ ፡ የሚነግር ፡ ዮሐንስ ፡ ኃጥኣን ፡ ለምንሆን ፡ ለኛ ፡ ይቅርታን ፡ ይለምንልን ።",
+    "title": "ዮሐንስ ሥርግው በቀጸላ ስን",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 29,
+    "text": "ሃሌ ፡ ሉያ ፡ ሃሌ ፡ ሉያ ፡ ብርሃናተ ፡ ዓለም ፡ ሱቱፋነ ፡ ሕማም ፡ ሐዋርያተ ፡ ሰላም ፡ አስራበ ፡ ምሕረት ፡ ከዐው ፡ እም ፡ አርያም ።",
+    "amh": "በመከራ ፡ የምትተባበሩ ፡ የዓለም ፡ ብርሃን ፡ የምትሆኑ ፡ ፍቅር ፡ አንድነትን ፡ የምታስተምሩ ፡ ሐዋርያት ፡ የይቅርታን ፡ ፈሳሽ ፡ ከሰማይ ፡ አፍሱልን ፡ (ለምኑልን) ።",
+    "title": "ሃሌ ሉያ ሃሌ ሉያ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 30,
+    "text": "ሰላም ፡ ዕለተ ፡ ብርሃን ፡ ወፀዳል ፡ ሰንበተ ፡ ምሥጢር ፡ ርእሰ ፡ መዋዕል ፡ ሃሌ ፡ ሉያ ፡ ሃሌ ፡ ሉያ ፡ ሃሌ ፡ ሎያ ፡ በከመ ፡ ስምዐ ፡ ኮነ ፡ ዮሐንስ ፡ ድንግል ፡ ሰባኬ ፡ ወንጌል ፡ ተዝካረ ፡ ትንሣኤሁ ፡ ተሠመይኪ ፡ ለአማኑኤል ።",
+    "amh": "የፀዳልና ፡ የብርሃን ፡ ቀን ፡ የቀን ፡ አለቃ ፡ የምሥጢር ፡ መገኛ ፡ ሰንበት ። ወንጌልን ፡ የሚያስተምር ፡ ዮሐንስ ፡ እንደ ፡ መዕከረ ፡ የአማኑኤ ፡ የትንሣኤው ፡ መታሰቢያ ፡ ተባልሽ ።",
+    "title": "ሰላም ዕለተ ብርሃን ወፀዳል",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 31,
+    "text": "እግዚኦ ፡ መሐረነ ፡ ክርስቶስ ፡ ፲፪ ፡ ጊዜ ፡ ጸሎተ ፡ ሃይማኖት ፡ በል ።",
+    "amh": "እግዚኦ ፡ መሐረነ ፡ ፲፪ ፡ ጊዜ ፡ ጸሎተ ፡ ሃይማኖት",
+    "title": "እግዚኦ መሐረነ ክርስቶስ ፲፪",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  }
+]

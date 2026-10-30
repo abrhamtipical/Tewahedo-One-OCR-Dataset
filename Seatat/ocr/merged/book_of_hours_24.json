@@ -1,0 +1,679 @@
+/*
+ * Title:      ሰዓታት — ፳፬. ዘይነግሥ — Book of Hours (Seatat) — Section 24
+ * Language:   Ge'ez, with the Amharic translation where the book has it
+ * Source:     Mets'hafe Se'atat in Ge'ez and Amharic (night and dawn);
+ *             Amharic translation by Aleqa Mekonnen Solomon of Debre Libanos,
+ *             Tensae Zegubae Press. Text typed and edited from the printed
+ *             book by Abraham Sisay. Passages the book lacks are supplied
+ *             from the Se'atat text this app already had (EOTC traditional
+ *             liturgy), marked in the entry metadata.
+ * Ownership:  This text belongs to the Ethiopian Orthodox Tewahedo Church.
+ *             It is the Church's public heritage and is not the property of
+ *             any individual, publisher or application.
+ * Status:     Public content, shared for the faithful.
+ * Note:       This notice is metadata only and is never shown in the app.
+ */
+[
+  {
+    "sortOder": 0,
+    "text": "ወካዕበ ፡ ነአኲቶ ፡ ወንሴብሖ ፡ ለእግዚአ ፡ ኲሉ ፡ አምላክነ ፡ አኃዜ ፡ ኲሉ ፡ ዓለም ፡ ዘይነግሦ ፡ ለኲሉ ፡ ዘኪያሁ ፡ ይሴብሑ ፡ ኲሉ ፡ ኃይለ ፡ ሰማያት ፡ ወይሴብሕዎ ፡ መላእክት ፡ ወሊቃነ ፡ መላእክት ። ወለከ ፡ ይትቀነዩ ፡ ኲሉ ፡ ፍጥረት ፡ ኪያከ ፡ ነአኩት ፡ ወኃይለከ ፡ ንቄድስ ፡ ወለስምከ ፡ ንገኒ ፡ በኲሉ ፡ ጊዜ ፡ ወበኲሉ ፡ ሰዓት ፡ ነአኲተከ ፡ ወንሴብሐከ ፡ በከመ ፡ ዐቀብከነ ፡ ኑኃ ፡ ሌሊት ፡ ወአብጻሕከነ ፡ ውስተ ፡ ብርሃነ ፡ መዓልት ፡ ብቁዓነ ፡ እግዚኦ ፡ ዛተኒ ፡ ዕለተ ፡ በሰላም ፡ ወበዳኅና ፡ ዕቀበነ ፡ ዘእንበለ ፡ ኃጢአት ፡ ወመንሱት ፡ ዘአንተ ፡ ሥሉጥ ፡ ላዕለ ፡ ምሕረት ፡ እግዚአብሔር ፡ አምላክነ ።",
+    "title": "ዘቅዱስ ያሬድ",
+    "turn": "ይ.ካ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ ዘቅዱስ ያሬድ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 1,
+    "text": "ጸልዩ ።",
+    "title": "ጸልዩ",
+    "turn": "ይ.ዲ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ ዘቅዱስ ያሬድ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 2,
+    "text": "እወ ፡ እግዚኦ ፡ አምላክነ ፡ አምላክ ፡ ልዑል ፡ አምላክ ፡ መሐሪ ፡ አምላክ ፡ መስተሣህል ፡ ርኁቀ ፡ መዓት ፡ ወብዙኃ ፡ ምሕረት ፡ ወጻድቅ ፡ ነአኲተከ ፡ ወንሴብሐከ ፡ ዘይሴብሑከ ፡ ኲሉ ፡ ኃይለ ፡ ሰማያት ፡ ወይዌድሱከ ፡ መላእክት ፡ ወሊቃነ ፡ መላእክት ፡ ወለከ ፡ ይትቀነዩ ፡ ኲሉ ፡ ፍጥረት ፡ ኪያከ ፡ ነአኲት ፡ ወኃይለከ ፡ ንዌድስ ፡ ወለስምከ ፡ ንገኒ ፡ በኲሉ ፡ ጌዜ ፡ ወበኲሉ ፡ ሰዓት ፡ ነአኲተከ ፡ ወንሴብሐከ ፡ በከመ ፡ ዐቀብከነ ፡ ኑኃ ፡ ሌሊት ፡ ወአብጻሕከነ ፡ ውስተ ፡ ብርሃነ ፡ መዓልት ፡ ብቁዓነ ፡ እብዚኦ ፡ ዛተኒ ፡ ዕለተ ፡ በሰላም ፡ ወበዳኅና ፡ ዕቀበነ ፡ በእንበለ ፡ ኃጢአት ፡ ወመንሱት ። በ፩ዱ ፡ ወልድከ ፡ ዘቦቱ ፡ ለከ ፡ ምስሌሁ ፡ ወምስለ ፡ ቅዱስ ፡ መንፈስ ፡ ስብሐት ፡ ወእኂዝ ፡ ይእዜኒ ፡ ወዘልፈኒ ፡ ወለዓለመ ፡ ዓለም ። አሜን ።",
+    "title": "ዘቅዱስ ያሬድ ፍጻሜ",
+    "turn": "ይ.ካ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ ዘቅዱስ ያሬድ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 3,
+    "text": "ወካዕበ ፡ ናስተበቊዖ ፡ ለእግዚአ ፡ ኲሉ ፡ አምላክነ ፡ አኃዜ ፡ ኲሉ ፡ ዘይነግሥ ፡ ለኲሉ ፡ ዓለም ፡ አቡሁ ፡ ለእግዚእነ ፡ ወመድኃኒነ ፡ ኢየሱስ ፡ ክርስቶስ ፡ ሐዋፂሃ ፡ ለነፍስ ፡ ወመፈውሰ ፡ ሥጋ ፡ ዘያወርድ ፡ ውስተ ፡ ሲኦል ፡ ወካዕበ ፡ ያዐርግ ፡ ዘይፌውስ ፡ ቅጥቃጤሃ ፡ ለነፍስ ፡ በእንተ ፡ ኲሎሙ ፡ ዱያን ፡ ከመ ፡ ኲሎ ፡ ይፈውስ ፡ ወያንሥእ ፡ ዘውእቱ ፡ ሥሉጥ ፡ ላዕለ ፡ ምሕረት ፡ እግዚአብሔር ፡ አምላክነ ።",
+    "title": "በእንተ ዱያን",
+    "turn": "ይ.ካ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ዱያን",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 4,
+    "text": "ጸልዩ ፡ በእንተ ፡ ዱያን ።",
+    "title": "ጸልዩ በእንተ ዱያን",
+    "turn": "ይ.ዲ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ዱያን",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 5,
+    "text": "እወ ፡ እግዚኦ ፡ አምላክነ ፡ አኀዜ ፡ ኲሉ ፡ ዘይነግሥ ፡ ለኲሉ ፡ ዓለም ፡ አቡሁ ፡ ለዋሕድ ፡ ወልድከ ፡ እግዚእነ ፡ አኃዊነ ፡ ዱያነ ፡ ፈውስ ፡ ወለእለሂ ፡ አጋንንተ ፡ አውፅእ ፡ ወለእለሂ ፡ አርኃቁ ፡ ደዌ ፡ ናዝዝ ፡ ሕማማ ፡ ለነፍስ ፡ ሐውጽ ፡ ወኲሎ ፡ ፈውስ ። እስመ ፡ ትክል ፡ ወጽኑዕ ፡ አንተ ፡ ዘትገብር ፡ መድምመ ።",
+    "title": "በእንተ ዱያን ማዕከል",
+    "turn": "ይ.ካ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ዱያን",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 6,
+    "text": "ተሣሃለነ ።",
+    "title": "ተሣሃለነ",
+    "turn": "ይ.ዲ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ዱያን",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 7,
+    "text": "እግዚኦ ፡ ተሣሃለነ ።",
+    "title": "እግዚኦ ተሣሃለነ",
+    "turn": "ይ.ሕ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ዱያን",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 8,
+    "text": "ዘሠላሳ ፡ ወሰመንቱ ፡ ክርምት ፡ መፃጒዐ ፡ አሕየውከ ፡ ወአልዓዛርሃ ፡ እሙታን ፡ አንሣእከ ፡ ወለዘአ ፡ ሐ ፡ ዱ ፡ ለእሙ ፡ ጸጎከ ፡ ወለዘእንተ ፡ ደም ፡ ይውኅዛ ፡ አሕየውካ ፡ ወለሐማተ ፡ ጴጥሮስ ፡ እምፈጸንታ ፡ አንሣእከ ፡ ከማሁ ፡ ዲበ ፡ እሊኒ ፡ ዱያን ፡ ግበር ፡ ትእምርተ ፡ ዘሠናይ ፡ ወፈኑ ፡ ላዕሌሆሙ ፡ ነጠብጣበ ፡ ምሕረትከ ፡ እስመ ፡ በል ፡ ዘእምኃቤከ ፡ ሕይወቶሙ ፡ ውእቱ ፡ ከመ ፡ እሙንቱሂ ፡ ተንሢኦሙ ፡ ይሰብሑከ ፡ ምስሌነ ፡ ወናልዕል ፡ ስመከ ፡ ኅቡረ ። በዋሕድ ፡ ወልድከ ፡ እግዚእነ ፡ ወመድኃኒነ ፡ ኢየሱስ ፡ ክርስቶስ ፡ ዘቦቱ ፡ ለከ ፡ ምስሌሁ ፡ ወምስለ ፡ ቅዱስ ፡ መንፈስ ፡ ስብሐት ፡ ወመለኮት ፡ ወክብር ፡ ይእዜኒ ፡ ወዘልፈኒ ፡ ወለዓለመ ፡ ዓለም ። አሜን ።",
+    "title": "በእንተ ዱያን ፍጻሜ",
+    "turn": "ይ.ካ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ዱያን",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 9,
+    "text": "ወካዕበ ፡ ናስተበቊዖ ፡ ለእግዚአ ፡ ኲሉ ፡ አምላክነ ፡ አኃዜ ፡ ኲሉ ፡ ዘይነግሥ ፡ ለኲሉ ፡ ዓለም ፡ አቡሁ ፡ ለእግዚእነ ፡ ወመድኃኒነ ፡ ኢየሱስ ፡ ክርስቶስ ። ዘይሁብ ፡ ፍኖተ ፡ ባሕር ፡ ወውስተ ፡ ማይ ፡ ኃያል ፡ ምሕዋረ ፡ ዘያወፅኦሙ ፡ እመዛግብቲሆሙ ፡ ለነፋሳት ፡ በእንተ ፡ ኲሎሙ ፡ እለ ፡ ይነግዱ ፡ እለ ፡ በኲለሄ ፡ ወበኲሉ ፡ ለእለሂ ፡ ውስተ ፡ ባሕር ፡ ወለእለሂ ፡ ውስተ ፡ አፍላግ ፡ ወለእለሂ ፡ ውስተ ፡ በድው ፡ ናስተበቊዓከ ፡ ከመ ፡ ለኲሎሙ ፡ ታብጽሖሙ ፡ ውስተ ፡ አብያቲሆሙ ፡ ዘበፍሥሐ ፡ እንዘ ፡ ይትፌሥሑ ፡ ወያስተፌሥሑ ፡ ዘላዕለ ፡ ኲሉ ፡ ሥልጣን ፡ ቦቱ ፡ እግዚአብሔር ፡ አምላክነ ።",
+    "title": "በእንተ እለ ይነግዱ",
+    "turn": "ይ.ካ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ እለ ይነግዱ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 10,
+    "text": "ጸልዩ ፡ በእንተ ፡ እለ ፡ ይነግዱ ።",
+    "title": "ጸልዩ በእንተ እለ ይነግዱ",
+    "turn": "ይ.ዲ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ እለ ይነግዱ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 11,
+    "text": "እወ ፡ እግዚኦ ፡ አምላክነ ፡ አኃዜ ፡ ኲሉ ፡ ዘይነግሥ ፡ ለኲሉ ፡ ዓለም ፡ አቡሁ ፡ ለእግዚእነ ፡ ወመድኃኒነ ፡ ኢየሱስ ፡ ክርስቶስ ፡ ኲሎሙ ፡ እለ ፡ ይነግዱ ፡ እለ ፡ ዘበእንቲኣሆሙ ፡ ንስእል ፡ ወናስተበቊዕ ፡ ንስእለከ ፡ ከመ ፡ ለኲሎሙ ፡ ትኩኖሙ ፡ መርሐ ።",
+    "title": "በእንተ እለ ይነግዱ - እወ እግዚኦ",
+    "turn": "ይ.ካ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ እለ ይነግዱ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 12,
+    "text": "ተሣሃለነ",
+    "title": "ተሣሃለነ",
+    "turn": "ይ.ዲ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ እለ ይነግዱ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 13,
+    "text": "እግዚኦ ፡ ተሣሃለነ ።",
+    "title": "እግዚኦ ተሣሃለነ",
+    "turn": "ይ.ሕ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ እለ ይነግዱ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 14,
+    "text": "ለእለሂ ፡ ይነግዱ ፡ ንግድ ፡ ምስሌሆሙ ፡ ወለእለሂ ፡ በእግር ፡ የሐውሩ ፡ ሑር ፡ ምስሌሆሙ ፡ ወለእለሂ ፡ ይትመነደቡ ፡ አብጽሖሙ ፡ ውስተ ፡ መርሶ ፡ መድኃኒት ፡ ለእለሂ ፡ ይሳኰዩ ፡ ምርሖሙ ፡ ፍኖተ ፡ ጽድቅ ። ወለእለሂ ፡ እለ ፡ ሀለው ፡ በነጊድ ፡ ዕቀቦሙ ፡ ዘእንበለ ፡ ማዕቅፍ ፡ ሀቦሙ ፡ ሥርዓተ ፡ መንገዶሙ ፡ ለኲሎሙ ፡ እለ ፡ ዘበእንቲኣሆሙ ፡ ንስእል ፡ ወናስተበቊዕ ፡ ሠርሖሙ ፡ ከመ ፡ አንተ ፡ በእሉኒ ፡ ወከመ ፡ በኲሉ ፡ ይሰባሕ ፡ ስምከ ፡ ቅዱስ ። በፍቁር ፡ ወልድከ ፡ እግዚእነ ፡ ወመድኃኒነ ፡ ኢየሱስ ፡ ክርስቶስ ፡ ዘቦቱ ፡ ለከ ፡ ምስሌሁ ፡ ወምስለ ፡ ቅዱስ ፡ መንፈስ ፡ ስብሐት ፡ ወመለኮት ፡ ወክብር ፡ ይእዜኒ ፡ ወዘልፈኒ ፡ ወለዓለመ ፡ ዓለም ። አሜን ።",
+    "title": "በእንተ እለ ይነግዱ ፍጻሜ",
+    "turn": "ይ.ካ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ እለ ይነግዱ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 15,
+    "text": "ወካዕበ ፡ ናስተበቊዖ ፡ ለእግዚአ ፡ ኲሉ ፡ አምላክነ ፡ አኃዜ ፡ ኲሉ ፡ ዘይነግሥ ፡ ለኲሉ ፡ ዓለም ፡ አቡሁ ፡ ለእግዚእነ ፡ ወመድኃኒነ ፡ ኢየሱስ ፡ ክርስቶስ ፡ እግዚኦሙ ፡ ወአምላኮሙ ፡ ለማያት ፡ ንስእለከ ፡ ወናስተበቊዓከ ፡ ከመ ፡ ትፈኑ ፡ ዝናመ ፡ ውስተ ፡ ፋና ፡ ኀበ ፡ ይትፈቀድ ፡ አስተፍሥሕ ፡ ገጻ ፡ ለምድር ፡ ወአርዊ ፡ ትለሚሃ ፡ ወበነጠብጣብከ ፡ ትበቊል ፡ ተፈሢሓ ፡ ሀባ ፡ ለምድር ፡ ዘርዓ ፡ ወማዕረረ ፡ ወለአፍላግኒ ፡ ምላዕ ፡ ማያተ ፡ በመዋዕለ ፡ ጊዜሁ ፡ ፍጹም ፡ ዘላዕለ ፡ ኲሉ ፡ ሥልጣን ፡ ቦቱ ፡ እግዚአብሔር ፡ አምላክነ ።",
+    "title": "በእንተ ዝናማት",
+    "turn": "ይ.ካ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ዝናማት",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 16,
+    "text": "ጸልዩ ፡ በእንተ ፡ ዝናማት ።",
+    "title": "ጸልዩ በእንተ ዝናማት",
+    "turn": "ይ.ዲ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ዝናማት",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 17,
+    "text": "እወ ፡ እግዚኦ ፡ አምላክነ ፡ አኃዜ ፡ ኲሉ ፡ ዘይነግሥ ፡ ለኲሉ ፡ ዓለም ፡ አቡሁ ፡ ለእግዚእነ ፡ ወመድኃኒነ ፡ ኢየሱስ ፡ ክርስቶስ ፡ እግዚኦሙ ፡ ወአምላኮሙ ፡ ለማያት ፡ ንስእለከ ፡ ወናስተበቊዓከ ፡ በእንተ ፡ ዝናማት ፡ ከመ ፡ ተሀበነ ፡ ማያተ ፡ ወትምላዕ ፡ አፍላገ ፡ አስተፍሥሕ ፡ ገጻ ፡ ለምድር ፡ ወአርዊ ፡ ትለሚሃ ፡ ሀባ ፡ ፍሬ ፡ ለዘርዕ ፡ ወለማዕረር ፡ ወባርክ ፡ አክሊለ ፡ ዓመተ ፡ ምሕረትከ ፡ በእንተ ፡ ነዳያን ፡ ሕዝብከ ፡ ወበእንተ ፡ ኲሎሙ ፡ እለ ፡ ይሴፈውከ ፡ ወኲሎ ፡ መካነ ፡ ኀበ ፡ ይትፈቀድ ፡ ሀብ ፡ ጸጋከ ።",
+    "title": "በእንተ ዝናማት - እወ እግዚኦ",
+    "turn": "ይ.ካ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ዝናማት",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 18,
+    "text": "ተሣሃለነ ።",
+    "title": "ተሣሃለነ",
+    "turn": "ይ.ዲ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ዝናማት",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 19,
+    "text": "እግዚኦ ፡ ተሣሃለነ ።",
+    "title": "እግዚኦ ተሣሃለነ",
+    "turn": "ይ.ሕ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ዝናማት",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 20,
+    "text": "አዝዞሙ ፡ ለደመናት ፡ ያውርዱ ፡ ዝናመ ፡ ዘቀዳሚ ፡ ወዘደኃሪ ፡ መሐር ፡ አግብርቲከ ፡ ወአእማቲከ ፡ ወተመየጥ ፡ ነዳያነ ፡ ወምስኪናነ ፡ ዕቤራተ ፡ ወዕጓለ ፡ ማውታ ፡ እስመ ፡ ኲሎሙ ፡ ኀቤከ ፡ ይጸርሑ ፡ ኪያከ ፡ መሴስየ ፡ ኲሉ ፡ ይትመሐለሉ ፡ ወይስእሉ ፡ ኪያከ ፡ መጋቤ ፡ ኲሉ ፡ ኲሎሙ ፡ ተሣሃል ፡ ወአጽግብ ፡ ከመ ፡ ይክሀሉ ፡ ዘበሥጋ ፡ ወዘበመንፈስ ፡ ዘልፈ ፡ ሰብሖተከ ። በዋሕድ ፡ ወልድከ ፡ እግዚእነ ፡ ወመድኃኒነ ፡ ኢየሱስ ፡ ክርስቶስ ፡ ዘቦቱ ፡ ለከ ፡ ምስሌሁ ፡ ወምስለ ፡ ቅዱስ ፡ መንፈስ ፡ ስብሐት ፡ ወመለኮት ፡ ወክብር ፡ ይእዜኒ ፡ ወዘልፈኒ ፡ ወለዓለመ ፡ ዓለም ። አሜን ።",
+    "title": "በእንተ ዝናማት ፍጻሜ",
+    "turn": "ይ.ካ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ዝናማት",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 21,
+    "text": "ወካዕበ ፡ ናስተበቊዖ ፡ ለእግዚአ ፡ ኲሉ ፡ አምላክነ ፡ አኃዜ ፡ ኲሉ ፡ ዘይነግሥ ፡ ለኲሉ ፡ ዓለም ፡ አቡሁ ፡ ለእግዚእነ ፡ ወመድኃኒነ ፡ ኢየሱስ ፡ ክርስቶስ ፡ በእንተ ፡ ፍሬ ፡ ምድር ፡ ከመ ፡ ፍሬሃ ፡ ለምድር ፡ ያልሕቅ ፡ ወያሥምር ፡ ወይዕቀብ ፡ ዘእንበለ ፡ ሙስና ፡ መሴ ፡ ስየ ፡ ኲሉ ፡ ዘሥጋ ፡ ዘብዑለ ፡ ጸጋ ፡ ይጼጉ ፡ እግዚአብሔር ፡ አምላክነ ።",
+    "title": "በእንተ ፍሬ ምድር",
+    "turn": "ይ.ካ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ፍሬ ምድር",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 22,
+    "text": "ጸልዩ ፡ በእንተ ፡ ፍሬ ፡ ምድር ።",
+    "title": "ጸልዩ በእንተ ፍሬ ምድር",
+    "turn": "ይ.ዲ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ፍሬ ምድር",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 23,
+    "text": "እወ ፡ እግዚኦ ፡ አምላክነ ፡ አኃዜ ፡ ኲሉ ፡ ዘይነግሥ ፡ ለኲሉ ፡ ዓለም ፡ አቡሁ ፡ ለእግዚእነ ፡ ወመድኃኒነ ፡ ኢየሱስ ፡ ክርስቶስ ፡ ንስእለከ ፡ ወናስተበቊዓከ ፡ በእንተ ፡ ፍሬ ፡ ምድር ፡ ፍሬሃ ፡ ለምድር ፡ አልሕቅ ፡ ወአሥምር ፡ ወዕቀብ ፡ ዘእንበለ ፡ ሙስና ፡ እግዚአብሔር ፡ አምላክነ ።",
+    "title": "በእንተ ፍሬ ምድር - እወ እግዚኦ",
+    "turn": "ይ.ካ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ፍሬ ምድር",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 24,
+    "text": "ተሣሃለነ ።",
+    "title": "ተሣሃለነ",
+    "turn": "ይ.ዲ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ፍሬ ምድር",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 25,
+    "text": "እግዚኦ ፡ ተሣሃለነ ።",
+    "title": "እግዚኦ ተሣሃለነ",
+    "turn": "ይ.ሕ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ፍሬ ምድር",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 26,
+    "text": "እስመ ፡ አንተ ፡ ዘታሠርፅ ፡ ሣዕረ ፡ ለእንስሳ ፡ ወሐመልማለ ፡ ለቅኔ ፡ ዕጓለ ፡ እመሕያውከ ፡ እስመ ፡ ዓይነ ፡ ኲሉ ፡ ነፍስ ፡ ይሴፎ ፡ ኪያከ ፡ አንተ ፡ ትሁቦሙ ፡ ሲሳዮሙ ፡ በጊዜሁ ፡ ትሰፍሕ ፡ የማነከ ፡ ወታጸግብ ፡ ለኲሉ ፡ እንስሳ ፡ ዘበሥርዓትከ ። በፍቁር ፡ ወልድከ ፡ እግዚእነ ፡ ወመድኃኒነ ፡ ኢየሱስ ፡ ክርስቶስ ፡ ዘቦቱ ፡ ለከ ፡ መስሌሁ ፡ ወምስለ ፡ ቅዱስ ፡ መንፈስ ፡ ስብሐት ፡ ወመለኮት ፡ ወክብር ፡ ይእዜኒ ፡ ወዘልፈኒ ፡ ወለዓለመ ፡ ዓለም ። አሜን ።",
+    "title": "በእንተ ፍሬ ምድር ፍጻሜ",
+    "turn": "ይ.ካ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ፍሬ ምድር",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 27,
+    "text": "ወካዕበ ፡ ናስተበቊዖ ፡ ለእግዚአ ፡ ኲሉ ፡ አምላክነ ፡ አኃዜ ፡ ኲሉ ፡ ዘይነግሥ ፡ ለኲሉ ፡ ዓለም ፡ አቡሁ ፡ ለእግዚእነ ፡ ወመድኃኒነ ፡ ኢየሱስ ፡ ክርስቶስ ፡ በእንተ ፡ ማያተ ፡ አፍላግ ፡ ከመ ፡ ያዕርግ ፡ እስከ ፡ መሥፈርቶሙ ። እስመ ፡ አንተ ፡ ዘትገብር ፡ ሠናያተ ፡ ወታርኁ ፡ ክረምተ ፡ ወትፌኑ ፡ ዝናማተ ፡ አስተፍሥሕ ፡ ገጻ ፡ ለምድር ፡ ወአርዊ ፡ ትለሚሃ ፡ አብጽሕ ፡ ለዘርዕ ፡ ወለማዕረር ፡ ዘሥሉጥ ፡ አንተ ፡ ላዕለ ፡ ምሕረት ፡ እግዚአብሔር ፡ አምላክነ ።",
+    "title": "በእንተ ማያተ አፍላግ",
+    "turn": "ይ.ካ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ማያተ አፍላግ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 28,
+    "text": "ጸልዩ ፡ በእንተ ፡ ማያተ ፡ አፍላግ ።",
+    "title": "ጸልዩ በእንተ ማያተ አፍላግ",
+    "turn": "ይ.ዲ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ማያተ አፍላግ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 29,
+    "text": "እወ ፡ እግዚኦ ፡ አምላክነ ፡ አኃዜ ፡ ኲሉ ፡ ዘይነግሥ ፡ ለኲሉ ፡ ዓለም ፡ አቡሁ ፡ ለእግዚእነ ፡ ወመድኃኒነ ፡ ኢየሱስ ፡ ክርስቶስ ። ንስእለከ ፡ ወናስተበቊዓከ ፡ በእንተ ፡ ማያተ ፡ አፍላግ ፡ ዘአፍላግ ፡ ማያተ ፡ አዕርግ ፡ እስከ ፡ መስፈርቶሙ ፡ አዝዞሙ ፡ ለደመናት ፡ ያውርዱ ፡ ዝናመ ፡ ወምልዖሙ ፡ ለአፍላግ ፡ ማያተ ፡ በዓቅሞሙ ። በጊዜ ፡ መፍትው ፡ አርዊ ፡ ገጻ ፡ ለምድር ፡ ወምላዕ ፡ ትለሚሃ ፡ አብዝኅ ፡ እክለ ፡ ወባርክ ፡ ዓውደ ፡ ዓመት ፡ በዘዚአከ ፡ ኂሩት ።",
+    "title": "በእንተ ማያተ አፍላግ - እወ እግዚኦ",
+    "turn": "ይ.ካ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ማያተ አፍላግ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 30,
+    "text": "ተሣሃለነ ።",
+    "title": "ተሣሃለነ",
+    "turn": "ይ.ዲ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ማያተ አፍላግ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 31,
+    "text": "እግዚኦ ፡ ተሣሃለነ ።",
+    "title": "እግዚኦ ተሣሃለነ",
+    "turn": "ይ.ሕ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ማያተ አፍላግ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 32,
+    "text": "እስመ ፡ አንተ ፡ ዘትገብር ፡ ሠናያተ ፡ ወታርኁ ፡ ክርምተ ፡ ወትፌኑ ፡ ዝናማተ ፡ ዲበ ፡ ገጻ ፡ ለምድር ፡ በእንተ ፡ አትክልት ፡ ወጽጌያት ፡ ወፍሬያተ ፡ ምድር ፡ እስመ ፡ አንተ ፡ መሴስይ ፡ ለኲሉ ፡ ዘሥጋ ፡ ወለከ ፡ ይደሉ ፡ ስብሐት ፡ ምስለ ፡ ወልድከ ፡ ፍቁርከ ፡ ኢየሱስ ፡ ክርስቶስ ። ዘቦቱ ፡ ለከ ፡ ምስሌሁ ፡ ወምስለ ፡ ቅዱስ ፡ መንፈስ ፡ ስብሐት ፡ ወመለኮት ፡ ወክብር ፡ ይእዜኒ ፡ ወዘልፈኒ ፡ ወለዓለመ ፡ ዓለም ። አሜን ።",
+    "title": "በእንተ ማያተ አፍላግ ፍጻሜ",
+    "turn": "ይ.ካ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ማያተ አፍላግ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 33,
+    "text": "ወካዕበ ፡ ናስተበቊዖ ፡ ለእግዚአ ፡ ኲሉ ፡ አምላክነ ፡ አኃዜ ፡ ኲሉ ፡ ዘይነግሥ ፡ ለኲሉ ፡ ዓለም ፡ አቡሁ ፡ ለእግዚእነ ፡ ወመድኃኒነ ፡ ኢየሱስ ፡ ክርስቶስ ። እግዚኦሙ ፡ ለአጋዕዝት ፡ ወንጉሦሙ ፡ ለነገሥት ፡ በእንተ ፡ መፍቀሪተ ፡ እግዚአብሔር ፡ ሀገሪትነ ፡ ኢትዮጵያ ፡ ከመ ፡ መንግሥታ ፡ ይዕቀብ ፡ በጽድቅ ፡ ወበሰላም ፡ መዋዒ ፡ በኲሉ ፡ ጸብዕ ፡ እግዚአብሔር ፡ አምላክነ ።",
+    "title": "በእንተ ሀገር",
+    "turn": "ይ.ካ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ሀገር",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 34,
+    "text": "ጸልዩ ፡ በእንተ ፡ ሀገሪትነ ፡ ኢትዮጲያ ፡ (በእንተ ፡ ሀገር) ።",
+    "title": "ጸልዩ በእንተ ሀገሪትነ ኢትዮጲያ",
+    "turn": "ይ.ዲ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ሀገር",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 35,
+    "text": "እወ ፡ እግዚኦ ፡ አምላክነ ፡ አኃዜ ፡ ኲሉ ፡ ዘይነግሥ ፡ ለኲሉ ፡ ዓለም ፡ አቡሁ ፡ ለእግዚእነ ፡ ወመድኃኒነ ፡ ኢየሱስ ፡ ክርስቶስ ፡ እግዚኦሙ ፡ ለአጋዕዝት ፡ ወንጉሦሙ ፡ ለነገሥት ፡ ንስእለከ ፡ ወናስተበቊዓከ ፡ በእንተ ፡ መፍቀሪተ ፡ እግዚአብሔር ፡ ሀገሪትነ ፡ ኢትዮጵያ ። በሰላም ፡ ወበጽድቅ ፡ ዕቀባ ፡ ከመ ፡ ብንተ ፡ ዓይን ፡ ወበጽላሎተ ፡ ክነፊከ ፡ ክድና ።",
+    "title": "በእንተ ሀገር - እወ እግዚኦ",
+    "turn": "ይ.ካ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ሀገር",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 36,
+    "text": "ተሣሃለነ ።",
+    "title": "ተሣሃለነ",
+    "turn": "ይ.ዲ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ሀገር",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 37,
+    "text": "እግዚኦ ፡ ተሣሃላ ፡ ለሃገሪትነ ፡ ኢትዮጵያ ።",
+    "title": "እግዚኦ ተሣሃላ ለሃገሪትነ ኢትዮጵያ",
+    "turn": "ይ.ሕ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ሀገር",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 38,
+    "text": "አግርር ፡ ላቲ ፡ ፀራ ፡ ታሕተ ፡ እገሪሃ ፡ ከመ ፡ ብዙኅ ፡ ሰላመ ፡ ጸግዋ ፡ በኲለሄ ፡ ወበኲሉ ፡ በሐውርት ፡ ለብዙኅ ፡ መዋዕል ፡ ወለጉንዱይ ፡ ዓመታት ፡ ወለነዋኅ ፡ ክራማት ፡ ለተድላ ፡ ወለዳኅና ፡ ዚአነ ፡ ወስካ ፡ አሚነ ፡ ወሃይማኖተ ፡ ተናገር ፡ ውስተ ፡ ልባ ፡ በእንተ ፡ አብያተ ፡ ክርስቲያናቲከ ፡ ሀባ ፡ ሰላመ ፡ ወሐሊ ፡ ሠናየ ፡ በእንቲአነ ፡ ወበእንተ ፡ ኲሉ ፡ ሕዝብከ ፡ ከመ ፡ ንሕነኒ ፡ ዕሩፈ ፡ ነሃሉ ፡ በሰላም ፡ ወንሕየው ፡ በፈሪሃ ፡ እግዚአብሔር ፡ ወበኂሩት ፡ ንትረከብ ። በፍቁር ፡ ወልድከ ፡ እግዚእነ ፡ ወመድኃኒነ ፡ ኢየሱስ ፡ ክርስቶስ ። ዘቦቱ ፡ ለከ ፡ ምስሌሁ ፡ ወምስለ ፡ ቅዱስ ፡ መንፈስ ፡ ስብሐት ፡ ወመለኮት ፡ ወክብር ፡ ይእዜኒ ፡ ወዘልፈኒ ፡ ወለዓለም ፡ ዓለም ። አሜን ።",
+    "title": "በእንተ ሀገር ፍጻሜ",
+    "turn": "ይ.ካ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ሀገር",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 39,
+    "text": "ወካዕበ ፡ ናስተበቊዖ ፡ ለእግዚአ ፡ ኲሉ ፡ አምላክነ ፡ አኃዜ ፡ ኲሉ ፡ ዘይነግሥ ፡ ለኲሉ ፡ ዓለም ፡ አቡሁ ፡ ለእግዚውነ ፡ ወመድኃኒነ ፡ ኢየሱስ ፡ ክርስቶስ ። እግዚኦሙ ፡ ለአጋዕዝት ፡ ወንጉሦሙ ፡ ለነገሥት ፡ በእንተ ፡ መፍቀሬ ፡ እግዚአብሔር ፡ ንጉሥነ ፡ ‹እገሌ› ፡ ከመ ፡ መንግሥቶ ፡ ይዕቀብ ፡ በጽድቅ ፡ ወበሰላም ፡ መዋዒ ፡ በኲሉ ፡ ጸብዕ ፡ እግዚአብሔር ፡ አምላክነ ።",
+    "title": "በእንተ ንጉሥ",
+    "turn": "ይ.ካ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ንጉሥ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 40,
+    "text": "ጸልዩ ፡ በእንተ ፡ ንጉሥ ።",
+    "title": "ጸልዩ በእንተ ንጉሥ",
+    "turn": "ይ.ዲ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ንጉሥ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 41,
+    "text": "እወ ፡ እግዚኦ ፡ አምላክነ ፡ አኃዜ ፡ ኲሉ ፡ ዘይነግሥ ፡ ለኲሉ ፡ ዓለም ፡ አቡሁ ፡ ለእግዚእነ ፡ ወመድኃኒነ ፡ ኢየሱስ ፡ ክርስቶስ ፡ እግዚኦሙ ፡ ለአጋዕዝት ፡ ወንጉሦሙ ፡ ለነገሥት ፡ ንስእለከ ፡ ወናስተበቊዓከ ፡ በእንተ ፡ መፍቀሬ ፡ እግዚአብሔር ፡ ንጉሥነ ፡ ‹እገሌ› ፡ በሰላም ፡ ወበጽድቅ ፡ ዕቀቦ ፡ ከመ ፡ ብንተ ፡ ዓይን ፡ ወበጽላሎተ ፡ ክነፊከ ፡ ክድኖ ።",
+    "title": "ጸልዩ በእንተ ንጉሥ - እወ እግዚኦ",
+    "turn": "ይ.ካ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ንጉሥ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 42,
+    "text": "ተሣሃለነ ።",
+    "title": "ተሣሃለነ",
+    "turn": "ይ.ዲ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ንጉሥ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 43,
+    "text": "እግዚኦ ፡ ተሣሃሎ ፡ ለንጉሥነ ፡ ‹እገሌ› ።",
+    "title": "እግዚኦ ተሣሃሎ ለንጉሥነ",
+    "turn": "ይ.ሕ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ንጉሥ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 44,
+    "text": "አግርር ፡ ሎቱ ፡ ፀሮ ፡ ታሕተ ፡ እገሪሁ ፡ ከመ ፡ ብዙኀ ፡ ሰላመ ፡ ጸግዎ ፡ በኲለሄ ፡ ወበኲሉ ፡ በሐውርት ፡ ለብዙኅ ፡ መዋዕል ፡ ወለጉንዱይ ፡ ዓመታት ፡ ወለነዋኅ ፡ ክራማት ፡ ለተድላ ፡ ወለዳኅና ፡ ዚአነ ፡ ወስኮ ፡ አሚነ ፡ ወሃይማኖተ ፡ ተናገር ፡ ውስተ ፡ ልቡ ፡ በእንተ ፡ አብያተ ፡ ክርስቲያናቲከ ፡ ሀቦ ፡ ሰላመ ፡ የሐሊ ፡ ሠናየ ፡ በእንቲአነ ፡ ወበእንተ ፡ ኲሉ ፡ ሕዝብከ ፡ ከመ ፡ ንሕነኒ ፡ ዕሩፈ ፡ ነሃሉ ፡ በሰላም ፡ ወንሕየው ፡ በፈሪሃ ፡ እግዚአብሔር ፡ ወበኂሩት ፡ ንትረከብ ። በፍቁር ፡ ወልድከ ፡ እግዚእነ ፡ ወመድኃኒነ ፡ ኢየሱስ ፡ ክርስቶስ ። ዘቦቱ ፡ ለከ ፡ ምስሌሁ ፡ ወምስለ ፡ ቅዱስ ፡ መንፈስ ፡ ስብሐት ፡ ወመለኮት ፡ ወክብር ፡ ይእዜኒ ፡ ወዘልፈኒ ፡ ወለዓለመ ፡ ዓለም ። አሜን ።",
+    "title": "በእንተ ንጉሥ ፍጻሜ",
+    "turn": "ይ.ካ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ንጉሥ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 45,
+    "text": "ወካዕበ ፡ ናስተበቊዖ ፡ ለእግዚአ ፡ ኲሉ ፡ አምላክነ ፡ አኃዜ ፡ ኲሉ ፡ ዘይነግሥ ፡ ለኲሉ ፡ ዓለም ፡ አቡሁ ፡ ለእግዚእነ ፡ ወመድኃኒነ ፡ ኢየሱስ ፡ ክርስቶስ ። በእንተ ፡ ሰላም ፡ ለቅድስት ፡ አሐቲ ፡ እንተ ፡ በኲለሄ ፡ ቤተ ፡ ክርስቲያን ፡ ከመ ፡ ብዙኀ ፡ ሰላመ ፡ ይጸጉ ፡ ላዕለ ፡ ኲሎሙ ፡ ኖሎት ፡ ወአሕዛብ ። ውእቱ ፡ ወሀቤ ፡ ሰላም ፡ እግዚአብሔር ፡ አምላክነ ።",
+    "title": "በእንተ ሰላም",
+    "turn": "ይ.ካ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ሰላም",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 46,
+    "text": "ጸልዩ ፡ በእንተ ፡ ሰላም ።",
+    "title": "ጸልዩ በእንተ ሰላም",
+    "turn": "ይ.ዲ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ሰላም",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 47,
+    "text": "እወ ፡ እግዚኦ ፡ አምላክነ ፡ አኃዜ ፡ ኲሉ ፡ ዘይነግሥ ፡ በኲሉ ፡ ዓለም ፡ አቡሁ ፡ ለእግዚእነ ፡ ወመድኃኒነ ፡ ኢየሱስ ፡ ክርስቶስ ፡ ንስእለከ ፡ ወናስተበቊዓከ ፡ በእንተ ፡ ሰላም ፡ ንጉሠ ፡ ሰላም ፡ ሰላመከ ፡ ሀበነ ፡ እስመ ፡ ኲሎ ፡ ወሀብከነ ፡ አጥርየነ ፡ እግዚአብሔር ፡ ወዕሥየነ ፡ እስመ ፡ ዘእንበሌከ ፡ ባዕድ ፡ አልቦ ፡ ዘነአምር ፡ ስመከ ፡ ቅዱስ ፡ ንሰሚ ፡ ወንጼውዕ ፡ አንተ ፡ ዘእምሰማያት ፡ ሰላመከ ፡ ፈኑ ፡ ውስተ ፡ አልባቢነ ፡ ለኲልነ ።",
+    "title": "በእንተ ሰላም - እወ እግዚኦ",
+    "turn": "ይ.ካ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ሰላም",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 48,
+    "text": "ተሣሃለነ ።",
+    "title": "ተሣሃለነ",
+    "turn": "ይ.ዲ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ሰላም",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 49,
+    "text": "እግዚኦ ፡ ተሣሃለነ ።",
+    "title": "እግዚኦ ተሣሃለነ",
+    "turn": "ይ.ሕ.",
+    "audioPending": true,
+    "section": "ዘይነግሥ በእንተ ሰላም",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 50,
+    "text": "ወንብረተነኒ ፡ በዝ ፡ ዓለም ፡ በሰላም ፡ ጸግወነ ፡ ለንጉሠ ፡ ዛቲ ፡ ምድር ፡ ሰላመ ፡ የሃሊ ፡ በእንቲአነ ፡ ወበእንተ ፡ ኲሉ ፡ ሕዝብከ ፡ መኳንንተኒ ፡ ወአሕዛበ ፡ አግዋረነ ፡ በአተነ ፡ ወፀአተነ ፡ በሰላም ፡ ዕቀብ ፡ ከመ ፡ በዳኅና ፡ ወበዕረፍት ፡ ሕይወተ ፡ እንዘ ፡ ነሐዩ ፡ በኲሉ ፡ አምልኮ ፡ ሠናይ ፡ በፈሪሃ ፡ እግዚአብሔር ፡ ወበኂሩት ፡ ንትረከብ ፡ በዋሕድ ፡ ወልድከ ፡ እግዚአነ ፡ ወመድኃኒነ ፡ ኢየሱስ ፡ ክርስቶስ ፡ ዘቦቱ ፡ ለከ ፡ ምስሌሁ ፡ ወምስለ ፡ ቅዱስ ፡ መንፈስ ፡ ስብሐት ፡ ወመለኮት ፡ ወክብር ፡ ይእዜኒ ፡ ወዘልፈኒ ፡ ወለዓለመ ፡ ዓለም ። አሜን ።",
+    "title": "በእንተ ሰላም ፍጻሜ",
+    "turn": "ይ.ካ.",
+    "section": "ዘይነግሥ በእንተ ሰላም",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  }
+]

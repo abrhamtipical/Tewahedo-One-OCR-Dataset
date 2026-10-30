@@ -1,0 +1,754 @@
+/*
+ * Title:      ሰዓታት — ፳፫. መልክአ ውዳሴ — Book of Hours (Seatat) — Section 23
+ * Language:   Ge'ez, with the Amharic translation where the book has it
+ * Source:     Mets'hafe Se'atat in Ge'ez and Amharic (night and dawn);
+ *             Amharic translation by Aleqa Mekonnen Solomon of Debre Libanos,
+ *             Tensae Zegubae Press. Text typed and edited from the printed
+ *             book by Abraham Sisay. Passages the book lacks are supplied
+ *             from the Se'atat text this app already had (EOTC traditional
+ *             liturgy), marked in the entry metadata.
+ * Ownership:  This text belongs to the Ethiopian Orthodox Tewahedo Church.
+ *             It is the Church's public heritage and is not the property of
+ *             any individual, publisher or application.
+ * Status:     Public content, shared for the faithful.
+ * Note:       This notice is metadata only and is never shown in the app.
+ */
+[
+  {
+    "sortOder": 0,
+    "text": "ሰላም ፡ ለኪ ፡ እንዘ ፡ ንሰግድ ፡ ንብለኪ ። ማርያም ፡ እምነ ፡ ናስተበቊዓኪ ። እምዓርዌ ፡ ነዓዊ ፡ ተማኅፀነ ፡ ብኪ ። በእንተ ፡ ሐና ፡ እምኪ ፡ ወኢያቄም ፡ አቡኪ ። ማኅበረነ ፡ ዮም ፡ ድንግል ፡ ባርኪ ።",
+    "title": "ሰላም ለኪ",
+    "turn": "ይ.ካ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 1,
+    "text": "ፈቀደ ፡ እግዚእ ፡ ለአዳም ፡ ይግዕዞ ። ሥጋኪ ፡ ንጹሐ ፡ አመ ፡ ረሰየ ፡ አራዞ ። ማርያም ፡ ድሉት ፡ ለምሕረት ፡ ወለናዝዞ ። ይቅብዐኒ ፡ ዕፍረተ ፡ ጽድቅ ፡ ወያምዕዘኒ ፡ አምዕዞ ። የማነ ፡ እዴኪ ፡ እዴየ ፡ እኂዞ ።",
+    "title": "ፈቀደ እግዚእ",
+    "turn": "ይ.ካ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 2,
+    "text": "ለሔዋን ፡ እምነ ፡ ከይሲ ፡ ዘአስሐታ ። እግዚአብሔር ፡ ናዘዛ ፡ ኪያኪ ፡ በወሊዶታ ። ማርያም ፡ ድንግል ፡ ማርያም ፡ ርግበ ፡ ኤፍራታ ። ምስለ ፡ ሕይወትኪ ፡ አስተዛውጊ ፡ ሕይወታ ። ከመ ፡ ኢተሃሉ ፡ ነፍስየ ፡ ባሕቲታ ።",
+    "title": "ለሔዋን",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 3,
+    "text": "ኢየሱስ ፡ ክርስቶስ ፡ አመ ፡ ላዕሌኪ ፡ ኀደረ ። ሥጋኪ ፡ ንጹሐ ፡ ምስለ ፡ መለኮቱ ፡ ደመረ ። ለፍልሰትኪ ፡ ድንግል ፡ ሶበ ፡ ናቄርብ ፡ መዝሙረ ። አድኅኒ ፡ እመናስው ፡ ዛተ ፡ ሀገረ ። ወካልኣተኒ ፡ አህጉረ ።",
+    "title": "ኢየሱስ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 4,
+    "text": "ርእየ ፡ ኢሳይያስ ፡ ለአማኑኤል ፡ ምስጢሮ ። መንጦላዕተ ፡ ሥጋኪ ፡ አንተ ፡ ሠወሮ ። ማርያም ፡ ድንግል ፡ ንግሥተ ፡ ሰላም ፡ ወተፋቅሮ ። መዝሙረ ፡ አነሥእ ፡ ለክብርኪ ፡ ወእሁብ ፡ ከበሮ ። ጊዜ ፡ ለስምኪ ፡ አቄርብ ፡ ዘምሮ ።",
+    "title": "ርእየ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 5,
+    "text": "ተፈሣሕ ፡ ወተሐሠት ፡ ኦ ፡ ዘመደ ፡ ዕጓለ ፡ እመ ፡ ሕያው ። እስመ ፡ አፍቀሮ ፡ እግዚአብሔር ፡ ለዓለም ፡ ህልው ። ማርያም ፡ ድንግል ፡ ሙዳየ ፡ አፈው ። ከመ ፡ እሰብሕኪ ፡ በቃለ ፡ ውዳሴ ፡ ፍትው ። ልስሐተ ፡ ልሳንየ ፡ ቀስሚ ፡ በጼው ።",
+    "title": "ተፈሣሕ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 6,
+    "text": "ዘሀሎ ፡ ወይሄሉ ፡ እግዚአብሔር ፡ መዋዒ ። በሥጋኪ ፡ መጽአ ፡ ወካዕበ ፡ መጻኢ ። ስእለተ ፡ ነዳያን ፡ ማርያም ፡ እንተ ፡ ትሰምኢ ። ለዓቂቦትየ ፡ ኃይለኪ ፡ አንሥኢ ። ከመ ፡ ላዕሌየ ፡ ኢያኅሥም ፡ ጸላዒ ።",
+    "title": "ዘሀሎ ወይሄሉ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 7,
+    "text": "ተፈሥሒ ፡ እንዘ ፡ እብል ፡ ለቤተ ፡ ልሔም ፡ እዌድሳ ። እስመ ፡ ወለድኪዮ ፡ ባቲ ፡ ለክርስቶስ ፡ ዘይቄድሳ ። ማርያም ፡ ጽጌ ፡ ዘትምዕዚ ፡ እምፈርከሊሳ ። ይማዖ ፡ ጽድቀ ፡ ዚአኪ ፡ ለዘዚአየ ፡ አበሳ ። ከመ ፡ አራዊተ ፡ ይመውዕ ፡ አንበሳ ።",
+    "title": "ተፈሥሒ እንዘ እብል",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 8,
+    "text": "ትትፌሣሕ ፡ ወትትሐሠይ ፡ ነፍስተ ፡ ጻድቅ ፡ ወኃጥእ ፡ ማኅፀንኪ ፡ ማርያም ፡ በልደተ ፡ ክርስቶስ ፡ ቅቡዕ ። ዘበእንቲኣሁ ፡ ይቤሉ ፡ መላእክተ ፡ ሰማይ ፡ ሳብዕ ። ስብሐት ፡ በሰማያት ፡ ለእግዚአብሔር ፡ እግዚእ ፡ ወሰላም ፡ በምድር ፡ ሥምረቱ ፡ ለሰብእ ።",
+    "title": "ትትፌሣሕ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 9,
+    "text": "ብርሃንኪ ፡ ዘበአማን ፡ ያበርህ ፡ ፍጹመ ። ለኲሎሙ ፡ ሰብእ ፡ እለ ፡ ይነብሩ ፡ ዓለመ ። ማርያም ፡ ዘኮንኪ ፡ ለእግዚአብሔር ፡ እመ ። ጽምዕት ፡ ምድር ፡ ከመ ፡ ትሴፎ ፡ ዝናመ ። እሴፎ ፡ ምሕረተኪ ፡ ቀዊምየ ፡ ፍጽመ ።",
+    "title": "ብርሃንኪ ዘበአማን",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 10,
+    "text": "አክሊለ ፡ ምክሕነ ፡ አንቲ ፡ እንተ ፡ ኃጣእኪ ፡ መምሰለ ። እስመ ፡ ወለድኪ ፡ ለነ ፡ ዘእግዚአብሔር ፡ ቃለ ። ማርያም ፡ ጽጌ ፡ ዘትፀውሪ ፡ አስካለ ። ጊዜ ፡ ንዴትየ ፡ አጥረይኩኪ ፡ ብዕለ ። ወጊዜ ፡ ድካምየ ፡ ካዕበ ፡ ረሰይኩኪ ፡ ኃይለ ።",
+    "title": "አክሊለ ምክሕነ",
+    "turn": "ይ.ካ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 11,
+    "text": "ዓቢይ ፡ ውእቱ ፡ ስብሐተ ፡ ድንግልናኪ ፡ ክልኤ ። እንዘ ፡ እብል ፡ እሴብሕ ፡ በቃለ ፡ ግናይ ፡ ወበጽዋዔ ። ማርያም ፡ ድንግል ፡ ማርያም ፡ ምክሐ ፡ ጉባኤ ። ጊዜ ፡ ድቀትየ ፡ ሶበ ፡ ኃጣእኩ ፡ ረዳኤ ፡ በቃለ ፡ ዚአኪ ፡ እሴፎ ፡ ትንሣኤ ።",
+    "title": "ዓቢይ ውእቱ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 12,
+    "text": "አንቲ ፡ ውእቱ ፡ ዕፀ ፡ ጥበብ ፡ ወልቡና ። ሙሴ ፡ ነቢይ ፡ ዘርእየኪ ፡ በደብረ ፡ ሲና ። ማርያም ፡ ዑፅፍት ፡ ወኁብርት ፡ በቅድስና ። ጸግውኒ ፡ እግዝእትየ ፡ ከመ ፡ ኢይርአይ ፡ ሙስና ። መጽሐፈ ፡ ብርሃናዌ ፡ ወኅቡዓ ፡ መና ።",
+    "title": "አንቲ ውእቱ ዕፀ ጥበብ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 13,
+    "text": "አንቲ ፡ ውእቱ ፡ ገራህተ ፡ ንጉሥ ፡ ሰማያዊ ። ዘእምኔኪ ፡ ሠረቀ ፡ ሕያው ፡ ወማኅየዊ ። ማርያም ፡ ድንግል ፡ ወለተ ፡ ይሁዳ ፡ ወሌዊ ። በትንብልናኪ ፡ አንቀጸ ፡ ምንዳቤ ፡ ዕፅዊ ። ወለምሕረትኪ ፡ አንቀጾ ፡ አርኅዊ ።",
+    "title": "አንቲ ውእቱ ገራህተ ንጉሥ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 14,
+    "text": "ተፈሥሒ ፡ ኦ ፡ ወላዲተ ፡ እግዚእ ፡ ሐሤቶሙ ፡ ለመላእክት ። ተፈሥሒ ፡ ኦ ፡ ንጽሕት ፡ ዜናሆሙ ፡ ለነቢያት ። ማርያም ፡ ስብሕት ፡ ማርያም ፡ ውድስት ። እምኅሩያንኪ ፡ ኢትፍልጥኒ ፡ ንግሥት ። ወኢትኅድግኒ ፡ በሕይወት ፡ ወሞት ።",
+    "title": "ተፈሥሒ ኦ ወላዲተ እግዚእ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 15,
+    "text": "ተፈሥሒ ፡ ማርያም ፡ ዘተሰመይኪ ፡ ድልወ ። ከመ ፡ ትለዲ ፡ ፀሐየ ፡ ወኮከበ ፡ ሰማይ ፡ ሥርግወ ። ማርያም ፡ ድንግል ፡ አመ ፡ ጥበኪ ፡ ጠበወ ። እምከናፍርኪ ፡ ሥነ ፡ ሞገስ ፡ ተክዕወ ። ላዕለ ፡ ሕፃንኪ ፡ ዘይምዕዝ ፡ አፈወ ።",
+    "title": "ተፈሥሒ ማርያም ዘተሰመይኪ ድልወ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 16,
+    "text": "ኦ ፡ ድንግል ፡ ከመ ፡ ትለዲ ፡ ንጉሠ ። እምኀበ ፡ እግዚአብሔር ፡ እግዚእ ፡ እስመ ፡ ረከብኪ ፡ ሞገስ ። ማርያም ፡ ድንግል ፡ ዘትፈጽሚ ፡ ማኅሠሠ ። ዝክረ ፡ ስምኪ ፡ ጸገዎሙ ፡ ለሕሙማን ፡ ፈውሰ ። ወለዕሩቃን ፡ ከደኖሙ ፡ ልብሰ ።",
+    "title": "ኦ ድንግል",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 17,
+    "text": "ቃለ ፡ አብ ፡ ሕያው ፡ ውስተ ፡ ደብረ ፡ ሲና ፡ ዘወረደ ። ሥጋኪ ፡ ንጹሐ ፡ አመ ፡ ረሰየ ፡ ማኅፈደ ። ማርያም ፡ ድንግል ፡ ዘታቀልሊ ፡ ክበደ ። ከመ ፡ ታጽድቂ ፡ ኃጥአነ ፡ ብኪ ፡ መፍቅደ ። ወከመ ፡ ታጥብቢ ፡ ዘከማየ ፡ አብደ ።",
+    "title": "ቃለ አብ ሕያው",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 18,
+    "text": "ውእቱኬ ፡ ቃለ ፡ አብ ፡ እግዚአብሔር ። ሥጋኪ ፡ ተዐፅፈ ፡ በመንክር ፡ ምሥጢር ። ማርያም ፡ ድንግል ፡ ወላዲተ ፡ ክርስቶስ ፡ ክቡር ። ክዕወ ፡ ኮነ ፡ ወርቀ ፡ ስብሐት ፡ ከመ ፡ ኆፃ ፡ ዘባሕር ። ጊዜ ፡ ፍልሰትኪ ፡ ሰማየ ፡ እምድር ።",
+    "title": "ውእቱኬ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 19,
+    "text": "ዕበይኪ ፡ ድንግል ፡ ኢይትከሐል ፡ ለተነግሮ ፡ በነቢብ ፡ ወበፈክሮ ። ማርያም ፡ ዘኮንኪ ፡ ለእግዚአብሔር ፡ ማኅደሮ ። እምአእምሮትኪ ፡ ክፍልኒ ፡ አእምሮ ። ከመ ፡ ለዓለም ፡ ኢይዴግን ፡ ፍቅሮ ።",
+    "title": "ዕበይኪ ድንግል",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 20,
+    "text": "ዘውእቱ ፡ ዕብን ፡ ወልድኪ ፡ ዋሕድ ። ዘተበትከ ፡ እምደብር ፡ ነዋሕ ፡ ዘእንበለ ፡ እድ ። ማርያም ፡ ድንግል ፡ ዘሞገስኪ ፡ ፍድፉድ ። እምኲሉ ፡ ቀዳማዊ ፡ ወደኃራዊ ፡ ትውልድ ። ለዝክረ ፡ ስምኪ ፡ ይደሉ ፡ ሰጊድ ።",
+    "title": "ዘውእቱ ዕብን",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 21,
+    "text": "ኮንኪ ፡ አንቲ ፡ ዐፅቀ ፡ ሕይወት ፡ እግዝእትነ ። ርትዕት ፡ ሃይማኖቶሙ ፡ ለቅዱሳን ፡ አበዊነ ። ማርያም ፡ ድንግል ፡ ዘትትዐፀፊ ፡ ብርሃነ ። ነሢኣ ፡ ንፍስነ ፡ አርጋኖነ ፡ ኲሎ ፡ ዘመነ ። ለልደትኪ ፡ ታበውዕ ፡ ቊርባነ ።",
+    "title": "ኮንኪ አንቲ ዐፅቀ ሕይወት",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 22,
+    "text": "አንቲ ፡ እሙ ፡ ለዓቢይ ፡ ብርሃን ። ዘውእቱ ፡ ቃል ፡ ዘኢይትረዓይ ፡ ለዓይን ። ማርያም ፡ ድንግል ፡ ተስፋ ፡ ቅቡፃን ። ባርክኒ ፡ እግዝእትየ ፡ ከመ ፡ ለብሐዊ ፡ ምእመን ፡ በከናፍርኪ ፡ ፍሡሐት ፡ እምወይን ።",
+    "title": "አንቲ እሙ ለዓቢይ ብርሃን",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 23,
+    "text": "አይ ፡ ልሳን ፡ ዘይክል ፡ ነቢበ ። ውዳሴኪ ፡ ኲሎ ፡ ዘበውስተ ፡ መጽሐፍ ፡ ተዘግበ ። ማርያም ፡ ድንግል ፡ ዘታቀልሊ ፡ ዕፀበ ። በየውሐትኪ ፡ ተመሰልኪ ፡ ርግበ ። ወበንጽሕናኪ ፡ ድንግለ ፡ ጠባበ ።",
+    "title": "አይ ልሳን",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 24,
+    "text": "ተፈሥሒ ፡ ኦ ፡ ማርያም ፡ እም ፡ ወአመት ። እስመ ፡ ለዘውስተ ፡ ሕፅንኪ ፡ ይሴብሕዎ ፡ መላእክት ። ማርያም ፡ ንጽሕት ፡ ማርያም ፡ ቡርክት ። በየማነ ፡ ንጉሥ ፡ ዘትቀውሚ ፡ ንግሥት ። በእንቲአኪ ፡ ዘመረ ፡ ዳዊት ።",
+    "title": "ተፈሥሒ ኦ ማርያም እም ወአመት",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 25,
+    "text": "ኲሉ ፡ ሠራዊተ ፡ ሰማያት ፡ በእንቲአኪ ፡ ይብሉ ። ብፅዕት ፡ አንቲ ፡ ማርያም ፡ ለእግዚአብሔር ፡ ሥጋ ፡ አባሉ ። ሶበ ፡ እፈልስ ፡ ገብርኪ ፡ መንገለ ፡ ታሕቱ ፡ ወላዕሉ ። አሐዱ ፡ መልአክ ፡ ዘዚአኪ ፡ በቅድሜየ ፡ የሀሉ ። ወካልኡ ፡ መልአክ ፡ በድኃሬየ ፡ ይትሉ ።",
+    "title": "ኲሉ ሠራዊተ ሰማያት",
+    "turn": "ይ.ካ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 26,
+    "text": "ተነበዩ ፡ ላዕሌኪ ፡ ዐቢያተ ፡ ወመንክራተ ። ሀገረ ፡ እግዚአብሔር ፡ አንቲ ፡ ዘኢትፈቅዲ ፡ ማኅቶተ ። ማርያም ፡ አብርሂ ፡ ንፍሰ ፡ ዚአየ ፡ ዕውርተ ። ከመ ፡ እርአይ ፡ መንገለ ፡ ጽድቅ ፡ እንተ ፡ ይመርሕ ፡ ፍኖተ ። እስመ ፡ ፍኖትኪ ፡ ያበውእ ፡ ገነተ ።",
+    "title": "ተነበዩ ላዕሌኪ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 27,
+    "text": "አንቲ ፡ ዘበአማን ፡ ደመና ፡ ክርስቶስ ፡ አምላክ ። ማርያም ፡ ድንግል ፡ ሠዓሪተ ፡ መርገም ፡ ወሐውክ ። ይሴብሑኪ ፡ ኪሩቤል ፡ እንዘ ፡ ይሰግዱ ፡ በብረክ ። ገብርኤልኒ ፡ ዜናዊ ፡ ፍሡሐ ፡ ገጽ ፡ መልአክ ። ይኤምኃኪ ፡ በጽባሕ ፡ ወሠርክ ።",
+    "title": "አንቲ ዘበአማን",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 28,
+    "text": "ረከብኪ ፡ ጸጋ ፡ መንፈስ ፡ ቅዱስ ፡ ኀደረ ፡ ላዕሌኪ ። ወኃይለ ፡ ልዑል ፡ ጸለለኪ ። ማርያም ፡ ድንግል ፡ እንተ ፡ አምላከ ፡ ወለድኪ ። ኲሎ ፡ መዓልተ ፡ ወሌሊተ ፡ ሶበ ፡ እጼውዕ ፡ ስመኪ ። ሕይወትየ ፡ ወሞትየ ፡ ማርያም ፡ ባርኪ ።",
+    "title": "ረከብኪ ጸጋ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 29,
+    "text": "ግብረኪ ፡ ድንግል ፡ ይሴብሑ ፡ በዜማ ። መሬታውያን ፡ በምድር ፡ ወሰማያውያን ፡ በራማ ። ማርያም ፡ ድንግል ፡ ክልልተ ፡ ሞገስ ፡ ወግርማ ። ደቂቀ ፡ ቤትኪ ፡ ኢይሁክ ፡ መስቴማ ። በዲበ ፡ ትእዛዝ ፡ ዘይፈጥር ፡ ፃማ ።",
+    "title": "ግብረኪ ድንግል",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 30,
+    "text": "የዐቢ ፡ ክብርኪ ፡ እምክብረ ፡ መላእክት ፡ ዘአርያም ። ወእምክብረ ፡ ጻድቃን ፡ ዘገዳም ። ማርያም ፡ ድንግል ፡ ማርያም ፡ እም ። ብኪ ፡ እግዝእትየ ፡ ድኅነ ፡ ዓለም ። ወበወልድኪ ፡ ኮነ ፡ ሰላም ።",
+    "title": "የዐቢ ክብርኪ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 31,
+    "text": "ሕዝቅኤል ፡ ነቢይ ፡ በእንቲአኪ ፡ እንዘ ፡ ይብል ፡ ፀርሐ ። ርኢኩ ፡ ኖኅተ ፡ ዘኅቱም ፡ መናሥግቲሃ ። ማርያም ፡ ድንግል ፡ እንተ ፡ ትሠረገዊ ፡ ንጽሐ ። በዝክረ ፡ ስምኪ ፡ እትፌሣሕ ፡ ፍሥሐ ። ከመ ፡ ዘረከበ ፡ ምሕርካ ፡ ብዙኃ ።",
+    "title": "ሕዝቅኤል",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 32,
+    "text": "ኆኅትሰ ፡ ድንግል ፡ አንቲ ። እንተ ፡ ወለድኪ ፡ አምላከ ፡ በድንግልና ፡ ከልኤቲ ። ማርያም ፡ ድንግል ፡ ማርያም ፡ ሣህለ ፡ ማዋቲ ። ዕቀብኒ ፡ እግዝእትየ ፡ እምዋዕየ ፡ ልሳን ፡ መስሐቲ ። እስመ ፡ እሳቱ ፡ ለዓለም ፡ ይእቲ ።",
+    "title": "ኆኅትሰ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 33,
+    "text": "ዕፀ ፡ እንተ ፡ ርእየ ፡ ሙሴ ፡ በደብር ። ምሳሌኪ ፡ ኮነት ፡ መንገለ ፡ ኅቡዕ ፡ ምሥጢር ። ማርያም ፡ ሰማይ ፡ መንፈሳዊት ፡ ሀገር ። አድባር ፡ ብኪ ፡ ተፈሥሑ ፡ ወአንፈርዐፁ ፡ አውግር ። ከመ ፡ ሐራጊት ፡ ዘይቤ ፡ መዝሙር ።",
+    "title": "ዕፀ እንተ ርእየ",
+    "turn": "ይ.ካ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 34,
+    "text": "ትምክሕተ ፡ ኲልነ ፡ አንቲ ፡ ዘሠዐርኪ ፡ መርገሞ ። ለአዳም ፡ አቡነ ፡ ቅንዓተ ፡ ሰይጣን ፡ እንተ ፡ አሕመሞ ። ማርያም ፡ አበሞ ፡ ማርያም ፡ ቀናንሞ ። እፎ ፡ ፈቀደ ፡ ሕሊናየ ፡ ለውዳሴኪ ፡ ተፍጻሞ ። ወእፎ ፡ ሐለየ ፡ ዘኢይክል ፡ አቅሞ ።",
+    "title": "ትምክሕተ ኲልነ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 35,
+    "text": "ኦ ፡ ዝ ፡ መንክር ፡ ወጥቀ ፡ ዕጹብ ። ልደተ ፡ ኢየሱስ ፡ ክርስቶስ ፡ እንበለ ፡ ዘርዕ ፡ ወሰብሳብ ። ማርያም ፡ ድንግል ፡ ወለተ ፡ እስራኤል ፡ ጠባብ ። በሰማይኒ ፡ ቅድመ ፡ ይትፈጠር ፡ ኪሩብ ። ዘእንበለ ፡ እም ፡ ተወልደ ፡ እምአብ ።",
+    "title": "ኦ ዝ መንክር ወጥቀ ዕጹብ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 36,
+    "text": "ኦ ፡ ዝ ፡ መንክር ፡ ነሢኣ ፡ ዓፅም ፡ እምገቦ ። ኪያኪ ፡ ይፍጥር ፡ ከመ ፡ ትኩኒ ፡ መዝገቦ ። ማርያም ፡ ድንግል ፡ ባላሒት ፡ እምተመንድቦ ። ብፁዕ ፡ ለኪ ፡ እግዝእትየ ፡ ዘየአምር ፡ የብቦ ። ከመ ፡ እስራኤል ፡ ዘተሰምየ ፡ ሕዝቦ ።",
+    "title": "ኦ ዝ መንክር ነሢኣ ዓፅም እምገቦ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 37,
+    "text": "መሐለ ፡ እግዚአብሔር ፡ ለዳዊት ፡ ፍቁሩ ። አበውኪ ፡ ነገሥት ፡ ከመ ፡ በመንበሩ ፡ ይነብሩ ። ማርያም ፡ ሰማይ ፡ ለእግዚአብሔር ፡ ሀገሩ ። ነቢያት ፡ በእንቲአኪ ፡ ሰላመ ፡ ነገሩ ። ወሐዋርያት ፡ ምስሌሆሙ ፡ ኀብሩ ።",
+    "title": "መሐለ እግዚአብሔር",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 38,
+    "text": "ዳዊት ፡ ዘነግሠ ፡ መልዕልተ ፡ እስራኤል ፡ ሐራ ። ኪያኪ ፡ ሰብሐ ፡ በአውታር ፡ ወበእንዚራ ። ማርያም ፡ ድንግል ፡ ማርያም ፡ ወለተ ፡ ቅስራ ። ለነፍሰ ፡ ዚአየ ፡ አስተዳልዊ ፡ ማኅደራ ። ውስተ ፡ መቅደስኪ ፡ ዘማኅው ፡ ኅብራ ።",
+    "title": "ዳዊት",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 39,
+    "text": "አሐዱ ፡ አካል ፡ ዘእምቅድስት ፡ ሥላሴ ። ሥጋኪ ፡ ለብሰ ፡ ወኮነ ፡ ብእሴ ። ማርያም ፡ ድንግል ፡ ማርያም ፡ ሥርጉተ ፡ ቅዳሴ ። ከበሮ ፡ እዘብጥ ፡ ለክብርኪ ፡ ወእሁብ ፡ ውዳሴ ። ከመ ፡ ማርያም ፡ እኅቱ ፡ ለሙሴ ።",
+    "title": "አሐዱ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 40,
+    "text": "ቡርክት ፡ አንቲ ፡ ዘእምኔኪ ፡ ሠረቀ ። ፀሐየ ፡ ቅዱሳን ፡ ክርስቶስ ፡ እንተ ፡ በይሁዳ ፡ ተዐውቀ ። ማርያም ፡ ኪያኪ ፡ እስመ ፡ እሴፎ ፡ ጥዩቀ ። ሞገሰ ፡ ስምኪ ፡ ይኩነኒ ፡ ስንቀ ። በኀበ ፡ ፈለስኩ ፡ ብሔረ ፡ ርኁቀ ።",
+    "title": "ቡርክት አንቲ ዘእምኔኪ ሠረቀ",
+    "turn": "ይ.ካ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 41,
+    "text": "ቡርክት ፡ አንቲ ፡ ተዓብዩ ፡ እምሰማይ ። ወትበርሂ ፡ እምፀሐይ ። ማርያም ፡ ዕንቊ ፡ ማርያም ፡ ባሕርይ ። ሕፅብኒ ፡ እግዝእትየ ፡ እምኲሉ ፡ ጌጋይ ። ከመ ፡ የሐፅቡ ፡ ርስሐተ ፡ በማይ ።",
+    "title": "ቡርክት አንቲ ተዓብዩ እምሰማይ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 42,
+    "text": "ቡርክት ፡ አንቲ ፡ ምክሖን ፡ ለደናግል ። ዘንዕዶን ፡ ክርስቶስ ፡ በውስተ ፡ ወንጌል ። ማኅፀንኪ ፡ ማርያም ፡ ማኅደረ ፡ ክርስቶስ ፡ ልዑል ። ወበእንተዝ ፡ ያሬድ ፡ መዓርዒረ ፡ ቃል ። ምስለ ፡ ሱራፌል ፡ ይዌድሰኪ ፡ ወይብል ። ሐፁር ፡ የዓውዳ ፡ ወጽጌ ፡ ረዳ ፡ በትእምርተ ፡ መስቀል ።",
+    "title": "ቡርክት አንቲ ምክሖን ለደናግል",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 43,
+    "text": "ማርያም ፡ ድንግል ፡ ለዕፍረት ፡ ሙዳዩ ። ዘእምኔሁ ፡ ተቀብዑ ፡ እለ ፡ ለመንግሥት ፡ ተኀርዩ ። ማርያም ፡ ድንግል ፡ ለልዑል ፡ እመ ፡ ባሕርዩ ። እስመ ፡ ተቶስሐ ፡ በላሕይኪ ፡ ላሕዩ ። ወበዕበይኪ ፡ ተሰውጠ ፡ ዕበዩ ።",
+    "title": "ማርያም ድንግል ለዕፍረት ሙዳዩ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 44,
+    "text": "ማርያም ፡ ድንግል ፡ ሰአሊተ ፡ ምሕረት ፡ በጻሕቅ ። እንበይነ ፡ አዕሩግ ፡ ወደቂቅ ። ማርያም ፡ ርግብ ፡ ማርያም ፡ ማዕነቅ ። ገቦኪ ፡ ሥርግው ፡ በሐመልማለ ፡ ወርቅ ። ወአክናፍኪ ፡ በብሩር ፡ ፍሑቅ ።",
+    "title": "ማርያም ድንግል ሰአሊተ ምሕረት በጻሕቅ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 45,
+    "text": "ትጸርሕ ፡ ወትብል ፡ ኢየአምር ፡ ምንተኒ ። ዘእንበለ ፡ ድምፀ ፡ ቃሉ ፡ ለመልአክ ፡ ዘአብሠረኒ ። ማርያም ፡ ድንግል ፡ ፍና ፡ ጽድቅኪ ፡ ምርሕኒ ። ዓለምሰ ፡ ምስለ ፡ ክብሩ ፡ ማሳኒ ። ዝኒ ፡ የኃልፍ ፡ ወይሠዐር ፡ ዝኒ ።",
+    "title": "ትጸርሕ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 46,
+    "text": "ንጽሕት ፡ ወብርህት ፡ እምነ ፡ ፀሐይ ፡ ዘትጸድሊ ። ወእምኑኃ ፡ ሰማይ ፡ ዘትትሌዐሊ ። ማርያም ፡ ወለቱ ፡ ለዳዊት ፡ አርከ ፡ ቤርዜሊ ። ኦ ፡ እግዝእትየ ፡ ሶበ ፡ ኀቤኪ ፡ እጼሊ ። በክሂሎትኪ ፡ ኪያየ ፡ አክህሊ ።",
+    "title": "ንጽሕት ወብርህት",
+    "turn": "ይ.ካ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 47,
+    "text": "ናስተበፅዕ ፡ ዕበየኪ ፡ ማርያም ፡ ወትረ ። ወንፌኑ ፡ ለኪ ፡ ፍሥሐ ፡ ምስለ ፡ ገብርኤል ፡ ኅቡረ ። በዝ ፡ ዓለም ፡ ወበዘይመጽእ ፡ ድኅረ ። ውስተ ፡ መቅደስኪ ፡ እፈቱ ፡ ኃዲረ ። ወኢትኅብዕኒ ፡ ዘይሤኒ ፡ ምክረ ።",
+    "title": "ናስተበፅዕ ዕበየኪ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 48,
+    "text": "ከመ ፡ ከብካብ ፡ ንጹሕ ፡ ዘአልቦ ፡ ጥልቀት ፡ ውስቴቱ ። ይሥተፌሥሐኒ ፡ ጥቀ ፡ ዜና ፡ ተአምርኪ ፡ ለለዕለቱ ። እምሀብተ ፡ በረከት ፡ ኲሉ ፡ እንተ ፡ በላዕሉ ፡ ወታሕቱ ። ለማኅፀንኪ ፡ እግዝእትየ ፡ በረከቶ ፡ እፈቱ ። እግዚአብሔር ፡ ዘተፀውረ ፡ ቦቱ ።",
+    "title": "ከመ ከብካብ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 49,
+    "text": "አንቲ ፡ ውእቱ ፡ ለዳዊት ፡ ዘመዱ ። ዘእምኔሁ ፡ ሕዝብኪ ፡ ወአበውኪ ፡ ተወልዱ ። ማርያም ፡ ድንግል ፡ ለልዑል ፡ እመ ፡ ዋሕዱ ። ለውዳሴኪ ፡ እግዝእትየ ፡ ኢይትዌሰን ፡ ፍቅዱ ። እስመ ፡ እምወሰን ፡ ወሰነ ፡ የዐዱ ።",
+    "title": "አንቲ ውእቱ ለዳዊት ዘመዱ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 50,
+    "text": "ኮንኪ ፡ ዲበ ፡ ምድር ፡ ዳግሚተ ፡ ሰማየ ። እንተ ፡ አሥረቂ ፡ ፀሐየ ። ማርያም ፡ ድንግል ፡ እመ ፡ እግዚእየ ። በቅድስናኪ ፡ ቀድሲ ፡ ነፍስየ ። ወበተስፋኪ ፡ አኅድሪ ፡ ሥጋየ ።",
+    "title": "ኮንኪ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 51,
+    "text": "አንቲ ፡ ውእቱ ፡ ደብተራ ፡ ክርስቶስ ፡ ብርሃን ። ዘሰመዩኪ ፡ አበው ፡ ቅድስተ ፡ ቅዱሳን ። ማርያም ፡ ድንግል ፡ በዓልተ ፡ ዛቲ ፡ መካን ። ለብሔረ ፡ ንግሥኪ ፡ ከመ ፡ ብሔረ ፡ ነገሥት ፡ ባዕዳን ። ኢይዌስንዎ ፡ ቤርሳቤሕ ፡ ወዳን ።",
+    "title": "አንቲ ውእቱ ደብተራ ክርስቶስ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 52,
+    "text": "ተሰመይኪ ፡ እመ ፡ ለክርስቶስ ፡ ፈታኔ ፡ አልባብ ፡ ወሕሊና ። ድኅረ ፡ ወለድኪ ፡ ኪያሁ ፡ ነበርኪ ፡ በድንግልና ። ማርያም ፡ ድንግል ፡ ወለተ ፡ ኢያቄም ፡ ወሐና ። ዲበ ፡ እንግድዓየ ፡ አክብዲ ፡ ልቡና ። ወበሕሊናየ ፡ ሰአሊ ፡ ትሕትና ።",
+    "title": "ተሰመይኪ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 53,
+    "text": "አንቲ ፡ ውእቱ ፡ ሰዋስወ ፡ ወርቅ ፡ ቀዲሙ ። እስራኤል ፡ ያዕቆብ ፡ ዘነጸረኪ ፡ በሕልሙ ። ማርያም ፡ ድንግል ፡ ሞገሰ ፡ ፍጹማን ፡ ኲሎሙ ። ለወድሶትኪ ፡ ሐወዘኒ ፡ ጣዕሙ ። ከመ ፡ ኤልሳቤጥ ፡ ለዮሐንስ ፡ እሙ ።",
+    "title": "አንቲ ውእቱ ሰዋስወ ወርቅ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 54,
+    "text": "ናሁ ፡ እግዚእ ፡ ዘእምኔኪ ፡ ወፅአ ። በኁልቈ ፡ ዕለታት ፡ ሰብዑ ፡ እንዘ ፡ እዌድሰኪ ፡ ስብዐ ። ማርያም ፡ ድንግል ፡ ማርያም ፡ ወለተ ፡ መርዓ ፡ አጽድቂ ፡ እሙ ፡ ኪያየ ፡ ኀጥአ ። ወናዝዚ ፡ ኃዘንየ ፡ እንተ ፡ ውስጥ ፡ ወአፍአ ።",
+    "title": "ናሁ እግዚእ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 55,
+    "text": "ተፈሥሒ ፡ ተፈሥሒ ፡ ምልእተ ፡ ጸጋ ፡ ማርያም ። ልሕኲት ፡ ንጽሕት ፡ ክብረ ፡ ኲሉ ፡ ዓለም ። በኁልቈ ፡ ዕለታት ፡ ሰብዑ ፡ አርዓያ ፡ ለብሐዊ ፡ ዘቅድም ። አቅረብኩ ፡ ለኪ ፡ ተጋንዮ ፡ በልሳንየ ፡ ድኩም ። ማርያም ፡ እግዝእትየ ፡ ተወከፊ ፡ ዮም ።",
+    "title": "ተፈሥሒ ተፈሥሒ ምልእተ ጸጋ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 56,
+    "text": "ተሰመይኪ ፡ ፍቅርተ ፡ ኦ ፡ ቡርክት ፡ እምአእኑስ ። አንቲ ፡ ውእቱ ፡ ቀመረ ፡ ዳግሚት ፡ ሐዳስ ። ማርያም ፡ ድንግል ፡ ወለተ ፡ ዳዊት ፡ ንጉሥ ። ሰላም ፡ ሰላም ፡ ለመልክእኪ ፡ ውዱስ ። ለለአሐዱ ፡ እስከ ፡ እግር ፡ እምርእስ ።",
+    "title": "ተሰመይኪ ፍቅርተ",
+    "turn": "ይ.ካ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 57,
+    "text": "ታቦት ፡ አንቲ ፡ ዘረሰየኪ ፡ ታዕካሁ ። ኢየሱስ ፡ ክርስቶስ ፡ እስመ ፡ ሥጋኪ ፡ ሥጋሁ ። ማርያም ፡ ድንግል ፡ ለዕጓለ ፡ እመሕያው ፡ ተስፋሁ ። ዕቀብኒ ፡ እግዝእትየ ፡ ለለመዋዕሉ ፡ ወወርኁ ። እስመ ፡ ኢየአምር ፡ ሰብእ ፡ ዘይመጽእ ፡ ላዕሌሁ ።",
+    "title": "ታቦት",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 58,
+    "text": "መቅደስ ፡ አንቲ ፡ ዘይኬልሉኪ ፡ ኪሩቤል ። እለ ፡ ሥዑላን ፡ በሥዕለ ፡ እግዚአብሔር ፡ ቃል ። ማርያም ፡ ንጽሕት ፡ ማርያም ፡ ድንግል ። ሰላም ፡ ሰላም ፡ በምልዓ ፡ ሕሊናየ ፡ እብል ። ለልደትኪ ፡ ፍሥሐ ፡ ወሥህል ።",
+    "title": "መቅደስ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 59,
+    "text": "አንቲ ፡ ውእቱ ፡ መሶበ ፡ ወርቅ ፡ ቀይሕ ። እንተ ፡ ውስቴታ ፡ መና ፡ ብሩህ ። ማርያም ፡ ታቦት ፡ ዘተከለልኪ ፡ በንጽሕ ። አድኅንኒ ፡ እግዝእትየ ፡ እማየ ፡ ሙስና ፡ መፍርህ ። ከመ ፡ አድኃንኪዮ ፡ ቀዳሚ ፡ ለኖኅ ።",
+    "title": "አንቲ ውእቱ መሶበ ወርቅ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 60,
+    "text": "አንቲ ፡ ውእቱ ፡ ተቅዋመ ፡ ወርቅ ፡ ዘትነብሪ ። ብርሃኖ ፡ ለዓለም ፡ እንዘ ፡ ትፀውሪ ። ኦ ፡ ድንግል ፡ መሐሪት ፡ እመ ፡ መሐሪ ። ኃጥአነ ፡ እለ ፡ ከማየ ፡ አመ ፡ ይኳንን ፡ ፈጣሪ ። አድኅኖትየ ፡ ማርያም ፡ ሥመሪ ።",
+    "title": "አንቲ ውእቱ ተቅዋመ ወርቅ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 61,
+    "text": "አንቲ ፡ ውእቱ ፡ ማዕጠንተ ፡ ወርቅ ፡ እግዝእትየ ። ፍሕመ ፡ መለኮት ፡ ብቊፅ ፡ እንተ ፡ በዲቤኪ ፡ ተወድየ ። ማርያም ፡ ድንግል ፡ ደመና ፡ ብዕልየ ። በዝናመ ፡ ንጽሕኪ ፡ ሐረገ ፡ ወይን ፡ ጸገየ ። ወሮማን ፡ ሐዋዘ ፡ ፈረየ ።",
+    "title": "አንቲ ውእቱ ማዕጠንተ ወርቅ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 62,
+    "text": "ተፈሥሒ ፡ ማርያም ፡ ርግበ ፡ ገነት ፡ ጽባሐይ ። እስመ ፡ ኮንኪ ፡ እሞ ፡ ለእግዚአብሔር ፡ አዶናይ ። ማርያም ፡ ጽጌ ፡ ዘመዓዛኪ ፡ ሠናይ ። ዘሠረፅኪ ፡ እምሥርወ ፡ ዕሤይ ፡ ወእምጒንደ ፡ ዳዊት ፡ ኅሩይ ። ፍሬ ፡ ማኅፀንኪ ፡ ወልደ ፡ ይሴፎ ፡ ነዳይ ።",
+    "title": "ተፈሥሒ ማርያም ርግበ ገነት",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 63,
+    "text": "በትረ ፡ አሮን ፡ እንተ ፡ ሠርፀት ፡ ዘእንበለ ፡ ተክል ፡ ቀዳሚ ። ምሳሌኪ ፡ ኮነት ፡ በሥምረተ ፡ አምላክ ፡ ቀዋሚ ። ስእለተ ፡ ነዳያን ፡ ማርያም ፡ ዘኢትጸመሚ ። አስተበቊዐኪ ፡ ድንግል ፡ በዕለተ ፡ ምንዳቤ ፡ ማሕመሚ ። ውስተ ፡ የማንየ ፡ ለነዳይ ፡ ትቁሚ ።",
+    "title": "በትረ አሮን",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 64,
+    "text": "ለኪ ፡ ይደሉ ፡ ውዳሴ ፡ ወስባሔ ። በአፈ ፡ መላእክት ፡ ወሰብእ ፡ እለ ፡ ይነብሩ ፡ ውስተ ፡ ኲለሄ ። ማርያም ፡ ድንግል ፡ ማርያም ፡ እመ ፡ ኤሎሄ ። ከመ ፡ ለብሐዊ ፡ ፍቁርኪ ፡ አቅረብኩ ፡ እማኄ ። ለዝክረ ፡ ስምኪ ፡ ዘይምዕዝ ፡ እምርኄ",
+    "title": "ለኪ ይደሉ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 65,
+    "text": "ሰአሊ ፡ ለነ ፡ ሰአሊ ፡ ለነ ። ሰአሊ ፡ ለነ ። ማርያም ፡ እምነ ፡ ወእሙ ፡ ለእግዚእነ ። ወልድኪ ፡ ይምሐረነ ፡ ወመዋርስቲሁ ፡ ይረስየነ ። በየማኑ ፡ ያቁመነ ።",
+    "title": "ሰአሊ ለነ ሰአሊ ለነ",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 66,
+    "text": "ስብሐት ፡ ለኪ ፡ ማርያም ፡ በኁልቈ ፡ አድባር ፡ ወአውግር ። ስብሐት ፡ ለኪ ፡ ማርያም ፡ በኁልቈ ፡ ቀላያት ፡ ወባሕር ። ስብሐት ፡ ለኪ ፡ ማርያም ፡ በኁልቈ ፡ ዕፀው ፡ ወሣዕር ። ስብሐት ፡ ለኪ ፡ ንግሥትየ ፡ በልሳነ ፡ ኲሉ ፡ ፍጡር ። እስመ ፡ ምሉእ ፡ ስብሐትኪ ፡ በሰማይ ፡ ወበምድር ።",
+    "title": "ስብሐት ለኪ ማርያም",
+    "turn": "ተረኛ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  }
+]

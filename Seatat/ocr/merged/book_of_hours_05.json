@@ -1,0 +1,1071 @@
+/*
+ * Title:      ሰዓታት — ፭. ገነይነ ለኪ — Book of Hours (Seatat) — Section 5
+ * Language:   Ge'ez, with the Amharic translation where the book has it
+ * Source:     Mets'hafe Se'atat in Ge'ez and Amharic (night and dawn);
+ *             Amharic translation by Aleqa Mekonnen Solomon of Debre Libanos,
+ *             Tensae Zegubae Press. Text typed and edited from the printed
+ *             book by Abraham Sisay. Passages the book lacks are supplied
+ *             from the Se'atat text this app already had (EOTC traditional
+ *             liturgy), marked in the entry metadata.
+ * Ownership:  This text belongs to the Ethiopian Orthodox Tewahedo Church.
+ *             It is the Church's public heritage and is not the property of
+ *             any individual, publisher or application.
+ * Status:     Public content, shared for the faithful.
+ * Note:       This notice is metadata only and is never shown in the app.
+ */
+[
+  {
+    "sortOder": 0,
+    "text": "ይሴብሑ ፡ ለእግዚአብሔር ፡ ለዘበስብሐተ ፡ ቅዱሳን ፡ ይሴባሕ ። ዘኪያሁ ፡ ይሴብሑ ፡ ማኅበረ ፡ መላእክት ፡ መላእክት ፡ ፍ ፡ ፍሡሓን ።",
+    "amh": "ክቡራን ፡ መላእክት ፡ በሚያመሰግኑት ፡ ምስጋና ፡ እግዚአብሔርን ፡ እናመስግነው ፡ እናመሰግነዋለን ። ዴስ ፡ ብሏቸው ፡ ኖሩ ፡ የመላእክት ፡ ወገኖች ፡ ው ፡ እሱን ፡ የሚያመሰግኑት ።",
+    "title": "ንሴብሖ ለእግዚአብሔር",
+    "turn": "በአሳዳሪ › በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ይሴብሑ",
+        "ለዘበስብሐተ ቅዱሳን ይሴባሕ።"
+      ]
+    }
+  },
+  {
+    "sortOder": 1,
+    "text": "ይትቀነዩ ፡ ነፍሳተ ፡ ጻድቃን ፡ ወሎቱ ፡ ትሰግድ ፡ ቅድስት ፡ ቤተ ፡ ክርስቲያን ፡ እንዘ ፡ ትብል ።",
+    "amh": "የጻድቃን ፡ ነፍሳት ፡ የሚገዙለት ፡ የከበረች ፡ ቤተቤክርስቲያን ፡ (ምእመንም) ፡ እንዲህ ፡ እያለች ፡ የምትሰግድለት ።",
+    "title": "ንሴብሖ ለእግዚአብሔር",
+    "turn": "በአሳዳሪ › በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 2,
+    "text": "ስብሓት ፡ በአርያም ። ወሰላም ፡ በምድር ፡ ለዘሠምሮ ፡ ለሰብእ ።",
+    "amh": "በሰማይ ፡ ምስጋና ፡ ይገባ ፡ በምድርም ፡ ፍቅር ፡ አንድነት ፡ ሆነ ፡ ሰውን ፡ ለወደደ ፡ ለሱም ፡ ምስጋና ፡ ይገባዋል ።",
+    "title": "ንሴብሖ ለእግዚአብሔር",
+    "turn": "በአሳዳሪ › በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 3,
+    "text": "ቅዱስ ፡ ቅዱስ ፡ ቅዱስ ፡ እግዚአብሔር ፡ ቅዱስ ፡ ቅዱስ ፡ ቅዱስ ፡ እግዚአብሔር ፡ ዘበአርያም ፡ የኅድር ፡ ወከርሠ ፡ ቀሳያት ፡ ይኔጽር ።",
+    "amh": "በሰማይ ፡ ሁኖ ፡ በጥልቅ ፡ ባሕር ፡ ውስጥ ፡ ያለውን ፡ የሚያይ ፡ እግዚአብሔር ፡ ጽኑዕ ፡ ክቡር ፡ ልዩ ፡ ነው",
+    "title": "ቅዱስ ቅዱስ ቅዱስ እግዚአብሔር",
+    "turn": "ለለምዕራፉ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ቅዱስ ቅዱስ ቅዱስ እግዚአብሔር"
+      ]
+    }
+  },
+  {
+    "sortOder": 4,
+    "text": "ግሩም ፡ በላዕሉ ፡ ነጽሮተ ፡ ገጹ ፡ ኪሩቤል ፡ ኢይክሉ ።",
+    "amh": "በሰማይ ፡ ግሩም ፡ ነው ፡ ፊቱንም ፡ ማየት ፡ ኪሩቤል ፡ አይቻላቸውም ።",
+    "title": "ዘበአርያም የኃድር",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 5,
+    "text": "በአክናፈ ፡ እላት ፡ ይትኬለሉ ፡ ኢያውዕዮሙ ፡ ነበልባሉ ።",
+    "amh": "ነበልባሎም ፡ እንዳያቃጥላቸው ፡ ፊታቸውን ፡ በእሳት ፡ ክንፋቸው ፡ ይጋርዳሉ ።",
+    "title": "ዘበአርያም የኃድር",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 6,
+    "text": "ቅዱስ ፡ ቅዱስ ፡ ቅዱስ ፡ እግዚአብሔር ፡ ዘበ፫ቱ ፡ ግፃዌ ፡ ወዘበ፩ ፡ ህላዌ ፡ አኃዜ ፡ ዓለም ፡ ዘበአሐቲ ፡ ምክር ፡ ጽምረተ ፡ ትሥልስቱ ፡ በኵሉ ፡ ኅዱር ።",
+    "amh": "ሦስት ፡ በባሕርይ ፡ በህልውና ፡ አንድ ፡ የሚሆን ፡ እግዚአብሔር ፡ ጽኑዕ ፡ ክቡር ፡ ልዩ ፡ ነው ። ባንዲት ፡ ምክር ፡ ባንዲት ፡ (ሥልጣን) ፡ ዓለሙን ፡ የያዘ ፡ እሱ ፡ የሦስትነቱ ፡ አንድነት ፡ በሁሉ ፡ ዘንድ ፡ የጸና ፡ ነው ።",
+    "title": "ዘበ​​፫ቱ ግፃዌ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 7,
+    "text": "ቅ ፡ ቅ ፡ ቅ ፡ እግዚአብሔር ፡ ዘበተዋሕዶ ፡ ይሤለስ ፡ እምኀበ ፡ ትጉሃን ፡ ይትቄደስ ።",
+    "amh": "በመላእክት ፡ ዘንድ ፡ የሚመሰገን ፡ ኣንድ ፡ በመሆን ፡ ሦስት ፡ የሚሆን ፡ እግዚአብሔር ፡ ጽኑዕ ፡ ክቡር ፡ ልዩ ፡ ነው ።",
+    "title": "ዘበተዋሕዶ ይሤለስ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 8,
+    "text": "እሳተ ፡ ሕይወት ፡ ዘኢይትገሠሥ ፡ ወዘኢይጤየቅ ፡ ለዐይን ፡ ረቂቅ ፡ መንፈስ ።",
+    "amh": "የማይዳሰስ ፡ የሕይወት ፡ እሳት ፡ ነው ፡ ለዓይን ፡ የማይረዳ ፡ የማይታይ ፡ ረቂቅ ፡ ባሕርይ ፡ ነው ።",
+    "title": "ዘበተዋሕዶ ይሤለስ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 9,
+    "text": "ንሰግድ ፡ ለትሥልስቱ ፡ አሐተ ፡ ስግደተ ፡ ወሎቱ ፡ ናቄርብ ፡ ስብሓታተ",
+    "amh": "ለምስትነቱ ፡ አንዲት ፡ ስግደት ፡ እንሰግዳለን ። ዕሱም ፡ ምስጋናን ፡ እናቀርባለን",
+    "title": "ዘበተዋሕዶ ይሤለስ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 10,
+    "text": "ቅዱስ ፡ ቅዱስ ፡ ቅዱስ ፡ እግዚአብሔር ፡ ዐረፍተ ፡ ጽርሑ ፡ ዘነድ ፡ ወጸፍጸፈ ፡ ቤቱ ፡ በረድ ።",
+    "amh": "የአደራሹ ፡ ግድግዳ ፡ እሳት ፡ የቤቱ ፡ ስብሳብ ፡ በረድ ፡ የሚሆን ፡ እግዚአብሔር ፡ ጽኑዕ ፡ ክቡር ፡ ልዩ ፡ ነው ።",
+    "title": "ዓረፍተ ጽርሑ ዘነድ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 11,
+    "text": "ንቡር ፡ ህላዌሁ ፡ ዘኢይትበዓድ ፡ ሎቱ ፡ ለባሕቲቱ ፡ ይደሉ ፡ ሰጊድ ።",
+    "amh": "የማይለይ ፡ አኋኋር ፡ (ባሕርዩ) ፡ አንድ ፡ ነው ፡ ለሱም ፡ ለብቻው ፡ ሊሰግዱለት ፡ ይገባዋል ።",
+    "title": "ዓረፍተ ጽርሑ ዘነድ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 12,
+    "text": "ቅ ፡ ቅ ፡ እግዚአብሔር ፡ ጽርሐ ፡ አርያም ፡ ማኅፈዱ ፡ መካነ ፡ ትጉሃን ፡ ዐፀዱ ።",
+    "amh": "አርያም ፡ አደራሹ ፡ የመላእክት ፡ መኖሪያ ፡ ቦታው ፡ የሚሆን ፡ እግዚአብሔር ፡ ጽኑዕ ፡ ክቡር ፡ ልዩ ፡ ነው ።",
+    "title": "ጽርሐ አርያም ማኅፈዱ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 13,
+    "text": "ካህናተ ፡ ሰማይ ፡ ቅውማን ፡ በዐውዱ ፡ አክሊላቲሆሙ ፡ ያወርዱ ፡ ቅድመ ፡ መንበሩ ።",
+    "amh": "በዙሪያው ፡ የቆሙ ፡ ካህናተ ፡ ሰማይም ፡ ዘውዳቸውን ፡ ከራሳቸው ፡ አውርደው ፡ ከዙፋኑ ፡ ፊት ፡ ያስቀምጣሉ ።",
+    "title": "ጽርሐ አርያም ማኅፈዱ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 14,
+    "text": "እንዘ ፡ ይሰግዱ ፡ ይርዕዱ ፡ ወኢይዝብጦሙ ፡ ሶበ ፡ ይበርቅ ፡ ነዱ ።",
+    "amh": "እሳትነቱም ፣ ብልጭ ፡ ባለ ፡ ጊዜ ፡ እንዳይመታቸው ፡ እየተንቀጠቀጡ ፡ ይሰግዳሉ ።",
+    "title": "ጽርሐ አርያም ማኅፈዱ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 15,
+    "text": "ቅ ፡ ቅ ፡ ቅ ፡ እግዚአብሔር ፡ መብረቀ ፡ ስብሓት ፡ ጽርሑ ፡ አኃዜ ፡ ዓለም ፡ እራኁ ።",
+    "amh": "ማህል ፡ እጁ ፡ ዓለሙን ፡ የያዘ ፡ የጌትነቱ ፡ መብረቅ ፡ አዳራሹ ፡ የሚሆን ፡ እግዚአብሔር ፡ ጽኑዕ ፡ ክቡር ፡ ልዩ ፡ ነው ።",
+    "title": "መብረቅ ስብሐት ጽርሑ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 16,
+    "text": "ነቡረ ፡ ህላዌሁ ።",
+    "amh": "ባሕርዩም ፡ አንድ ።",
+    "title": "መብረቅ ስብሐት ጽርሑ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 17,
+    "text": "ፈለገ ፡ እሳት ፡ ይውኅዝ ፡ ቅድሜሁ ፡ በዲበ ፡ ኪሩቤል ፡ ያንበለብል ፡ በርሁ ።",
+    "amh": "የእሳትም ፡ ወንዝ ፡ በፊቱ ፡ ይፈሳል ፡ ብርሃኑም ፡ በኪሩቤል ፡ ላይ ፡ ይምቦገቦጋል",
+    "title": "መብረቅ ስብሐት ጽርሑ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 18,
+    "text": "ቅ ፡ ቅ ፡ ቅ ፡ እግዚአብሔር ፡ ዘኢይነውም ፡ ትጉህ ፡ በውስተ ፡ ቅዱሳን ፡ ስቡሕ ።",
+    "amh": "በመላእክት ፡ ዘንድ ፡ የተመሰገነ ፡ የማይተኛ ፡ ትጉህ ፡ የሚሆን ፡ እግዚአብሔር ፡ ጽኑዕ ፡ ክቡር ፡ ልዩ ፡ ነው ።",
+    "title": "ዘኢይነውም ትጉህ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 19,
+    "text": "ከመ ፡ ቀስተ ፡ ደመና ፡ የዓውዶ ፡ ሱራሄ ፡ ሎቱ ።",
+    "amh": "እንደ ፡ ደመና ፡ ምልክት ፡ ብርሃን ፡ ይከበዋል ።",
+    "title": "ዘኢይነውም ትጉህ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ሎቱ"
+      ]
+    }
+  },
+  {
+    "sortOder": 20,
+    "text": "ለባሕቲቱ ፡ ይደሉ ፡ ስባሔ ።",
+    "amh": "ለሱ ፡ ለብቻው ፡ ምስጋና ፡ ይገባዋል ።",
+    "title": "ዘኢይነውም ትጉህ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 21,
+    "text": "ሁለተኛ ፡ ሰማይ ፡ ገነይነ ፡ ለኪ ፡ ኣወለተ ፡ ዳዊት ፡ ክብረ ፡ ኵሉ ፡ ዓለም ፡ ዳግሚት ፡ አርያም ፡ እንዘ ፡ ድንግል ፡ ወእም ፡ ገነይነ ፡ ለኪ ፡ ገነይነ ፡ ለኪ ።",
+    "amh": "ሁለተኛ ፡ ሰማይ ፡ የዳዊት ፡ ልጅ ፡ ሆይ ፡ የዓለም ፡ ሁሉ ፡ ክብር ፡ የዳዊት ፡ ልጅ ፡ ሆይ ፡ ድንግል ፡ ስትሆኝ ፡ እናት ፡ ሁነሻልና ፡ ተገዛንልሽ ፡ ላንች ፡ እንገዛለን ።",
+    "title": "ገነይነ ለኪ ክብረ ኲሉ ዓለም",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 22,
+    "text": "ገነይነ ፡ ለኪ ፡ ኦወለተ ፡ ዳዊት ፡ ዳግሚት ፡ ሰማይ ፡ ሙፃአ ፡ ፀሐይ ፡ ወላዲቱ ፡ ለአዶናይ ፡ ገነይነ ፡ ለኪ",
+    "amh": "ጌታን ፡ ወልደሻልና ፡ ተገዛንልሽ ፡ እንገዛለን",
+    "title": "ገነይነ ለኪ ዳግሚት ሰማይ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ሙፃአ"
+      ]
+    }
+  },
+  {
+    "sortOder": 23,
+    "text": "ገነይነ ፡ ለኪ ፡ ኦወለተ ፡ ዳዊት ፡ ጽርሐ ፡ ቅድሳቱ ፡ ለወልድ ፡ ዘወርቅ ፡ ማኅፈድ ፡ ወሡራሬሃ ፡ ዘመረግድ ፡ ገነይነ ፡ ለኪ ፡ ገነይነ ፡ ለኪ ።",
+    "amh": "በዕንቊ ፡ የተሰራሽ ፡ የወርቅ ፡ ግምብ ፡ የወልድ ፡ የመመስገኛው ፡ አዳራሽ ፡ እመቤታችን ፡ ሆይ ፡ ተገዛንልሽ ፡ ላንቺ ፡ እንገዛለን ።",
+    "title": "ገነይነ ለኪ ጽርሐ ቅድሳቱ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 24,
+    "text": "ገነይነ ፡ ለኪ ፡ ኦወለተ ፡ ዳዊት ፡ በአልባሰ ፡ ወርቅ ፡ ዑፅፍት ፡ ወኁብርት ፡ በትርሲተ ፡ ብርሃን ፡ ሥርጉት ፡ ገነይነ ፡ ለኪ ፡ ገነይነ ፡ ለኪ ።",
+    "amh": "በብርሃን ፥ ጌጥ ፡ ያጌጥሽ ፡ ወርቀ ፡ ዘቦ ፡ ግምጃን ፡ የተጐናጸፍሽ ፡ የዳዊት ፡ ልጅ ፡ እመቤታችን ፡ ሆይ ፡ ተገዛንልሽ ፡ ላንቺ ፡ ፈጽመን ፡ እንገዛለን ።",
+    "title": "ገነይነ ለኪ በአልባሰ ወርቅ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 25,
+    "text": "ገነይነ ፡ ለኪ ፡ ኦወለተ ፡ ዳዊት ፡ ቢረሌ ፡ ንጽሕት ፡ ሙዳየ ፡ ዕፍረት ፡ በዘባቲ ፡ ተምዕዙ ፡ ካህናት ፡ ገነይነ ፡ ለኪ ፡ ገነይነ ፡ ለኪ ።",
+    "amh": "እድፍ ፡ ጉድፍ ፡ የሌለብሽ ፡ ብርሌ ፡ ካህናት ፡ የሚያሸቱሽ ፡ የሽቱ ፡ ሙዳይ ፡ እመቤታችን ፡ ሆይ ፡ ተገዛንልሽ ፡ ላንቺ ፡ ፈጽመን ፡ እንገዛለን ።",
+    "title": "ገነይነ ለኪ ቢረሌ ንጽሕት",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 26,
+    "text": "ገነይነ ፡ ለኪ ፡ ኦወለተ ፡ ዳዊት ፡ ገነት ፡ ዕፁት ፡ ዓዘቅት ፡ ኅትምት ፡ ወለቶሙ ፡ አንቲ ፡ ለነቢያት ፡ ገነይነ ፡ ለኪ ፡ ገነይነ ፡ ለኪ ።",
+    "amh": "የታተምሽ ፤ የውሀ ፡ ጕድጓድ ፡ የተዘጋሽ ፡ የተክል ፡ ቦታ ፡ የዳዊት ፡ ልጅ ፡ እመቤታችን ፡ ሆይ ፡ የነቢያት ፡ ልጃቸው ፡ አንቺ ፡ ነሽና ፡ ተገዛንልሽ ፡ ፈጽመን ፡ ላንቺ ፡ እንገዛለን ።",
+    "title": "ገነይነ ለኪ ገነት ዕፁት",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 27,
+    "text": "ገነይነ ፡ ለኪ ፡ ኦወለተ ፡ ዳዊት ፡ ምሥጢር ፡ ሐዳስ ፡ ቀመር ፡ ዘወርቅ ፡ ወዘብሩር ፡ ገነይነ ፡ ለኪ ፡ ገነ ፡ ለ ፡ ወንሰግድ ፡ ለኪ ።",
+    "amh": "በብርና ፡ በወርቅ ፡ የተዝጐረጐርሽ ፡ (የተሸላምሽ) ፡ አዲስ ፡ የጣሪያ ፡ ዋልታ ፡ የምሥጢር ፡ ማደሪያ ፡ የዳዊት ፡ ልጅ ፡ እመቤታችን ፡ ሆይ ፡ ተገዛንልሽ ፡ ላንቺ ፡ ፈጽመን ፡ እንሰግዳለን ።",
+    "title": "ገነይነ ለኪ ዕፀ ገነት ልምሉም",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 28,
+    "text": "ገነይነ ፡ ለኪ ፡ ኦ ፡ ወለተ ፡ ዳዊት ። ሐዳስ ፡ መቅደስ ፡ መፆረ ፡ ንጉሥ ፡ ወላዲቱ ፡ ለኢየሱስ ። ገነይነ ፡ ለኪ ፡ ገነይነ ፡ ለኪ ።",
+    "title": "ገነይነ ለኪ ሐዳስ መቅደስ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 29,
+    "text": "ገነይነ ፡ ለኪ ፡ ኦ ፡ ወለተ ፡ ዳዊት ። ሐዳስ ፡ ቀመር ፡ ታቦተ ፡ ምሥጢር ፡ ኰሰኰሰ ፡ ወርቅ ፡ ወብሩር ። ገነይነ ፡ ለኪ ፡ ወንሰግድ ፡ ለኪ ።",
+    "title": "ገነይነ ለኪ ሐዳስ ቀመር",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 30,
+    "text": "ስእሊ ፡ ለነ ፡ ማርያም ፡ እምነ ፡ ወእሙ ፡ ለእግዚእነ ፡ ወእሙ ፡ ለንጉሥነ ፡ ወእሙ ፡ ለአምላክነ ፡ ኃይልነ ፡ አንቲ ፡ ወፀወንነ ፡ ሞገስነ ፡ አንቲ ፡ ወክብርነ ፡ ሰአሊ ፡ ለነ ፡ አስተምሕሩ ፡ ለነ ። አስተምህሪ ፡ ለነ ።",
+    "amh": "የንጉሣችን ፡ የፈጣሪያችን ፡ እናቱ ፡ የኛም ፡ እናታችን ፡ እመቤታችን ፡ ሆይ ፡ ለምኚልን ፡ ሞገሳችን ፡ ክብራችን ፡ አንቺ ፡ ነሽና ፡ ለምኚልን ፡ አማልጅን ።",
+    "title": "ሰአሊ ለነ ማርያም እምነ ወእሙ ለእግዚእነ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "አስተምሕሩ ለነ።"
+      ]
+    }
+  },
+  {
+    "sortOder": 31,
+    "text": "ሰአሊ ፡ ለነ ፡ ማርያም ፡ እምነ ። ወእሙ ፡ ለንጉሥነ ፡ ሞገስነ ፡ አንቲ ፡ ወተስፋነ ። ሰአሊ ፡ ለነ ፡ አስተምሕሪ ፡ ለነ ።",
+    "title": "ሰአሊ ለነ ማርያም እምነ ወእሙ ለንጉሥነ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 32,
+    "text": "ሰአሊ ፡ ለነ ፡ ማርያም ፡ እምነ ። ወእሙ ፡ ለአምላክነ ፡ ኃይልነ ፡ አንቲ ፡ ወጸወንነ ። ሰአሊ ፡ ለነ ፡ አስተምሕሪ ፡ ለነ ።",
+    "title": "ሰአሊ ለነ ማርያም እምነ ወእሙ ለአምላክነ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 33,
+    "text": "ሰአል ፡ ለነ ፡ አዳም ፡ አቡነ ፡ ቀዳሜ ፡ ፍጥረት ። እማይ ፡ ወእመሬት ፡ እምነፋስ ፡ ወእሳት ። ሰአል ፡ ለነ ፡ አስተምሕር ፡ ለነ ።",
+    "title": "ሰአል ለነ አዳም አቡነ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 34,
+    "text": "ሰአሉ ፡ ለነ ፡ ነቢያት ፡ ስኩራነ ፡ መንፈስ ፡ ምሉዓነ ፡ ሞገስ ፡ አቅርንተ ፡ ሥሉስ ፡ ቅዱስ ። ሰአሉ ፡ ለነ ፡ አስተምሕሩ ፡ ለነ ።",
+    "title": "ሰአሉ ለነ ነቢያት",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 35,
+    "text": "ሰአሉ ፡ ለነ ፡ ሐዋርያት ። አስራብ ፡ ዘወርቅ ፡ ወኃይዝተ ፡ ጽድቅ ፡ ወዘአፀደ ፡ ወይን ፡ አዕፁቅ ። ሰአሉ ፡ ለነ ፡ አስተምሕሩ ፡ ለነ ።",
+    "title": "ሰአሉ ለነ ሐዋርያት",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 36,
+    "text": "ሰአሉ ፡ ለነ ፡ ሰማዕታት ። መስተጋድላን ፡ ከዋክብት ፡ ብሩሃን ፡ መኃትዊሃ ፡ ለቤተ ፡ ክርስቲያን ። ሰአሉ ፡ ለነ ፡ አስተምሕሩ ፡ ለነ ።",
+    "title": "ሰአሉ ለነ ሰማዕታት",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 37,
+    "text": "ሰአሉ ፡ ለነ ፡ ጻድቃን ። ሕዝብ ፡ ቅዱሳን ፡ ደቂቀ ፡ ጽዮን ፡ ውሉደ ፡ መርዓ ፡ ፍሡሐን ። ሰአሉ ፡ ለነ ፡ አስተምሕሩነ ፡ ለነ ።",
+    "title": "ሰአሉ ለነ ጻድቃን",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 38,
+    "text": "ሰአሉ ፡ ለነ ፡ ማኅበረ ፡ ደናግል ፡ ወመነኮሳት ። እለ ፡ ኀፀውክሙ ፡ ርእሰክሙ ፡ በትዕግሥት ፡ በእንተ ፡ መንግሥተ ፡ ሰማያት ። ሰአሉ ፡ ለነ ፡ አስተምሕሩ ፡ ለነ ።",
+    "title": "ሰአሉ ለነ ማኅበረ ደናግል ወመነኮሳት",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 39,
+    "text": "ሰአሉ ፣ ለነ ፡ ማኅበረ ፡ መላእክት ፡ ፍሡሐን ። እለ ፡ ኢትነውሙ ፡ ትጉሃን ፡ እንበለ ፡ አጽርዖ ፡ ሰባሕያን ፡ ሰአሉ ፡ ለነ ፡ አስተምሩ ፡ ለነ ።",
+    "amh": "ደስ ፡ ብሏችሁ ፡ የምትኖሩ ፡ የመላእክት ፡ ወገኖች ፡ ለምኑልን ፡ ያለ ፡ ዕረፍት ፡ ያለ ፡ ማቋረጥ ፡ የምታመሰግኑ ፡ ናችሁና ፡ ለምኑልን ፡ አማልዱን ።",
+    "title": "ሰአሉ ለነ ማኅበረ መላእክት ፍሡሐን",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 40,
+    "text": "ስእሉ ፡ ለነ ፡ ነቢያት ፡ ስኩራነ ፡ መንፈስ ፡ ምሉዓነ ፡ ሞገስ ፡ አቅርንተ ፡ ሥሉስ ፡ ቅዱስ ፡ ሰአ ፡ ለነ ፡ አስ ፡ ለነ ።",
+    "amh": "የሥላሴ ፡ አዋጅ ፡ ነጋሪዎች ፡ ባለሟልነት ፡ ያላችሁ ፡ መንፈስ ፡ ቅዱስን ፡ የተመላችሁ ፡ ነቢያት ፡ ለምኑልን ፡ ለኛም ፡ አማልዱን ።",
+    "title": "ሰአሉ ለነ ማኅበረ መላእክት ፍሡሐን",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 41,
+    "text": "ሰአሉ ፡ ለነ ፡ ሐዋርያት ፡ አስራብ ፡ ዘወርቅ ፥ ወሐይዝተ ፡ ጽድቅ ፡ ሐረገ ፡ ወይን ፡ አዕፁ ፡ ቅ ፡ ሰአሉ ፡ ለነ ፡ አስተምህሩ ፡ እነ ።",
+    "amh": "የጽድቅ ፡ ፈሳሾች ፡ የወርቅ ፡ ጐርፎች ፡ የምትሆኑ ፡ የወይንም ፡ ሐረግ ፤ ጫፎች ፡ ናችሁና ፡ ፈጽማችሁ ፡ ለምኑልን",
+    "title": "ሰአሉ ለነ ሚካኤል ወገብርኤል",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 42,
+    "text": "ሰአሉ ፡ ለነ ፡ ጻድቃን ፡ ዕአሉ ፡ ለነ ፡ ሰማዕታት ፡ መስተጋድላን ፡ ከዋክብት ፡ ብሩሃን ፡ መኃትዊሃ ፡ ለቤተ ፡ ክርስቲያን ፡ ሰአሉ ፡ ለነ ፡ አስተምህሩ ፡ ለነ ።",
+    "amh": "የቤተ ፡ ክርስቲያን ፡ ፋናዎች ፡ ብሩሃን ፡ ከዋክብቶች ፡ በሃይማኖት ፡ ተጋዳዮች ፡ ሰማዕታት ፡ ፈጽማችሁ ፡ ለምኑልን",
+    "title": "ሰአሉ ለነ ሚካኤል ወገብርኤል",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 43,
+    "text": "ሰአሉ ፡ ለነ ፡ ፬ቱ ፡ እንስሳ ። ገጸ ፡ ሰብእ ፡ ወገጸ ፡ እንስሳ ፡ ገጸ ፡ ንስር ፡ ወገጸ ፡ አንበሳ ። ሰአሉ ፡ ለነ ፡ አስተምሕሩ ፡ ለነ ።",
+    "title": "ሰአሉ ለነ ፬ቱ እንስሳ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 44,
+    "text": "ሕዝብ ፡ ቅዱሳን ፡ ደቂቀ ፡ ጽዮን ፡ ውሉደ ፡ መርዓ ፡ ፍሡሐን ፡ ሰአሉ ፡ ለነ ፡ አስተምህሩ ፡ ለነ ።",
+    "amh": "ደስ ፡ ያላችሁ ፡ ለሠርግ ፡ የተገባችሁ ፡ የእመቤታችን ፡ ልጆች ፡ ክቡራን ፡ ወገኖች ፡ ጻድቃንም ፡ ፈጽማችሁ ፡ ለምኑልን ፡ አማልዱን ።",
+    "title": "ሰአሉ ለነ ሚካኤል ወገብርኤል",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 45,
+    "text": "ሰአሉ ፡ ለነ ፡ ካህናተ ፡ ሰማይ ። ቅውማን ፡ በዕበይ ፡ ዐጠንተ ፡ መንበሩ ፡ ለአዶናይ ፡ ሰአሉ ፡ ለነ ፡ አስተምሕሩ ፡ ለነ ።",
+    "title": "ሰአሉ ለነ ካህናተ ሰማይ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 46,
+    "text": "ስአሉ ፡ ለነ ፡ ማኅበረ ፡ ደናግል ፡ ወመነኰሳት ፡ እለ ፡ ሐፀውክሙ ፡ ርእሰክሙ ፡ በትዕግሥት ፡ በእንተ ፡ መንግሥተ ፡ ሰማያት ፡ ፅአሉ ፡ ለነ ፡ አስተምህሩ ፡ ለነ ።",
+    "amh": "ራሳችሁን ፡ በትዕግሥት ፡ ለመንግሥተ ፡ ሰማያት ፡ ያጫችሁ ፡ የመነኰሳትና ፡ የደናግል ፡ ወገኖች ፡ ፈጽማችሁ ፡ ለምኑልን ።",
+    "title": "ሰአሉ ለነ ሚካኤል ወገብርኤል",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 47,
+    "text": "ሰአሉ ፡ ለነ ፡ ፬ቱ ፡ ወንጌላውያን ። መምህራን ፡ ሥዩማን ፡ አዕማዲሃ ፡ ለቤተ ፡ ክርስቲያን ፡ ሰአሉ ፡ ለነ ፡ አስተምሕሩ ፡ ለነ ።",
+    "title": "ሰአሉ ለነ ፬ቱ ወንጌላውያን",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 48,
+    "text": "ሰአሉ ፡ ለነ ፡ ጳጳሳት ፡ ወኤጲስ ፡ ቆጶሳት ፡ ቀሳውስት ፡ ወዲያቆናት ፡ እለ ፡ በርትዕት ፡ ሃይማኖት ፡ ሰአሉ ፡ ለነ ፡ አስተምህሩ ፡ ለነ ።",
+    "amh": "በቀናች ፡ ሃይማኖት ፡ ያላችሁ ፡ ቀሳውስትና ፡ ዲያቆናት ፡ ጳጳሳትና ፡ ኤጲስ ፡ ቆጶሳት ፡ ፈጽማችሁ ፡ ለምኑልን ።",
+    "title": "ሰአሉ ለነ ጳጳሳት ወኤጲስ ቆጶሳት",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 49,
+    "text": "ሰአሉ ፡ ለነ ፡ አብርሃም ፡ ይስሐቅ ፡ ወያዕቆብ ፡ አበው ፡ ሕዝብ ፡ ወአሕዛብ ፡ ወዘመሐይምናን ፡ መክብብ ፡ ሰአ ፡ ለነ ፡ አስ ፡ ለነ ።",
+    "amh": "የምእመናን ፡ ሹሞች ፡ የአሕዛብና ፡ የሕዝብ ፡ አባቶች ፡ አብርሃም ፡ ይስሐቅ ፡ ያዕቆብ ፡ ፈጽማችሁ ፡ ለምኑልን ።",
+    "title": "ሰአሉ ለነ አብርሃም ይስሐቅ ወያዕቆብ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 50,
+    "text": "ሰአሉ ፡ ለነ ፡ ሚካኤል ፡ ወገብርኤል ፡ ሱራፌል ፡ ወኪሩቤል ፡ ቅድመ ፡ መንበሩ ፡ ለልዑል ፡ ሰ ፡ ለ ፡ አ ፡ ለነ ።",
+    "amh": "ሚካኤልና ፡ ገብርኤል ፡ ሱራፌልና ፡ ኪሩቤልም ፡ በልዑል ፡ ጌታ ፡ ፊት ፡ ለምኑልን",
+    "title": "ሰአሉ ለነ አብርሃም ይስሐቅ ወያዕቆብ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 51,
+    "text": "ሰአሉ ፡ ለነ ፡ ሙሴ ፡ ወአሮን ። ዳዊት ፡ ወሰሎሞን ፡ ዘወደስክምዋ ፡ ለጽዮን ። ሰአሉ ፡ ለነ ፡ አስተምሕሩ ፡ ለነ ።",
+    "title": "ሰአሉ ለነ ሙሴ ወአሮን",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 52,
+    "text": "ሰአሉ ፡ ለነ ፡ ኢያቄም ፡ ወሐና ። ዘፈረይክሙ ፡ ፍሬ ፡ ቅድስና ፡ መሶበ ፡ ወርቅ ፡ እንተ ፡ መና ። ሰአሉ ፡ ለነ ፡ አስተምሕሩ ፡ ለነ ።",
+    "title": "ሰአሉ ለነ ኢያቄም ወሐና",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 53,
+    "text": "ሰአሉ ፡ ለነ ፡ ፱ቱ ፡ ቅዱሳን ። ድምፀ ፡ ቃልክሙ ፡ ይደምፅ ፡ ከም ፡ ቃለ ፡ ቀርን ፡ በኢትዮጵያ ፡ ፀወን ። ሰአሉ ፡ ለነ ፡ አስተምሕሩ ፡ ለነ ።",
+    "title": "ሰአሉ ለነ ፱ቱ ቅዱሳን",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 54,
+    "text": "ስአሎ ፡ ለነ ፡ ፬ቱ ፡ እንስሳ ፡ ገጸ ፡ ሰብእ ፡ ወገጸ ፡ እንስሳ ፡ ገጸ ፡ ንስር ፡ ወገጸ ፡ አንበሳ ፡ ሰአ ፡ ለነ ፡ አስ ፡ ለነ ።",
+    "amh": "የሰውና ፡ የእንስሳ ፡ የአሞራና ፡ የአንበሳ ፡ መልክ ፡ ያላችሁ ፡ አርባዕቱ ፡ እንስሳ ፡ ፈጽማችሁ ፡ ለምኑልን ። መንበር ፡ የምታጥኑ ፡ በገናንነት ፡ ያጌጣችሁ ፡ ካህናተ ፡ ሰማይም ፡ ፈጽማችሁ ፡ ለምኑልን ።",
+    "title": "ሰአሉ ለነ አብርሃም ይስሐቅ ወያዕቆብ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 55,
+    "text": "ሰአል ፡ ለነ ፡ ዮሐንስ ፡ ድንግል ፡ ሰባኬ ፡ ወንጌል ። ድርገተ ፡ ኮንከ ፡ እንተ ፡ ላዕለ ፡ ኃይል ፡ ዘምስለ ፡ ሱራፌል ፡ ወኪሩቤል ። ሰአል ፡ ለነ ፡ አስተምሕር ፡ ለነ ።",
+    "title": "ሰአል ለነ ዮሐንስ ድንግል",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 56,
+    "text": "ሰአ ፡ ለነ ፡ ካህናተ ፡ ሰማይ ፡ እለ ፡ ሥርግዋን ፡ በዕበይ ፡ አጠንተ ፡ መንበሩ ፡ ለአዶናይ ፡ ሰ ፡ ለ ፡ አ ፡ ለ ።",
+    "amh": "የሥላሴ ፡ ወገኖች ፡ የምትሆኑ ፡ ሕፃናት ፡ ሽማግሎቹም ፡ ወንዶች ፡ ሴቶችም ፡ ፈጽማችሁ ፡ ለምኑልን ።",
+    "title": "ሰአሉ ለነ አብርሃም ይስሐቅ ወያዕቆብ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 57,
+    "text": "ሰአል ፡ ለነ ፡ እስጢፋኖስ ፡ ዲያቆን ፡ ቀዳሜ ፡ ሰማዕት ። ዘነጸርከ ፡ በግኅደት ፡ ኅሉና ፡ ሥላሴ ፡ ዘበሰማያት ። ሰአል ፡ ለነ ፡ አስተምሕር ፡ ለነ ።",
+    "title": "ሰአል ለነ እስጢፋኖስ ዲያቆን",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 58,
+    "text": "ሰአል ፡ ለነ ፡ ጊዮርጊስ ፡ ኃያል ፡ መስተጋድል ። ገባሬ ፡ ተአምር ፡ ኮከበ ፡ ክብር ፡ በማዕከለ ፡ ሰማይ ፡ ወምድር ። ሰአል ፡ ለነ ፡ አስተምሕር ፡ ለነ ።",
+    "title": "ሰአል ለነ ጊዮርጊስ ኃያል መስተጋድል",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 59,
+    "text": "ሰአል ፡ ለነ ፡ ቂርቆስ ፡ ሕፃን ፡ አንጌቤናይ ። ዕንቊ ፡ ጽሩይ ፡ ዘታዕካ ፡ ሰማይ ፡ ዘኃረከ ፡ አዶናይ ። ሰአል ፡ ለነ ፡ አስተምሕር ፡ ለነ ።",
+    "title": "ሰአል ለነ ቂርቆስ ሕፃን አንጌቤናይ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 60,
+    "text": "ሰአል ፡ ለነ ፡ ያሬድ ፡ ካህን ፡ ጥዑመ ፡ ልሳን ። መዘምር ፡ ዘበድርሳን ፡ እንዚራሃ ፡ ለቤተ ፡ ክርስቲያን ። ሰአል ፡ ለነ ፡ አስተምሕር ፡ ለነ ።",
+    "title": "ሰአል ለነ ያሬድ ካህን ጥዑመ ልሳን",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 61,
+    "text": "ሰአል ፡ ለነ ፡ በጸሎተ ፡ ሚካኤል ፡ አቡነ ፡ ድንግል ፡ ወሰማዕት ። መምህረ ፡ ሕግ ፡ ወሥርዓት ፡ ልሳነ ፡ ዕፍረት ፡ አምሳሊሆሙ ፡ ለሐዋርያት ። ሰአል ፡ ለነ ፡ አስተምሕር ፡ ለነ ።",
+    "title": "ሰአል ለነ በጸሎተ ሚካኤል አቡነ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 62,
+    "text": "ሰአል ፡ ለነ ፡ ሰላማ ፡ አቡነ ፡ ከሣቴ ፡ ብርሃን ። እለ ፡ ውስተ ፡ ጽልመት ፡ ነበርነ ፡ ከሠትከ ፡ ለነ ፡ ብርሃነ ። ሰአል ፡ ለነ ፡ አስተምሕር ፡ ለነ ።",
+    "title": "ሰአል ለነ ሰላማ አቡነ ከሣቴ ብርሃን",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 63,
+    "text": "ሰአል ፡ ለነ ፡ አረጋዊ ፡ አቡነ ፡ መስተጋድል ። ድንግል ፡ አዛል ፡ ሰባኬ ፡ ወንጌል ፡ ወዓቃቤ ፡ ሕጉ ፡ ለአማኑኤል ። ሰአል ፡ ለነ ፡ አስተምሕር ፡ ለነ ።",
+    "title": "ሰአል ለነ አረጋዊ አቡነ መስተጋድል",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 64,
+    "text": "ሰአል ፡ ለነ ፡ ተክለ ፡ ሃይማኖት ፡ አቡነ ፡ ምሉዐ ፡ ሞገስ ። ጽምው ፡ በመንፈስ ፡ ቅዱስ ፡ ተላዌ ፡ ዓሠሩ ፡ ለእንጦንዮስ ። ሰአል ፡ ለነ ፡ አስተምሕር ፡ ለነ ።",
+    "title": "ሰአል ለነ ተክለ ሃይማኖት አቡነ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 65,
+    "text": "ሰአል ፡ ለነ ፡ ኤዎስጣቴዎስ ፡ አቡነ ፡ ዕንቈ ፡ ባሕርይ ። ውኩይ ፡ በገጸ ፡ ሰማይ ፡ አምሳሊሃ ፡ ለፀሐይ ። ሰአል ፡ ለነ ፡ አስተምሕር ፡ ለነ ።",
+    "title": "ሰአል ለነ ኤዎስጣቴዎስ አቡነ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 66,
+    "text": "ሰአል ፡ ለነ ፡ መድኃኒነ ፡ እግዚእ ፡ አቡነ ፡ መስተጋድል ። ምንኲስናሁ ፡ ምዑዝ ፡ ከመ ፡ ኮል ፡ በመንፈሰ ፡ ጸጋ ፡ ክሉል ። ሰአል ፡ ለነ ፡ አስተምሕር ፡ ለነ ።",
+    "title": "ሰአል ለነ መድኃኒነ እግዚእ አቡነ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 67,
+    "text": "ሰአል ፡ ለነ ፡ ሳሙኤል ፡ አቡነ ፡ ትሩፈ ፡ ምግባር ። ዓምድ ፡ ጽኑዕ ፡ ፀወነ ፡ ሀገር ፡ ወመልአክ ፡ ዘበምድር ። ሰአል ፡ ለነ ፡ አስተምሕር ፡ ለነ ።",
+    "title": "ሰአል ለነ ሳሙኤል አቡነ ትሩፈ ምግባር",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 68,
+    "text": "ሰአል ፡ ለነ ፡ ሳሙኤል ፡ አቡነ ፡ አበ ፡ ኲልነ ። አባ ፡ ጸሊ ፡ በእንቲአነ ፡ ውስተ ፡ ጽርሐ ፡ ዛቲ ፡ መቅደስነ ። ሰአል ፡ ለነ ፡ አስተምሕር ፡ ለነ ።",
+    "title": "ሰአል ለነ ሳሙኤል አቡነ አበ ኲልነ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 69,
+    "text": "ሰአል ፡ ለነ ፡ ሳሙኤል ፡ አቡነ ፡ ሠረገላ ፡ ጸሎት ። ጊዜ ፡ ርደቶሙ ፡ ለዝናማት ፡ ዘከሉከ ፡ ነጌያት ። ሰአል ፡ ለነ ፡ አስተምሕር ፡ ለነ ።",
+    "title": "ሰአል ለነ ሳሙኤል አቡነ ሠረገላ ጸሎት",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 70,
+    "text": "ሰአል ፡ ለነ ፡ በኪሞስ ፡ አቡነ ፡ ዘውገ ፡ ማዕነቅ ። ዘትከይድ ፡ አንተ ፡ በቆጶናተ ፡ ወርቅ ፡ አምሳኒሁ ፡ ለመብረቅ ። ሰአል ፡ ለነ ፡ አስተምሕር ፡ ለነ ።",
+    "title": "ሰአል ለነ በኪሞስ አቡነ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 71,
+    "text": "ሰአል ፡ ለነ ፡ ገብረ ፡ መንፈስ ፡ ቅዱስ ፡ አቡነ ፡ በርሃነ ፡ ዓለም ። ረዳዔ ፡ ኲነነ ፡ በቃለ ፡ ሰላም ፡ ቅድመ ፡ ገጸ ፡ አምላክ ፡ ግሩም ። ሰአል ፡ ለነ ፡ አስተምሕር ፡ ለነ ።",
+    "title": "ሰአል ለነ ገብረ መንፈስ ቅዱስ አቡነ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 72,
+    "text": "ሰአሎ ፡ ለነ ፡ ዕድ ፡ ወአንስት ፡ አዕሩግ ፡ ወሕፃናት ፡ ማኅበረ ፡ ፫ቱ ፡ አስማት ፡ ሰ ፡ ለ ፡ አ ፡ ለ ።",
+    "amh": "ለሰው ፡ ልጆች ፡ መድኃኒት ፡ ለዘላለም ፡ ገዥ ፡ የምትሆኚ ፡ (የማታልፊ) ፡ የከበርሽ ፡ ሰንበተ ፡ ክርስቲያን ፡ ፈጽመሽ ፡ ለምኚልን",
+    "title": "ሰአሉ ለነ ዕድ ወአንስት",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 73,
+    "text": "ሰአሉ ፡ ለነ ፡ ተዓይነ ፡ አብ ፡ ወወልድ ፡ ወመንፈስ ፡ ቅዱስ ፡ እለ ፡ ጸዋዕነ ፡ ስመክሙ ፡ ወእለ ፡ ኢጸዋዕነ ፡ አስማቲክሙ ፡ ቅድመ ፡ እግዚአብሔር ፡ ዝክሩነ ፡ በጸሎትክሙ ፡ ሰአሉ ፡ ለነ ፡ አስተምሕሩ ፡ ለነ ።",
+    "title": "ሰአሉ ለነ ተዓይነ አብ ወወልድ ወመንፈስ ቅዱስ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 74,
+    "text": "ሰአሊ ፡ ለነ ፡ ሰንበተ ፡ ክርስቲያን ፡ ቅድስት ፡ ለውሉደ ፡ ሰብእ ፡ መድኃኒት ፡ ወእስከ ፡ ለዓለም ፡ ሰፋኒት ፡ ሰአሊ ፡ ለነ ፡ አስተምህሪ ፡ ለነ ፡ ሰአሊ ፡ ለነ ።",
+    "amh": "መንፈሳዊት ፡ አደባባይ ፡ የምትሆኚ ፡ ክብርት ፡ ቤተ ፡ ክርስቲያንም ፡ ፈጽመሽ ፡ ለምኚልን ።",
+    "title": "ሰአሊ ለነ ሰንበተ ክርስቲያን ቅድስት",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ሰአሊ ለነ"
+      ]
+    }
+  },
+  {
+    "sortOder": 75,
+    "text": "ቅድስት ፡ ቤተ ፡ ክርስቲያን ፡ መንፈሳዊት ፡ ዓውድ ። ዘመዝገብ ፡ ሥርናይ ፡ እንበለ ፡ ክርዳድ ፡ ምስአል ፡ አንቲ ፡ ወምስጋድ ፡ ምጥባሐ ፡ ሥጋሁ ፡ ለወልድ",
+    "amh": "ክርዳድ ፡ ያልተቀላቀለበት ፡ ስንዴ ፡ መሰብሰቢያ ፡ የወልድ ፡ ሥጋ ፡ መሠዊያ ፡ መስገጃና ፡ መለመኛ ፡ ነሽና ።",
+    "title": "ሰአሊ ለነ ቅድስት ቤተ ክርስቲያን",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 76,
+    "text": "ስእሉ ፡ ለነ ፡ ፬ ፡ ወንጌላውያን ፡ መምህራን ፡ ሥዩማን ፡ አዕማዲሃ ፡ ለቤተ ፡ ክርስቲያን ፡ ሰ ፡ ለ ፡ አ ፡ ነ ።",
+    "amh": "የቤተ ፡ ክርስቲያን ፡ ምሰሶዎቿ ፡ የምትሆኑ ፡ መምህራን ፡ ወንጌላውያንም ፡ ፈጽማችሁ ፡ ለምኑልን",
+    "title": "ስእሉ ለነ ፬ ወንጌላውያን",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 77,
+    "text": "ጳውሎስ ፡ ቆሮንቶስ ፡ ምፅ ፡ ሃሬ ፡ ከመ ፡ ዕጣን ፡ ጥዐ ፡ መ ፡ ልሳን ፡ ምዑዝ ፡ መርሐ ፡ ዕውራን ፡ ዘበጽንፈ ፡ ልብስከ ፡ የሐይው ፡ ዱያን ፡ ስፋሕ ፡ እዴክ ፡ ሀየማን ፡ ትባርከነ ፡ ለጉቡዓን ።",
+    "amh": "ነገርህ ፡ የጣፈጠ ፡ (የተወደደ) ፡ እንደ ፡ ዕጣን ፡ የምትሸት ፡ ጳውሎስ ፡ በልብስህ ፡ ጫፍ ፡ የታመሙትን ፡ ሁሉ ፡ የምታድን ፡ ዕውራንን ፡ የምትመራ ፡ ጳውሎስ ፡ የተ ሰበሰብን ፡ እውነተኛ ፡ መምር ፡ ነህና ፡ ቀኝ ፡ እጅሀን ፡ ዘርግተህ ፡ ባርከን ።",
+    "title": "ጳውሎስ ቆሮንቶስ ምፅ ሃሬ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 78,
+    "text": "መምህር ፡ ዘበአማን ፡ ሃሌ ፡ ሉያ ፡ ሃሌ ፡ ሉያ ፡ ሃሌ ፡ ሉያ ፡ ኮከበ ፡ ሰመይናከ ።",
+    "amh": "ቅድመ ፡ ዓለም ፡ የነበረ ፡ ዓለምን ፡ አሳልፎ ፡ የሚኖር ፡ እውነተኛ ፡ ፀሐይ ፡ ያሳደገህ",
+    "title": "መምህር ዘበአማን ሃሌ ሉያ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 79,
+    "text": "ፀሐየ ፡ ጽድቅ ፡ ዘሐጸነከ ፡ ቀ ፡ ዮሐ ፡ ምዕ ፡ ፩ ፡ ቊ ፡ ፩ ፡ ከመ ፡ ዕፀ ፡ አርዝ ፡ ኀበ ፡ ሙሐዘ ፡ ማይ ፡ ዘባቈለ ፡ ዮሐንስ ፡ አሕመልመለ ፡ ወተለዓለ ።",
+    "amh": "በውሀ ፡ ዳር ፡ እንደበቀለ ፡ ዛፍ ፡ ዮሐንስ ፡ ለመለመ ፡ ከፍ ፡ ከፍ ፡ አለ ።",
+    "title": "ፀሐየ ጽድቅ ዘሐጸነከ ቀ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 80,
+    "text": "ለሠርዐ ፡ ቃሉ ፡ ንኰኖ ፡ አስካለ ፡ ወንጌለ ፡ ጸጋ ፡ የሀበነ ፡ ክፍለ ።",
+    "amh": "ለቃሉ ፡ ቡቃያ ፡ ፍሬ ፡ እንሆነው ፡ ዘንድ ፡ የወንጌልን ፡ ሀብት ፡ ያድለን ።",
+    "title": "ለሠርዐ ቃሉ ንኰኖ አስካለ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 81,
+    "text": "ግብ ፡ ሐዋ ፡ ምዕ ፡ ፳ ፡ ቍ ፡ ፯ ፡ አንቅዕተ ፡ ሕግ ፡ ዘወንጌል ፡ አፍላግ ፡ አዕፁቀ ፡ ዘይት ፡ ወዘወይን ፡ ሐረግ ፡ ሠርፀ ፡ ፩ ፡ ጉንድ ፡ ሐዋርያቲሁ ፡ ለወልድ ፡ በዕለተ ፡ እሑድ ፡ ይባርኩነ ፡ በሰፊሓ ፡ እድ ፡ እለ ፡ የማኖመ ፡ አዕማድ ፡ ቅድመ ፡ ወንጌል",
+    "amh": "የሕግ ፡ ምንጮች ፡ የወንጌልን ፡ ወንዞች ፡ ከአንድ ፡ ግንድ ፡ የበቀሉ ፡ የወይንና ፡ የዘይት ፡ ጫፎች ፡ ወልድ ፡ የሾማቸው ፡ ሐዋርያት ፡ በዚህች ፡ በእሑድ ፡ ጽኑዕ ፡ ምሰሶ ፡ የተባለ ፡ ቀኝ ፡ እጃቸውን ፡ ዘርግተው ፡ ይባርኩን ።",
+    "title": "ግብ ሐዋ ምዕ ፳",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 82,
+    "text": "ውስተ ፡ ሕፅኑ ፡ ዘአርፈቀከ ፡ ዘሰዓመከ ፡ በአፉሁ ፡ ኮከበ ፡ ሰመይናከ",
+    "amh": "ባጠገቡ ፡ ያስቀመጠህ ፡ አንተን ፡ ኮከብ ፡ እንልሃለን ።",
+    "title": "ውስተ ሕፅኑ ዘአርፈቀከ ዘሰዓመከ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 83,
+    "text": "ወበቅንቱ ፡ ዘአቅነተከ ፡ ኅቡዓቲሁ ፡ ዘአርኣየከ ፡ ኮከበ ፡ ሰመይናከ",
+    "amh": "በአፉ ፡ የሳመህ ፡ በመታጠቂያው ፡ (በዝናሩ) ፡ ያስታጠቀህ ፡ አንተን ፡ ኮከብ ፡ እንልሃለን ።",
+    "title": "ወበቅንቱ ዘአቅነተከ ኅቡዓቲሁ ዘአርኣየከ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 84,
+    "text": "ወንጌለ ፡ ጸጋሁ ፡ ዘአወፈየከ ፡ ኮከበ ፡ ሰመይናከ",
+    "amh": "ምሥጢሩን ፡ የገለጸልህ ፡ በለጋሥነት ፡ የሠራት ፡ ወንጌልን ፡ የሰጠህ ፡ አንተን ፡ ኮከብ ፡ እንልሃለን ።",
+    "title": "ወንጌለ ጸጋሁ ዘአወፈየከ ኮከበ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 85,
+    "text": "ዮሐንስ ፡ መኑ ፡ ከማከ ፡ አስተምህር ፡ ለነ ፡ ሰአልናከ ።",
+    "amh": "እንዳንተ ፡ ዮሐንስ ፡ ማንም ፡ የለምና ፡ ታማልደን ፡ ዘንድ ፡ እንለምንሃለን ።",
+    "title": "ዮሐንስ መኑ ከማከ አስተምህር",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 86,
+    "text": "እስመ ፡ ተለዓለ ፡ ስሙ ፡ ለባሕቲቱ ፡ ከመ ፡ በዛቲ ፡ ሰዓት ፡ ኵሉ ፡ ፍጥረት",
+    "amh": "ለብቻው ፡ ከፍ ፡ ከፍ ፡ ብሏልና",
+    "title": "ሰአሊ ለነ ቅድስት ቤተ ክርስቲያን",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 87,
+    "text": "አሜሃ ፡ መልዓ ፡ በል ፡ ያረመ ፡ ሕቀ ፡ ከመ ፡ ዮሐ ፡ ም ፡ ፫ ፡ ቊ ፡ ፴ ፡ ይዌድስዎ ፡ ለእግዚአብሔር ፡ ወማያት ፡ ይቀውሙ ፡ ሰዓተ ፡ ሠራዊተ ፡ መላእክት ፡ ይትቀነዩ ፡ በዛቲ ፡ ሰዓት ፡ ምስለ ፡ ነፍሳተ ፡ ጻድቃን ፡ ሃሌ ፡ ሉያ ፡ ይሴብሕዎ ፡ ለእግዚአብሔር ።",
+    "amh": "በዚች ፡ ሰዓት ፡ ፍጥረት ፡ ሁሉ ፡ ያመሰግኑት ፡ ዘንድ ፡ ጸጥ ፡ እንዲሉ ፡ ከዋክብት ፡ ዕፀዋት ፡ ውሆችም ፡ በእግዚአብሔር ፡ አምነው በዚች ፡ ሰዓት ፡ ጸጥ ፡ ብለው ፡ ይቆማሉ ። የመላእክትም ፡ ወገኖች ፡ በዚች ፡ ሰዓት ፡ ከጻድቃን ፡ ነፍሳት ፡ ጋራ ፡ ቅድመ ፡ ዓለም ፡ የነበርህ ፡ ዓለምን ፡ አሳልፈህ ፡ የምትኖር ፡ እያሉ ፡ እግዚአብሔርን ፡ ያመሰግናሉ ።",
+    "title": "አሜሃ መልዓ በል ያረመ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 88,
+    "text": "ተሰምራ ፡ ቊ ፡ ፲፭ ።",
+    "amh": "ኢየሱስ ፡ ክርስቶስ ፡ ጳውሎስን ፡ እንደ ፡ ጠራኸው ፡ ስምህ ፡ የጣፈጠ ፡ የተወደደ ፡ ኢየሱስ ፡ ክርስቶስ ፡ በሰማይ ፡ ወደሚደረግ ፡ ሠርግህ ፡ ጥራን ።",
+    "title": "ተሰምራ ቊ ፲፭",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  }
+]

@@ -1,0 +1,385 @@
+/*
+ * Title:      ሰዓታት — ፬. ተዘከር + ንዒ — Book of Hours (Seatat) — Section 4
+ * Language:   Ge'ez, with the Amharic translation where the book has it
+ * Source:     Mets'hafe Se'atat in Ge'ez and Amharic (night and dawn);
+ *             Amharic translation by Aleqa Mekonnen Solomon of Debre Libanos,
+ *             Tensae Zegubae Press. Text typed and edited from the printed
+ *             book by Abraham Sisay. Passages the book lacks are supplied
+ *             from the Se'atat text this app already had (EOTC traditional
+ *             liturgy), marked in the entry metadata.
+ * Ownership:  This text belongs to the Ethiopian Orthodox Tewahedo Church.
+ *             It is the Church's public heritage and is not the property of
+ *             any individual, publisher or application.
+ * Status:     Public content, shared for the faithful.
+ * Note:       This notice is metadata only and is never shown in the app.
+ */
+[
+  {
+    "sortOder": 0,
+    "text": "ተዘከር ፡ እግዚኦ ።",
+    "title": "ተዘከር እግዚኦ",
+    "turn": "ለለምዕራፉ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 1,
+    "text": "ተዘከር ፡ እግዚኦ ፡ ኪዳነ ፡ አግብርቲከ ፡ ቅዱሳን ፡ ኪዳነ ፡ አብርሃም ፡ ይስሐቅ ፡ ወያዕቆብ ፡ ምእመናኒከ ፡ ዘአሰፈውኮሙ ፡ ተስፋ ፡ ጽድቅ ፡ ወሕይወት ፡ ወመሐልከ ፡ ሎሙ ፡ በርእስከ ፡ ተዘከር",
+    "amh": "አቤቱ ፡ ክቡራን ፡ ለሚሆኑ ፡ ላገልጋዮችህ ፡ የማልከውን ፡ መሐላ ፡ አስብ ። ላብርሃም ፡ ለይስሐቅ ፡ ለያዕቆብ ፡ የማልከው ፡ መሐላ ፡ ነው ፡ የነገርካላቸው ፡ የሕይወትና ፡ የጽድቅ ፡ ተስፋን",
+    "title": "ኪዳነ አግብርቲከ ቅዱሳን",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ተዘከር"
+      ]
+    }
+  },
+  {
+    "sortOder": 2,
+    "text": "እግዚኦ ፡ ቅንዓተ ፡ ሙሴ ፡ ገብርከ ፡ ዘተቃወመ ፡ በግብፅ ፡ በመንክራቲከ ፡ ወረከበ ፡ ሞገሰ ፡ በቅድመ ፡ ገጽከ ፡ ወተመጠወ ፡ ሕገ ፡ እምእደዊከ ።",
+    "amh": "በፊትሀ ፡ ባለሟልነትን ፡ አግኝቶ ፡ ከእጆችህ ፡ ሕግን ፡ የተቀበለ ፡ በተአምራትህ ፡ ግብጻውያንን ፡ የተከራከረ ፡ አገልጋይህ ፡ ሙሴ ፡ ላንተ ፡ መለኮትህ ፡ የቀናውን ፡ ቅናት ፡ አቤቱ ፡ ኦስብ ።",
+    "title": "ቅንዓተ ሙሴ ገብርከ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 3,
+    "text": "ተዘከር ፡ እግዚኦ ፡ ጽድቆ ፡ ለዳዊት ፡ ዘለሊከ ፡ ወደስኮ ፡ እንዘ ፡ ትብል ፡ ረከብክዎ ፡ ለዳዊት ፡ ገብርየ ፡ ብእሴ ፡ ምእመነ ፡ ዘከመ ፡ ልብ ፡ ተዘከር ፡ እግዚኦ ፡ ቃለ ፡ ነቢያቲከ ፡ ቅዱሳን ፡ ዘአስተንፈስከ ፡ መንፈሰ ፡ ኃይልከ ፡ ውስተ ፡ አፉሆሙ ፡ ወከልሑ ፡ ከመ ፡ ቀርን ፡ እንዘ ፡ ይሰብኩ ፡ ሥርቀተከ ፡ ዘንተ ።",
+    "amh": "እንደ ፡ ልቤ ፡ የሆነ ፡ ሰው ፡ ሁኖ ፡ አገኘሁት ፡ ብለህ ፡ አንት ፡ ለአመሰገንከው ፡ ለዳዊት ፡ አገልጋዬ ፡ ዳዊትን ፡ ለዳዊት ፡ በውነት ፡ ያማልክለትን ፡ መሐላ ፡ አቤቱ ፡ አስብ ። የባሕርይ ፡ ሕይወትህ ፡ መንፈስ ፡ ቅዱስን ፡ በነሱ ፡ አሳድረህ ፡ ያንተን ፡ መወለድ ፡ እያስተማሩ ፡ አሰምተው ፡ የተናገሩ ፡ የወዳጆችህ ፡ የነቢያትን ፡ ቃል ፡ አቤቱ ፡ አስብ ።",
+    "title": "ቃለ ነቢያቲከ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ዘንተ"
+      ]
+    }
+  },
+  {
+    "sortOder": 4,
+    "text": "ተዘኪረከ ፡ መሐር ፡ ሕዝበከ ፡ ወባርክ ፡ ርስተከ ።",
+    "amh": "ይህን ፡ አስበህ ፡ ወገኖችህን ፡ ይቅር ፡ በላቸው ፡ አክብራቸው ።",
+    "title": "ዘንተ ተዘኪረከ መሐር ሕዝበከ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 5,
+    "text": "አንሥእ ፡ ኃይለከ ፡ ወነዓ ፡ አድኅነነ ፡ ስምዓነ ፡ ዓነ ፡ አምላክነ ፡ መድኃኒነ ፡ አምላከሙ ፡ ለአበዊነ ።",
+    "amh": "ኃይልህንም ፡ አንሥተህ ፡ መጥተህ ፡ አድነን ፡ ያባቶቻችን ፡ ፈጣሪ ፡ መድኃኒታችን ፡ ልመናችንንም ፡ ስማ ።",
+    "title": "ዘንተ ተዘኪረከ መሐር ሕዝበከ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 6,
+    "text": "ኢሰማዕነ ፡ ወኢርኢነ ፡ ወኢነገሩነ ፡ አበዊነ ፡ ከመቦ ፡ ባዕድ ፡ አምላክ ፡ ዘእንበሌከ ።",
+    "amh": "ያለንተ ፡ ሌላ ፡ አምላክ ፡ እንዳለ ፡ አባቶቻችን ፡ አልነገሩንም ፡ እኛም ፡ አላየንም ፡ አልሰማንም ።",
+    "title": "ኢሰማዕነ ወኢርኢነ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 7,
+    "text": "ይታኃፈሩ ፡ ኵሎሙ ፡ እለ ፡ ይሰግዱ ፡ ለግልፎ ፡ ወእለ ፡ ይትሜክሁ ፡ በአማልክቲሆሙ",
+    "amh": "ለጣዖት ፡ የሚሰግዱ ፡ በጣዖቶቻቸውም ፡ የሚመኩ ፡ ይፈሩ ፡ ይጐስቍሉ ።",
+    "title": "ይትኃፈሩ ኲሎሙ እለ ይሰግዱ ለግልፎ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 8,
+    "text": "ነፍስነሰ ፡ ትሴፈዎ ፡ ለእግዚአብሔር ። እስመ ፡ ረዳኢነ ፡ ወምስካይነ ፡ ውእቱ ፡ ለዓለም ። ።",
+    "amh": "የኛ ፡ ሰውነት ፡ ግን ፡ ረዳታችን ፡ አምባ ፡ መጸጊያችን ፡ ነውና ፡ እግዚአብሔርን ፡ ተስፋ ፡ ታደርገዋለች ።",
+    "title": "ነፍስነሰ ትሴፈዎ ለእግዚአብሔር",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ለዓለም።"
+      ]
+    }
+  },
+  {
+    "sortOder": 9,
+    "text": "ንዒ ፡ ኀቤየ ፡ ኦ ፡ ድንግል ። ንዒ ፡ ኀቤየ ፡ ኦ ፡ ድንግል ፡ ምስለ ፡ ወልድኪ ፡ ፍቁርኪ ፡ ኢየሱስ ፡ ክርስቶስ ፡ ከመ ፡ ትባርኪ ፡ ላዕሌነ ።",
+    "amh": "ድንግል ፡ ሆይ ፡ እኛን ፡ ትባርኪ ፡ ዘንድ ፡ ከልጅሽ ፡ ከወዳጅሽ ፡ በኢየሱስ ፡ ክርስቶስ ፡ ጋራ ፡ ወደኔ ፡ ነይ ።",
+    "title": "ንዒ ኀቤየ ምስለ ወልድኪ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ኦ ድንግል።",
+        "ንዒ ኀቤየ ኦ"
+      ]
+    }
+  },
+  {
+    "sortOder": 10,
+    "text": "ኀቤየ ፡ ኦ ፡ ድንግል ፡ ምስለ ፡ አዳም ፡ ወአቤል ፡ ሴት ፡ ወሔኖስ ፡ ቅዱሳን ፡ አበዊሆሙ ፡ ለቀደምት ፡ ዕደው ፡ ስሙያን",
+    "amh": "ድንግል ፡ ሆይ ፡ ስመ ፡ ጥሩ ፡ የሆኑ ፡ ለቀደሙት ፡ ሰዎች ፡ አባቶቻቸው ፡ የሆኑ ፡ ከክቡራን ፡ ከሔኖስ ፡ ከሴት ፡ ከአቤል ፡ ከአዳም ፡ ጋራ ፡ ወደኔ ፡ ነይ ።",
+    "title": "ንዒ ኀቤየ ምስለ አዳም",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 11,
+    "text": "ንዒ ፡ ኀቤየ ፡ ኦ ፡ ድንግል ፡ ምስለ ፡ ሄኖክ ፡ ወኖኅ ፡ ወሤም ፡ እለ ፡ ረከቡ ፡ ሞገሰ ፡ በቅድሜሁ ፡ ለልዑል ።",
+    "amh": "ድንግል ፡ ሆይ ፡ በልዑል ፡ ጌታ ፡ ፊት ፡ ባለሟልነቱን ፡ ካገኙ ፡ ከሤም ፡ ከኖኅ ፡ ከሄኖክ ፡ ጋራ ፡ ወደኔ ፡ ነይ ።",
+    "title": "ንዒ ኀቤየ ምስለ ሄኖክ ወኖኅ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ኦ"
+      ]
+    }
+  },
+  {
+    "sortOder": 12,
+    "text": "ኅቤየ ፡ አድንግል ፡ ምስለ ፡ አብርሃም ፡ ይስሐቅ ፡ ወያዕቆብ ፡ አበውኪ ፡ እለ ፡ ወለዱ ፡ ኪያኪ ፡ ትምክህተ ፡ ኵሉ ፡ ዓለም ፡ ንዒ ።",
+    "amh": "ድንግል ፡ ሆይ ፡ የዓለሙ ፡ ሁሉ ፡ መመኪያ ፡ የምትሆኚ ፡ አንቺን ፡ ከወለዱ ፡ ከአብርሃም ፡ ከይስሐቅ ፡ ከያዕቆብ ፡ ጋራ ፡ ወደኔ ፡ ነይ ።",
+    "title": "ንዒ ኀቤየ ምስለ አብርሃም ይስሐቅ ወያዕቆብ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ንዒ"
+      ]
+    }
+  },
+  {
+    "sortOder": 13,
+    "text": "ኀቤየ ፡ አድንግል ፡ ምስለ ፡ ሙሴ ፡ ወአሮን ፡ ካህናት ፡ ዘአስተማሰሉኪ ፡ በደብተራ ፡ ስምዕ ፡ እንተ ፡ ነበረት ፡ በገዳም ፡ ንዒ ፡ ኀቤየ ፡ ኦድንግል ፡ ምስለ ፡ ኢያሱ ፡ ነቢይ ፡ ወመስፍን ፡ ዘዓቀመ ፡ ፀሐይ ፡ በገባዖን ፡ ወከፈሎሙ ፡ ርስተ ፡ ለዕብራውያን ፡ ንዒ ።",
+    "amh": "ድንግል ፡ ሆይ ፡ በበረኃ ፡ የነበረች ፡ የአምላክነቱ ፡ ምስክር ፡ መኖሪያ ፡ በምትሆን ፡ በደብተራ ፡ ኦሪት ፡ ከመሰሉሽ ፡ ከሚያገለግሉ ፡ ከሙሴ ፡ ከአሮን ፡ ጋራ ፡ ወደኔ ፡ ነይ ። ድንግል ፡ ሆይ ፡ ፆን ፡ ፀሐይን ፡ አቁሞ ፡ ለእስራኤል ፡ ርስት ፡ የከፈለ ፡ መስፍን ፡ ሁኖ ፡ የተሾመ ፡ ከነቢዩ ፡ ከኢያሱ ፡ ጋራ ፡ ወደኔ ፡ ነይ ።",
+    "title": "ንዒ ኀቤየ ምስለ ሙሴ ወአሮን",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ንዒ"
+      ]
+    }
+  },
+  {
+    "sortOder": 14,
+    "text": "ኀቤየ ፡ አድንግል ፡ ምስለ ፡ ኤልያስ ፡ ወኤልሳዕ ፡ ነቢያተ ፡ እስራኤል ፡ ወምስለ ፡ ዕዝራ ፡ ሱቱኤል ፡ ጽዋዓ ፡ ልቡና ፡ ዘአስተዮ ፡ ዑራኤል ።",
+    "amh": "ድንግል ፡ ሆይ ፡ መልአኩ ፡ ዑራኤል ፡ ዕውቀት ፡ የሚሆን ፡ ጽዋ ፡ መጠጥን ፡ ካጠጣው ፡ ክሱቱኤል ፡ ዕዝራ ፡ እስራኤልን ፡ ከሚያስተምሩ ፡ ከኤልሳዕና ፡ ከኤልያስ ፡ ጋራ ፡ ወደኔ ፡ ነይ ።",
+    "title": "ንዒ ኀቤየ ምስለ ሳሙኤል ሳውዕ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 15,
+    "text": "ኀቤየ ፡ አድንግል ፡ ምስለ ፡ ሳሙኤል ፡ ላውዕ ፡ ዘደብተራ ፡ ስምዕ ፡ ዘነሥኦ ፡ ለዳዊት ፡ እመርዔተ ፡ አባግዕ ፡ ቅብዓ ፡ መንግሥት ፡ ዘቀብዖ ፡ እምቀርነ ፡ ቅብዕ ፡ ንዒ",
+    "amh": "ድንግል ፡ ሆይ ፡ ዳዊትን ፡ ከበጎቹ ፡ መንጋ ፡ መካከል ፡ መርጦ ፡ ወስዶ ፡ ከዘይቱ ፡ ቀንድ ፡ ቅብዓ ፡ መንግሥትን ፡ ቀብቶ ፡ ባው ፡ በደብተራ ፡ ኦሪት ፡ ከሚያገለግል ፡ ከሳሙኤል ፡ ጋራ ፡ ወደኔ ፡ ነይ ።",
+    "title": "ንዒ ኀቤየ ምስለ ሳሙኤል ሳውዕ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ንዒ"
+      ]
+    }
+  },
+  {
+    "sortOder": 16,
+    "text": "ኀቤየ ፡ አድንግል ፡ ምስለ ፡ ዳዊት ፡ አቡኪ ፡ መዘምር ፡ ዘኀለየኪ ፡ እንዘ ፡ ይብል ፡ ክነፈ ፡ ርግብ ፡ በብሩር ፡ ዘግቡር ።",
+    "amh": "ድንግል ፡ ሆይ ፡ በብር ፡ የተሠራ ፡ የርግብ ፡ ክንፍ ፡ ነሽ ፡ ብሎ ፡ ካመሰገነሽ ፡ ካባትሽ ፡ ከዳዊት ፡ ጋራ ፡ ወደኔ ፡ ነይ",
+    "title": "ንዒ ኀቤየ ምስለ ዳዊት",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 17,
+    "text": "ንዒ ፡ ኀቤየ ፡ ኦድንግል ፤ ምስለ ፡ ኢሳይያስ ፡ ወኤርምያስ ፡ ሠናያነ ፡ ትንቢት ፡ ልዑላነ ፡ ቃል ፡ ወሰባክያን ፡ ዘምስለ ፡ ኃይል ።",
+    "amh": "ድንግል ፡ ሆይ ፡ ተአምራት ፡ ከማድረግ ፡ ጋራ ፡ የሚያስተምሩ ፡ አሰምተው ፡ የተናገሩ ፡ ትንቢታቸው ፡ ካማረ ፡ ከኤርምያስና ፡ ከኢሳይያስ ፡ ጋራ ፡ ወደኔ ፡ ነይ",
+    "title": "ንዒ ኀቤየ ምስለ ኢሳይያስ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 18,
+    "text": "ንዒ ፡ ኀቤየ ፡ አድንግል ፡ ምስለ ፡ ሕዝቅኤል ፡ ወዳንኤል ፡ ሠናያነ ፡ ራእይ ፡ እለ ፡ ዜነው ፡ ምሥጢራተ ፡ ዘበሰማይ ፡ ንዒ ።",
+    "amh": "ድንግል ፡ ሆይ ፡ ያለ ፡ ምሥጢር ፡ ተገልጾላቸው ፡ የተናገሩ ፡ ራእያቸው ፡ ያማረ ፡ ከዳንኤልና ፡ ከሕዝቅኤል ፡ ጋራ ፡ ጋራ ፡ ወደኔ ፡ ነይ",
+    "title": "ንዒ ኀቤየ ምስለ ሕዝቅኤል",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ንዒ"
+      ]
+    }
+  },
+  {
+    "sortOder": 19,
+    "text": "ንዒ ፡ ኀቤየ ፡ ኦ ፡ ድንግል ፡ ምስለ ፡ ኤልያስ ፡ ወኤልሳዕ ፡ ነቢያተ ፡ እስራኤል ፡ ወምስለ ፡ ዕዝራ ፡ ሱቱኤል ፡ ጽዋዐ ፡ ልቡና ፡ ዘአስተዮ ፡ ዑራኤል ።",
+    "title": "ንዒ ኀቤየ ምስለ ኤልያስ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 20,
+    "text": "ኀቤየ ፡ አድንግል ፡ ምስለ ፡ አናንያ ፡ ወአዛርያ ፡ ወሚሳኤል ፡ ትእዛዘ ፡ ንጉሥ ፡ ዘአበዩ ፡ ለአምላኩ ፡ ሰማይ ፡ ዘገነዩ ፡ ማዕከለ ፡ ዕቶነ ፡ እሳት ፡ ዘጸለዩ ፡ ንዒ",
+    "amh": "ድንግል ፡ ሆይ ፡ የከሐዲን ፡ ንጉሥ ፡ ትእዛዝ ፡ አንቀበልም ፡ ብለው ፡ ሰማይን ፡ ለፈጠረ ፡ የተግዙ ፡ ከሚነድ ፡ እሳት ፡ መካከል ፡ ገብተው ፡ ከጸለዩ ፡ ከአናንያ ፡ ከአዛርያ ፡ ከሚሳኤል ፡ ጋራ ፡ ወደኔ ፡ ነይ",
+    "title": "ንዒ ኀቤየ ምስለ አናንያ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ንዒ"
+      ]
+    }
+  },
+  {
+    "sortOder": 21,
+    "text": "ኀቤየ ፡ ኦ ፡ ድንግል ፡ ምስለ ፡ ኵሎሙ ፡ ነቢያተ ፡ ይሁዳ ፡ ወሰማርያ ፡ ወባቢሎን ፡ በእንተ ፡ ወልድኪ ፡ እለ ፡ ከልሑ ፡ ከመ ፡ ቀርን ።",
+    "amh": "ድንግል ፡ ሆይ ፡ ስለ ፡ ልጅሽ ፡ አሰምተው ፡ የተናገሩ ፡ በባቢሎን ፡ በሰማርያ ፡ በይሁዳ ፡ ካስተማሩ ፡ ነቢያት ፡ ሁሉ ፡ ጋራ ፡ ወደኔ ፡ ነይ ።",
+    "title": "ንዒ ኀቤየ ምስለ ኲሎሙ ነቢያት",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ኦ"
+      ]
+    }
+  },
+  {
+    "sortOder": 22,
+    "text": "እዌድሰኪ ፡ አድንግል ፡ በከመ ፡ ገብርኤል ፡ መልአክ ፡ እንዘ ፡ እብል ፡ ቡርክት ፡ አንቲ ፡ ወቡሩክ ፡ ፍሬ ፡ ከርሥኪ ።",
+    "amh": "ገብርኤል ፡ እንዳመሰገነሽ ፡ እኔም ፡ ቡርክት ፡ ነሽ ፡ ክብርት ፡ ነሽ ፡ የማኅፀንሽም ፡ ፍሬ ፡ ቡሩክ ፡ ነው ፡ ክቡር ፡ ነው ፡ እያልኩ ፡ አመሰግንኻለሁ ።",
+    "title": "እዌድሰኪ ኦ ድንግል",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 23,
+    "text": "ተፈሥሒ ፡ ኦምልዕተ ፡ ጸጋ ፡ እግዚአብሔር ፡ ምስሌኪ ፡ ቡርክት ፡ አንቲ ፡ ወቡሩክ ፡ ፍሬ ፡ ከርሥኪ ።",
+    "amh": "ጸጋ ፡ ክብርን ፡ የተመላሽ ፡ ድንግል ፡ ሆይ ፡ ደስ ፡ ይበልሽ ፡ እግዚአብሔር ፡ ካንቺ ፡ ጋራ ፡ ነውና ፡ አንቺም ፡ ቡርክት ፡ ነሽ ፡ ክብርት ፡ ነሽ ፡ የማኅፀንሽም ፡ ፍሬ ፡ ክቡር ፡ ነው ፡ ቡሩክ ፡ ነው ።",
+    "title": "ተፈሥሒ ኦ ምልእተ ጸጋ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 24,
+    "text": "ተፈሥሐ ፡ አሙኃዘ ፡ ፍሥሓ ፡ ቡርክት ፡ አንቲ ፡ ወቡሩክ ፡ ፍሬ ፡ ከርሥኪ ።",
+    "amh": "የተድላ ፣ ደስታ ፡ መገኛ ፡ ሆይ ፤ ደስ ፡ ይበልሽ ፡ አንቺም ፡ ቡርክት ፡ ነሽ ፡ ክብርት ፡ ነሽ ፡ የማኅፀንሽም ፡ ፍሬ ፡ ቡሩክ ፡ ነው ፡ ክቡር",
+    "title": "ተፈሥሒ ኦ ሙኀዘ ፍሥሓ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 25,
+    "text": "እግዚኦ ፣ መሐረነ ፡ ክርስቶስ ፡ ፲፪ ፡ ጊዜ ፡ በል ።",
+    "amh": "አቤቱ ፡ ክርስቶስ ፡ ይቅር ፡ በለን ፡ አሥራ ፡ ሁለት ፡ ጊዜ",
+    "title": "እግዚኦ መሐረነ ክርስቶስ",
+    "turn": "በአሳዳሪ › በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 26,
+    "text": "ባርከነ ፡ እግዚኦ ፡ አምላክነ ፡ ውስተ ፡ ኑኀ ፡ ሰማይ ፡ ተወከፍ ፡ ጸሎተነ ፡ መሐረነ ፡ እግዚኦ ፡ ወተሠሃለነ ።",
+    "amh": "አቤቱ ። ፈጣሪያችን ፡ ይቅር ፡ በለን ፤ ወደ ፡ ሰማይ ፡ ልመናችንን ፡ ተቀበለን ፤ አቤቱ ፡ ማረን ፡ ይቅር ፡ በለን ።",
+    "title": "ባርከነ እግዚኦ አምላክነ",
+    "turn": "በአሳዳሪ › በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 27,
+    "text": "ወዲቀከ ፡ ምድረ ፡ ድግም ፡ ጸሎተ ፡ እግዝእትነ ፡ ማርያም ፡ ወአቡነ ፡ ዘበሰማያት ።",
+    "amh": "ጸሎተ እግዝእትነ ማርያም እና አቡነ ዘበሰማያት መሬት ላይ ሰግደህ ድገም።",
+    "title": "ትእዛዝ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  }
+]

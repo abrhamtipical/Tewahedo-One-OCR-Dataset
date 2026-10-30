@@ -1,0 +1,542 @@
+/*
+ * Title:      ሰዓታት — ፲፫. ይዌድስዋ — Book of Hours (Seatat) — Section 13
+ * Language:   Ge'ez, with the Amharic translation where the book has it
+ * Source:     Mets'hafe Se'atat in Ge'ez and Amharic (night and dawn);
+ *             Amharic translation by Aleqa Mekonnen Solomon of Debre Libanos,
+ *             Tensae Zegubae Press. Text typed and edited from the printed
+ *             book by Abraham Sisay. Passages the book lacks are supplied
+ *             from the Se'atat text this app already had (EOTC traditional
+ *             liturgy), marked in the entry metadata.
+ * Ownership:  This text belongs to the Ethiopian Orthodox Tewahedo Church.
+ *             It is the Church's public heritage and is not the property of
+ *             any individual, publisher or application.
+ * Status:     Public content, shared for the faithful.
+ * Note:       This notice is metadata only and is never shown in the app.
+ */
+[
+  {
+    "sortOder": 0,
+    "text": "ወትቤ ፡ ማርያም ፡ ተዓብዮ ፡ ነፍስየ ፡ ለእግዚአብሔር ፡ ወትትሐሠይ ፡ መንፈስየ ፡ ብአምላክየ ፡ ወመድኀንየ ።",
+    "amh": "እመቤታችን ፡ ሰውነቴ ፡ እግዚአብሔርን ፡ ታመሰግነዋለች ፡ አለች ። በፈጣሪዬ ፡ በመድኀኒቴ ፡ አምና ፡ ሰውነቴ ፡ ደስ ፡ ይላታል ።",
+    "title": "ወትቤ ማርያም",
+    "turn": "ዘኅብረት",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 1,
+    "text": "ሃሌ ፡ ሎያ ፡ ሃሌ ፡ ሉያ ፡ ሃሌ ፡ ሎያ ፡ እስመ ፡ ርእየ ፡ ሕማማ ፡ ለዓመቱ ፡ ወገብረ ፡ ኃይለ ፡ በመዝራዕቱ ።",
+    "amh": "ቅድመ ፡ ዓለም ፡ የነበረ ፡ ዓለምን ፡ አሳልፎ ፡ የሚኖር እሱ ፡ የኔ ፡ የገረዱን ፡ መከራ ፡ አይቷልና ፡ በልጁ ፡ በሥልጣኑ ፡ ተአምራት ፡ አደረገልኝ ።",
+    "title": "ወትቤ ማርያም",
+    "turn": "ዘኅብረት",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 2,
+    "text": "ተንሥኡ ፡ ለጸሎት ።",
+    "title": "ተንሥኡ ለጸሎት",
+    "turn": "ይ.ዲ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 3,
+    "text": "እግዚኦ ፡ ተሣሃለነ ።",
+    "title": "እግዚኦ ተሣሃለነ",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 4,
+    "text": "ሰላም ፡ ለኲልክሙ ።",
+    "title": "ሰላም ለኲልክሙ",
+    "turn": "ይ.ካ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 5,
+    "text": "ምስለ ፡ መንፈስከ ።",
+    "title": "ምስለ መንፈስከ",
+    "turn": "ይ.ካ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 6,
+    "text": "እግዚአብሔር ፡ እግዚኦ ፡ ኢየሱስ ፡ ክርስቶስ ፡ አምላክነ ፡ ዘይቤሎ ፡ ለፍቁርከ ፡ ዮሐንስ ፡ እንዘ ፡ ሀሎከ ፡ ዲበ ፡ ዕፀ ፡ መስቀል ፡ ቅዱስ ፡ ወትቤላ ፡ ለማርያም ፡ ነዋ ፡ ወልድኪ ፡ ወለረድዕከኒ ፡ ነያ ፡ እምከ ፡ ወእምይእቲ ፡ ሰዓት ፡ ነሥኣ ፡ ውእቱ ፡ ርድዕ ፡ ወአእተዋ ፡ ቤቶ ። ይእዜኒ ፡ እግዚኦ ፡ ንስእለከ ፡ ወናስተበቊዓከ ፡ በእንተ ፡ ማርያም ፡ ወላዲትከ ፡ ወበእንተ ፡ ዮሐንስ ፡ ዘረፈቀ ፡ ውስተ ፡ ሕፅንከ ፡ ወበእንተ ፡ ኲሎሙ ፡ ሐዋርያት ፡ አርዳኢከ ። ከመ ፡ ትረስየነ ፡ ድልዋነ ፡ ለሰሚዓ ፡ ተአምሪሃ ፡ ለማርያም ፡ በአዕዳዊሃ ፡ ዘከሠትከ ።",
+    "title": "እግዚአብሔር እግዚኦ ኢየሱስ ክርስቶስ",
+    "turn": "ይ.ካ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 7,
+    "text": "ጸልዩ ፡ በእንተ ፡ ወንጌል ፡ ቅዱስ ።",
+    "title": "ጸልዩ በእንተ ወንጌል",
+    "turn": "ይ.ዲ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 8,
+    "text": "ዘመንክር ፡ በአርያሙ ፡ እግዚአብሔር ፡ ስሙ ።",
+    "amh": "በሰማይ ፡ ድንቅ ፡ የሚሆን ፡ ስሙ ፡ እግዚአብሔር ፡ የሆነ ፡ እሱ ።",
+    "title": "ዘመንክር በአርያሙ",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 9,
+    "text": "ዝንጓጔ ፡ መስቀል ፡ አመ ፡ ተወፈየ ፡ ነዋ ፡ ወልድኪ ፡ ይቤላ ፡ ስእ",
+    "amh": "በመስቀል ፡ ላይ ፡ የአይሁድን ፡ ሽሙጥ ፡ የተቀበለ ፡ ጊዜ ፡ እናቱን ፡ እነሆ ፡ ልጅሽ ፡ አላት ።",
+    "title": "ዘመንክር በአርያሙ",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "አመ"
+      ]
+    }
+  },
+  {
+    "sortOder": 10,
+    "text": "ፍቅረ ፡ ዮሐንስ ፡ ኢያንተገ ፡ በጊዜ ፡ ሕማሙ ፡ ላዕለ ፡ ጕንደ ፡ መስቀል ፡ አመ ፡ ውኅዘ ፡ ደሙ ፡ እግዝእትነ ፡ ተሣህልነ ። ።",
+    "amh": "መከራ ፡ ተቀብሎ ፡ በመስቀል ፡ ላይ ፡ ደሙ ፡ በፈሰሰ ፡ ጊዜ ፡ የዮሐንስን ፡ ፍቅር ፡ አላጐደለምና ።",
+    "title": "ዘመንክር በአርያሙ",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "እግዝእትነ ተሣህልነ።"
+      ]
+    }
+  },
+  {
+    "sortOder": 11,
+    "text": "እስመ ፡ ኃረያ ፡ እግዚአብሔር ፡ ለጽዮን ። ወአብደራ ፡ ከመ ፡ ትኩኖ ፡ ማኅደሮ ። ዛቲ ፡ ይእቲ ፡ ምዕራፍየ ፡ ለዓለም ።",
+    "title": "እስመ ኃረያ እግዚአብሔር ለጽዮን",
+    "turn": "ይ.ዲ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 12,
+    "text": "ተዘከር ፡ ካዕበ ፡ እግዚኦ ፡ አግብርቲከ ፡ ወአዕማቲከ ፡ እለ ፡ በልኡ ፡ ሥጋከ ፡ ወእለ ፡ ሰትዩ ፡ ደመከ ፡ ወእለ ፡ አእረፉ ፡ በሃይማኖተ ፡ ዚአከ ። ኦ ፡ በግዕ ፡ ዘአርያም ፡ በርእሰ ፡ ደብረ ፡ ጽዮን ፡ ዘቆምከ ፡ ኢትፍልጠነ ፡ እምከብካበ ፡ ቅዱስ ፡ መርዓከ ። ኢተዘኪረከ ፡ አበሳነ ፡ ወአናሕስየከ ፡ ጌጋየነ ፡ በምሕረትከ ፡ ተዘከረነ ፡ እንበለ ፡ ምሕረትከሰ ፡ አልቦ ፡ ዘይድህን ። ለከ ፡ ይደሉ ፡ ስብሐት ፡ በጽዮን ፡ ወለከ ፡ ይትፌኖ ፡ ጸሎት ፡ በኢየሩሳሌም ። ስማዕ ፡ ጸሎተ ፡ ኲሉ ፡ ዘሥጋ ፡ በእንተ ፡ ማርያም ፡ ምልዕተ ፡ ጸጋ ፡ ይእዜኒ ፡ ወዘልፈኒ ፡ ወለዓለመ ፡ ዓለም ፡ አሜን ።",
+    "title": "ተዘከር ካዕበ እግዚኦ አግብርቲከ ወአዕማቲከ",
+    "turn": "ይ.ካ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 13,
+    "text": "ይዌድስዋ ፡ መላእክት ፡ ለማርያም ፡ በውስተ ፡ ውሳጤ ፡ መንጦላዕት ፤ ወይብልዋ ፡ በሀኪ ፡ ማርያም ፡ ሐዳስዩ ፡ ጣዕዋ ፡ ይቤላ ፡ መልአክ ፡ ለማርያም ፡ ተወከፊዮ ፡ ለቃል ፡ ኀቤኪ ፡ ይመጽእ ፡ ወበማሕፀነ ፡ ዚአኪ ፡ የኀድር ።",
+    "amh": "መላእክት ፡ እመቤታችንን ፡ በመጋረጃ ፡ ውስጥ ፡ ያመሰግኗታል ፡ ታናሽቱ ፡ ጊደር ፡ እመቤታችን ፡ ሆይ ፡ ቸር ፡ አለሽ ፡ ይሏታል ፡ መልአኩ ፡ ገብርኤል ፡ እመቤታችንን ፡ አካላዊ ፡ ቃል ፡ ወዳንቺ ፡ ይመጣልና ፡ ተቀበዪው ፡ በማሕፀንሽም ፡ ያድራል ፡ አላት ።",
+    "title": "ይዌድስዋ መላእክት ለማርያም",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 14,
+    "text": "እፎ ፡ ቤተ ፡ ነዳይ ፡ ኀደረ ፡ ከመ ፡ ምስኪን ፡ እምሰማያት ፡ ወረደ ፡ ላዕሌሃ ፡ ፈቲዎ ፡ ስነ ፡ ዚአሀ ፡ ወተወልደ ፡ እምኔሃ ።",
+    "amh": "ከሰማያት ፡ ወርዶ ፡ እንደ ፡ ድሀ ፡ ከድሀ ፡ ቤት ፡ እንደምን ፡ አደረ ፡ የንጽሕናዋንም ፡ መልክ ፡ ወዶ ፡ ከሷ ፡ ተወለደ ።",
+    "title": "እፎ ቤተ ነዳይ ኀደረ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 15,
+    "text": "ወበሳድስ ፡ ወርኅ ፡ ተፈነወ ፡ ገብርኤል ፡ መልአክ ፡ እም ፡ ኀበ ፡ እግዚአብሔር ፡ ኀበ ፡ አሐቲ ፡ ሀገር ፡ ዘገሊላ ፡ እንተ ፡ ስማ ፡ ናዝሬት ፡ ኀበ ፡ ድንግል ፡ እንተ ፡ ተፍኅረት ፡ ለብእሲ ፡ ዘስሙ ፡ ዮሴፍ ፡ ዘእም ፡ ቤተ ፡ ዳዊት ፡ ወስማ ፡ ለይእቲ ፡ ድንግል ፡ ማርያም ።",
+    "amh": "በስደተኛው ፡ ወር ፡ መልአኩ ፡ ገብርኤል ፡ ከእግዚአብሔር ፡ ታዝዞ ፡ ስሟ ፡ ናዝሬት ፡ ወደሚባል ፡ የገሊላ ፡ ክፍል ፡ የምትሆን ፡ ወደ ፡ አንዲት ፡ ሀገር ፡ መጣ ። የዳዊት ፡ ወገንን ፡ የሚሆን ፡ ዮሴፍ ፡ ለሚባል ፡ ረው ፡ ወደ ፡ ታጨች ፡ ድንግል ። ይችውም ፡ ድንግል ፡ ስሟ ፡ ማርያም ፡ ይባላል ።",
+    "title": "ወበሳድስ ወርኅ ተፈነወ ገብርኤል",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 16,
+    "text": "ቦአ ፡ መልአክ ፡ ኀቤሃ ፡ ወይቤላ ፡ ተፈሥሒ ፡ ፍሥሕት ፡ ኦ ፡ ምልእተ ፡ ጸጋ ፡ እግዚአብሔር ፡ ምስሌከ ። ቡርክት ፡ አንቲ ፡ እም ፡ አንስት ።",
+    "amh": "መልአኩ ፡ ወደሷ ፡ ገብቶ ፡ ፀጋ ፡ ክብርን ፡ የተመላሽ ፡ ደስ ፡ ያለሽ ፡ ሆይ ፡ እግዚአብሔር ፡ ካንች ፡ ጋር ፡ ነውና ፡ ደስ ፡ ይበልሽ ፡ ከሴቶችም ፡ ተለይተሽ ፡ ቡርክት ፡ ነሽ ፡ አላት ።",
+    "title": "ቦአ መልአክ ኀቤሃ ወይቤላ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 17,
+    "text": "ወርእያ ፡ ደንገጸት ፡ እም ፡ ቃሉ ፡ ወኀለየት ፡ ወትቤ ፡ እፎኑ ፡ ከመዝኑ ፡ እንጋ ፡ አምኃ ፡ ይትአምኁ ።",
+    "amh": "መልኩን ፡ ዓይታ ፡ ድምፁን ፡ ሰምታ ፡ እንደምን ፡ እንደዚህ ፡ ያለ ፡ ሰላም ፡ ይቀበላሉ ፡ ብላ ፤ አሰበች",
+    "title": "ወርእያ ደንገፀት እምቃሉ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 18,
+    "text": "ወይበላ ፡ መልአክ ፡ ኢትፍርሄ ፡ ማርያም ፤ እስመ ፡ ረከብኪ ፡ ሞገሰ ፡ በኀበ ፡ እግዚአብሔር ።",
+    "amh": "መልአኩም ፡ ማርያም ፡ በእግዚአብሔር ፡ ዘንድ ፡ ባለሟልነትን ፡ አግኝተሻልና ፡ አትፍሪ ፡ አላት ።",
+    "title": "ወይቤላ መልአክ ኢትፍርሂ ማርያም",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 19,
+    "text": "ወናሁ ፡ ትጸንሲ ፡ ወትወልዲ ፡ ወልደ ፡ ወትሰምዪዮ ፡ ስሞ ፡ ኢየሱስ ፡ ውእቱ ፡ ዓቢይ ፡ ወይሰመይ ፡ ወልደ ፡ እግዚአብሔር ፡ ልዑል ፡ ወይሁቦ ፡ እግዚአብሔር ፡ አምላክ ፡ መንበረ ፡ ዳዊት ፡ አቡሁ ፡ ወይነግሥ ፡ ለቤተ ፡ ያዕቆብ ፡ ለዓለም ፡ ወአልቦ ፡ ማኅለቅት ፡ ለመንግሥቱ ።",
+    "amh": "እነሆ ፡ ትጸንሻለሽ ፡ ወንድ ፡ ልጅ ፡ ትወልጃለሽ ፡ ስሙንም ፡ ኢየሱስ ፡ ትይዋለሽ ፡ ይኸዉም ፡ የልዑል ፡ እግዚኣብሔር ፡ የባሕርይ ፡ ልጁ ፡ ይባላል ፡ እግዚአብሔርም ፤ ያባቱ ፡ የዳዊትን ፡ ዙፋን ፡ ይሰጠዋል ፡ ለያዕቆብ ፡ ወገን ፡ ለዓለሙ ፡ ነግሦ ፡ ይኖራል ፡ ለመንግሥቱም ፡ ፍጻሜ ፡ የለውም ።",
+    "title": "ወይነግሥ ለቤተ ያዕቆብ ለዓለም",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "እግዚአብሔር"
+      ]
+    }
+  },
+  {
+    "sortOder": 20,
+    "text": "ትቤሎ ፡ ማርያም ፡ ለመልአክ ፡ እፎኑ ፡ ይከውነኒ ፡ ዝንቱ ፡ እንዘ ፡ ኢየአምር ፡ ብእሴ ፡ እፎኑ ፡ ይከውነኒ ።",
+    "amh": "እመቤታችንም ፡ ለመልአኩ ፡ እኔ ፡ ወንድ ፡ ሳላውቅ ፡ ይህ ፡ እንደምን ፡ ይሆንልኛል ፡ አለችው ።",
+    "title": "ትቤሎ ማርያም ለመልአክ እፎኑ ይከውነኒ ዝንቱ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 21,
+    "text": "አውሥኡ ፡ መልአክ ፡ ወይቤላ ፡ መንፈስ ፡ ቅዱስ ፡ ይመጽእ ፡ ላዕሌኪ ፡ ወኀይለ ፡ ልዑል ፡ ይጼልለኪ ።",
+    "amh": "መልአኩም ፡ መንፈስ ፡ ቅዱስ ፡ ያድርብሻል ፡ ኃይለ ፡ ልዑል ፡ ወልድም ፡ ሥጋሽን ፡ ይዋሃዳል ።",
+    "title": "አውሥኣ መልአክ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 22,
+    "text": "ወበእንተዝ ፡ ይትወለድ ፡ እምኔኪ ፡ ቅዱስ ፡ ውእቱ ፡ ወይሰመይ ፡ ወልደ ፡ እግዚአብሔር ፡ ልዑል ።",
+    "amh": "ካንችም ፡ የሚወለደው ፡ የልዑል ፡ እግዚአብሔር ፡ የባሕርይ ፡ ልጅ ፡ ይበላል ።",
+    "title": "ዘኒ ይትወለድ እምኔኪ ቅዱስ ውእቱ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 23,
+    "text": "ወናሁ ፡ ኤልሳቤጥኒ ፡ እንተ ፡ እም ፡ አዝማድኪ ፡ ይእቲኒ ፡ ፀንሰት ፡ ወረከበት ፡ ወልደ ፡ በልህቃቲሃ ፡ ወበርስአቲሃ ፡ ወናሁ ፡ ሳድስ ፡ ዝንቱ ፡ ወርኅ ፡ እንተ ፡ ይብልዋ ፡ መካን ፡ እስመ ፡ አልቦ ፡ ነገር ፡ ዘይሰአኖ ፡ ለእግዚአብሔር ።",
+    "amh": "እነሆ ፡ ( ፡ ወገንሽ ፡ የምትሆን ፡ ኤልሳቤጥ ፡ ስንኳ ፡ ፀነሰች ፡ ወንድ ፡ ልጅ ፡ አገኘች ፡ ካረጀች ፡ ካፈጀች ፡ በኋላ ፡ መካን ፡ የሚሏት ፤ ኤልሳቤጥም ፡ ከፀነሰች ፤ እነሆ ፡ ስድስት ፡ ወሯ ፡ ነው ፡ ለእግዚአብሔር ፡ የሚሳነው ፡ ነገር ፡ የለምና ።",
+    "title": "ወናሁ ሳድስ ዝንቱ ወርኅ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 24,
+    "text": "ትቤሎ ፡ ማርያም ፡ ለመልአክ ፡ ነየ ፡ ዓመቱ ፡ ለእግዚአ ፡ ኵሉ ፡ ነየ ፡ ዓመቱ ፡ ይኩነኒ ፡ በከመ ፡ ትቤለኒ ።",
+    "amh": "እመቤታችንም ፡ መልአኩን ፡ እነሆ ፡ እኔ ፡ ገረዱ ፡ አለሁ ፡ እንዳልከኝ ፡ ይደረግልኝ ፡ አለችው ።",
+    "title": "ትቤሎ ማርያም ለመልአክ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 25,
+    "text": "ይቤላ ፡ መልአክ ፡ ሰላም ፡ ለኪ ፡ ይቤላ ፡ ገብርኤል ፡ ሰላም ፡ ለኪ ፡ ወላዲተ ፡ አምላክ ፡ ሰላም ፡ ለኪ ፡ ማርያም ፡ ንጽሕት ፡ ሰላም ፡ ለኪ ፡ ማርያም ፡ ውድስት ፡ ሰላም ፡ ለኪ ፡ ማኅደረ ፡ መለኮት ፡ ሰላም ፡ ለኪ ፡ ደብተራ ፡ ፍጽምት ፡ ሰላም ፡ ለኪ ።",
+    "amh": "መልአኩ ፡ ገብርኤል ፡ ማርያም ፡ ቸር ፡ አለሽ ፡ አላት ። አምላክን ፡ የወለድሽ ፡ ማርያም ፡ ቸር ፡ አለሽ ። የተመሰገንሽ ፡ ንጽሕት ፡ ማርያም ፤ ቸር ፡ አለሽ ፡ የመለኮት ፡ ማደ ሪያ ፡ ፍጽምት ፡ የምትሆኝ ፡ ድንኳን ፡ ቸር ፡ አለሽን ።",
+    "title": "ይቤላ መልአክ ሰላም ለኪ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 26,
+    "text": "ማርያም ፡ ድንግል ፡ ሰላም ፡ ለኪ ። ወላዲተ ፡ አምላክ ፡ ሰላም ፡ ለኪ ።",
+    "title": "ማርያም ድንግል ሰላም ለኪ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 27,
+    "text": "ማርያም ፡ ቅድስት ፡ ሰላም ፡ ለኪ ። ማርያም ፡ ውድስት ፡ ሰላም ፡ ለኪ ።",
+    "title": "ማርያም ቅድስት ሰላም ለኪ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 28,
+    "text": "እንተ ፡ መላእክት ፡ ሰላም ፡ ለኪ ፡ ወእመ ፡ ኵሉ ፡ ሕዝብ ፡ ሰላም ፡ ለኪ ፡ እግዝእትነ ፡ ማርያም ፡ ሰላም ፡ ለኪ ፡ ሰላማዊት ፡ ሰላም ፡ ለኪ ።",
+    "amh": "የመላእክት ፡ እኅታቸው ፡ የሕዝብ ፡ ሁሉ ፡ እናታቸው ፡ ቸር ፡ አለሽ ፡ ሰላምታ ፡ ምስጋና ፡ የሚገባሽ ፡ እመቤታችን ፡ ቸር ፡ አለሽን ።",
+    "title": "እኅተ መላእክት ሰላም ለኪ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 29,
+    "text": "ቀደሰኪ ፡ ለማኅደሩ ፡ ልዑል ፡ ሰላም ፡ ለኪ ።",
+    "amh": "የልዑል ፡ ጌታ ፡ ማደሪያ ፡ ለመሆን ፡ አክብሮሻልና ፡ ቸር ፡ አለሽ ።",
+    "title": "ቀደሰኪ ለማኅደሩ ልዑል",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ልዑል"
+      ]
+    }
+  },
+  {
+    "sortOder": 30,
+    "text": "አብደረኪ ፡ ወኀረየኪ ፡ ከመ ፡ ትኩንዮ ፡ ማኅደሮ ፡ ሰላም ፡ ለኪ ።",
+    "amh": "ማደሪው ፡ ትሆኝ ፡ ዘንድ ፡ ፈጽሞ ፡ መርጦሻልና ፡ ቸር ፡ አለሽ ።",
+    "title": "አብደረኪ ወኀረየኪ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 31,
+    "text": "በአልባሰ ፡ ወርቅ ፡ ዑጽፍት ፡ ወኁብርት ፡ ሰላም ፡ ለኪ ።",
+    "amh": "በወርቅ ፡ ዘቦ ፡ ግምጃ ፡ ጃ ፡ በንጽሕና ፡ የተጐናጠፍሽ ፡ ነሽና ፡ ቸር ፡ አለሽ ።",
+    "title": "በአልባሰ ወርቅ ዑፅፍት ወኁብርት",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 32,
+    "text": "ክነፈ ፡ ርግብ ፡ በብሩር ፡ ዝግቡር ፡ ሰላም ፡ ለኪ ።",
+    "amh": "በብር ፡ የተሰራሽ ፡ የርግብ ፡ ክንፍ ፡ ቸር ፡ አለሽ ።",
+    "title": "ክነፈ ርግብ በብሩር ዘግቡር",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 33,
+    "text": "ወገበዋቲሃነ ፡ በሐመልማለ ፡ ወርቅ ፡ ማርያም ፡ ሥርጉት ፡ ሰላም ፡ ለኪ",
+    "amh": "ወገቦቿም ፡ በወርቅ ፡ ቅጠል ፡ የተሰሩ ፡ ቸር ፡ አለሽ ።",
+    "title": "ወገበዋቲሃኒ በሐመልማለ ወርቅ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ማርያም ሥርጉት"
+      ]
+    }
+  },
+  {
+    "sortOder": 34,
+    "text": "ኈኅተ ፡ ምሥራቅ ፡ ወእሙ ፡ ብርሃን ፡ ሰላም ፡ ለኪ ።",
+    "amh": "የምሥራቅ ፡ ደጃፍ ፡ የብርሃን ፡ መውጫ ፡ መገኛ ፡ ቸር ፡ አለሽ ።",
+    "title": "ኆኅተ ምሥራቅ ወእሙ ለብርሃን",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 35,
+    "text": "ትበርሂ ፡ እምፀሐይ ፡ ወትትሌዓሊ ፡ እምአድባር ፡ ሰላም ፡ ለኪ ፡ ማርያም ፡ ኅሪት ፡ ወክብርት ፡ ሰላም ፡ ለኪ ።",
+    "amh": "ከፀሐይ ፡ ይልቅ ፡ ታበሪያለሽ ፡ ከተራሮች ፡ ካያቶችሽ ፡ ትበልጫለሽ ፡ ቸር ፡ አለሽ ። የከበርሽ ፡ የተመረጥሽ ፡ እመቤታችን ፡ ቸር ፡ አለሽ ።",
+    "title": "ትበርሂ እምፀሐይ ወትትሌዐሊ እምአድባር",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 36,
+    "text": "ሰዓሊለነ ፡ ኀበ ፡ እግዚእነ ፡ ወመድኀኒነ ፡ ኢየሱስ ፡ ክርስቶስ ፡ ከመ ፡ ያድኅነነ ፡ አመ ፡ ይመጽእ ፡ በስብሓተ ፡ አቡሁ ፡ ምስለ ፡ መላእክቲሁ ፡ ቅዱሳን ።",
+    "amh": "ወደ ፡ ጌታችን ፡ ወደመድኀኒታችን ፡ ወደ ፡ ኢየሱስ ፡ ክርስቶስ ፡ ለምኝልን ፤ መላእክትን ፡ አስከትሎ ፡ ባባቱ ፡ ጌትነት ፡ በመጣ ፡ ጊዜ ፡ ያድነን ፡ ዘንድ ።",
+    "title": "ከመ ያድኅነነ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 37,
+    "text": "አመ ፡ ያቀውም ፡ አባግዓ ፡ በየማኑ ፡ ወአጣሌ ፡ በጸጋሙ ፡ ያቁመነ ፡ በየማኑ ፡ ምስለ ፡ እስጢፋኖስ ፣ ሰማዕት ፡ ወዮሐንስ ፡ መጥምቅ ።",
+    "amh": "አባግዕ ፡ ጻድቃንን ፡ በቀኙ ፡ ፍየሎች ፡ ኃጥአንን ፡ በግራው ፡ በሚያቆምበት ፡ ጊዜ ፡ ጌታን ፡ ከዮሐንስና ፡ ከሰማዕቱ ፡ ከእስጢፋኖስ ፡ ጋራ ፡ በቀኙ ፡ ያቆመን ፡ ዘንድ ።",
+    "title": "ያቁመነ በየማኑ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 38,
+    "text": "ወምስለ ፡ ኵሎሙ ፡ ቅዱሳን ፡ ወሰማዕት ፡ ለዓለመ ፡ ዓለም ፡ አሜን ።",
+    "amh": "ከከበሩ ፡ ከሰማዕታት ፡ ሁሉም ፡ ጋራ ፡ ለዘለዓለሙ ፡ በውነት ፡ ያለ ፡ ሐሰት ።",
+    "title": "ወምስለ ኲሎሙ ቅዱሳን ወሰማዕት",
+    "turn": "ዘኅብረት",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 39,
+    "text": "ሃሌ ፡ ሉያ ፡ ቁሙ ፡ ወአጽምዑ ፡ ወንጌለ ፡ ቅዱሰ ፡ ዜናሁ ፡ ለእግዚእነ ፡ ወመድኃኒነ ፡ ኢየሱስ ፡ ክርስቶስ ። (ሃሌ ፡ ሉያ ፡ ቁሙ ፡ ወአጽምዑ ፡ ተአምረ ፡ ቅዱሰ ፡ ዜናሃ ፡ ለእግዝእትነ ፡ ወመድኃኒትነ ፡ ማርያም ፡ ድንግል)",
+    "title": "ሃሌ ሉያ ቁሙ ወአጽምዑ",
+    "turn": "ይ.ዲ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 40,
+    "text": "ወንጌል ፡ ቅዱስ ፡ ዘሰበከ ፡ ዮሐንስ ፡ ቃለ ፡ ወልደ ፡ እግዚአብሔር ።",
+    "title": "ወንጌል ቅዱስ ዘሰበከ ዮሐንስ",
+    "turn": "ይ.ካ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 41,
+    "text": "ስብሐት ፡ ለከ ፡ ክርስቶስ ፡ እግዚእየ ፡ ወአምላኪየ ፡ ኵሎ ፡ ጊዜ ።",
+    "title": "ስብሐት ለከ ክርስቶስ እግዚእየ",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 42,
+    "text": "አሳዳሪ ፡ ካህን ፡ የዮሐንስ ፡ ወንጌል ፡ (ወይቀውማ) ፡ ያንብብ ።",
+    "title": "ንባብ",
+    "turn": "ይ.ካ.",
+    "readings": [
+      {
+        "readingAmh": "ዮሐ ፲፱፥፳፭-፳፯ \n ይ.ካ. ነገር ግን በኢየሱስ መስቀል አጠገብ እናቱ፥ የእናቱም እኅት፥ የቀለዮጳም ሚስት ማርያም፥ መግደላዊትም ማርያም ቆመው ነበር። \n ኢየሱስም እናቱን ይወደው የነበረውንም ደቀ መዝሙር በአጠገቡ ቆሞ ባየ ጊዜ እናቱን። አንቺ ሴት፥ እነሆ ልጅሽ አላት። ከዚህ በኋላ ደቀ መዝሙሩን። እናትህ እነኋት አለው። ከዚህም ሰዓት ጀምሮ ደቀ መዝሙሩ ወደ ቤቱ ወሰዳት። \n ዘየአምን በወልድ ቦ ሕይወት ዘለዓለም።",
+        "readingEng": "John 19:25-27 \n (Preist) Near the cross of Jesus stood his mother, his mother’s sister, Mary the wife of Clopas, and Mary Magdalene. \n When Jesus saw his mother there, and the disciple whom he loved standing nearby, he said to her, 'Woman, here is your son,' \n and to the disciple, 'Here is your mother.' From that time on, this disciple took her into his home.",
+        "readingGeez": "ዮሐ ፲፱፥፳፭-፳፯  \n ይ.ካ. ወይቀውማ ኅበ መስቀሉ ለእግዚእ እየሱስ እሙ ወእኅታ ለእሙ ወማርያም እንተ ቀለዮጳ ወማርያም መግደላዊት ወሶበ ርእዮሙ እግዚእ እየሱስ ለእሙ ወለረድኡ ዘያፈቅር ይቀውሙ ይቤላ ለእሙ ብእሲቶ ነዋ ወልድኪ። ወይቤሎ ለውእቱኒ ረድዕ ነያ እምከ። ወእምይእቲ ሰዓት ነሥአ ውእቱ ረድዕ ወአእተዋ ቤቶ። \n ዘየአምን በወልድ ቦ ሕይወት ዘለዓለም።",
+        "readingTitle": "የዮሐንስ ወንጌል (ወይቀውማ)"
+      }
+    ],
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  }
+]

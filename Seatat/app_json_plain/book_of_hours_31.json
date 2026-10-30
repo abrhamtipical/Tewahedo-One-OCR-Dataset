@@ -1,0 +1,199 @@
+/*
+ * Title:      ሰዓታት — ዘሙታን — Book of Hours (Seatat) — For the Departed
+ * Language:   Ge'ez
+ * Source:     Mets'hafe Se'atat, edition of Aba Tume Lisan (Debre Abay tradition).
+ *             Credit: Aba Tume Lisan; used with the permission recorded 2026-10-13.
+ * Status:     Typed from the Aba Tume Lisan document. Abbreviations of the
+ *             printed book (e.g. በእ.) are kept as written. Word-level spelling
+ *             has not been checked against the print.
+ * Note:       This notice is metadata only and is never shown in the app.
+ */
+[
+  {
+    "sortOder": 0,
+    "text": "ወካዕበ ፡ ናስተበቍዕ ፡ ዘኵሎ ፡ ይእኅዝ ፡ እግዚአብሔር ፡ አብ ፡ ለእግዚእ ፡ ወመድኃኔኒ ፡ ኢየሱስ ፡ ክርስቶስ ። በእንተ ፡ እለ ፡ ኖሙ ፡ አበዊነ ፡ ከመ ፡ ነፍሶሙ ፡ ያግዕዝ ፡ ውስተ ፡ መካን ፡ ሥዑር ፡ ወኅበ ፡ ማየ ፡ ዕረፍት ፡ ወያኅብር ፡ አንሥኦ ፡ ሥጋሆሙ ፡ በዘባቲ ፡ ሠርዐ ፡ ዕለተ ፡ በዘኢይትኄለው ፡ ተስፋሁ ፡ ዘበሰማያት ፡ መንግሥተ ፡ ይክፍል ፡ በእንተ ፡ ነፍሰ ፡ ገብሩ ፡ አቡነ ፡ ተክለ ፡ ሚካኤል ፡ ፫ተ ፡ ጊዜ ፡ በል ። ዘለዕረፍት ፡ ሥልጣን ፡ ቦቱ ፡ እግዚአብሔር ፡ አምላክነ ።",
+    "title": "ዘሙታን",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (Aba Tume Lisan edition)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 1,
+    "text": "ጸልዩ ፡ በእንተ ፡ እለኖሙ ።",
+    "title": "ጸልዩ በእንተ እለኖሙ",
+    "turn": "ይ.ዲ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (Aba Tume Lisan edition)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 2,
+    "text": "መሐራ ፡ እግዚኦ ፡ ለነፍስ ፡ (ገብርከ) ፡ አቡነ ፡ ተክለ ፡ ሚካኤል ፡ ፫ጊዜ ፡ በል ።",
+    "title": "መሐራ እግዚኦ ለነፍስ ገብርከ",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (Aba Tume Lisan edition)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 3,
+    "text": "እግዚአብሔር ፡ አምላክነ ፡ ዘኵሎ ፡ ትእኅዝ ፡ ንስእለከ ፡ ወናስተበቍዓከ ፡ በእንተ ፡ እለ ፡ ኖሙ ፡ አበዊነ ፡ ከመ ፡ ነፍሶሙ ፡ ታግዕዝ ፡ ውስተ ፡ መካን ፡ ሥዑር ፡ ወኅበ ፡ ማየ ፡ ዕረፍት ፡ ወታኅብር ፡ አንሥኦ ፡ ሥጋሆሙ ፡ በዘባቲ ፡ ሠራዕከ ፡ ዕለት ፡ በዘጅይትሔሰው ፡ ተስፋከ ፡ ዘበሰማያት ፡ መንግሥትከ ፡ ክፍል ። በእንተ ፡ ነፍሰ ፡ ገብርከ ፡ እኁነ ፡ ዕገሌ ፡ ፫ተ ፡ ጊዜ ፡ በል ።",
+    "title": "እግዚአብሔር አምላክነ ዘኵሎ ትእኅዝ",
+    "turn": "ይ.ካ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (Aba Tume Lisan edition)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 4,
+    "text": "መሐራ ፡ እግዚኦ ፡ ለነፍሰ ፡ ገብርከ ፡ (እኁነ) ፡ ዕገሌ ፡ ፫ተ ፡ ጊዜ ፡ በል ።",
+    "title": "መሐራ እግዚኦ ለነፍሰ ገብርከ",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (Aba Tume Lisan edition)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 5,
+    "text": "ማኅለፍታተ ፡ ነፍሶሙ ፡ ግዑዘ ፡ ዘእንበለ ፡ ክልአት ፡ ወዘእንበለ ፡ ሕመሜ ፡ ጸጉ ፡ በጊዜ ፡ መፍትው ፡ ሥጋ ፡ አኅቢረከ ፡ አንሥእ ፡ ዘበሰማያት ፡ መንግሥተ ፡ ክፍሎ ፡ (ሙ) ፡ በእንተ ፡ ነፍሰ ፡ ገብርከ ፡ እኁነ ፡ ዕገ ፡ ፫ተ ፡ ጊዜ ፡ በል ።",
+    "title": "ማኅለፍታተ ነፍሶሙ ግዑዘ ዘእንበለ",
+    "turn": "ይ.ካ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (Aba Tume Lisan edition)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 6,
+    "text": "መሐራ ፡ እግዚኦ ፡ ፫ተ ፡ ጊዜ ፡ በል ።",
+    "title": "መሐራ እግዚኦ ተ ጊዜ",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (Aba Tume Lisan edition)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 7,
+    "text": "ወእንዘ ፡ ተዓሢ ፡ ዕሤተ ፡ ሠናየ ፡ ዘዓይን ፡ ኢርእየ ፡ ወዕዝን ፡ ኢሰምዓ ፡ ውስተ ፡ ልበ ፡ ሰብእ ፡ ዘኢተሐለየ ፡ ወኢዐርገ ፡ መጠነ ፡ አስተዳሎከ ፡ አንተ ፡ እግዚአብሔር ፡ ለእለ ፡ ያፈቅሩከ ። መናኅየ ፡ ወመናዝዘ ፡ ለሰብኦሙ ፡ ጸጉ ፡ ፫ተ ፡ ጊዜ ፡ በል ።",
+    "title": "ወእንዘ ተዓሢ ዕሤተ ሠናየ",
+    "turn": "ይ.ካ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (Aba Tume Lisan edition)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 8,
+    "text": "ከማሁ ።",
+    "title": "ከማሁ",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (Aba Tume Lisan edition)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 9,
+    "text": "ከዊነስ ፡ ክፍል ፡ በክርስቶስ ፡ ዘቦቱ ፡ ለከ ፡ ምስሌሁ ፡ በል ። ወካዕበ ፡ በል ። እግዚአ ፡ ሕያዋን ፡ ሕይወተ ፡ ሙታን ፡ ተስፋ ፡ ቅቡፃን ፡ ረዳኤ ፡ ምንዱባን ፡ ወመንጽሔ ፡ ኃጥአን ፡ ዘሞተ ፡ አፅራዕከ ፡ ወማዕሠረ ፡ ሰይጣን ፡ በቲከከ ፡ ሕይወተ ፡ ለትዝምደ ፡ ሰብአ ፡ ጸጎከ ፡ ኅቤከ ፡ ንስእል ፡ ወናስተበቍዕ ፡ ዘኢትመውት ፡ ለዓለመ ፡ ዓለም ፡ ዘመዝገብ ፡ ሕይወት ፡ ኅቤከ ፡ ውእቱ ፡ በእንተ ፡ እለ ፡ ኖሙ ፡ ወበሃይማኖት ፡ አዕረፉ ፡ አበው ፡ ቀደምት ፡ ሊቃነ ፡ ጳጳሳት ፡ ኤጲስ ፡ ቆጶሳት ፡ ቅወሳውስት ፡ ወዲያቆናት ፡ አናጕስጢስ ፡ ወመዘምራን ፡ ደናግል ፡ ወመነኮሳት ፡ ሕፃናት ፡ ዕቤራት ፡ ወእጓለ ፡ ማውታ ፡ በእንተ ፡ ነፍሰ ፡ ገብሩ ፡ ዕገ ፡ ፫ተ ፡ ጊዜ ፡ በል ። ወበእንተ ፡ ኵሎሙ ፡ እለ ፡ ዝየ ፡ ሀለዉ ፡ ዘአንተ ፡ ኵሎሙ ፡ እለ ፡ ዝየ ፡ ሀለዉ ፡ ዘአንተ ፡ ጸዋዕከ ፡ እምውስተ ፡ ሕዝብከ ፡ በጽድቅ ፡ ወበርትዕ ፡ ሕፅን ፡ ነፍሶሙ ፡ ውስተ ፡ መካን ፡ ሥዑር ፡ ወኀበ ፡ ማየ ፡ ዕረፍት ፡ ውስተ ፡ ሕፅነ ፡ አብርሃም ፡ ይስሐቅ ፡ ወያዕቆብ ፡ በእንተ ፡ ነፍሰ ፡ ገብርከ ፡ አቡነ ፡ ዕገሌ ፡ ፫ተ ፡ ጊዜ ፡ በል ። ዘለዕረፍት ፡ ሥልጣን ፡ ቦቱ ፡ እግዚአብሔር ፡ አምላክነ ።",
+    "title": "ከዊነስ ክፍል በክርስቶስ ዘቦቱ",
+    "turn": "ይ.ካ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (Aba Tume Lisan edition)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 10,
+    "text": "ጸልዩ ፡ በእንተ ፡ እለ ፡ ኖሙ ፡ አበዊነ ፡ ጳጳሳት ፡ ወአበዊነ ፡ ኤጲስ ፡ ቆጶሳት ፡ ወአበዊነ ፡ ቀሳውስት ፡ ወአበዊነ ፡ መነኮሳት ፡ ወአኃዊነ ፡ ሕዝባውያን ፡ ወአኃቲነ ፡ አንስት ፡ ከመ ፡ ያዕርፍ ፡ እግዚእ ፡ ነፍሳቲሆሙ ፡ በሰላም ፡ ወይሥረይ ፡ ለነ ፡ ኃጣውኢነ ።",
+    "title": "ጸልዩ በእንተ እለ ኖሙ",
+    "turn": "ይ.ዲ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (Aba Tume Lisan edition)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 11,
+    "text": "መሐራ ፡ እግዚኦ ፡ ፫ተ ፡ ጊዜ ፡ በል ።",
+    "title": "መሐራ እግዚኦ ተ ጊዜ",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (Aba Tume Lisan edition)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 12,
+    "text": "እግዚአብሔር ፡ አምላክነ ፡ ዘኵሎ ፡ ትእኅዝ ፡ ንስእለከ ፡ ወናስተበቍዓከ ፡ አግብርቲከ ፡ ወአዕማቲከ ፡ በእንተ ፡ ነፍ. ፡ ገብ. ፡ አቡ ፡ ዕገ ፡ ፫ ፡ ጊዜ ፡ በል ።",
+    "title": "እግዚአብሔር አምላክነ ዘኵሎ ትእኅዝ",
+    "turn": "ይ.ካ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (Aba Tume Lisan edition)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 13,
+    "text": "መሐራ ፡ እግዚኦ ፡ ፫ ፡ ጊዜ ፡ በል ።",
+    "title": "መሐራ እግዚኦ ጊዜ በል",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (Aba Tume Lisan edition)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 14,
+    "text": "ወበእንተ ፡ ኵሎሙ ፡ እለ ፡ ዝየ ፡ ሀለዉ ፡ ዘአንተ ፡ ጸዋዕከ ፡ እምውስተ ፡ ሕዝብከ ፡ በጽድቅ ፡ ወበርትዕ ፡ አዕርፍ ፡ ነፍሶሙ ፡ ውስተ ፡ መካን ፡ ሥዑር ፡ ወኅበ ፡ ማየ ፡ ዕረፍት ፡ ውስተ ፡ ሕፅነ ፡ አብርሃም ፡ ይስሐቅ ፡ ወያዕቆብ ፡ በመራሕያነ ፡ ብርሃን ፡ መላእክቲከ ፡ ሕፅን ፡ ነፍሶሙ ፡ ምስለ ፡ ቅዱሳኒከ ፡ ውስተ ፡ ዘለዓለም ፡ ማኅደርከ ፡ ወሥጋሆሙኒ ፡ አንሥእ ፡ በዕለተ ፡ ዐደምከ ፡ እንተ ፡ ባቲ ፡ ሠራዕከ ፡ በከመ ፡ ቅዱስ ፡ ወቡሩከ ፡ ዘኢይትሔሰው ፡ ተስፋከ ፡ ዘበሰማያት ፡ መንግሥትከ ።",
+    "title": "ወበእንተ ኵሎሙ እለ ዝየ",
+    "turn": "ይ.ካ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (Aba Tume Lisan edition)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 15,
+    "text": "መሐራ ፡ እግዚኦ ፡ ፫ጊዜ ፡ በል ።",
+    "title": "መሐራ እግዚኦ ጊዜ በል",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (Aba Tume Lisan edition)",
+      "language": "gez"
+    }
+  },
+  {
+    "sortOder": 16,
+    "text": "እስመ ፡ አልቦሙ ፡ ለአግብርቲከ ፡ ሞት ፡ አላ ፡ ፍልሰት ፡ ወለእመኒ ፡ ቦ ፡ ዘአበሱ ፡ ወዘተሠወሮሙ ፡ ሕገ ፡ ሰብእ ፡ አናሕሲ ፡ ሎሙ ፡ እስመ ፡ ኄር ፡ ወመፍቀሬ ፡ ሰብእ ፡ አንተ ፡ እግዚአብሔር ፡ እስመ ፡ አልቦ ፡ ንጹሕ ፡ እምርስሐት ፡ በቅድሜከ ። ወለእመኒ ፡ ቦ ፡ አሐተ ፡ ሰዓተ ፡ ሐይዉ ፡ በዲበ ፡ ምድር ፡ ማኅለፍታተ ፡ ነፍሶሙ ፡ ግዑዘ ፡ ዘእንበለ ፡ ክልአት ፡ አንተ ፡ ጸጉ ፡ መንፈስ ፡ ናዛዜ ፡ ወመናኅየ ፡ ለሰብኦሙ ፡ ፈኑ ፡ ናዝዞሙ ፡ ወአስተፍሥሖሙ ፡ በክርስቶስ ፡ ዘቦቱ ፡ ለከ ፡ ምስሌሁ ፡ በል ።",
+    "title": "እስመ አልቦሙ ለአግብርቲከ ሞት",
+    "turn": "ይ.ካ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (Aba Tume Lisan edition)",
+      "language": "gez"
+    }
+  }
+]

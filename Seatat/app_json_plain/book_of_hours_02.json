@@ -1,0 +1,746 @@
+/*
+ * Title:      ሰዓታት — ፪. ይትባረክ — Book of Hours (Seatat) — Section 2
+ * Language:   Ge'ez, with the Amharic translation where the book has it
+ * Source:     Mets'hafe Se'atat in Ge'ez and Amharic (night and dawn);
+ *             Amharic translation by Aleqa Mekonnen Solomon of Debre Libanos,
+ *             Tensae Zegubae Press. Text typed and edited from the printed
+ *             book by Abraham Sisay. Passages the book lacks are supplied
+ *             from the Se'atat text this app already had (EOTC traditional
+ *             liturgy), marked in the entry metadata.
+ * Ownership:  This text belongs to the Ethiopian Orthodox Tewahedo Church.
+ *             It is the Church's public heritage and is not the property of
+ *             any individual, publisher or application.
+ * Status:     Public content, shared for the faithful.
+ * Note:       This notice is metadata only and is never shown in the app.
+ */
+[
+  {
+    "sortOder": 0,
+    "text": "ይትባረክ ፡ እግዚአብሔር ፡ አምላክ ፡ እስራኤል ፡ ዘገብረ ፡ ዐቢየ ፡ ወመንክረ ፡ ባሕቲቱ ፡ ወይትባረክ ፡ ስመ ፡ ስብሐቲሁ ፡ ቅዱስ ።",
+    "title": "ይትባረክ እግዚአብሔር አምላክ እስራኤል",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 1,
+    "text": "ወይምላእ ፡ ስብሐቲሁ ፡ ኲሎ ፡ ምድረ ፡ ለይኩን ፡ ለይኩን ።",
+    "title": "ወይምላእ ስብሐቲሁ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 2,
+    "text": "ቅዱስ ፡ ቅዱስ ፡ ቅዱስ ፡ እግዚአብሔር ፡ ጸባዖት ፡ ፍጹም ፡ ምሉዕ ፡ ሰማያተ ፡ ወምድረ ።",
+    "amh": "ጽኑዕ ፡ ክቡር ፡ ፍጹም ፡ አቸናፊ ፡ እግዚአብሔር ፡ የጌትነትህ ፡ ምስጋና ።",
+    "title": "ቅዱስ ቅዱስ ቅዱስ እግዚአብሔር ጸባዖት",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 3,
+    "text": "ቅድሳተ ፡ ስብሓቲከ ።",
+    "amh": "በሰማይ ፡ በምድር ፡ የመላ ፡ ነው ።",
+    "title": "ቅዱስ ቅዱስ ቅዱስ እግዚአብሔር ጸባዖት",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 4,
+    "text": "ቅዱስ ፡ ቅዱስ ፡ ቅዱስ ፡ እግዚአብሔር ፡ ዘእምቅድመ ፡ ዓለም ፡ ሀሎ ፡ ወይሄሉ ፡ እስከ ፡ ለዓለም ።",
+    "amh": "ቅድመ ፡ ዓለም ፡ የነበረ ፡ ዓለምን ፡ አሳልፎ ፡ የሚኖር ፡ እግዚአብሔር ፡ ጽኑዕ ፡ ነው ፡ ክቡር ፡ ነው ፡ ልዩ ፡ ነው ።",
+    "title": "ዘእምቅድመ ዓለም ሀሎ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 5,
+    "text": "ቅዱስ ፡ ቅዱስ ፡ ቅዱስ ፡ እግዚአብሔር ፡ ዘይሴባሕ ፡ እምትጉሃን ፡ ወይትቄደስ ፡ እምቅዱሳን ።",
+    "amh": "ክቡራን ፡ ትጉሃን ፡ የሆኑ ፡ መላእክት ፡ የሚያመሰግኑት ፡ እግዚአብሔር ፡ ጽኑዕ ፡ ነው ፡ ክቡር ፡ ነው ፡ ልዩ ፡ ነው ።",
+    "title": "ዘይሴባሕ እምትጉሃን",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 6,
+    "text": "ቅዱስ ፡ ቅዱስ ፡ ቅዱስ ፡ እግዚአብሔር ፡ ዘይፈርህዎ ፡ ኪሩቤል ፡ ወእምግርማሁ ፡ ይርዕዱ ፡ ሱራፌል ።",
+    "amh": "ኪሩቤል ፡ የሚፈሩት ፡ ከግርማውም ፡ የተነሣ ፡ ሱራፌል ፡ የሚርዱ ፡ የሚንቀጠቀጡለት ፡ እግዚአብሔር ፡ ጽኑዕ ፡ ነው ፡ ክቡር ፡ ነው ፡ ልዩ ፡ ነው ።",
+    "title": "ዘይፈርህዎ ኪሩቤል",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 7,
+    "text": "ቅዱስ ፡ ቅዱስ ፡ ቅዱስ ፡ እግዚአብሔር ፡ ዘይመይጦ ፡ ለመብረቅ ፡ ወያጸንዖ ፡ ለነጐድጓድ ።",
+    "amh": "መብረቅን ፣ ከቊጣ ፡ የሚመልሰው ፡ ነጐድጓድን ፡ ጸጥ ፡ የሚያደርገው ፡ እግዚአብሔር ፡ ጽኑዕ ፡ ነው ፡ ክቡር ፡ ነው ፡ ልዩ ፡ ነው ።",
+    "title": "ዘይመይጦ ለመብረቅ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 8,
+    "text": "ቅዱስ ፡ ቅዱስ ፡ ቅዱስ ፡ እግዚአብሔር ፡ ዘይክዕዎ ፡ ለጽልመት ፡ ፍና ፡ ሠርክ ፡ ወይመይጦ ፡ ለብርሃን ፡ መንገለ ፡ መስዕ ።",
+    "amh": "በሠርክ ፡ ጊዜ ፡ ጨለማን ፡ የሚያፈሰው ፡ (የሚያመጣው) ፡ ብርሃንን ፡ ወደመስዕ ፡ የሚመልሰው ፡ እግዚአብሔር ፡ ጽኑዕ ፡ ነው ፡ ክቡር ፡ ነው ፡ ልዩ ፡ ነው ።",
+    "title": "ዘይክዕዎ ለጽልመት",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 9,
+    "text": "ቅዱስ ፡ ቅዱስ ፡ ቅዱስ ፡ እግዚአብሔር ፡ ዘአኰነኖ ፡ መዓልተ ፡ ለፀሐይ ፡ ከመ ፡ ያብርህ ፡ ለነ ፡ ውስተ ፡ ጠፈረ ፡ ሰማይ ።",
+    "amh": "በጠፈር ፡ ሁኖ ፡ ያበራልን ፡ ዘንድ ፡ ፀሐይን ፡ በመዓልት ፡ ያሠለጠነው ፡ ያስገዛው ፡ እግዚአብሔር ፣ ጽኑዕ ፡ ነው ፡ ክቡር ፡ ነው ፡ ልዩ ፡ ነው ።",
+    "title": "ዘአኰነኖ መዓልተ ለፀሓይ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 10,
+    "text": "ቅዱስ ፡ ቅዱስ ፡ ቅዱስ ፡ እግዚአብሔር ፡ ዝአኰነኖሙ ፡ ለወርህ ፡ ወለከዋክብት ፡ ከመ ፡ ይሰልጡ ፡ ግብሮሙ ፡ በሌሊት ።",
+    "amh": "ጨረቃ ፡ ከዋክብትንም ፡ ሥራቸውን ፡ በሌሊት ፡ ይፈጽሙ ፡ ዘንድ ፡ ያሠለጠናቸው ፡ እግዚአብሔር ፡ ጽኑዕ ፡ ነው ፡ ክቡር ፡ ነው ፡ ልዩ ፡ ነው ።",
+    "title": "ዘአኰነኖሙ ለወርኅ ወለከዋክብት",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 11,
+    "text": "ቅዱስ ፡ ቅዱስ ፡ ቅዱስ ፡ እግዚአብሔር ፡ ዘይሬስዮሙ ፡ ለመላእክቲሁ ፡ መንፈሰ ፡ ወለእለ ፡ ይትለአክዎ ፡ ነደ ፡ እሳት ።",
+    "amh": "የሚያገለግሉት ፡ መላእክትንም ፡ ከእሳት ፡ ከነፋስ ፡ የፈጠራቸው ፡ እግዚአብሔር ፡ ጽኑዕ ፡ ነው ፡ ክቡር ፡ ነው ፡ ልዩ ፡ ነው ።",
+    "title": "ዘይሬስዮሙ ለመላእክቲሁ መንፈሰ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 12,
+    "text": "ቅዱስ ፡ ቅዱስ ፡ ቅዱስ ፡ እግዚአብሔር ፡ ዘረበቦ ፡ ለሰማይ ፡ ከመ ፡ ሐይመት ፡ ወአጽንዓ ፡ ለምድር ፡ ዲበ ፡ ማይ ።",
+    "amh": "ሰማይን ፡ እንደድንኳን ፡ የዘረጋው ፡ ምድርንም ፡ በውሃ ፡ ላይ ፡ ያጸናት ፡ እግዚአብሔር ፡ ጽኑዕ ፡ ነው ፡ ክቡር ፡ ነው ፡ ልዩ ፡ ነው ።",
+    "title": "ዘረበቦ ለሰማይ ከመ ሐይመት",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 13,
+    "text": "ቅዱስ ፡ ቅዱስ ፡ ቅዱስ ፡ እግዚአብሔር ፡ ዘገብሮ ፡ ለአዳም ፡ በዘዚአሁ ፡ አርኣያ ፡ ወአምሳል ።",
+    "amh": "አዳምን ፡ በሱ ፡ አምሳል ፡ የፈጠረ ፡ እግዚአብሔር ፡ ጽኑዕ ፡ ነው ፡ ክቡር ፡ ነው ፡ ልዩ ፡ ነው ።",
+    "title": "ዘገብሮ ለአዳም በዘዚአሁ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 14,
+    "text": "ቅዱስ ፡ ቅዱስ ፡ ቅዱስ ፡ እግዚአብሔር ፡ ዘምስለ ፡ ኖኅ ፡ ኪዳነ ፡ ዘዓቀመ ።",
+    "amh": "ከኖኅ ፡ ጋራ ፡ መሐላውን ፡ ያጸና ፡ እግዚአብሔር ፡ ጽኑዕ ፡ ክቡር ፡ ልዩ ፡ ነው ።",
+    "title": "ዘምስለ ኖኅ ኪዳነ ዘዐቀመ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 15,
+    "text": "ቅዱስ ፡ ቅዱስ ፡ ቅዱስ ፡ እግዚአብሔር ፡ ዘሠርዐ ፡ ለአብርሃም ፡ ወመሐለ ፡ ለይስሐቅ ፡ ወዓቀመ ፡ ስምዐ ፡ ለያዕቆብ ።",
+    "amh": "ለያዕቆብ ፡ የመሰከረ ፡ ለይስሐቅ ፡ የማለ ፡ ለአብርሃም ሕግን ፡ የሠራ ፡ እግዚአብሔር ፡ ጽኑዕ ፡ ክቡር ፡ ልዩ ፡ ነው ።",
+    "title": "ዘሠርዐ ለአብርሃም",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 16,
+    "text": "ቅ ፡ ቅ ፡ ቅ ፣ እግዚአብሔር ፡ ዝምስለ ፡ ዮሴፍ ፡ ተሰይጠ ፡ ከመ ፡ ይኩን ፡ ሲሳየ ፡ ለሕዝብ ።",
+    "amh": "ለወገኖቹ ፡ ምግብ ፡ ይሆን ፡ ዘንድ ፡ ወገኖቹን ፡ ይመግብ ፡ ዘንድ ፡ እንደ ፡ ዮሴፍ ፡ በዮሴፍ ፡ አምሳል ፡ የተሸጠ ፡ እግዚአብሔር ፡ ጽኑዕ ፡ ክቡር ፡ ልዩ ፡ ነው ።",
+    "title": "ዘምስለ ዮሴፍ ተሠይጠ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 17,
+    "text": "ቅ ፡ ቅ ፡ ቀ ፡ እግዚአብሔር ፡ ዘወሀበ ፡ ሕገ ፡ ለሙሴ ።",
+    "amh": "ለሙሴ ፡ ሕግን ፡ የሰጠ ፡ እግዚአብሔር ፡ ጽኑዕ ፡ ክቡር ፡ ልዩ ፡ ነው ።",
+    "title": "ዘወሀበ ሕገ ለሙሴ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 18,
+    "text": "ቅ ፡ ቅ ፡ ቅ ፡ እግዚአብሔር ፡ ዘቀደሰ ፡ ክህነቶ ፡ ለአሮን ።",
+    "amh": "የአሮንን ፡ ክህነት ፡ ያከበረ ፡ እግዚአብሔር ፡ ጽኑዕ ፡ ክቡር ፡ ልዩ ፡ ነው ።",
+    "title": "ዘቀደሰ ክህነቶ ለአሮን",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 19,
+    "text": "ቅ ፡ ቅ ፡ ቅ ፡ እግዚአብሔር ፡ ለዳዊት ፡ ዘቀብዖ ፡ ቅብዓ ፡ ትንቢት ፡ ወመንግሥት ።",
+    "amh": "ሀብተ ፡ ትንቢት ፡ ሀብተ ፡ መንግሥት ፡ የሚሆን ፡ ቅብዕን ፡ ቀብቶ ፡ ዳዊትን ፡ ያነገሠ ፡ እግዚአብሔር ፡ ጽኑዕ ፡ ክቡር ፡ ልዩ ፡ ነው ።",
+    "title": "ዘቀብዖ ለዳዊት",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 20,
+    "text": "ቅ ፡ ቅ ፡ ቅ ፡ እግዚአብሔር ፡ ዘበነቢያት ፡ አስተንፈሰ ፡ ከመ ፡ ያስምዕ ፡ ቃሎ ፡ ለሕዝብ ፡ ቅዱስ ፡ ቅዱስ ፡ ቅዱስ ።",
+    "amh": "ለወገኖቹ ፡ ቃሉን ፡ ያሰማ ፡ ዘንድ ፡ በነቢያት ፡ አድሮ ፡ ያናገረ ፡ እግዚአብሔር ፡ ጽኑዕ ፡ ክቡር ፡ ልዩ ፡ ነው ።",
+    "title": "ዘበነቢያት አስተንፈሰ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ቅዱስ ቅዱስ ቅዱስ"
+      ]
+    }
+  },
+  {
+    "sortOder": 21,
+    "text": "እግዚአብሔር ፡ ዘይሴብሕዎ ፡ መላእክት ፡ ወየአኵትዎ ፡ ሥልጣናት ።",
+    "amh": "መላእክት ፡ የሚያመሰግኑት ፡ ሥልጣናት ፡ የሚያገለግሉት ፡ እግዚአብሔር ፡ ጽኑዕ ፡ ክቡር ፡ ልዩ ፡ ነው ።",
+    "title": "ዘይሴብሕዎ መላእክት",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 22,
+    "text": "ግነዩ ፡ ለእግዚአብሔር ፡ ወጸውዑ ፡ ስሞ ፡ ሃሌ ፡ ሉያ ፡ ወንግርዎሙ ፡ ለአሕዛብ ፡ ምግባሮ ።",
+    "amh": "ቅድመ ፡ ዓለም ፡ ለነበረ ፡ ዓለምን ፡ አሳልፎ ፡ ለሚኖር ፡ ለእግዚአብሔር ፡ እየተገዛችሁ ፡ ስሙን ፡ ጥሩ ፡ (አመስግኑ) ፡ ለአሕዛብም ፡ ሥራውን ፡ ንገሯቸው ።",
+    "title": "ግነዩ ለእግዚአብሔር ወጸውዑ ስሞ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ሉያ"
+      ]
+    }
+  },
+  {
+    "sortOder": 23,
+    "text": "ግነዩ ፡ ለእግዚአብሔር ፡ እስመ ፡ ኄር ፡ ሃሌ ፡ ሉያ ፡ እስመ ፡ ለዓለም ፡ ምሕረቱ ።",
+    "amh": "ቅድመ ፡ ዓለም ፤ ለነበረ ፡ ዓለምን ፡ አሳልፎ ፡ ለሚኖር ፡ ለእግዚአብሔር ፡ ተገዙ ። ቸር ፡ ነውና ፡ ቸርነቱ ፡ ለዘለዓለም ፡ ስለሆነ ።",
+    "title": "ግነዩ ለእግዚአብሔር እስመ ኄር",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 24,
+    "text": "ንግሩ ፡ ቤተ ፡ እስራኤል ፡ ከመ ፡ ኄር ፡ ሃሌ ፡ ሉያ ፡ ከመ ፡ ለዓለም ፡ ምሕረቱ ።",
+    "amh": "የእስራኤል ፡ ወገኖች ፡ ቅድመ ፡ ዓለም ፡ የነበረ ፡ ዓለምን ፡ አሳልፎ ፡ የሚኖር ፡ እግዚአብሔር ፡ ቸር ፡ ነውና ፡ ቸርነቱ ፡ ለዘለዓለም ፡ እንደሆነ ፡ ንገሩ ።",
+    "title": "ንግሩ ቤተ እስራኤል ከመ ኄር",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 25,
+    "text": "ንግሩ ፡ ቤተ ፡ አሮን ፡ ከመ ፡ ኄር ፡ ሃሌ ፡ ሉያ ፡ ከመ ፡ ለዓለም ፡ ምሕረቱ ።",
+    "amh": "የአሮን ፡ ወገኖች ፡ ቅድመ ፡ ዓለም ፡ የነበረ ፡ ዓለምን ፡ አሳልፎ ፡ የሚኖር ፡ እግዚአብሔር ፡ ቸር ፡ ነውና ፡ ቸርነቱ ፡ ለዘላለም ፡ እንደሆነ ፡ ንገሩ ።",
+    "title": "ንግሩ ቤተ አሮን ከመ ኄር",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 26,
+    "text": "ንግሩ ፡ ኵልክሙ ፡ እለ ፡ ትፈርህዎ ፡ ለእግዚአብሔር ፡ ከመ ፡ ኄር ፡ ሃሌ ፡ ሉያ ፡ ከመ ፡ ለዓለም ፡ ምሕረቱ ።",
+    "amh": "እግዚአብሔርን ፡ የምትፈሩ ፡ ሁላችሁም ፡ ቅድመ ፡ ዓለም ፡ የነበረ ፡ ዓለምን ፡ አሳልፎ ፡ የሚኖር ፡ ጌታ ፡ ቸር ፡ ነውና ፡ ቸርነቱ ፡ ለዘላለም ፡ እንደሆነ",
+    "title": "ንግሩ ኲልክሙ እለ ትፈርህዎ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 27,
+    "text": "ግነዩ ፡ ለእግዚአብሔር ፡ ለመኰንነ ፡ ጽድቅ ፡ ሃሌ ፡ ሉያ ፡ እስመ ፡ ለዓለም ፡ ምሕረቱ",
+    "amh": "ቅድመ ፡ ዓለም ፡ ለነበረ ፡ ዓለምን ፡ አሳልፎ ፡ ለሚኖር ፡ እውነት ፡ ለሚፈርድ ፡ ለእግዚአብሔር ፡ ተግዙ ፡ ይቅርታው ፡ ለዘላለም ፡ ነውና ።",
+    "title": "ግነዩ ለእግዚአብሔር ለመኰንነ ጽድቅ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 28,
+    "text": "ግነዩ ፡ ለእግዚአብሔር ፡ ለንጉሠ ፡ ርትዕ ፡ ሃሌ ፡ ሉያ ፡ እስመ ፡ ለዓለም ፡ ምሕረቱ ።",
+    "amh": "ቅድመ ፡ ዓለም ፡ ለነበረ ፡ ዓለምን ፡ አሳልፎ ፡ ለሚኖር ፡ ለእውነተኛ ፡ ንጉሥ ፡ ተገዙ ፡ ይቅርታው ፡ ለዘላለም ፡ ነውና ።",
+    "title": "ግነዩ ለእግዚአብሔር ለንጉሠ ርትዕ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 29,
+    "text": "ግነዩ ፡ ለእግዚአብሔር ፡ ለአኃዜ ፡ ዓለም ፡ ሃሌ ፡ ሉያ ፡ እስመ ፡ ለዓለም ፡ ምሕረቱ ።",
+    "amh": "ቅድመ ፡ ዓለም ፡ የነበረ ፡ ዓለምን ፡ አሳልፎ ፡ የሚኖር ፤ ዓለምን ፡ ጨብጦ ፡ ለያዘ ፡ ለእግዚአብሔር ፡ ተገዙ ፡ ይቅርታው ፡ ለዘላላም ፡ ነውና ።",
+    "title": "ግነዩ ለእግዚአብሔር ለአኀዜ ዓለም",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 30,
+    "text": "ግነዩ ፡ ለእግዚአብሔር ፡ ለብርሃነ ፡ ቅዱሳን ፡ ሃሌ ፡ ሉያ ፡ እስመ ፡ ዓለም ፡ ምሕረቱ ።",
+    "amh": "ቅድመ ፡ ዓለም ፡ ለነበረ ፡ ዓለምን ፡ አሳልፎ ፡ ለሚኖር ፡ ለቅዱሳን ፡ ብርሃን ፡ ለሚሆን ፡ ለእግዚአብሔር ፡ ተገዙ ፡ ቸርነቱ ፡ ለዘላለም ፡ ነውና ።",
+    "title": "ግነዩ ለእግዚአብሔር ለብርሃነ ቅዱሳን",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 31,
+    "text": "ግነዩ ፡ ለእግዚአብሔር ፡ ለአክሊለ ፡ ንጹሐን ፡ ሃሌ ፡ ሉያ ፡ እስመ ፡ ለዓለም ፡ ምሕረቱ ።",
+    "amh": "ቅድመ ፡ ዓለም ፡ ለነበረ ፡ ዓለምን ፡ አሳልፎ ፡ ለሚኖር ፡ የንጹሐን ፡ ክብራቸው ፡ ዘውዳቸው ፡ ለሚሆን ፡ እግዚአብሔር ፡ ተገዙ ፡ ይቅርታው ፡ ለዘላለም ፡ ነውና ።",
+    "title": "ግነዩ ለእግዚአብሔር ለአክሊለ ንጹሓን",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 32,
+    "text": "ግነዩ ፡ ለእግዚአብሔር ፡ ለዓርከ ፡ ብፁዓን ፡ ሃሌ ፡ ሉያ ፡ እስመ ፡ ለዓለም ፡ ምሕረቱ ።",
+    "amh": "ቅድመ ፡ ዓለም ፡ ለነበረ ፡ ዓለምን ፡ አሳልፎ ፧ ለሚኖር ፡ ለደጋጎቹ ፡ ወዳጅ ፡ ለእግዚአብሔር ፡ ተግዙ ፡ ይቅርታው ፡ ለዘላለም ፡ ነውና ።",
+    "title": "ግነዩ ለእግዚአብሔር ለአርከ ብፁዓን",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 33,
+    "text": "ግነዩ ፡ ለአምላከ ፡ አማልክት ፡ ሃሌ ፡ ሉያ ፡ እስመ ፡ ለዓለም ፡ ምሕረቱ ።",
+    "amh": "ቅድመ ፡ ዓለም ፡ ለነበረ ፡ ዓለምን ፡ አሳልፎ ፡ ለሚኖር ፡ ለአማልክት ፡ ፈጣሪ ፡ ለእግዘ ፡ አብሔር ፡ ተገዙ ፤ ይቅርታው ። ለዘላለም ፡ ነውና ።",
+    "title": "ግነዩ ለአምላክ አማልክት",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 34,
+    "text": "ግነዩ ፡ ለእግዚአ ፡ አጋዕዝት ፡ ሃሌ ፡ ሉያ ፡ እስመ ፡ ለዓለም ፡ ምሕረቱ ።",
+    "amh": "ቅድመ ፡ ዓለም ፡ ለነበረ ፡ ዓለምን ፡ አሳልፎ ፡ ለሚኖር ፡ ጌቶቹን ፡ ለሚገዛ ፡ ስእግዚአብሔር ፡ ተገዙ ፡ ይቅርታው ፡ ለዘላለም ፡ ነውና ።",
+    "title": "ግነዩ ለእግዚአ አጋዕዝት",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 35,
+    "text": "ግነዩ ፡ ለአምላከ ፡ ሰማይ ፡ ሃሌ ፡ ሎያ ፡ እስመ ፡ ለዓለም ፡ ምሕረቱ ።",
+    "amh": "ቅድመ ፡ ዓለም ፡ ለነበረ ፡ ዓለምን ፡ አሳልፎ ፡ ለሚኖር ፡ ሰማይን ፡ ለፈጠረ ፡ ለእግዚአብሔር ፡ ተገዙ ፡ ይቅርታው ፡ ለዘላለም ፡ ነውና ።",
+    "title": "ግነዩ ለአምላከ ሰማይ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 36,
+    "text": "ምሕረተከ ፡ እሴብሕ ፡ እግዚኦ ፡ ለዓለም ፡ ሃሌ ፣ ሉያ ፡ እገኒ ፡ ለከ ፡ እግዚኦ ።",
+    "amh": "ቅድመ ፡ ዓለም ፡ የነበርህ ፡ ዓለምን ፡ አሳልፈህ ፡ የምትኖር ፡ መዓትህ ፡ የራቀ ፡ ይቅርታሀ ፡ የበዛ ፡ እውነተኛ ፡ ነህና ፡ አቤቱ ፡ ላንተ ፡ እገዛለሁ ።",
+    "title": "ምሕረተከ እሴብሕ እግዚኦ ለዓለም",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 37,
+    "text": "ምሕረተ ፡ ወፍትሐ ፡ አሐሊ ፡ ለከ ፡ ሃሌ ፡ ሉያ ፡ እገኒ ፡ ለከ ፡ እግዚኦ ።",
+    "amh": "ቅድመ ፡ ዓለም ፡ የነበርህ ፡ ዓለምን ፡ አሳልፈህ ፡ የምትኖር ፡ አቤቱ ፡ ቸርነትህን ፡ ለዘላለሙ ፡ እናገራለሁ ፡ አቤቱ ፡ ላንተም ፡ እገዛለሁ ።",
+    "title": "ምሕረተ ወፍትሐ አኀሊ ለከ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 38,
+    "text": "ምሕረት ፡ ስ ፡ ወጽድቅከ ፡ ዘልፈ ፡ ይርከባኒ ፡ ሃሌ ፡ ሉያ ፡ እገኒ ፡ ለከ ፡ እግዚኦ ።",
+    "amh": "ቅድመ ፡ ዓለም ፡ የነበርህ ፡ ዓለምን ፡ አሳልፈህ ፡ የምትኖር ፡ ስላደረግህልኝ ፡ ፍርድና ፡ ቸርነት ፡ አመሰግንሃለሁ ፡ አቤቱ ፡ ላንተም ፡ እገዛለሁ ።",
+    "title": "ምሕረትከ ወጽድቅከ ዘልፈ ይርከባኒ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 39,
+    "text": "እስመ ፡ መሐሪ ፡ አንተ ፡ እግዚኦ ፡ ወመስተሣህል ፡ ሃሌ ፡ ሉያ ፡ እገኒ ፡ ለከ ፡ እግዚኦ ። ርኁቀ ፡ መዓት ፡ ወብዙኀ ፡ ምሕረት ፡ ወጻድቅ ፡ ሃሌ ፡ ሉያ ፡ እገኒ ፡ ለከ ፡ እግዚኦ",
+    "amh": "ቅድመ ፡ ዓለም ፡ የነበርህ ፡ ዓለምን ፡ አሳልፈህ ፡ የምትኖር ፡ ይቅርታህ ፡ ቸርነትህ ፡ ዘወትር ፡ ያግኙኝ ፡ ይደረጉልኝ ፡ አቤቱ ፡ ላንተም ፡ እገዛለሁ ።",
+    "title": "ርኁቀ መዓት ወብዙኀ ምሕረት",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ሃሌ ሉያ እገኒ ለከ እግዚኦ።",
+        "ርኁቀ መዓት ወብዙኀ ምሕረት ወጻድቅ"
+      ]
+    }
+  },
+  {
+    "sortOder": 40,
+    "text": "እገኒ ፡ ለከ ፡ እግዚኦ ፡ በኵሉ ፡ ልብየ ፡ ሃሌ ፡ ሉያ ፡ ወእነግር ፡ ኵሎ ፡ ስብሓቲከ",
+    "amh": "ቅድመ ፡ ዓለም ፡ የነበርሀ ፡ ዓለምን ፡ አሳልፈህ ፡ የምትኖር ፡ አቤቱ ፡ አንተ ፡ ቸር ፡ ይቅር ፡ ባይ ፡ ነህና ፡ ላንተ ፡ እገዛለሁ ።",
+    "title": "እገኒ ለከ ወእነግር ኲሎ ስብሐቲከ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 41,
+    "text": "እገኒ ፡ ለከ ፡ እግዚኦ ፡ በኵሉ ፡ ልብየ ፡ አምላኪየ ፡ ሃሌ ፡ ሉያ ፡ እስመ ፡ ሰማዕከኒ ፡ ኵሎ ፡ ቃለ ፡ አፉየ ።",
+    "amh": "ቅድመ ፡ ዓለም ፡ የነበርህ ፡ ዓለምን ፡ አሳልፈህ ፡ የምትኖር ፡ አቤቱ ፡ በፍጹም ፡ ልቡናዬ ፡ ላንተ ፡ እገዛለሁ ፡ ምስጋናህንም ፡ ሁሉ ፡ እናገራ ቅድመ ፡ ዓለም ፡ የነበርህ ፡ ዓለምን ፡ አሳልፈህ ፡ የምትኖር ፡ ፈጣሪዬ ፡ ልመናዬን ፡ ሁሉ ፡ ሰምተኸኛልና ፡ አቤቱ ፡ በፍጹም ፡ ልቡናዬ ፡ ላንተ ፡ እገዛለሁ ።",
+    "title": "እገኒ ለከ እስመ ሰማዕከኒ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 42,
+    "text": "አገሯ ፡ ለከ ፡ እግዚኦ ፡ እገኒ ፡ ለከ ፡ ሃሌ ፡ ሉያ ፡ እገኒ ፡ ለከ ፡ ወእጼውዕ ፡ ስመከ ፡ እገኒ ፡ በአፉየ ፡ ለእግዚአብሔር ፡ ፈድፋደ ፡ ሃሌ ፡ ሉያ ፡ ወእሴብሖ ፡ በውስተ ፡ ሕዝብ",
+    "amh": "ቅድመ ፡ ዓለም ፡ የነበርህ ፡ ዓለምን ፡ አሳልፈህ ፡ የምትኖር ፡ አቤቱ ፡ ፈጽሜ ፡ ላንተ ፡ እገዛለሁ ፡ ስምህንም ፡ እጠራለሁ ። ቅድመ ፡ ዓለም ፡ የነበረ ፡ ዓለምን ፡ አሳልፎ ፡ የሚኖር ፡ እግዚአብሔርን ፡ ባንደበቴ ፡ እለምናለሁ ፡ በብዙ ፡ ሕዝብም ፡ መካከል ፡ አመሰግነዋለሁ ።",
+    "title": "እገኒ ለከ ወእጼውዕ ስመከ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 43,
+    "text": "ክቡድ ፡ ስብሓት ፡ ለለጸብ ፡ ለዓለም ፡ ወለዓለመ ፡ ዓለም ፡ ሃሌ ፡ ሉያ ፡ ለትውልደ ፡ ትውልድ ፡ ሎቱ ፡ ይደሉ ፡ ሰጊድ",
+    "amh": "ቅድመ ፡ ዓለም ፡ ለነበሩ ፡ ዓለምን ፡ አሳልፈው ፡ ለሚኖሩ ፡ ለአብ ፡ ለወልድ ፡ ለመንፈስ ፡ ቅዱስ ፡ በኵሉ ፡ ሉ ፡ ጊዜ ፡ ወበኵሉ ፡ ሰዓት ።",
+    "title": "እገኒ በአፉየ ለእግዚአብሔር ፈድፋደ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 44,
+    "text": "ስብሐት ፡ ለአብ ፡ ወወልድ ፡ ወመንፈስ ፡ ቅዱስ ፡ ሃሌ ፡ ሉያ ፡ በኲሉ ፡ ጊዜ ፡ ወበኲሉ ፡ ሰዓት ።",
+    "title": "ስብሐት በኲሉ ጊዜ ወበኲሉ ሰዓት",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 45,
+    "text": "ስብሓት ፡ ለአብ ፡ ወወልድ ፡ ወመንፈስ ፡ ቅዱስ ፡ ሃሌ ፡ ሉያ ፡ በኵሉ ፡ አዝማን ፡ ወበኵሉ ፡ ዓመታት ።",
+    "amh": "ቅድመ ፡ ዓለም ፡ ለነበረ ፡ ዓለምን ፡ አሳልፎ ፡ ለሚኖር ፡ ለሱ ፡ በዚህ ፡ ዓለም ፡ በሚመጣውም ፡ ዓለም ፡ በልጅ ፡ ልጅም ፡ ስግደት ፡ ይገባዋል ።",
+    "title": "ስብሐት በኲሉ አዝማን ወበኲሉ ዓመታት",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 46,
+    "text": "ስብሓት ፡ ለአብ ፡ ልድ ፤ ወመንፈስ ፡ ቅዱስ ፡ ሃሌ ፡ ሉያ ፡ በቅድስት ፡ ቤተ ፡ ክርስቲያን ።",
+    "amh": "ቅድመ ፡ ዓለም ፡ ለነበሩ ፡ ዓለምን ፡ አሳልፈው ፡ ለሚኖሩ ፡ ላአብ ፡ ለወልድ ፡ ለመንፈስ ፡ ቅዱስ ፡ በያመቱ ፡ በየ ፡ ዘመኑ ፡ ሁሉ ፡ ምስጋና ፡ ይገባቸዋል ።",
+    "title": "ስብሐት በቅድስት ቤተ ክርስቲያን",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 47,
+    "text": "ለዓለም ፡ ወለዓለመ ፡ ዓለም ፡ ሃሌ ፡ ሉያ ፡ ለትውልደ ፡ ትውልድ ፡ ሎቱ ፡ ይደሉ ፡ ሰጊድ ።",
+    "title": "ለዓለም ወለዓለመ ዓለም",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 48,
+    "text": "እዌድሰኪ ፡ ኦ ፡ ድንግል ፡ ምልዕተ ፡ ውዳሴ ፡ መጠነ ፡ ይክል ፡ አፉየ ፡ አስተበፅዕ ፡ ዕበየኪ ፡ ማርያም ። ።",
+    "amh": "ቅድመ ፡ ዓለም ፡ ለነበሩ ፡ ዓለምን ፡ አጎልፈው ፡ ለሚኖሩ ፡ ለአብ ፡ ለወልድ ፡ ለመንፈስ ፡ ቅዱስ ፡ በከበረች ፡ ቤተ ፡ ክርስቲያን ፡ ምስጋና ፡ ይገባቸዋል ።",
+    "title": "እዌድስኪ ኦ ድንግል ምልእተ ውዳሴ",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ማርያም።"
+      ]
+    }
+  },
+  {
+    "sortOder": 49,
+    "text": "ልሳነ ፡ ኪሩቤል ፡ ኢይክል ፡ አብጽሖ ፡ ውዳሴኪ ፡ ወአፈ ፡ ሱራፌል ፡ ኢይፌጽም ፡ ነጊረ ፡ ዕበየኪ ፡ ማርያም ።",
+    "amh": "ክብር ፡ ምስጋናን ፡ የተመላሽ ፡ ድንግል ፡ ሆይ ፡ አንደበቴ ፡ የሚችለውን ፡ ያህል ፡ አንቺን ፡ እያመሰገንሁ ፡ ገናንነትሽን ፡ አደንቃለሁ ። እመቤታችን ፡ ሆይ ፡ የኪሩቤል ፡ አንደበት ፡ ምስጋናሽን ፡ ማድረስ ፡ አይቻለውም ፡ የሱራፌልም ፡ አንደበት ፡ ገናንነትሽን ፡ ተናግሮ ፡ አይፈጽመውም ።",
+    "title": "ልሳነ ኪሩቤል ኢይክል",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 50,
+    "text": "ትትሌዓሊ ፡ እምአድባር ፡ ወእምአርእስተ ፡ አውግር ፡ ነዋኀት ። ናዓብየኪ ፡ ኦቡርክት ፡ ማኅፈደ ፡ መለኮት ፡ ማርያም ፡ ጽበተ ።",
+    "amh": "ከታላላቆቹ ፡ ተራሮች ፡ ማለት ፡ ከደጋጎቹ ፡ አባቶችሽ ፡ ትበልጫለሽ ፡ የመለኮት ፡ ማደሪያው ፡ ክብርት ፡ እመቤታችን ፡ ሆይ ፡ እናከብርሻለን ፡ እናገንሻለን ።",
+    "title": "ትትሌዐሊ እምአድባር",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ጽበተ"
+      ]
+    }
+  },
+  {
+    "sortOder": 51,
+    "text": "ከርሥኪ ፡ ሰፍሐ ፡ እምርኅበ ፡ ሰማይ ፡ ወፀዳልኪ ፡ አብርሀ ፡ እምብርሃነ ፡ ፀሐይ",
+    "amh": "የማኅፀንሽ ፡ ጽበት ፡ ከሰማይ ፡ ስፋት ፡ ይልቅ ፡ የበዛ ፡ ነው ፡ ብሩህነትሽም ፡ ከፀሐይ ፡ ብርሃን ፡ ይልቅ ፡ የበለጠ ፡ ነው ።",
+    "title": "ጽበተ ከርሥኪ ሰፍሐ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 52,
+    "text": "አስከሬነ ፡ ወርቅ ፡ ጽሩይ ፡ መዝገበ ፡ ባሕርይ ፡ ክት ፡ አንቲ ፡ ማርያም",
+    "amh": "የጠራ ፡ የወርቅ ፡ ሳጥን ፡ የዕንቍ ፡ ማኖሪያ ፡ አንቺ ፡ ነሽ ፡ ክብርት ፡ እመቤታችን",
+    "title": "ጽበተ ከርሥኪ ሰፍሐ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 53,
+    "text": "ውድስት ፡ አንቲ ፡ በአፈ ፡ ነቢያት ፡ ወስብሕት ፡ በሐዋርያት ፡ አክሊለ ፡ በረከቱ ፡ ለያዕቆብ ፡ ወትምክህተ ፡ ቤቱ ፡ ለእስራኤል ፡ ሠርፀ",
+    "amh": "በነቢያት ፡ በሐዋርያት ፡ ይኸውም ፡ በራስህ ፡ አንደበት ፡ የተመሰገንሽ ፡ የያዕቆብ ፡ የበረከቱ ፡ ዘውድ ፡ የእስራኤል ፡ ወገን ፡ መመኪያ ፡ አንቺ ፡ ነሽ ።",
+    "title": "ውድስት አንቲ በአፈ ነቢያት",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ሠርፀ",
+        "ለያዕቆብ"
+      ]
+    }
+  },
+  {
+    "sortOder": 54,
+    "text": "መንግሥት ፡ ምሥርወ ፡ ዕሤይ ፡ ወጽጌ ፡ ንጽሕት ፡ ዘእምጕንደ ፡ ዳዊት ፡ ወብኪ ፡ ይትሜዐዙ ፡ ኲሎሙ ፡ ቅዱሳን ።",
+    "amh": "ከዕሤይ ፡ ሥር ፡ የተገኘሽ ፡ የመንግሥት ፡ ቡቃያ ፡ ከዳዊት ፡ ግንድ ፡ የተገኘሽ ፡ ቅዱሳን ፡ የሚቀቡሽ ፡ (የሚከብሩብሽ) ፡ ንጽሕት ፡ አበባ ፡ አንቺ ፡ ነሽ ።",
+    "title": "ሠርፀ መንግሥት ዘእምሥርወ ዕሴይ",
+    "turn": "በንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ወብኪ ይትሜዐዙ ኲሎሙ ቅዱሳን።"
+      ]
+    }
+  },
+  {
+    "sortOder": 55,
+    "text": "ንሰግድ ፡ ለኪ ፡ ኦንግሥት ፡ ወናንቀዓዱ ፡ ኀበ ፡ ወልድኪ ፡ አኃዜ ፡ ዓለም",
+    "amh": "ንግሥት ፡ ሆይ ፡ ላንቺ ፡ እንሰግዳለን ፡ ዓለሙን ፡ ወደያዘ ፡ ልጅሽም ፡ እንለምናለንና",
+    "title": "ንሰግድ ለኪ ኦ ንግሥት",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 56,
+    "text": "ስፍሒ ፡ እዴኪ ፡ ወባርኪ ፡ ላዕሌነ ፡ ለለ ፡ ፩፩ ፡ ለአግብርቲከ",
+    "amh": "እያንዳንዳችን ፡ እኛ ፡ አገልጋዮችሽን ፡ እጅሽን ፡ ዘርግተሽ ፡ ባርኪን",
+    "title": "ንሰግድ ለኪ ኦ ንግሥት",
+    "turn": "በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 57,
+    "text": "እግዚኦ ፣ መሐረነ ፡ ክርስቶስ ፡ እግዚኦ ፡ መሐረነ ፡ ክርስቶስ ። እግዚኦ ፡ መሐረነ ፡ ክርስቶስ ።",
+    "amh": "አሥራ ፡ ሁለት ፡ ጊዜ ፡ አቤቱ ፡ ክርስቶስ ፡ ይቅር ፡ በለን ፡ እንበል ፤",
+    "title": "እግዚኦ መሐረነ ክርስቶስ",
+    "turn": "በንፍቅ › በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "እግዚኦ መሐረነ ክርስቶስ። እግዚኦ መሐረነ ክርስቶስ።"
+      ]
+    }
+  },
+  {
+    "sortOder": 58,
+    "text": "ባርክነ ፡ እግዚኦ ፡ አምላክነ ፤ ውስተ ፡ ኑኀ ፡ ሰማይ ፤ ተወከፍ ፡ ጸሎተነ ፤ መሐረነ ፡ እግዚኦ ፤ ወተሣሃለነ ።",
+    "title": "ባርክነ እግዚኦ አምላክነ",
+    "turn": "በንፍቅ › በአሳዳሪ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  }
+]

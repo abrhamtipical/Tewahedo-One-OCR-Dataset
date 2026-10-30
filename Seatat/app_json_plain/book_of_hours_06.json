@@ -1,0 +1,727 @@
+/*
+ * Title:      ሰዓታት — ፮. ምንባብ — Book of Hours (Seatat) — Section 6
+ * Language:   Ge'ez, with the Amharic translation where the book has it
+ * Source:     Mets'hafe Se'atat in Ge'ez and Amharic (night and dawn);
+ *             Amharic translation by Aleqa Mekonnen Solomon of Debre Libanos,
+ *             Tensae Zegubae Press. Text typed and edited from the printed
+ *             book by Abraham Sisay. Passages the book lacks are supplied
+ *             from the Se'atat text this app already had (EOTC traditional
+ *             liturgy), marked in the entry metadata.
+ * Ownership:  This text belongs to the Ethiopian Orthodox Tewahedo Church.
+ *             It is the Church's public heritage and is not the property of
+ *             any individual, publisher or application.
+ * Status:     Public content, shared for the faithful.
+ * Note:       This notice is metadata only and is never shown in the app.
+ */
+[
+  {
+    "sortOder": 0,
+    "text": "ኲሉ ፡ ዘኢያፈቅሮ ፡ ለእግዚእነ ፡ ወመድኃኒነ ፡ ኢየሱስ ፡ ክርስቶስ ፡ ወዘኢየአምን ፡ ልደቶ ፡ እማርያም ፡ እምቅድስት ፡ ድንግል ፡ በ፪ ፡ ታቦተ ፡ መንፈስ ፡ ቅዱስ ፡ እስከ ፡ ምጽአቱ ፡ ሐዳስ ፡ በከመ ፡ ይቤ ፡ ጳውሎስ ፡ ውጉዘ ፡ ለይኩን ።",
+    "amh": "ጌታችንንና መድኃኒታችንን ኢየሱስ ክርስቶስን የማይወደው የመንፈስ ቅዱስ ማደሪያ በሁለት ወገን ድንግል ከምትሆን ከቅድስት ማርያም መወለዱን የማያምን ሰው ቢኖር እንግዳ እስከሚሆን ምጽአቱ ድረስ ቅዱስ ጳውሎስ እንደ ተናገረ የተለየ ይሁን።",
+    "title": "መልእክተ ጳውሎስ",
+    "turn": "ይ.ዲ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 1,
+    "text": "አሳዳሪ ፡ ዲያቆን ፡ የዕለቱን ፡ የጳውሎስ ፡ መልእክት ፡ ያንብብ ።",
+    "title": "ንባብ",
+    "turn": "",
+    "readings": [
+      {
+        "readingAmh": "፩ ቆሮ ም ፲፭፥፶፩ - ም ፲፮፥፫ \n እነሆ አንድ ምሥጢር እነግራችኋለሁ፤ ሁላችን አናንቀላፋም ነገር ግን የኋለኛው መለከት ሲነፋ ሁላችን በድንገት በቅጽበት ዓይን እንለወጣለን፤ መለከት ይነፋልና ሙታንም የማይበሰብሱ ሆነው ይነሣሉ እኛም እንለወጣለን። \n ይህ የሚበሰብሰው የማይበሰብሰውን ሊለብስ ይህም የሚሞተው የማይሞተውን ሊለብስ ይገባዋልና። \n ዳሩ ግን ይህ የሚበሰብሰው የማይበሰብሰውን ሲለብስ ይህም የሚሞተው የማይሞተውን ሲለብስ፥ በዚያን ጊዜ። \n ሞት ድል በመነሣት ተዋጠ ተብሎ የተጻፈው ቃል ይፈጸማል። \n ሞት ሆይ፥ መውጊያህ የት አለ? \n ሲኦል ሆይ፥ ድል መንሣትህ የት አለ? \n የሞት መውጊያ ኃጢአት ነው የኃጢአትም ኃይል ሕግ ነው፤ ነገር ግን በጌታችን በኢየሱስ ክርስቶስ በኩል ድል መንሣትን ለሚሰጠን ለእግዚአብሔር ምስጋና ይሁን። \n ስለዚህ፥ የተወደዳችሁ ወንድሞቼ ሆይ፥ ድካማችሁ በጌታ ከንቱ እንዳይሆን አውቃችኋልና የምትደላደሉ፥ የማትነቃነቁም፥ የጌታም ሥራ ሁልጊዜ የሚበዛላችሁ ሁኑ። \n ቅዱሳንም ገንዘብን ስለ ማዋጣት፥ ለገላትያ አብያተ ክርስቲያናት እንደ ደነገግሁት እናንተ ደግሞ እንዲሁ አድርጉ። \n እኔ ስመጣ ይህ የገንዘብ ማዋጣት ያን ጊዜ እንዳይሆን፥ ከእናንተ እያንዳንዱ በየሳምንቱ በፊተኛው ቀን እንደ ቀናው መጠን እያስቀረ በቤቱ ያስቀምጥ። \n ስመጣም ማናቸውም ቢሆኑ የታመኑ የሚመስሉአችሁ ሰዎች ቸርነታችሁን ወደ ኢየሩሳሌም ያደርሱ ዘንድ ደብዳቤ ሰጥቼ እልካቸዋለሁ።",
+        "readingEng": "1 Corinthians 15:51–16:3 \n Behold, I shew you a mystery; We shall not all sleep, but we shall all be changed, \n In a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed. \n For this corruptible must put on incorruption, and this mortal must put on immortality. \n So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory. \n O death, where is thy sting? O grave, where is thy victory? \n The sting of death is sin; and the strength of sin is the law. \n But thanks be to God, which giveth us the victory through our Lord Jesus Christ. \n Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord. \n Now concerning the collection for the saints, as I have given order to the churches of Galatia, even so do ye. \n Upon the first day of the week let every one of you lay by him in store, as God hath prospered him, that there be no gatherings when I come. \n And when I come, whomsoever ye shall approve by your letters, them will I send to bring your liberality unto Jerusalem.",
+        "readingGeez": "፩ ቆሮ ም ፲፭፥፶፩ - ም ፲፮፥፫  \n ናሁ ኅቡአ ነገረ እነግረክሙ አኮ ኵልነ ዘንመውት ወባሕቱ ኵልነ ንትዌለጥ በምዕር ከመ ቅፅበተ ዐይን በደኃሪ ንፍኅተ ቀርን ወይነፍኁ ቀርነ ወይትነሥኡ ምውታን እንዘ ኢይትነከዩ ወንሕነኒ ንትዌለጥ። እስመ ሀለዎ ለዝንቱ ዘይማስን ይልበስ ዘኢይማስን ወዝንቱ መዋቲ ይልበስ ዘኢይመውት ወአመ ለብሰ ዝንቱ መዋቲ ዘኢይመውት ውእተ አሚረ ይበጽሕ ቃል ዘተጽሕፈ ተሠጥመ ሞት ውስተ ሙዓት አይቴ እንከ ቀኖትከ ሞት ወአይቴ መዊዖትከ ሲኦል። ወቀኖቱሰ ለሞት ኃጢአት ወኃይላኒ ለኃጢአት ኦሪት። ወለእግዚአብሔር አኰቴት ዘወሀበነ ንማዕ በእግዚእነ ኢየሱስ ክርስቶስ። ወይእዜኒ አኅዊነ ፍቁራን ኩኑ ጽኑአነ ወድልዋነ ወኢታንቀልቅሉ እምሃይማኖት ወአብዝኁ ገቢር ለእግዚአብሔር ዘልፈ ተአምሩ ከመ ኢኮነ ለከንቱ ዘጻመውክሙ በእንተ እግዚእነ። ወበእንተ አስተጋብኦስ ለቅዱሳን በከመ ሠራዕክዎሙ ለቤተክርስቲያን ዘገላትያ ከማሁ አንትሙሂ ግበሩ በበእሁድ። ኵሉ ብእሲ እምኔክሙ ይዝግበ ሎቱ ዘተሠርሐ ወዘረከበ በቤቱ ይዕቅብ ከመ ኢይኩን ቅሥት አመ መጻእኩ።",
+        "readingTitle": "ዘእሁድ"
+      },
+      {
+        "readingAmh": "ተሰለሎንቄ ፬፥፲፭-ፍም \n በጌታ ቃል የምንላችሁ ይህ ነውና፤ እኛ ሕያዋን ሆነን ጌታ እስኪመጣ ድረስ የምንቀር ያንቀላፉቱን አንቀድምም፤ ጌታ ራሱ በትእዛዝ በመላእክትም አለቃ ድምፅ በእግዚአብሔርም መለከት ከሰማይ ይወርዳልና፥ በክርስቶስም የሞቱ አስቀድመው ይነሣሉ፤ ከዚያም በኋላ እኛ ሕያዋን ሆነን የምንቀረው፥ ጌታን በአየር ለመቀበል ከእነርሱ ጋር በደመና እንነጠቃለን፤ እንዲሁም ሁልጊዜ ከጌታ ጋር እንሆናለን። \n ስለዚህ እርስ በርሳችሁ በዚህ ቃል ተጽናኑ።",
+        "readingEng": "1 Thessalonians 4:15–18 \n For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep. \n For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first: \n Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord. \n Wherefore comfort one another with these words.",
+        "readingGeez": "ተሰለሎንቄ ፬ ፲፭-ፍም \n ወዘንተ ንነግረክሙ በቃለ እግዚአብሔር ንሕነ ሕያዋን እለ ንተርፍ አመ ምጽአተ እግዚእነ ኢንበጽሖሙ ለሙታን እስመ ይኤዝዝ እግዚእነ ምስለ ሊቃነ መላእክት ወንፍሐተ ቀርን ዘእግዚአብሔር ዘይወርድ እምሰማይ ወይትነሥኡ ምውታን መቅድመ እለሞቱ በሃይማኖተ ክርስቶስ። ወእምዝ ንሕነ ሕያዋን እለንተርፍ ንትመሠጥ በደመና ምስሌሆሙ ኅቡረ ከመ ንትቀበሎ ለእግዚእነ ውስተ አየር ወንሄሉ እንከ ዘልፈ ኅበ እግዚእነ። ወይእዜኒ መሐሩ ቢጸክሙ ዘንተ ነገረ።",
+        "readingTitle": "ዘሰኑይ"
+      },
+      {
+        "readingAmh": "ገላ ፭፥፲፫-ፍም \n ወንድሞች ሆይ፥ እናንተ ለአርነት ተጠርታችኋልና፤ ብቻ አርነታችሁ ለሥጋ ምክንያትን አይስጥ፥ ነገር ግን በፍቅር እርስ በርሳችሁ እንደ ባሪያዎች ሁኑ። \n ሕግ ሁሉ በአንድ ቃል ይፈጸማልና፥ እርሱም ባልንጀራህን እንደ ራስህ ውደድ የሚል ነው። \n ነገር ግን እርስ በርሳችሁ ብትነካከሱ ብትበላሉ እርስ በርሳችሁ እንዳትጠፋፉ ተጠንቀቁ። \n ነገር ግን እላለሁ፥ በመንፈስ ተመላለሱ፥ የሥጋንም ምኞት ከቶ አትፈጽሙ። \n ሥጋ በመንፈስ ላይ መንፈስም በሥጋ ላይ ይመኛልና፥ \n እነዚህም እርስ በርሳቸው ይቀዋወማሉ፤ ስለዚህም የምትወዱትን ልታደርጉ አትችሉም። \n በመንፈስ ብትመሩ ግን ከሕግ በታች አይደላችሁም። \n የሥጋ ሥራም የተገለጠ ነው እርሱም ዝሙት፥ ርኵሰት፥ መዳራት፥ ጣዖትን ማምለክ፥ ምዋርት፥ ጥል፥ ክርክር፥ ቅንዓት፥ ቁጣ፥ አድመኛነት፥ መለያየት፥ መናፍቅነት፥ ምቀኝነት፥ መግደል፥ ስካር፥ ዘፋኝነት፥ ይህንም የሚመስል ነው። \n አስቀድሜም እንዳልሁ፥ እንደዚህ ያሉትን የሚያደርጉ የእግዚአብሔርን መንግሥት አይወርሱም። \n የመንፈስ ፍሬ ግን ፍቅር፥ ደስታ፥ ሰላም፥ ትዕግሥት፥ ቸርነት፥ በጎነት፥ እምነት፥ የውሃት፥ ራስን መግዛት ነው። \n እንደዚህ ያሉትን የሚከለክል ሕግ የለም። \n የክርስቶስ ኢየሱስም የሆኑቱ ሥጋን ከክፉ መሻቱና ከምኞቱ ጋር ሰቀሉ። \n በመንፈስ ብንኖር በመንፈስ ደግሞ እንመላለስ። \n እርስ በርሳችን እየተነሣሣንና እየተቀናናን በከንቱ አንመካ።",
+        "readingEng": "Galatians 5:13–26 \n For, brethren, ye have been called unto liberty; only use not liberty for an occasion to the flesh, but by love serve one another. \n For all the law is fulfilled in one word, even in this; Thou shalt love thy neighbour as thyself. \n But if ye bite and devour one another, take heed that ye be not consumed one of another. \n This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh. \n For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would. \n But if ye be led of the Spirit, ye are not under the law. \n Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness, \n Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies, \n Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God. \n But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, \n Meekness, temperance: against such there is no law. \n And they that are Christ's have crucified the flesh with the affections and lusts. \n If we live in the Spirit, let us also walk in the Spirit. \n Let us not be desirous of vain glory, provoking one another, envying one another.",
+        "readingGeez": "ገላ ፭፥፲፫-ፍም \n ወአንትሙሰ ለግዕዛን ተጸዋዕክሙ አኃውየ ወዳዕሙ ኢትግበሩ ላቲ ምክንያተ ለግዕዛን ክሙ በፍትወተ ሥጋክሙ ወበተፋቅሮ ተቀነዩ ለቢጽክሙ እስመ አሐዱ ቃል ይፌጽሞ ለኵሉ ሕግ። አፍቅር ቢጸከ ከመ ነፍስከ ወእመሰ በበይናቲክሙ ትትባልዑ ወትትናሰኩ ተኅልቆ ተርፈክሙ እብለክሙ በመንፈስ ሑሩ ወፍትወተ ሥጋክሙ ኢትግበሩ እስመ ሥጋኒ ይፈቱ ዘኢይፈቱ ሥጋ ወይትዓበዩ በበይናቲሆሙ ከመ ኢትግበሩ ዘትፈቅዱ ወእመሰ ዘመንፈስ ትተልው ወጻእክሙ እምኦሪት ወይትዐወቅ ምግባሩ ለሥጋ ዝሙት ርኵስ ወምርዓት አጣዕዎ ሥራይ ጽልእ ትዝህርት ትውዝፍት ቅንአት መዓት ኑፋቄ ተቃኅዎ ተሐምሞ ተቃትሎ ስክረት ወዘአምሳሊሁ ለዝንቱ። በከመ አቅደምኩ ነጊሮተክሙ ዘዘንተ ይገብር ኢይሬኢ መንግሥተ እግዚአብሔር። ወፍሬሁስ ለመንፈስ ተፋቅሮ ፍሥሓ ሰላም ትዕግሥት ምጽዋት ኂሩት ሃይማኖት የውሀት ኢዘምዎት አልቦ ዘይኄይስ እምዝ ሕግ። ወእለሰ በኢየሱስ ክርስቶስ ሰቀሉ ሥጋሆሙ ምስለ ፍትወት ወምስለ ኃጢአት ወይእዜለ በመንፈስ ንሕየው ንግበር። ወኢንኩን ዝሁራነ ወኢትትሐመዩ በበይናቲክሙ ወኢትትኃሠሡ በበይናቲክሙ።",
+        "readingTitle": "ዘሠሉስ"
+      },
+      {
+        "readingAmh": "ኤፌ ፮፥፲-፳፩ \n በቀረውስ በጌታና በኃይሉ ችሎት የበረታችሁ ሁኑ። \n የዲያብሎስን ሽንገላ ትቃወሙ ዘንድ እንዲቻላችሁ የእግዚአብሔርን ዕቃ ጦር ሁሉ ልበሱ። \n መጋደላችን ከደምና ከሥጋ ጋር አይደለምና፥ ከአለቆችና ከሥልጣናት ጋር ከዚህም ከጨለማ ዓለም ገዦች ጋር በሰማያዊም ስፍራ ካለ ከክፋት መንፈሳውያን ሠራዊት ጋር ነው እንጂ። \n ስለዚህ በክፉው ቀን ለመቃወም፥ ሁሉንም ፈጽማችሁ ለመቆም እንድትችሉ የእግዚአብሔርን ዕቃ ጦር ሁሉ አንሡ። \n እንግዲህ ወገባችሁን በእውነት ታጥቃችሁ፥ የጽድቅንም ጥሩር ለብሳችሁ፥ \n በሰላም ወንጌልም በመዘጋጀት እግሮቻችሁ ተጫምተው ቁሙ፤ በሁሉም ላይ ጨምራችሁ የሚንበለበሉትን የክፉውን ፍላጻዎች ሁሉ ልታጠፉ የምትችሉበትን የእምነትን ጋሻ አንሡ፤ የመዳንንም ራስ ቁር የመንፈስንም ሰይፍ ያዙ እርሱም የእግዚአብሔር ቃል ነው። \n በጸሎትና በልመናም ሁሉ ዘወትር በመንፈስ ጸልዩ፤ በዚህም አሳብ ስለ ቅዱሳን ሁሉ እየለመናችሁ በመጽናት ሁሉ ትጉ፤ ደግሞ የወንጌልን ምሥጢር በግልጥ እንዳስታውቅ አፌን በመክፈት ቃል ይሰጠኝ ዘንድ ስለ እኔ ለምኑ፤ ስለ ወንጌልም በሰንሰለት መልእክተኛ የሆንሁ፥ መናገር እንደሚገባኝ ስለ እርሱ በግልጥ እናገር ዘንድ ለምኑ።",
+        "readingEng": "Ephesians 6:10–21 \n Finally, my brethren, be strong in the Lord, and in the power of his might. \n Put on the whole armour of God, that ye may be able to stand against the wiles of the devil. \n For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places. \n Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand. \n Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness; \n And your feet shod with the preparation of the gospel of peace; \n Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked. \n And take the helmet of salvation, and the sword of the Spirit, which is the word of God: \n Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints; \n And for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel, \n For which I am an ambassador in bonds: that therein I may speak boldly, as I ought to speak. \n But that ye also may know my affairs, and how I do, Tychicus, a beloved brother and faithful minister in the Lord, shall make known to you all things.",
+        "readingGeez": "ኤፌ ፮፥፲-፳፩ \n እንከሰ ጽንዑ በእግዚአብኤር ወበጽንዐ ኃይሉ ወልበሱ ወልታ እግዚአብሔር በዘትክሉ ተቃውሞቶ ለመናግንተ ሰይጣን እስመ ቀትልክሙ ኢኮነ ምስለ ዘሥጋ ወደም ዘእንበለ ምስለ መኳንንተ ጽልመት ወአጋንንት እኩያን እለ መትሕተ ሰማይ ወበእንተዝ ንሥኡ ወልታ እግዚአብሔር ከመ ትክህሉ ተቃውሞታ ለዕለት እኪት። ወኩኑ ድልዋነ በኵሉ ከመ ትጽንዑ ቁሙ ልብሰ ሐጺን ዘጽድቅ ተሥኢነክሙ ኃይለ ወንጌል ዘበሰላም ወምስለዝ ኵሉ ንሥኡ ንዋየ ሕልቅ ዘሃይማኖት በዘትክሉ አጥፍኦተ ኵሉ አሕጻሁ ለእኩይ ርሱን። ወንሥኡ ጌራ መድኃኒት ላዕለ ርእሰክሙ ወሰይፈ ዘመንፈስ ቅዱስ ንሥኡ በእደዊክሙ ዘውእቱ ቃለ እግዚአብሔር በኵሉ ጸሎት ወስእለት እንዘ ትጼልዩ በኵሉ ጊዜ በመንፈስ ትግሁ ወተፀመዱ ለጸሎት ኵሉ ጊዜ በእንተ ኵሎሙ ቅዱሳን ወበእንቲአየ ከመ የሀበኒ ቃለ ወይክሥት አፉየ ከመ እንግር ገሃደ ሕርመተ ትምህርት ዘበእንቲአሁ እተነብል ሙቁሕየ ከመ እንግር ገሃደ በእንቲአሁ በከመ ይደሉ እንግር።",
+        "readingTitle": "ዘረቡዕ"
+      },
+      {
+        "readingAmh": "፪ ቆሮ ፰፥፩-፲፮ \n ወንድሞች ሆይ፥ ለመቄዶንያ አብያተ ክርስቲያናት የተሰጠውን የእግዚአብሔርን ጸጋ እናስታውቃችኋለን፤ በብዙ መከራ ተፈትነው ሳሉ የደስታቸው ብዛትና የድህነታቸው ጥልቅነት የልግስናቸውን ባለ ጠግነት አብዝቶአል፤ እንደ ዓቅማቸው መጠን ከዓቅማቸውም የሚያልፍ እንኳ ወደው እንደ ሰጡ እመሰክርላቸዋለሁና። \n ለቅዱሳን በሆነው አገልግሎት እንዲተባበሩ ይህን ቸርነት በብዙ ልመና ከእኛ ይለምኑ ነበር፥ አስቀድመውም በእግዚአብሔር ፈቃድ ራሳቸውን ለጌታ ለእኛም ሰጡ እንጂ እንዳሰብን አይደለም። \n ስለዚህም ቲቶ አስቀድሞ እንደ ጀመረ እንዲሁ ደግሞ ይህን ቸር ሥራ ደግሞ በእናንተ ዘንድ ሊፈጽም ለመንን። \n ነገር ግን በነገር ሁሉ፥ በእምነትና በቃል በእውቀትም በትጋትም ሁሉ ለእኛም በፍቅራችሁ እንደ ተረፋችሁ፥ በዚህ ቸር ሥራ ደግሞ ትረፉ። \n ትእዛዝ እንደምሰጥ አልልም፥ ነገር ግን በሌሎች ትጋት በኩል የፍቅራችሁን እውነተኛነት ደግሞ ልመረምር እላለሁ፤ የጌታችንን የኢየሱስ ክርስቶስን ቸር ስጦታ አውቃችኋልና፤ ሀብታም ሲሆን፥ እናንተ በእርሱ ድህነት ባለ ጠጎች ትሆኑ ዘንድ ስለ እናንተ ድሀ ሆነ። \n በዚህም ነገር ምክር እሰጣለሁ፤ ከአምና ጀምራችሁ ለማድረግ ብቻ ያይደለ ነገር ግን ለማሰብ ደግሞ አስቀድማችሁ የጀመራችሁት ይህ ይጠቅማችኋልና፤ አሁንም ለማሰብ በጎ ፈቃድ እንደ ነበረ፥ እንዲሁ እንዳላችሁ መጠን መፈጸም ደግሞ ይሆን ዘንድ፥ ማድረጉን ደግሞ ፈጽሙ። \n በጎ ፈቃድ ቢኖር፥ እንዳለው መጠን የተወደደ ይሆናል እንጂ እንደሌለው መጠን አይደለም። \n ለሌሎች ዕረፍት ለእናንተም መከራ እንዲሆን አይደለም፥ ትክክል እንዲሆን ነው እንጂ፤ የእነርሱ ትርፍ ደግሞ የእናንተን ጉድለት እንዲሞላ በአሁኑ ጊዜ የእናንተ ትርፍ የእነርሱን ጉድለት ይሙላ፤ በትክክል እንዲሆን፥ እንዲህ ተብሎ እንደ ተጻፈ። \n ብዙ ያከማቸ አላተረፈም፥ ጥቂትም ያከማቸ አላጎደለም።",
+        "readingEng": "2 Corinthians 8:1–16 \n Moreover, brethren, we do you to wit of the grace of God bestowed on the churches of Macedonia; \n How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality. \n For to their power, I bear record, yea, and beyond their power they were willing of themselves; \n Praying us with much intreaty that we would receive the gift, and take upon us the fellowship of the ministering to the saints. \n And this they did, not as we hoped, but first gave their own selves to the Lord, and unto us by the will of God. \n Insomuch that we desired Titus, that as he had begun, so he would also finish in you the same grace also. \n Therefore, as ye abound in every thing, in faith, and utterance, and knowledge, and in all diligence, and in your love to us, see that ye abound in this grace also. \n I speak not by commandment, but by occasion of the forwardness of others, and to prove the sincerity of your love. \n For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich. \n And herein I give my advice: for this is expedient for you, who have begun before, not only to do, but also to be forward a year ago. \n Now therefore perform the doing of it; that as there was a readiness to will, so there may be a performance also out of that which ye have. \n For if there be first a willing mind, it is accepted according to that a man hath, and not according to that he hath not. \n For I mean not that other men be eased, and ye burdened: \n But by an equality, that now at this time your abundance may be a supply for their want, that their abundance also may be a supply for your want: that there may be equality: \n As it is written, He that had gathered much had nothing over; and he that had gathered little had no lack. \n But thanks be to God, which put the same earnest care into the heart of Titus for you.",
+        "readingGeez": "፪ ቆሮ ፰፥፩-፲፮ \n ወእነግረክሙ አኃዊነ ጸጋ እግዚአብሔር ዘተውበ ለቤተ ክርስቲያን ዘመቄዶንያ። እስመ እምብዙኅ መከራ ሕማሞሙ ፈድፈደ ፍሥሓሆሙ ወምስለ ዕመቀ ንዴቶሙ ፈድፈደት ፍሥሓ ብዕሎሙ። እስመ ለልየ ሰማዕቶሙ ከመ በአምጣነ ኃይሎሙ ወዘእንበለ ኃይሎሙሂ ጥቡዓን እሙንቱ ለሊሆሙ ወብዙኃ አስተብቍዑነ በእንተ ሱታፌ መልእክት ለቅዱሳን። ወአኮሂ በከመ ተሐዘብነ እስመ ሰሊሆሙ አቅደሙ በፈቃዶሙ ወመጠዉ ነፍሶሙ ለእግዚአብሔር ወለነኒ በከመ ፈቃደ እግዚአብሔር አስተፍሥሐነ ቲቶ ወአስተብቋዕናሁ ከመ ይፈጽም ለክሙ ጸጋሁ በከመ ወጠነ። እስመ ፈድፈድክሙ በኵሉ በሃይማኖት ወበቃል ወበጥበብ ወበጽሂቅ በኵሉ ዘኮነ በኅቤክሙ ወበአፍቅሮትክሙ ኪያነ ከማሁ አፈድፍዱ ወበአፍቅሮትክሙ ኪያነ ከማሁ አፈድፍዱ ካዕበ ውስተ ዛቲ ጸጋ። ወአኮ በግብር ዘእብለክሙ ዳእሙ እስመ ቦ እለይድሕቅዎ ለዝንቱ እምኔክሙ ወናሁ አእመርኩ ጽንዐ ሃይማኖትክሙ ወአፍቅሮትክሙ። ተአምሩ ጸጋሁ ለእግዚእነ ኢየሱስ ክርስቶስ በእንቲአክሙ አንደየ ርእሶ እንዘ ባዕል ውእቱ ከመ አንትሙ ትብዐሉ በንዴተ ዚአሁ። ወበዝንቱ እምከርኩክሙ ዘይበቍዓክሙ እስመ ፈቀድክሙ ወአቅደምክሙ ትመጥዉ ነፍስክሙ እምቀዳሚ ዓም። ወይእዜሰ ግብሩሂ ወፈጽሙሂ እስመ ፈቂድሂ እምፈቲው ወገቢርሂ እምረኪብ። ወእምከመሰ ፈቂድ ሀሎ ይትመዘገን በዘይትከ ሃሎ ወአኮ በአምጣነ ዘኢይትከሃሎ። ወዘአኮ ከመ ባዕድ ያዕርፍ ኪያክሙ ናጠውቅ ዳዕሙ ተሀልዉ ዕሩርየ በዝ መዋዕል። እስመ ተረፈ ዚአክሙ ውስተ ንትጋ እልክቱ ይከውን ወተረፈ ዚአሆሙ ውስተ ንትጋ ዚአክሙ ከመ ይኩን ሀልዎትክሙ ዕሩየ በኵሉ። እስመ ከመዝ ይቤ መጽሐፍ ዘቦ ብዙኅ ኢያትረፈ ወዘቦ ውሑድ ኢያሕጸጸ።",
+        "readingTitle": "ዘሐሙስ"
+      },
+      {
+        "readingAmh": "ሮሜ ፲፫፥፲፩-ፍ.ም \n ከእንቅልፍ የምትነሡበት ሰዓት አሁን እንደ ደረሰ ዘመኑን እወቁ፤ ካመንንበት ጊዜ ይልቅ መዳናችን ዛሬ ወደ እኛ ቀርቦአልና። ሌሊቱ አልፎአል፥ ቀኑም ቀርቦአል። እንግዲህ የጨለማውን ሥራ አውጥተን የብርሃንን ጋሻ ጦር እንልበስ። \n በቀን እንደምንሆን በአገባብ እንመላለስ፤ በዘፈንና በስካር አይሁን፥ በዝሙትና በመዳራት አይሁን፥ በክርክርና በቅናት አይሁን፤ ነገር ግን ጌታን ኢየሱስ ክርስቶስን ልበሱት፤ ምኞቱንም እንዲፈጽም ለሥጋ አታስቡ።",
+        "readingEng": "Romans 13:11–14 \n And that, knowing the time, that now it is high time to awake out of sleep: for now is our salvation nearer than when we believed. \n The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light. \n Let us walk honestly, as in the day; not in rioting and drunkenness, not in chambering and wantonness, not in strife and envying. \n But put ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof.",
+        "readingGeez": "ሮሜ ፲፫፥፲፩-ፍ.ም \n ወዘኒ ተአምሩ ከመ በጽሐ ጊዜሁ ለነቂሕ እምንዋም ወይእዜሰ አልጸቀት ሕይወትነ እንተ ተሰፈውናሃ። ኅለፈት ሌሊት ወመጽአት መዓልት ወንግድፍ እምላዕሌነ ምግባረ ጽልመት ወንልበስ ወልታ ብርሃን። ከመ ናንሶሱ በምግባረ ጽድቅ ወአኮ በተውኔት ወበማኅሌት ወበስታይ ወበዝሙት ወበምርዓት ወአኮ በተሐምሞ ወበቅንዓት ልበስዎ ለእግዚነ ኢየሱስ ክርስቶስ ወኢተኃልዩ ፍትወተ ሥጋክሙ።",
+        "readingTitle": "ዘዓርብ"
+      },
+      {
+        "readingAmh": "ኦሪት ዘሌዋውያን ፳፫፥፩-፬ \n እግዚአብሔርም ሙሴን እንዲህ ብሎ ተናገረው። \n ለእስራኤል ልጆች እንዲህ ብለህ ንገራቸው። \n የተቀደሰ ጉባኤ ብላችሁ የምታውጁአቸው በዓላቶቼ፥ የእግዚአብሔር በዓላት፥ እነዚህ ናቸው። \n ስድስት ቀን ሥራ ይሠራል፤ በሰባተኛው ቀን ግን የዕረፍት ሰንበት ነው፤ የተቀደሰ ጉባኤ ይሆንበታል፤ ምንም ሥራ አትሠሩም፤ በምትኖሩበት ሁሉ ለእግዚአብሔር ሰንበት ነው።",
+        "readingEng": "Leviticus 23:1–4 \n And the LORD spake unto Moses, saying, \n Speak unto the children of Israel, and say unto them, Concerning the feasts of the LORD, which ye shall proclaim to be holy convocations, even these are my feasts. \n Six days shall work be done: but the seventh day is the sabbath of rest, an holy convocation; ye shall do no work therein: it is the sabbath of the LORD in all your dwellings. \n These are the feasts of the LORD, even holy convocations, which ye shall proclaim in their seasons.",
+        "readingGeez": "ኦሪት ዘሌዋውያን ፳፫፥፩-፬ \n ወነበቦ እግዚአብሔር ለሙሴ ወይቤሎ ንግሮሙ ለደቂቀ እስራኤል ወበሎሙ በዓላቲሁ ለእግዚአብሔር ዘሰማዕክሙ በቅዱስ አስማት እሉ እሙንቱ በዓላትየ ሰዱሰ ዕለት ትገብር ግብረከ ወሳብዕት ዕለት ሰንበት ይእቲ ወዕረፍት ቅድስት ተሰምየት ለእግዚአብሔር ኵሎ ግብረ ኢትግበሩ እስመ ሰንበቱ ለእግዚአብሔር ውእቱ በኵሉ በሐውርቲክሙ።",
+        "readingTitle": "ዘቀዳሚት"
+      }
+    ],
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 2,
+    "text": "በረከተ ፡ አብ ፡ ወፍተ ፡ ወልድ ፡ ወሀብተ ፡ መንፈስ ፡ ቅዱስ ፡ ዘወረደ ፡ ቅዱስ ፡ ዘወረደ ፡ ላዕለ ፡ ሐዋርያት ፡ በጽርሐ ፡ ጽዮን ፡ ቅድስት ፡ ከማሁ ፡ ይረድ ፡ ወይትመከአብ ፡ ላዕሌየ ፡ ወላዕለ ፡ ኵልክሙ ።",
+    "amh": "ቅድስት በምትሆን በጽርሐ ጽዮን በሐዋርያት ላይ የወረደው የአብ በረከት የወልድም ፍቅር የመንፈስ ቅዱስም ሀብት በሁላችሁም ላይ ይውረድ፤ ዕፅፍ ድርብም ይሁን።",
+    "title": "መልእክተ ጳውሎስ",
+    "turn": "ይ.ዲ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 3,
+    "text": "ጥዑመ ፡ ስም ፡ ዘጸዋዕኮ ፡ ለጳውሎስ ፡ ጸውዓነ ፡ ውስተ ፡ ከብካብከ ፡ ዘበሰማያት ።",
+    "amh": "ስምህ ፡ የጣፈጠ ፡ (የተወደደ) ፡ የጳውሎስን ፡ ክህነት ፡ ያጣፈጥህለት ፡ ኢየሱስ ፡ ክርስቶስ ፡ የኛንም ፡ አልጫነት ፡ በመለኮትነትህ ፡ ጨው ፡ አጣፍጥልን ።",
+    "title": "መርገፍ ዘመልእክተ ጳውሎስ ዘዘወትር",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 4,
+    "text": "ኢየሱስ ፡ ክርስቶስ ፡ ጥዑመ ፡ ስም ፡ ፄወ ፡ ክህነቱ ፡ ለጳውሎስ ፡ ቅስም ፡ አጥዕም ፡ ልስሐተነ ፡ በፄወ ፡ መለኮትከ ።",
+    "amh": "ስምህ ፡ የጣፈጠ ፡ (የተወደደ) ፡ ኢየሱስ ፡ ክርስቶስ ፡ የጳውሎስን ፡ ትምህርት ፡ ብሩህ ፡ እንዳደረግህለት ፡ የልቡናችንን ፡ ጭለማ ፡ ( ፡ ድንቁርና ፡ ) ፡ በብርሃንህ ፡ ብሩህ ፡ አድርግልን ።",
+    "title": "መርገፍ ዘመልእክተ ጳውሎስ ዘዘወትር",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 5,
+    "text": "ኢየሱስ ፡ ክርስቶስ ፡ ጥዑመ ፡ ስም ፡ ብርሃነ ፡ ትምህርቱ ፡ ለጳውሎስ ፡ ብሩህ ፡ አብርሀ ፡ ጽልመተ ፡ ሕሊናን ፡ በስንከ ።",
+    "amh": "በመላእክትም ፡ ዘንድ ፡ ላንት ፡ ክብር ፡ ምስጋና ፡ ስግደትም ፡ ይገባሃል",
+    "title": "መርገፍ ዘመልእክተ ጳውሎስ ዘዘወትር",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 6,
+    "text": "እስመ ፡ ውእቱ ፡ ዘወሀበ ፡ ሕገ ፡ ለሙሴ ፤ ሰንበታቲሁ ፡ ረሰየ ፡ ለክብር ፡ ወለውዳሴ ፤ ለመለኮተ ፡ ሥላሴ ፡ ሎቱ ፡ ይደሉ ፡ ውዳሴ ።",
+    "title": "መርገፍ ዘመልእክተ ጳውሎስ ዘቀዳሚት",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 7,
+    "text": "ጥዑመ ፡ ልሳን ፡ ምዑዝ ፡ ከመ ፡ ዕጣን ፡ ጳውሎስ ፡ መርሐ ፡ ዕውራን ፡ ዘበጽንፈ ፡ ልብስከ ፡ የሐይው ፡ ዱያን ። ስፋሕ ፡ እዴከ ፡ ዘየማን ፡ ትባርከነ ፡ ለጉቡዓን ፡ መምህር ፡ ዘበአማን ።",
+    "title": "መርገፍ ዘመልእክተ ጳውሎስ ዘእሁድ",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 8,
+    "text": "ንጽሕት ፡ ወውክፍት ፡ ኅሪት ፡ ወክብርት ፡ ሥምርት ፡ ወልዕልት ፡ መልእክተ ፡ መንፈስ ፡ ቅዱስ ፡ እምአፈ ፡ አቡነ ፡ ጴጥሮስ ፡ በረከተ ፡ አምላኩ ፡ የሃሉ ፡ ምስሌነ ፡ ለዓለመ ፡ ዓለም ፡ አሜን ።",
+    "title": "መልእክት ዘንፍቅ",
+    "turn": "ይ.ዲ. ንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 9,
+    "text": "ንፍቅ ፡ ዲያቆን ፡ የዕለቱን ፡ የሐዋርያ ፡ መልእክት ፡ ያንብብ ።",
+    "title": "ንባብ",
+    "turn": "",
+    "readings": [
+      {
+        "readingAmh": "፩ ዮሐ ፩፥፩-ፍም \n ስለ ሕይወት ቃል ከመጀመሪያው የነበረውንና የሰማነውን በዓይኖቻችንም ያየነውን የተመለከትነውንም እጆቻችንም የዳሰሱትን እናወራለን፤ ሕይወትም ተገለጠ አይተንማል እንመሰክርማለን፥ ከአብ ዘንድ የነበረውንም ለእኛም የተገለጠውን የዘላለምን ሕይወት እናወራላችኋለን፤ እናንተ ደግሞ ከእኛ ጋር ኅብረት እንዲኖራችሁ ያየነውንና የሰማነውን ለእናንተ ደግሞ እናወራላችኋለን። \n ኅብረታችንም ከአባት ጋር ከልጁም ከኢየሱስ ክርስቶስ ጋር ነው። \n ደስታችሁም እንዲፈጸም ይህን እንጽፍላችኋለን። \n ከእርሱም የሰማናት ለእናንተም የምናወራላችሁ መልእክት። \n እግዚአብሔር ብርሃን ነው ጨለማም በእርሱ ዘንድ ከቶ የለም የምትል ይህች ናት። \n ከእርሱ ጋር ኅብረት አለን ብንል በጨለማም ብንመላለስ እንዋሻለን እውነትንም አናደርግም፤ ነገር ግን እርሱ በብርሃን እንዳለ በብርሃን ብንመላለስ ለእያንዳንዳችን ኅብረት አለን፥ \n የልጁም የኢየሱስ ክርስቶስ ደም ከኃጢአት ሁሉ ያነጻናል። \n ኃጢአት የለብንም ብንል ራሳችንን እናስታለን፥ እውነትም በእኛ ውስጥ የለም። \n በኃጢአታችን ብንናዘዝ ኃጢአታችንን ይቅር ሊለን ከዓመፃም ሁሉ ሊያነጻን የታመነና ጻድቅ ነው። \n ኃጢአትን አላደረግንም ብንል ሐሰተኛ እናደርገዋለን ቃሉም በእኛ ውስጥ የለም።",
+        "readingEng": "1 John 1:1–10 \n That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life; \n That which we have seen and heard declare we unto you, that ye also may have fellowship with us: and truly our fellowship is with the Father, and with his Son Jesus Christ. \n And these things write we unto you, that your joy may be full. \n This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all. \n If we say that we have fellowship with him, and walk in darkness, we lie, and do not the truth: \n But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin. \n If we say that we have no sin, we deceive ourselves, and the truth is not in us. \n If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness. \n If we say that we have not sinned, we make him a liar, and his word is not in us.",
+        "readingGeez": "፩ ዮሐ ፩፥፩-ፍም \n ንዜንወክሙ በእንተ ውእቱ ዘሀሎ እምቅድም ውእቱ ዘሰማዕናሁ በእዘንኒነ ወዘርኢናሁ በአዕይንቲነ ወዘጠየቅናሁ ወዘገሠሣሁ እደዊነ በእንተ ነገረ ሕይወት። እስመ ሕይወት ተዐውቀት ለነ ወርኢናሃ ወስምዐ ኮነ ወንዜንወክሙ ንሕነ ሕይወተ እንተ ለዓለም ሀለወት ኅበ አብ ወተዐውቀት ለነ። ወርኢናሃ ወሰማዕናሃ ወንዜእንወክሙ ለክሙኒ ከመ አንትሙኒ ትኩኑ ሱታፌ ምስሌነ ወሱታፌነስ ምስለ አብ ወምስለ ወልዱ ኢየሱ ክርስቶስ። ወዘንተ ንጽሕፍ ለክሙ ከመ ትፍሥሕትክሙ ፍጽምተ ትኩን ብነ። ወዛቲ ይእቲ ዜና እንተ ሰማዕናሃ ትካት እምኔሁ ወንዜን ወክሙ ከመ እግዚአብሔር ብርሃን ውእቱ ወጽልመትሰ አልቦ ኅቤሁ ወኢአሐተኒ። ወእመሰ ንቤለክሙ ብነ ሱታፌ ምስሌሁ ወውስተ ጽልመት ነሐውር ንሔሱ ወኢንገብራ ለጽድቅ ወልርትዕ። ወእመሰ ውስተ ብርሃን ነሐውር በከመ ውእቱ ወደሙ ለኢየሱስ ክርስቶስ ያነጽሐነ እምኵሉ ኃጣውኢነ ወእመሰ ንብል አልብነ ኃጢአት ንጌጊ ለርእስነ ወአልብቦ ርትዕ ኅቤነ። ወእመሰ ነገርነ ወአመነ ኃጢአተነ ምዕመን ውእቱ ወጻድቅ ከመ ይኅድግ ለነ ኃጣውኢነ ወያነጽሕነ እምኵሉ አበሳነ። ወእመሰ ንቤ ኢአበስነ ሐሳዌ ንሬስዮ ሎቱ ወቃሉኒ ኢሀሎ ኅቤነ።",
+        "readingTitle": "ዘእሁድ"
+      },
+      {
+        "readingAmh": "፩ ጴጥ ፭፥፭-፲፪ \n እንዲሁም፥ ጐበዞች ሆይ፥ ለሽማግሌዎች ተገዙ፤ ሁላችሁም እርስ በርሳችሁ እየተዋረዳችሁ ትሕትናን እንደ ልብስ ታጠቁ፥ እግዚአብሔር ትዕቢተኞችን ይቃወማልና፥ ለትሑታን ግን ጸጋን ይሰጣል። \n እንግዲህ በጊዜው ከፍ እንዲያደርጋችሁ ከኃይለኛው ከእግዚአብሔር እጅ በታች ራሳችሁን አዋርዱ፤ እርሱ ስለ እናንተ ያስባልና የሚያስጨንቃችሁን ሁሉ በእርሱ ላይ ጣሉት። \n በመጠን ኑሩ ንቁም፥ \n ባላጋራችሁ ዲያብሎስ የሚውጠውን ፈልጎ እንደሚያገሣ አንበሳ ይዞራልና፤ በዓለም ያሉት ወንድሞቻችሁ ያን መከራ በሙሉ እንዲቀበሉ እያወቃችሁ በእምነት ጸንታችሁ ተቃወሙት። \n በክርስቶስ ኢየሱስ ወደ ዘላለም ክብሩ የጠራችሁ የጸጋ ሁሉ አምላክ ለጥቂት ጊዜ መከራን ከተቀበላችሁ በኋላ ራሱ ፍጹማን ያደርጋችኋል ያጸናችሁምል ያበረታችሁማል። \n ለእርሱ ክብርና ኃይል እስከ ዘላለም ድረስ ይሁን፤ አሜን።",
+        "readingEng": "1 Peter 5:5–12 \n Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble. \n Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time: \n Casting all your care upon him; for he careth for you. \n Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour: \n Whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world. \n But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you. \n To him be glory and dominion for ever and ever. Amen.",
+        "readingGeez": "፩ ጴጥ ፭፥፭-፲፪ \n ወከማሁ አንትሙሂ ወራዙት ተኰነኑ ለእለ ይልኅቁክሙ ወኵልክሙ ተመሀርዋ ለአትሕቶ ርእስክሙ እስመ እግዚአብሔር ያኃሥሮሙ ለዕቡያን ወያከብሮሙ ለእለ ያቴሕቱ ርእሶሙ አትሕቱ እንከ ርእሰክሙ ታሕተ እዴሁ ለእግዚአብሔር ጽንዕት ከመ ያልዕልክሙ አመ ይሔውጸክሙ ወኵሎ ሕሊናክሙ ግድፉ ላዕሌሁ። እስመ ውእቱ ይሔሊ በእንቲ አክሙ። ጥበቡ እንከ ወአጥብቡ ልበክሙ እስመ ጸላዒክሙ ጋኔን ይጥሕር ከመ አንበሳ ወየኃሥሥ ዘይውኅጥ። አጽንዑ ቀዊመ በሃይማኖትክሙ እንዘ ተአምሩ ከመ ሕማሙ ለዝ ዓለም ትረክቦሙ ለኵሎሙ አኃዊክሙ። ወአጽንዕዋ ለተፋቅሮ ወእግዚአብሔርሰ ዘበኵሉ ክብር ጸውዐክሙ ወያሌብወክሙ ውእቱ ዘሎቱ ስብሐት ወኃይል ለዓለመ ዓለም አሜን።",
+        "readingTitle": "ዘሰኑይ"
+      },
+      {
+        "readingAmh": "፩ ጴጥ. ፩፥፲፫-ፍም \n ስለዚህ የልቡናችሁን ወገብ ታጥቃችሁና በመጠን ኖራችሁ፥ ኢየሱስ ክርስቶስ ሲገለጥ የምታገኙትን ጸጋ ፈጽማችሁ ተስፋ አድርጉ። \n እንደሚታዘዙ ልጆች ባለማወቃችሁ አስቀድሞ የኖራችሁበትን ምኞት አትከተሉ። \n ዳሩ ግን እኔ ቅዱስ ነኝና ቅዱሳን ሁኑ ተብሎ ስለ ተጻፈ የጠራችሁ ቅዱስ እንደ ሆነ እናንተ ደግሞ በኑሮአችሁ ሁሉ ቅዱሳን ሁኑ። \n ለሰው ፊትም ሳያደላ በእያንዳንዱ ላይ እንደ ሥራው የሚፈርደውን አባት ብላችሁ ብትጠሩ በእንግድነታችሁ ዘመን በፍርሃት ኑሩ። \n ከአባቶቻችሁ ከወረሳችሁት ከከንቱ ኑሮአችሁ በሚያልፍ ነገር በብር ወይም በወርቅ ሳይሆን፥ ነውርና እድፍ እንደ ሌለው እንደ በግ ደም በክቡር የክርስቶስ ደም እንደ ተዋጃችሁ ታውቃላችሁ። \n ዓለም ሳይፈጠር እንኳ አስቀድሞ ታወቀ፥ \n ነገር ግን እምነታችሁና ተስፋችሁ በእግዚአብሔር ይሆን ዘንድ፥ \n ከሙታን ባስነሣው ክብርንም በሰጠው በእግዚአብሔር በእርሱ ስለምታምኑ ስለ እናንተ በዘመኑ መጨረሻ ተገለጠ። \n ለእውነት እየታዘዛችሁ ግብዝነት ለሌለበት ለወንድማማች መዋደደ ነፍሳችሁን አንጽታችሁ እርስ በርሳችሁ ከልባችሁ አጥብቃችሁ ተዋደዱ። \n ዳግመኛ የተወለዳችሁት ከሚጠፋ ዘር አይደለም፥ \n በሕያውና ለዘላለም በሚኖር በእግዚአብሔር ቃል ከማይጠፋ ዘር ነው እንጂ። \n ሥጋ ሁሉ እንደ ሣር ክብሩም ሁሉ እንደ ሣር አበባ ነውና፤ ሣሩ ይጠወልጋል አበባውም ይረግፋል፤ የጌታ ቃል ግን ለዘላለም ይኖራል። \n በወንጌልም የተሰበከላችሁ ቃል ይህ ነው።",
+        "readingEng": "1 Peter 1:13–25 \n Wherefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ; \n As obedient children, not fashioning yourselves according to the former lusts in your ignorance: \n But as he which hath called you is holy, so be ye holy in all manner of conversation; \n Because it is written, Be ye holy; for I am holy. \n And if ye call on the Father, who without respect of persons judgeth according to every man's work, pass the time of your sojourning here in fear: \n Forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers; \n But with the precious blood of Christ, as of a lamb without blemish and without spot: \n Who verily was foreordained before the foundation of the world, but was manifest in these last times for you, \n Who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God. \n Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, see that ye love one another with a pure heart fervently: \n Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever. \n For all flesh is as grass, and all the glory of man as the flower of grass. The grass withereth, and the flower thereof falleth away: \n But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you.",
+        "readingGeez": "፩ ጴጥ ፩፥፲፫-ፍም \n ወይእዜኒ ቅንቱ ሐቌ ልብክሙ ጥዩቀ ወንቁሀ ወተሰፈውዋ ለእንተ ትመጽአ ለክሙ ትፍሥሕት በአስተርእዮቱ ለኢየሱስ ክርስቶስ ከመ ውሉድ እለ ይትኤዘዙ እንዘ ኢትትመየጡ ለእንተ ቀዳሚ ጌጋይክሙ በኢያእምሮ ዘፈተውክሙ። ወባሕቱ በከመ ዘጸውዐክሙ ቅዱስ ውእቱ አንትሙ ኩኑ ቅዱሳነ በኵሉ ግዕዝክሙ እስመ ጽሑፍ ዘይብል ኩኑ ቅዱሳነ እስመ ቅዱስ አነ። ወእመሰ ለአብ ትጼውዕዎ ለዘይኴንን እንዘ ገጸ ኢይነሥእ በምግባሪሁ ለለአሐዱ እንዘ ትፈርሁ በኵሉ መዋዕለ ሕይወትክሙ ወበዘ አመንክሙ ሑሩ ባቲ እንዘ ተአምሩ ከመ አኮ በዘይማስን ብሩር ወወርቅ ዘተቤዘወክሙ እምውስተ እምአበዊክሙ አላ በክቡር ደሙ ለክርስቶስ ከመ ዘበግዕ ቅድው ወንጹሕ ዘተአምረ እምቅድመ ይትፈጠር ዓለም ወአስተርአየ በደኃሪ መዋዕል በእንቲኣነ እለ በላዕለ እዴሁ አመነ በእግዚአብሔር ዘአንሥኦ እምውታን ወስብሐተ ወሀቦ። ወይእዜኒ ሃይማኖትክሙ ወተስፋክሙ ይኩን በእግዚአብሔር። አንጽሑ ነፍስተክሙ በትእዛዙ ለጽድቅ ወበሃይማኖትክሙ ከመ ታፍቅሩ ካልአኒክሙ እንዘ ኢትናፍቁ በምልአ ልብክሙ ተፋቀሩ በበይናቲክሙ ጽፉቀ። ከመ ሰብእ እለ ተወልዱ ፍጹመ አኮ እምዘርእ ዘይደመሰስ አላ እምዘርእ ዘኢይጠፍእ በትእዛዙ ለእግዚአብሔር ዘሀለወ ለዝሉፍ። እስመ ኵሉ ዘሥጋ ከመ ሣዕር ወኵሉ ክብሩ ከመ ፍሬ ሣዕር ዘእምከመ የብሰ ሣዕር ይትነገፍ ፍሬሁ። ወቃሉሰ ለእግዚአብሔር ይነብር ለዓለም ወዝንቱ ውእቱ ቃሉ ዘነገርናክሙ።",
+        "readingTitle": "ዘሠሉስ"
+      },
+      {
+        "readingAmh": "፪ ጴጥ ፪፥፱-ፍም \n ጌታ እግዚአብሔርን የሚያመልኩትን ከፈተና እንዴት እንዲያድን፥ \n በደለኞችንም ይልቁንም በርኵስ ምኞት የሥጋን ፍትወት እየተከተሉ የሚመላለሱትን ጌትነትንም የሚንቁትን እየቀጣቸው ለፍርድ ቀን እንዴት እንዲጠብቅ ያውቃል። \n ደፋሮችና ኵሩዎች ሆነው ሥልጣን ያላቸውን ሲሳደቡ አይንቀጠቀጡም፤ ዳሩ ግን መላእክት በኃይልና በብርታት ከእነርሱ ይልቅ ምንም ቢበልጡ በጌታ ፊት በእነርሱ ላይ የስድብን ፍርድ አያመጡም። \n እነዚህ ግን ለመጠመድና ለመጥፋት በፍጥረታቸው እንደ ተወለዱ አእምሮ እንደ ሌላቸው እንስሶች ሆነው፥ \n በማያውቁት ነገር እየተሳደቡ በጥፋታቸው ይጠፋሉ፤ የዓመፃቸውን ደመወዝ ይቀበላሉ። \n በቀን ሲዘፍኑ እንደ ተድላ ይቆጥሩታል፤ ነውረኞችና ርኵሳን ሆነው ከእናንተ ጋር ሲጋበዙ በፍቅር ግብዣ ይዘፍናሉ፤ ምንዝር የሞላባቸው ኃጢአትንም የማይተዉ ዓይኖች አሉአቸው፤ የማይጸኑትን ነፍሳት ያታልላሉ፤ መመኘትን የለመደ ልብ አላቸው፤ የተረገሙ ናቸው። \n ቅንን መንገድ ትተው ተሳሳቱ፤ የባሶርን ልጅ የበለዓምን መንገድ ተከተሉ፤ እርሱ የዓመፃን ደመወዝ ወደደ፥ ነገር ግን ስለ መተላለፉ ተዘለፈ፤ ቃል የሌለው አህያ በሰው ቃል ተናግሮ የነቢዩን እብድነት አገደ። \n ድቅድቅ ጨለማ ለዘላለም የተጠበቀላቸው እነዚህ ውኃ የሌለባቸው ምንጮች በዐውሎ ነፋስም የተነዱ ደመናዎች ናቸው። \n ከንቱና ከመጠን ይልቅ ታላቅ የሆነውን ቃል ይናገራሉና፥ \n በስሕተትም ከሚኖሩት አሁን የሚያመልጡትን በሥጋ ሴሰኛ ምኞት ያታልላሉ። \n ራሳቸው የጥፋት ባሪያዎች ሆነው አርነት ትወጣላችሁ እያሉ ተስፋ ይሰጡአቸዋል፤ ሰው ለተሸነፈበት ለእርሱ ተገዝቶ ባሪያ ነውና። \n በጌታችንና በመድኃኒታችን በኢየሱስ ክርስቶስ እውቀት ከዓለም ርኵሰት ካመለጡ በኋላ ዳግመኛ በእርስዋ ተጠላልፈው የተሸነፉ ቢሆኑ፥ ከፊተኛው ኑሮአቸው ይልቅ የኋለኛው የባሰ ሆኖባቸዋል። \n አውቀዋት ከተሰጣቸው ከቅድስት ትእዛዝ ከሚመለሱ የጽድቅን መንገድ ባላወቋት በተሻላቸው ነበርና። \n ውሻ ወደ ትፋቱ ይመለሳል፥ ደግሞ የታጠበች እርያ በጭቃ ለመንከባለል ትመለሳለች እንደሚባል እውነተኞች ምሳሌዎች ሆኖባቸዋል።",
+        "readingEng": "2 Peter 2:9–22 \n The Lord knoweth how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished: \n But chiefly them that walk after the flesh in the lust of uncleanness, and despise government. Presumptuous are they, selfwilled, they are not afraid to speak evil of dignities. \n Whereas angels, which are greater in power and might, bring not railing accusation against them before the Lord. \n But these, as natural brute beasts, made to be taken and destroyed, speak evil of the things that they understand not; and shall utterly perish in their own corruption; \n And shall receive the reward of unrighteousness, as they that count it pleasure to riot in the day time. Spots they are and blemishes, sporting themselves with their own deceivings while they feast with you; \n Having eyes full of adultery, and that cannot cease from sin; beguiling unstable souls: an heart they have exercised with covetous practices; cursed children: \n Which have forsaken the right way, and are gone astray, following the way of Balaam the son of Bosor, who loved the wages of unrighteousness; \n But was rebuked for his iniquity: the dumb ass speaking with man's voice forbad the madness of the prophet. \n These are wells without water, clouds that are carried with a tempest; to whom the mist of darkness is reserved for ever. \n For when they speak great swelling words of vanity, they allure through the lusts of the flesh, through much wantonness, those that were clean escaped from them who live in error. \n While they promise them liberty, they themselves are the servants of corruption: for of whom a man is overcome, of the same is he brought in bondage. \n For if after they have escaped the pollutions of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again entangled therein, and overcome, the latter end is worse with them than the beginning. \n For it had been better for them not to have known the way of righteousness, than, after they have known it, to turn from the holy commandment delivered unto them. \n But it is happened unto them according to the true proverb, The dog is turned to his own vomit again; and the sow that was washed to her wallowing in the mire.",
+        "readingGeez": "፪ ጴጥ ፪፥፱-ፍም \n ናሁኬ አእመርነ ከመ እግዚአብሔር ይክል አድኅኖቶሙ እምነ መንሱት ለጻድቃን ወለኃጥኣንሰ ዕለተ ደይን ትጸንሖሙ ለተፅእሮ ወፈድፋደሰ ለእለ ይተልውዋ ድኅሬሃ ለፍትወቶሙ ወያጌምንዎ ለሥጋሆሙ ወያስተሐቅርዎ ለፈጣሪሆሙ ኅቡሳን ወዝሉፋን እለ ኢይደነግፁ ከመ ይፅርፉ ላዕለ ስብሐቲሁ ዘውእቱ ኅበ መላእክት እለ ልዑላን እሙንቱ እምኔሆሙ በኅይል ወበጽንዕ ወኢይክሉ ተዐግሦ ከመ ያብጽሑ ላዕሌሆሙ ደይነ ፅርፈቶሙ። ውእቶሙኬ ከመ እንስሳ ዘአልቦ ቃል ዘይትወለድ ለሙስና ወለተሠርዎ እስመ ይፀርፉ ላዕለ ዘኢየአምሩ ለሕርትምናሆሙ ወሎሙ በሙስናሆሙ ዐስበ ዐመፃ ወአውተሐወዝዋ ለተደልዎ ለታየ ዕለቶሙ ወይበልዑ እንዘ ሕብቁቃን ወርኩሳን እለ ኢይጸግቡ ወይትጉሐለው እፍቅሮሙ ወይትሜክሁ ለቢጾሙ ከመ ዘሠናይ ምግባሮሙ ወምሉእ ውስተ አእይንቲሆሙ ዝሙት ወኅጢአት እንተ አልባቲ ዘይገሀግሃ ወያደነግፁ ነፍሰ ሰብእ እለ ስጡሕ ልቦሙ ወትዕግልት ምግባሮሙ ወየኅድጉ ወርገመ ለውሉዶሙ ወስሕትዎ ለፍኖተ ጽድቅ ወተለውዋ ለፍኖተ በለዓለም ወልደ ባሶር ዘአፍቀራ ለዐስበ ዓመፃ ወተዛለፎ ለበለዓም በኃጢአቱ ዘኢይነብብ አድግ በቃለ እጓለ እመሕያው ተናገረ ወከልኦ ለነቢይ ዕበዲሁ። እሉ እሙንቱ ዐዘቅት ንጽፍት ወጊሜ ዘነፋስ ይዘርዎ እለ ለደይነ ጽልመት ዘለዓለም የዐቅብዎሙ እስመ ዐበይተ ጌጋይ ነበቡ ወያደነግፁ በእንተ ፍትወት ዝሙቶሙ ዘሥጋሆሙ ሰብእ እለ ኅዳጠ አምሰጡ ወገብኡ ውስተ ጌጋይ እለ ሕገ ግዕዛን ተምህሩ ወለሊሆሙኒ ቅኑያት ለሕርትምና እስመ ኵሉ ለዘተአዘዘ ውእቱ ይትቀነይ እስመ ጐየ እምኃጢአቱ ለዝንቱ ዓለም በአእምሮቱ ለእግዚእነ ወመድኅኒነ ኢየሱስ ክርስቶስ ወገብኡ ዳግመ ወተጸፈሩ ወተቀንዩ ሎቱ ወይከውኖሙ ደኃሪ ጌጋዮሙ እምነ ቀዲሙ ዘያክዮሙ እምኅየሶሙ ሶበ ኢያእመርዋ ለፍኖተ ጽድቅ ኢምያእምርዋ ወይግብኡ ድኅሬኆሙ እምእንተ ተውህበት ሎሙ ትእዛዝ ቅድስት ወበጽሐቶሙ አምሳል እንተ መሰሎ በጽድቅ እንተ ይቤ ከልብ ገብአ ዲበ ቅያኡ ወሐራውያኒ ተኅፂባ ገብአት ዲበ ጸብር።",
+        "readingTitle": "ዘረቡዕ"
+      },
+      {
+        "readingAmh": "፩ ጴጥ ፬፥፲፪-ፍም \n ወዳጆች ሆይ፥ በእናንተ መካከል እንደ እሳት ሊፈትናችሁ ስለሚሆነው መከራ ድንቅ ነገር እንደ መጣባችሁ አትደነቁ፤ ነገር ግን ክብሩ ሲገለጥ ደግሞ ሐሤት እያደረጋችሁ ደስ እንዲላችሁ፥ \n በክርስቶስ መከራ በምትካፈሉበት ልክ ደስ ይበላችሁ። \n ስለ ክርስቶስ ስም ብትነቀፉ የክብር መንፈስ የእግዚአብሔር መንፈስ በእናንተ ላይ ያርፋልና ብፁዓን ናችሁ። \n ከእናንተ ማንም ነፍሰ ገዳይ ወይም ሌባ ወይም ክፉ አድራጊ እንደሚሆን ወይም በሌሎች ጒዳይ እንደሚገባ ሆኖ መከራን አይቀበል፤ ክርስቲያን እንደሚሆን ግን መከራን ቢቀበል ስለዚህ ስም እግዚአብሔርን ያመስግን እንጂ አይፈር። \n ፍርድ ከእግዚአብሔር ቤት ተነሥቶ የሚጀመርበት ጊዜ ደርሶአልና፤ አስቀድሞም በእኛ የሚጀመር ከሆነ ለእግዚአብሔር ወንጌል የማይታዘዙ መጨረሻቸው ምን ይሆን? \n ጻድቅም በጭንቅ የሚድን ከሆነ ዓመፀኛውና ኃጢአተኛው ወዴት ይታይ ዘንድ አለው? \n ስለዚህ ደግሞ እንደ እግዚአብሔር ፈቃድ መከራን የሚቀበሉ፥ \n መልካምን እያደረጉ ነፍሳቸውን ለታመነ ፈጣሪ አደራ ይስጡ።",
+        "readingEng": "1 Peter 4:12–19 \n Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you: \n But rejoice, inasmuch as ye are partakers of Christ's sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy. \n If ye be reproached for the name of Christ, happy are ye; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified. \n But let none of you suffer as a murderer, or as a thief, or as an evildoer, or as a busybody in other men's matters. \n Yet if any man suffer as a Christian, let him not be ashamed; but let him glorify God on this behalf. \n For the time is come that judgment must begin at the house of God: and if it first begin at us, what shall the end be of them that obey not the gospel of God? \n And if the righteous scarcely be saved, where shall the ungodly and the sinner appear? \n Wherefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as unto a faithful Creator.",
+        "readingGeez": "፩ ጴጥ ፬፥፲፪-ፍም \n አኃዊነ ኢታንክርዋ ለእንተ ትመጽአክሙ መከራ ከመ ዘነኪር ግብር ዘይከውን ብክሙ ዳዕሙ ይእቲ ወዘኢትለምዱሰ ይበጽሐክሙ። ዳዕሙ ከመ ትሳተፍዎ በሕማሙ ለክርስቶስ ወትትፈሥሑ ከመ አመ ያስተርኢ በስብሐቲሁ ትትሐሠዩ ፍሡሐኒክሙ። ወእመሰቦ ዘተአየሩክሙ በእንተ ስሙ ለክርስቶስ ብፁዓን አንትሙ እስመ ስብሐቲሁ ወኃይሉ ለእግዚአብሔር ወመንፈሱ ያዓርፍ ላዕሌክሙ። አልቦ ዘየሐምም እምውስቴትክሙ አው ከመ ቀታሊ አው ከመ ሰራቂ አው ከመ ዘእኩይ ምግባሩ አው ከመ ዘባዕድ ያፈቅር ወይፈቱ። ወእመሰ ከመ ክርስቲያናዊ ኢትኅፈሩ አላ ሰብሕዎ ለእግዚአብሔር በዝንቱ ስም። እስመ በጽሐ ጊዘሁ ለፍዳ ዘያቀድም እምነቤቱ ለእግዚአብሔር ወእመሰ ኮነ እም ኅቤነ አቅድሞቱ ምንተ እንከ ይከውን ደኃሪቶሙ ለእለ ይክሕድዎ ለወንጌሉ ለእግዚአብሔር ወሶበ ጻድቅ እምዕፁብ ይድኅን ኃጥእ ወአማፂ በአይቴ ያስተርኢ ሀለዎ። ወእለኒ የሐምሙ በእንተ ፈቃዱ ለእግዚአብሔር ያማኃፅኑ ነፍሶሙ ኅበ ምእመን ፈጣሪ በገቢረ ሠናይ።",
+        "readingTitle": "ዘሐሙስ"
+      },
+      {
+        "readingAmh": "፪ ጴጥ ፫፥፰-፲፬ \n እናንተ ግን ወዳጆች ሆይ፥ በጌታ ዘንድ አንድ ቀን እንደ ሺህ ዓመት፥ \n ሺህ ዓመትም እንደ አንድ ቀን እንደ ሆነ ይህን አንድ ነገር አትርሱ። \n ለአንዳንዶች የሚዘገይ እንደሚመስላቸው ጌታ ስለ ተስፋ ቃሉ አይዘገይም፥ \n ነገር ግን ሁሉ ወደ ንስሐ እንዲደርሱ እንጂ ማንም እንዳይጠፋ ወዶ ስለ እናንተ ይታገሣል። \n የጌታው ቀን ግን እንደ ሌባ ሆኖ ይመጣል፤ በዚያም ቀን ሰማያት በታላቅ ድምፅ ያልፋሉ፥ የሰማይም ፍጥረት በትልቅ ትኵሳት ይቀልጣል፥ ምድርም በእርስዋም ላይ የተደረገው ሁሉ ይቃጠላል። \n ይህ ሁሉ እንዲህ የሚቀልጥ ከሆነ፥ የእግዚአብሔርን ቀን መምጣት እየጠበቃችሁና እያስቸኰላችሁ፥ በቅዱስ ኑሮ እግዚአብሔርንም በመምሰል እንደ ምን ልትሆኑ ይገባችኋል? \n ስለዚያ ቀን ሰማያት ተቃጥለው ይቀልጣሉ የሰማይም ፍጥረት በትልቅ ትኵሳት ይፈታል፤ ነገር ግን ጽድቅ የሚኖርባትን አዲስ ሰማይና አዲስ ምድር እንደ ተስፋ ቃሉ እንጠብቃለን።",
+        "readingEng": "2 Peter 3:8–14 \n But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day. \n The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance. \n But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up. \n Seeing then that all these things shall be dissolved, what manner of persons ought ye to be in all holy conversation and godliness, \n Looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat? \n Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwelleth righteousness. \n Wherefore, beloved, seeing that ye look for such things, be diligent that ye may be found of him in peace, without spot, and blameless.",
+        "readingGeez": "፪ ጴጥ. ፫፥፰-፲፬ \n ወዘንተ ባሕቱ ኢትርስኡ አኃዊነ እስመ አሐቲ ዕለት በኅበ እግዚአብሔር ከመ ፲ቱ ፻ት ዓመት ወ፲፻ት ዓመት ከመ አሐቲ ዕለት ኢያጐነዲ እግዚአብሔር ቃለ ዘነበበ እስመቦ እለይብሉ ከመ ይጐነዲ ወባሕቱ ይትዔገሥ በእንቲአሆሙ እስመ ኢይፈቅድ መነሂ ይማስን ገላ ይነስሑ ለኵሉ ሰብእ ያርኅብ። ወዕለቱሰ ለእግዚአብሔር ግብተ ትመጽእ ከመ ሰራቂ እንተ ባቲ ሰያማትኒ ይትረኅዋ ወይሴስላ ወኵሉ ፍጥረት ዘቀዲሙ በውዕየተ እሳት ይትመሰው ወምድርኒ ወኵሉ ዘላዕሌሃ ግብር ይውዒ። ወዝንቱ ኵሉ ተመሲዎ ጐጕኡ ከመ ተሀልዉ በምግባር ቅዱስ ዘጽድቅ እንዘ ትሴፈው ዕለት ምጽአቱ ለእግዚአብሔር እንተ ባቲ ሰማያትኒ ይረስና ወይትመሰዋ ወኵሉ ፍጥረት ይውዒ ወይትመሰው ሐዳሳተ ሰማያተ ወሐዳሳተ ምድረ ንሴፎ ዘውስቴቶን የኃድር ጽድቅ።",
+        "readingTitle": "ዘዓርብ"
+      },
+      {
+        "readingAmh": "ዘኤርምያስ ፲፯፥፳፮-ፍም \n የሚቃጠለው መሥዋዕትና ሌላ መሥዋዕትን የእህሉንም ቍርባን ዕጣኑንም የምስጋናውንም መሥዋዕት ይዘው \n ከይሁዳ ከተሞች ከኢየሩሳሌምም ዙሪያ ከብንያምም አገር ከቈላውም ከደጋውም ከደቡብም ወደ እግዚአብሔር ቤት ይመጣሉ። \n ነገር ግን የሰንበትን ቀን እንድትቀድሱ፥ በሰንበትም ቀን ሸክምን ተሸክማችሁ በኢየሩሳሌም በሮች እንዳትገቡ የነገርኋችሁን ባትሰሙኝ፥ በበሮችዋ ላይ እሳትን አነድዳለሁ፥ የኢየሩሳሌምንም አዳራሾች ትበላለች፥ አትጠፋም።",
+        "readingEng": "Jeremiah 17:26–27 \n And they shall come from the cities of Judah, and from the places about Jerusalem, and from the land of Benjamin, and from the plain, and from the mountains, and from the south, bringing burnt offerings, and sacrifices, and meat offerings, and incense, and bringing sacrifices of praise, unto the house of the Lord. \n But if ye will not hearken unto me to hallow the sabbath day, and not to bear a burden, even entering in at the gates of Jerusalem on the sabbath day; then will I kindle a fire in the gates thereof, and it shall devour the palaces of Jerusalem, and it shall not be quenched.",
+        "readingGeez": "ዘኤርምያስ ፲፯፥፳፮-ፍም \n ወይመጽኡ እምአህጉር ይሁዳ እምአድያመ ወእምአድያም ወእምአሕቃላት ወእምአድባር እመንገለ ሰሜን ወያመጽኡ መሥዋዕተ ወመሐና ወሰኂነ ወያመጽኡ አኰቴተ ለእግዚአብሔር ወእመ ኢሰማዕክሙኒ ወኢቀደስክሙ ዕለተ ሰንበት ወአባዕክሙኒ ወኢቀደስክሙ ዕለተ ሰንበት ወአባዕክሙ ፆረ እንተ አናቅጺሃ ለኢየሩሳሌም በእለተ ሰንበት አነድድ እሳተ ላዕለ ኆኃቲሃ ወትበልዕ መሠረታቲሃ ለኢየሩሳሌም ወኢተጠፍእ።",
+        "readingTitle": "ዘቀዳሚት"
+      }
+    ],
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 10,
+    "text": "ኦ ፡ አኀውየ ፡ ኢታፍቅርዎ ፡ ለዓለም ፡ ወኢዘሀሎ ፡ ውስተ ፡ ዓለም ፤ ዓለሙኒ ፡ ኀላፊ ፡ ፍትወቱኒ ፡ ኀላፊ ፡ እስመ ፡ ኲሉ ፡ ኀላፊ ፡ ውእቱ ።",
+    "amh": "ወንድሞቼ ሆይ ይህን ዓለም አትውደዱት፤ በዓለሙ ውስጥ ያለውንም። ዓለሙም ኃላፊ ነው፤ ፍትወቱም ኃላፊ ነው፤ ሁሉም ኀላፊ ነውና።",
+    "title": "መልእክት ዘንፍቅ",
+    "turn": "ይ.ዲ. ንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 11,
+    "text": "ዘተውህበከ ፡ መራኁተ ፡ ዘመንግሥተ ፡ ሰማያት ፡ ኰኵሐ ፡ ሃይማኖት ፡ ጴጥሮስ ፡ አርኅወነ ፡ ንባዕ ፡ ውስተ ፡ ቤተ ፡ መርዓ ፡ ለክርስቶስ ፡ ኦ ፡ ዘለከ ።",
+    "amh": "የመንግሥት ፡ ሰማያት ፡ መክፈቻ ፡ የተሰጠህ ፡ የሃይማኖት ፡ መሠረት ፡ የምትሆን ፡ ጴጥሮስ ፡ ሆይ ፡ ወደ ፡ ክርስቶስ ፡ ሠርግ ፡ ቤት ፡ እንገባ ፡ ዘንድ ፡ ክፈትልን ።",
+    "title": "መርገፍ ዘንፍቅ ዘዘወትር",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ኦ ዘለከ",
+        "ውስተ"
+      ]
+    }
+  },
+  {
+    "sortOder": 12,
+    "text": "ተውህበከ ፡ ሥልጣነ ፡ ሰማያት ፡ ወምድር ፡ ሊቀ ፡ ሊቃውንት ፡ ጴጥሮስ ፡ ባርክ ፡ ማኅበረነ ፡ በሢመተ ፡ እዴከ ፡ ኦ ፡ ዘለከ ።",
+    "amh": "የምድርና ፡ የሰማይ ፡ ሥልጣን ፡ የተሳጠህ ፡ የመምህራን ፡ አለቃ ፡ ጴጥሮስ ፡ ሆይ ፡ እጅህን ፡ ጭነህ ፡ ወገናችንን ፡ ባርክ ፡ አክብር ።",
+    "title": "መርገፍ ዘንፍቅ ዘዘወትር",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ኦ ዘለከ"
+      ]
+    }
+  },
+  {
+    "sortOder": 13,
+    "text": "ተውህበከ ፡ አክሊለ ፡ ክህነት ፡ ወመንግሥት ፡ ዘመልዕልተ ፡ ኵሎሙ ፡ ቅዱሳን ፡ በከመ ፡ ትቤ ፡ ለሊከ ፡ ከመ ፡ ኲሎ ፡ ዚአነ ፡ መለኮቱ ፡ ወኃይሉ ፡ ወአምልኮቱ ፡ እንተ ፡ ተውህበት ፡ ለነ ፡ ሞቅሕ ፡ ወፈታሕከ ፡ መዋቅሕቲሁ ፡ ለጳውሎስ ፡ ፍትሐነ ፡ ይእዜኒ ፡ እማዕሠሪሁ ፡ ለጸላኢ ። ቅድመ ፡ ወንጌል ፡ መንፈቀ ፡ ሌሊት ፡ በል",
+    "amh": "በከመ ፡ ኵሉ ፡ ዚአነ ፡ መለኮቱ ፡ ወኃይሉ ፡ ወአምልኮቱ ፡ ተአምራቱ ፡ አምልኮቱ ፡ ለኛ ፡ ተሠጥታናለች ፡ ብለህ ፡ አንተ ፡ እንደ ፡ ተናገርህ ፡ ከቅዱሳን ፡ ክብር ፡ የሚበልጥ ፡ የመንግሥትና ፡ የክህነት ፡ ዘውድ ፡ ተሰጥቶሃልና የግዞት ፡ ቤቱን ፡ መሠረት ፡ ያነዋወጥህ ፡ ጳውሎስንም ፡ ከእስራቱ ፡ የፈታሕ ፡ እኛንም ፡ ከጠላት ፡ ማሰሪያ ፡ ፍታን",
+    "title": "መርገፍ ዘንፍቅ ዘዘወትር",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ከመ ኲሎ ዚአነ መለኮቱ ወኃይሉ ወአምልኮቱ"
+      ]
+    }
+  },
+  {
+    "sortOder": 14,
+    "text": "ረስየነ ፡ ድልዋነ ፡ ንትቀበልከ ፡ ከመ ፡ መርዓዊ ፡ በዘይተ ፡ ሃይማኖት ፡ ጥሉል ፡ ወበማኅቶተ ፡ ምግባር ፡ ዕዱል ።",
+    "amh": "በለመለመች ፡ ዘይት ፡ ሃይማኖት ፡ ብርህት ፡ በሆነች ፡ ምግባር ፡ መብራት ፡ እንደ ፡ ሙሽራ ፡ እንቀበልህ ፡ ዘንድ ፡ ለመቀበል ፡ የበቃን ፡ አድርገን ።",
+    "title": "ረስየነ ድልዋነ ንትቀበልከ ከመ",
+    "turn": "",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 15,
+    "text": "ባርክ ፡ መርዔትከ ፡ ኦሊቀ ፡ ኖሎት ፡ ወባርክ ፡ ርስተከ ፡ መክብበ ፡ ኵሎን ፡ አብያተ ፡ ክርስቲያናት ፡ እስመ ፡ ለከ ፡ ይቤለከ ፡ ራዓይኪ ፡ አባግዕየ ፡ ግብ ፡ ሐዋ",
+    "amh": "የመምህራን ፡ አለቃ ፡ ሆይ ፡ በጎችህ ፡ (ምዕመናንን) ፡ አብዛ ፡ አክብር ፡ የአብያተ ፡ ክርስቲያናት ፡ ሁሉ ፡ መምህር ፡ ሆይ ፡ ርስት ፡ ጉልትህን ፡ ምዕመናንን ፡ አጽና ፡ አንተን ፡ በጎቼን ፡ ጠብቅ ፡ ብሎሃልና ።",
+    "title": "መርገፍ ዘንፍቅ ዘዘወትር",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 16,
+    "text": "እስመ ፡ ውእቱ ፡ ዘበነቢያት ፡ አስተንፈሰ ፤ ሰንበታቲሁ ፡ ቀደሰ ፡ ከመ ፡ ይኲናነ ፡ መርሰ ፤ ወዘበልየ ፡ ሐደሰ ፡ ዘበመስቀሉ ፡ ረከብነ ፡ ሞገሰ ።",
+    "title": "መርገፍ ዘንፍቅ ዘቀዳሚት",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 17,
+    "text": "ከመ ፡ ዕፀ ፡ አርዝ ፡ ኀበ ፡ ሙሐዘ ፡ ማይ ፡ ዘበቈለ ፡ ዮሐንስ ፡ አሕመልመለ ፡ ወተለዐለ ። ለሠርፀ ፡ ቃሉ ፡ ንኩኖ ፡ አስካለ ፡ ወንጌለ ፡ ጸጋ ፡ የሀበነ ፡ ክፍለ ።",
+    "title": "መርገፍ ዘንፍቅ ዘእሁድ",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 18,
+    "text": "ነቅዕ ፡ ንጹሕ ፡ ዘእምአንቅዕተ ፡ ሕግ ፡ ንጹሐን ፡ ዝ ፡ ውእቱ ፡ ዜና ፡ ግብሮሙ ፡ ለአበዊነ ፡ ሐዋርያት ። በረከተ ፡ ጸሎቶሙ ፡ የሃሉ ፡ ምስለ ፡ ኵልነ ፡ ሕዝበ ፡ ክርስቲያን ፡ ለዓለመ ፡ ዓለም ፡ አሜን ።",
+    "amh": "ከንጹሐን ምንጭ የተገኘ ንጹሕ የሆነ ምንጭ ይህም የአባቶቻችን የሐዋርያት ነገር ነው። ጸሎትና በረከታቸው ከሁላችን ጋር ለዘለዓለሙ ይኑር።",
+    "title": "ግብረ ሐዋርያት",
+    "turn": "ይ.ካ. ንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 19,
+    "text": "ንፍቅ ፡ ካህን ፡ የዕለቱን ፡ ግብረ ፡ ሐዋርያት ፡ ያንብብ ።",
+    "title": "ንባብ",
+    "turn": "",
+    "readings": [
+      {
+        "readingAmh": "ግብ. ሐዋ. ፳፥፯-፲፪ \n ከሳምንቱም በመጀመሪያ ቀን እንጀራ ለመቁረስ ተሰብስበን ሳለን፥ ጳውሎስ በነገው ሊሄድ ስላሰበ ከእነርሱ ጋር ይነጋገር ነበር፥ እስከ መንፈቀ ሌሊትም ነገሩን አስረዘመ። ተሰብስበንም በነበርንበት ሰገነት እጅግ መብራት ነበረ። አውጤኪስ የሚሉትም አንድ ጎበዝ በመስኮት ተቀምጦ ታላቅ እንቅልፍ አንቀላፍቶ ነበር፤ ጳውሎስም ነገርን ባስረዘመ ጊዜ እንቅልፍ ከብዶት ከሦስተኛው ደርብ ወደ ታች ወደቀ፥ ሞቶም አነሡት። ጳውሎስም ወርዶ በላዩ ወደቀ፥ አቅፎም። ነፍሱ አለችበትና አትንጫጩ አላቸው። ወጥቶም እንጀራ ቆርሶም በላ፤ ብዙ ጊዜም እስኪነጋ ድረስ ተነጋገረ እንዲህም ሄደ። ብላቴናውንም ደኅና ሆኖ ወሰዱት እጅግም ተጽናኑ።",
+        "readingEng": "Acts 20:7–12 \n And upon the first day of the week, when the disciples came together to break bread, Paul preached unto them, ready to depart on the morrow; and continued his speech until midnight. \n And there were many lights in the upper chamber, where they were gathered together. \n And there sat in a window a certain young man named Eutychus, being fallen into a deep sleep: and as Paul was long preaching, he sunk down with sleep, and fell down from the third loft, and was taken up dead. \n And Paul went down, and fell on him, and embracing him said, Trouble not yourselves; for his life is in him. \n When he therefore was come up again, and had broken bread, and eaten, and talked a long while, even till break of day, so he departed. \n And they brought the young man alive, and were not a little comforted.",
+        "readingGeez": "ግብ. ሐዋ. ፳፥፯-፲፪ \n ወበዕለተ እሁድ እንዘ ጉብዓን ንሕነ ከመ ንባርከ ማዕድ ወይነግሮሙ ጳውሎስ እስመ በሳኒታ ይገይስ ወአንኅ ነገረ እስከ ንፍቀ ሌሊት። ወብዙኅ መኅትው ውስተ ውእቱ ጽርሕ ኅበ ሀሎነ ጉቡዓን። ወእንዘ ይነብር ፩ዱ ወልድ ወሬዛ ውስተ መስኮት ዘስሙ አውጤክስ ደቀሰ ወኖመ ዓቢየ ንዋመ። ወእንዘ ይነግር ጳውሎስ ብዙኅ ጐንደየ ወእምኅበ ይነውም ውእቱ ወልድ ጸጽፈ እምተስላስ ታሕተ ወአንሥእዎ በድኖ። ወወረደ ጳውሎስ ወነሥኦ ኅቤሁ ወይቤሎሙ ኢትደንግፁ ሀለወት ነፍሱ ላዕሌሁ። ወእምዝ ዐርገ ወአዕረጎ ምስሌሁ ወነበረ ወባረከ ማእደ ወወሀቦሙ ለወሬዛ እምነ ማእድ ወብዙኅ ነገሮሙ ወጐንደየ እስከ ጎሕ ወእምዝ ወድአ ጌሠም ወአወፈዮሙ ውእተ ወልደ ሕያዎ ወተፈሥሑ ፈድፋደ።",
+        "readingTitle": "ዘእሁድ"
+      },
+      {
+        "readingAmh": "ግብ. ሐዋ. ፲፮፥፳፭-፴፭ \n በመንፈቀ ሌሊት ግን ጳውሎስና ሲላስ እየጸለዩ እግዚአብሔርን በዜማ ያመሰግኑ ነበር፥ እስረኞቹም ያደምጡአቸው ነበር ድንገትም የወኅኒው መሠረት እስኪናወጥ ድረስ ታላቅ የምድር መንቀጥቀጥ ሆነ፤ በዚያን ጊዜም ደጆቹ ሁሉ ተከፈቱ የሁሉም እስራት ተፈታ። የወኅኒውም ጠባቂ ከእንቅልፉ ነቅቶ የወኅኒው ደጆች ተከፍተው ባየ ጊዜ፥ እስረኞቹ ያመለጡ መስሎት ራሱን ይገድል ዘንድ አስቦ ሰይፉን መዘዘ። ጳውሎስ ግን በታላቅ ድምፅ። ሁላችን ከዚህ አለንና በራስህ ክፉ ነገር አታድርግ ብሎ ጮኸ። መብራትም ለምኖ ወደ ውስጥ ሮጠ፥ እየተንቀጠቀጠም ከጳውሎስና ከሲላስ ፊት ተደፋ፤ ወደ ውጭም አውጥቶ። ጌቶች ሆይ፥ እድን ዘንድ ምን ማድረግ ይገባኛል? ኣላቸው። እነርሱም። በጌታ በኢየሱስ ክርስቶስ እመን አንተና ቤተ ሰዎችህ ትድናላችሁ አሉት። ለእርሱና በቤቱም ላሉት ሁሉ የእግዚአብሔርን ቃል ተናገሩአቸው። በሌሊትም በዚያች ሰዓት ወስዶ ቍስላቸውን አጠበላቸው፥ ያን ጊዜውንም እርሱ ከቤተ ሰዎቹ ሁሉ ጋር ተጠመቀ፤ ወደ ቤቱም አውጥቶ ማዕድ አቀረበላቸው፥ በእግዚአብሔርም ስላመነ ከቤተ ሰዎቹ ሁሉ ጋር ሐሤት አደረገ።",
+        "readingEng": "Acts 16:25–35 \n And at midnight Paul and Silas prayed, and sang praises unto God: and the prisoners heard them. \n And suddenly there was a great earthquake, so that the foundations of the prison were shaken: and immediately all the doors were opened, and every one's bands were loosed. \n And the keeper of the prison awaking out of his sleep, and seeing the prison doors open, he drew out his sword, and would have killed himself, supposing that the prisoners had been fled. \n But Paul cried with a loud voice, saying, Do thyself no harm: for we are all here. \n Then he called for a light, and sprang in, and came trembling, and fell down before Paul and Silas, \n And brought them out, and said, Sirs, what must I do to be saved? \n And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house. \n And they spake unto him the word of the Lord, and to all that were in his house. \n And he took them the same hour of the night, and washed their stripes; and was baptized, he and all his, straightway. \n And when he had brought them into his house, he set meat before them, and rejoiced, believing in God with all his house. \n And when it was day, the magistrates sent the serjeants, saying, Let those men go.",
+        "readingGeez": "ግብ. ሐዋ. ፲፮፥፳፭-፴፭ \n ወጊዜ መንፈቅ ሌሊት ጸልዩ ጳውሎስ ወሲላስ ወስብሕዎ ለእግዚአብሔር ወሙቃሓን ይሰምዕዎሙ። ወሶቤሃ አጽለቅለቀ ዐቢይ ድልቅልቅ ወአንቀልቀለ መሠረታተ ቤተ ሞቅሕ ወተርኅወ በጊዜሃ ኵሉ አንቀጽ ወተፈትሑ መዋቅሕቲሆሙ ለኵሎሙ። ወሶበ ነቅሐ ዐቃቤ ቤተ ሞቅሕ ርእየ ርኅወ ኵሎ አናቅጸ ወመልሐ መጥባሕቶ ይትረገዝ ለሊሁ እስመ መሰሎ ዘአምሰጡ ሙቁሐን። ወከልሐ ሎቱ ጳውሎስ ወይቤሎ ኢትግበር እኩየ ዲበ ነፍስከ ሀሎነ ኵልነ ዝየ ወአምጽአ ማኅቶተ ወሖረ እንዘ ይርእድ እንተ ውስጥ ወሰገደ ኅበ ጳውሎስ ወሲላስ። ወአውጽኦሙ አፍአ ወይቤሎሙ አጋእዝትየ ምንተ እግበር ከመ እድኅን። ወይቤልዎ እመን በእግዚነ ኢየሱስ ክርስቶስ ወተሐዩ አንተ ወኵሉ ቤትከ ወነገርዎ ቃለ እግዚአብሔር ወለኵሉ ሰብኡ። ወነሥኦሙ ሶቤሃ በሌሊተ ወሐፀቦሙ እምቅሥፈቶሙ ወተጠምቀ ውእቱኒ ወኵሉ ሰብኡ በጊዜሃ። ወአዕረጎሙ ውስተ ቤቱ ወሠርዐ ማእደ ወተፈሥሐ ውእቱ ወኵሉ ቤቱ በአሚነ እግዚእነ።",
+        "readingTitle": "ዘሰኑይ"
+      },
+      {
+        "readingAmh": "ግብ. ሐዋ. ፭፥፲፯-፴፩ \n ሊቀ ካህናቱ ግን የሰዱቃውያን ወገን ሆነውም ከእርሱ ጋር የነበሩት ሁሉ ተነሡ ቅንዓትም ሞላባቸው። በሐዋርያትም ላይ እጃቸውን ጭነው በሕዝቡ ወኅኒ ውስጥ አኖሩአቸው። የጌታ መልአክ ግን በሌሊት የወኅኒውን ደጅ ከፍቶ አወጣቸውና። ሂዱና ቆማችሁ የዚህን ሕይወት ቃል ሁሉ ለሕዝብ በመቅደስ ንገሩ አላቸው። በሰሙም ጊዜ ማልደው ወደ መቅደስ ገብተው አስተማሩ። ግን ሊቀ ካህናቱና ከእርሱ ጋር የነበሩት መጥተው ሸንጎውንና የእስራኤልን ልጆች ሽማግሌዎች ሁሉ በአንድነት ጠሩ፥ ያመጡአቸውም ዘንድ ወደ ወኅኒ ላኩ። ሎሌዎችም መጥተው በወኅኒው አላገኙአቸውም፤ ተመልሰውም። ወኅኒው በጣም በጥንቃቄ ተዘግቶ ጠባቂዎችም በደጁ ፊት ቆመው አገኘን፥ በከፈትን ጊዜ ግን በውስጡ አንድ ስንኳ አላገኘንም አሉአቸው። የመቅደስ አዛዥና የካህናት አለቆችም ይህን ነገር በሰሙ ጊዜ። እንጃ ይህ ምን ይሆን? እያሉ ስለ እነርሱ አመነቱ። አንድ ሰውም መጥቶ። እነሆ፥ በወኅኒ ያኖራችኋቸው ሰዎች እየቆሙ ሕዝቡንም እያስተማሩ በመቅደስ ናቸው ብሎ አወራላቸው። በዚያን ጊዜ አዛዡ ከሎሌዎች ጋር ሄዶ አመጣቸው፥ በኃይል ግን አይደለም፤ ሕዝቡ እንዳይወግሩአቸው ይፈሩ ነበርና። አምጥተውም በሸንጎ አቆሙአቸው። ሊቀ ካህናቱም። በዚህ ስም እንዳታስተምሩ አጥብቀን አላዘዝናችሁምን? እነሆም፥ ኢየሩሳሌምን በትምህርታችሁ ሞልታችኋል፤ የዚያንም ሰው ደም በእኛ ታመጡብን ዘንድ ታስባላችሁ ብሎ ጠየቃቸው። ጴጥሮስና ሐዋርያትም መልሰው አሉ። ከሰው ይልቅ ለእግዚአብሔር ልንታዘዝ ይገባል። እናንተ በእንጨት ላይ ሰቅላችሁ የገደላችሁትን ኢየሱስን የአባቶቻችን አምላክ አስነሣው፤ ይህን እግዚአብሔር፥ ለእስራኤል ንስሐን የኃጢአትንም ስርየት ይሰጥ ዘንድ፥ ራስም መድኃኒትም አድርጎ በቀኙ ከፍ ከፍ አደረገው።",
+        "readingEng": "Acts 5:17–31 \n Then the high priest rose up, and all they that were with him, (which is the sect of the Sadducees,) and were filled with indignation, \n And laid their hands on the apostles, and put them in the common prison. \n But the angel of the Lord by night opened the prison doors, and brought them forth, and said, \n Go, stand and speak in the temple to the people all the words of this life. \n And when they heard that, they entered into the temple early in the morning, and taught. But the high priest came, and they that were with him, and called the council together, and all the senate of the children of Israel, and sent to the prison to have them brought. \n But when the officers came, and found them not in the prison, they returned and told, \n Saying, The prison truly found we shut with all safety, and the keepers standing without before the doors: but when we had opened, we found no man within. \n Now when the high priest and the captain of the temple and the chief priests heard these things, they doubted of them whereunto this would grow. \n Then came one and told them, saying, Behold, the men whom ye put in prison are standing in the temple, and teaching the people. \n Then went the captain with the officers, and brought them without violence: for they feared the people, lest they should have been stoned. \n And when they had brought them, they set them before the council: and the high priest asked them, \n Saying, Did not we straitly command you that ye should not teach in this name? and, behold, ye have filled Jerusalem with your doctrine, and intend to bring this man's blood upon us. \n Then Peter and the other apostles answered and said, We ought to obey God rather than men. \n The God of our fathers raised up Jesus, whom ye slew and hanged on a tree. \n Him hath God exalted with his right hand to be a Prince and a Saviour, for to give repentance to Israel, and forgiveness of sins.",
+        "readingGeez": "ግብ. ሐዋ. ፭፥፲፯-፴፩ \n ወተንሥኡ ሊቀ ካህናት ወእለ ምስሌሁ ወሕዝብ ሰዱቃውያን ወቀንኡ ዲቤሆሙ ወአኅዝዎሙ ለሐዋርያት ወአውዓልዎሙ ሙዓለ ውስተ ቤተ ሞቅሕ። ወመልአከ እግዚአብሔር አርኅወ አናቅጸ ቤተ ሞቅሕ በሌሊት ወአምጽኦሙ ወይቤሎሙ ሑሩ ባኡ ምኵራበ ወመሐርዎሙ ለሕዝብ ዘንተ ነገረ ሕይወት። ወሰሚዖሙ ዘንተ ጌሡ ነግሀ በጽባሕ ወቦኡ ምኵራበ ወመሐሩ ወሊቃነ ካህናትሰ ወእለምስሌሆሙ አስተጋብኡ ዓውዶሙ በኵሎ ሊቃነ ቤተ እስራኤል ወለአኩ ቤተ ሞቅሕ ያምጽእዎሙ ለሐዋርያት ወበጽሑ ወዓሊያኒሆሙ ወኃጥእዎሙ ወተሠውጡ ወነገርዎሙ ወይቤልዎሙ ረከብነ ቤተ ሞቅሕ ንሡገ ወቅቱረ ወዝጉሐ እንተ ኵለሄ ወሠገራት የዐቅቡ አናቅጺሁ ወአርኂወኒ አልቦ ዘረከብነ በውስጥ። ወሰማዖሙ ዘንተ ነገረ ሊቃነ ካህናት ወመገብተ ምኵራብ ኃጥኡ ዘይገብሩ ወይቤሉ ምንትኑ እንጋ ዝ ነገር። ወመጽአ አሐዱ. ወይቤሎሙ ነዮሙ እሙንቱ እደው እለሞቃሕክምዎሙ ውስተ ምኵራብ ይቀውሙ ወይሜህሩ ለሕዝብ። ወእምዝ ሖረ መጋቤ ምኵራብ ምስለ ወዓሊሁ ያምጽእዎሙ እንዘ ይዬውህዎሙ እስመ ይፈርህዎሙ ለሕዝብ ኢይውርግዎሙ። ወአምጽእዎሙ ወአቀምዎሙ ማእከለ ዐውድ ወሐተትዎሙ ሊቃነ ካህናት ወይቤልዎሙ አኮኑ ከላእናክሙ ከመ ኢትምሀሩ በሰሙ ለኢየሱስ ወኢለመኑሂ ወናሁ መላእክምዋ ትምህርተክሙ ለኢየሩሳሌም ወትፈቅዱኑ ታግብኡ ላዕሌነ ደሞ ለዝ ብእሲ። ወተሠጥዎሙ ጴጥሮስ ምስለ ሐዋርያት ወይቤሎሙ ይኄይስነ ናድሉ ለእግዚአብሔር እምነ አድልዎ ለሰብእ አምላከ አብዊነ አንሥኦ ለኢየሱስ ዘአንትሙ ዐለሙከምዎ ወሰቀልክምዎ ዲበ ዕፅ ወቀተልክምዎ ኪያሁ ረሰዮ መልአከ ሕይወት ወአልዐሉ በየማኑ ወወሀቦ ለእስራኤል ንስሓ ከመ ይትኃደግ ሎሙ ኃጢአቶሙ።",
+        "readingTitle": "ዘሠሉስ"
+      },
+      {
+        "readingAmh": "ግብ. ሐዋ. ፲፪፥፩-፲፪ \n በዚያም ዘመን ንጉሡ ሄሮድስ መከራ ያጸናባቸው ዘንድ ከቤተ ክርስቲያኑ በአንዳንዶቹ ላይ እጁን ጫነባቸው። የዮሐንስንም ወንድም ያዕቆብን በሰይፍ ገደለው። አይሁድንም ደስ እንዳሰኛቸው አይቶ ጨምሮ ጴጥሮስን ደግሞ ያዘው። የቂጣ በዓልም ወራት ነበረ። በያዘውም ጊዜ ወደ ወኅኒ አገባው ከፋሲካም በኋላ ወደ ሕዝብ ያወጣው ዘንድ አስቦ እያንዳንዱ አራት ወታደሮች ሆነው እንዲጠብቁት ለአራት ጭፍራ ክፍል አሳልፎ ሰጠው። ጴጥሮስም በወኅኒ ይጠበቅ ነበር፤ ነገር ግን በቤተ ክርስቲያን ስለ እርሱ ወደ እግዚአብሔር ጸሎት አጥብቆ ይደረግ ነበር። ሄሮድስም ሊያወጣው ባሰበ ጊዜ፥ በዚያች ሌሊት ጴጥሮስ በሁለት ሰንሰለት ታስሮ ከሁለት ወታደሮች መካከል ተኝቶ ነበር፤ ጠባቂዎችም በደጁ ፊት ሆነው ወኅኒውን ይጠብቁ ነበር። እነሆም፥ የጌታ መልአክ ቀረበ በቤትም ውስጥ ብርሃን በራ፤ ጴጥሮስንም ጎድኑን መትቶ አነቃውና። ፈጥነህ ተነሣ አለው። ሰንሰለቶቹም ከእጁ ወደቁ። መልአኩም። ታጠቅና ጫማህን አግባ አለው፥ እንዲሁም አደረገ። ልብስህንም ልበስና ተከተለኝ አለው። ወጥቶም ተከተለው፤ ራእይንም የሚያይ ይመስለው ነበር እንጂ በመልአኩ የሚደረገው ነገር እውነት እንደ ሆነ አላወቀም። የመጀመሪያውንና የሁለተኛውንም ዘብ አልፈው ወደ ከተማ ወደሚያወጣው ወደ ብረቱ መዝጊያ ደረሱ፤ እርሱም አውቆ ተከፈተላቸው፤ ወጥተውም አንዲት ስላች አለፉ ወዲያውም መልአኩ ከእርሱ ተለየ። ጴጥሮስም ወደ ልቡ ተመልሶ ጌታ መልአኩን ልኮ ከሄሮድስ እጅና የአይሁድ ሕዝብ ይጠብቁት ከነበረው ሁሉ እንደ አዳነኝ አሁን በእውነት አወቅሁ አለ።",
+        "readingEng": "Acts 12:1–12 \n Now about that time Herod the king stretched forth his hands to vex certain of the church. \n And he killed James the brother of John with the sword. \n And because he saw it pleased the Jews, he proceeded further to take Peter also. (Then were the days of unleavened bread.) \n And when he had apprehended him, he put him in prison, and delivered him to four quaternions of soldiers to keep him; intending after Easter to bring him forth to the people. \n Peter therefore was kept in prison: but prayer was made without ceasing of the church unto God for him. \n And when Herod would have brought him forth, the same night Peter was sleeping between two soldiers, bound with two chains: and the keepers before the door kept the prison. \n And, behold, the angel of the Lord came upon him, and a light shined in the prison: and he smote Peter on the side, and raised him up, saying, Arise up quickly. And his chains fell off from his hands. \n And the angel said unto him, Gird thyself, and bind on thy sandals. And so he did. And he saith unto him, Cast thy garment about thee, and follow me. \n And he went out, and followed him; and wist not that it was true which was done by the angel; but thought he saw a vision. \n When they were past the first and the second ward, they came unto the iron gate that leadeth unto the city; which opened to them of his own accord: and they went out, and passed on through one street; and forthwith the angel departed from him. \n And when Peter was come to himself, he said, Now I know of a surety, that the Lord hath sent his angel, and hath delivered me out of the hand of Herod, and from all the expectation of the people of the Jews.",
+        "readingGeez": "ግብ. ሐዋ. ፲፪፥፩-፲፪ \n ወውእቱ አሚረ አኅዞሙ ሄሮድስ ለሥዩማነ ቤተ እግዚአብሔር ወአሕመሞሙ ወቀተሎ ለያዕቆብ እኁሁ ለዮሐንስ በሰይፍ ወርእዮ ከመ ተፈሥሑ አይሁድ አኅዞ ካዕበ ለጴጥሮስ። ወበዓለ ፋሲካ ውእተ አሚረ ወእኂዞ ሞቅሖ ወወሀቦሙ ለዐሠርቲ ወስድስቱ ሠገራት እለ የዐቅብዎ ወፈቀደ እምድኅረ ፋሲካ ያቅርቦ ኅበ ሕዝብ። ወየዐቅብዎ ለጴጥሮስ በቤተ ሞቅሕ ወይጼልዩ ወትረ ኅበ እግዚአብሔር በእንቲአሁ በቤተ ክርስቲያን። ወበይእቲ ሌሊት እንተ ጸቢሖ ፈቀደ ሄሮድስ ከመ ይመጥዎ ለአይሁድ። ወእንዘ ይነውም ጴጥሮስ ማእከለ ፪ቱ ሠገራት ወሙቁሐት ክልኤሆን እደዊሁ በሰናስል ወዐቀብት የአቅቡ አናቅጸ ቤተ ሞቅሕ። ወወረደ መልአከ እግዚአብሔር ወቆመ ኅቤሁ ወአብርህ ውስተ ውእቱ ቤት ወጐድኦ መልአክ ገቦሁ ለጴጥሮስ ወአንቅሖ ወይቤሎ ተንሥእ ፍጡነ ወወድቃ መዋቅሕት እምእደዊሁ። ወይቤሎ ውእቱ መልአክ ቅንት ሐቌከ ወተሠአን አሣእኒከ ወገብረ ከመሁ። ወይቤሎ ተዐጽፍኬ ልብሰከ ወነዓ ትልወኒ። ወወጽአ ወተለዎ ወኢያእመረ ጴጥሮስ ከመ ዘእሙን አስተርአዮ መልአክ አላ ሕልመ ዘየሐልም ይመስሎ። ወወጺኦሙ ሖሩ አሐተ ስኰተ ወኅደጎ ዝኩ መልአክ ለጴጥሮስ። ወገብአ ልቡ ለጴጥሮስ ሶበሃ ወይቤ ይእዜ አእመርኩ ከመ በአማን ፈነወ እግዚአብሔር መልአኮ ወአድኅነኒ እምእዴሁ ለሄሮድስ ወእምኵሉ ተስፋሆሙ ለህዝበ አይሁድ።",
+        "readingTitle": "ዘረቡዕ"
+      },
+      {
+        "readingAmh": "ግብ. ሐዋ. ፲፮፥፴፭-ፍ.ም \n በነጋም ጊዜ ገዢዎቹ እነዚያን ሰዎች ፍቷቸው ብለው ሎሌዎቻቸውን ላኩ። የወኅኒውም ጠባቂ ትፈቱ ዘንድ ገዢዎቹ ልከዋል፤ እንግዲህ አሁን ወጥታችሁ በሰላም ሂዱ ብሎ ይህን ቃል ለጳውሎስ ነገረው። ጳውሎስ ግን እኛ የሮሜ ሰዎች ስንሆን ያለ ፍርድ በሕዝብ ፊት ደብድበው በወኅኒ ጣሉን፤ አሁንም በስውር ይጥሉናልን? አይሆንም ራሳቸው ግን መጥተው ያውጡን አላቸው። ሎሌዎቹም ይህን ነገር ለገዢዎች ነገሩ። የሮሜ ሰዎችም እንደ ሆኑ በሰሙ ጊዜ ፈሩ፤ መጥተውም ማለዱአቸው፥ አውጥተውም ከከተማ ይወጡ ዘንድ ለመኑአቸው። ከወኅኒውም ወጥተው ወደ ልድያ ቤት ገቡ፥ ወንድሞችንም ባዩ ጊዜ አጽናኑአቸውና ሄዱ።",
+        "readingEng": "Acts 16:35–40 \n And when it was day, the magistrates sent the serjeants, saying, Let those men go. \n And the keeper of the prison told this saying to Paul, The magistrates have sent to let you go: now therefore depart, and go in peace. \n But Paul said unto them, They have beaten us openly uncondemned, being Romans, and have cast us into prison; and now do they thrust us out privily? nay verily; but let them come themselves and fetch us out. \n And the serjeants told these words unto the magistrates: and they feared, when they heard that they were Romans. \n And they came and besought them, and brought them out, and desired them to depart out of the city. \n And they went out of the prison, and entered into the house of Lydia: and when they had seen the brethren, they comforted them, and departed.",
+        "readingGeez": "ግብ. ሐዋ. ፲፮፥፴፭-ፍ.ም \n ወጸቢሖ ለአኩ መኳንንት ወአልያኒሆሙ እንዘ ይብሉ ፍትሕዎሙ ለእሉ እደው ወኅድግዎሙ ይሑሩ። ወሰሚዖ ዓቃቤ ቤተ ሞቅሕ ነገሮሙ ዘ ነገረ ለጳውሎስ ወለሲላስ ከመ ለአኩ መኳንንት ይኅድግዎሙ ወይቤሎሙ ይእዜኒ ሑሩ በሰላም። ወይቤልዎ ቀሠፉነ ገሃደ ዘአልብነ አበሳ እንዘ ሰብአ ሮሜ ንሕነ ወሞቅሑነ ወይእዜኒ ጽሚተ ያውጽኡኑ ይፈቅዱ ጽሚተሰኬ አበይነ ይምጽኡ ለሊሆሙ ያውጽኡነ። ወሖሩ ወነገርዎሙ ወአልያኒሆሙ ዘንተ ነገረ ለመኳንንት ወፈርሁ ሰሚዖሙ ከመ ሰብአ ሮሜ እሙንቱ። ወመጽኡ ወአስተብቍዕዎሙ ከመ ይጻኡ እምብሔሮሙ። ወወጺኦሙ እምቤተ ሞቅሕ ቦኡ ቤተ ልድያ ወረከቡ ቢጾሙ ወመሐርዎሙ ወወጽኡ።",
+        "readingTitle": "ዘሐሙስ"
+      },
+      {
+        "readingAmh": "ግብ. ሐዋ. ፰፥፳፮-ፍ.ም \n የጌታም መልአክ ፊልጶስን ተነሥተህ በደቡብ በኩል ከኢየሩሳሌም ወደ ጋዛ ወደሚያወርደው ምድረ በዳ ወደ ሆነ መንገድ ሂድ አለው። ተነሥቶም ሄደ። እነሆም፥ ህንደኬ የተባለች የኢትዮጵያ ንግሥት አዛዥና ጃንደረባ የነበረ በገንዘብዋም ሁሉ የሠለጠነ አንድ የኢትዮጵያ ሰው ሊሰግድ ወደ ኢየሩሳሌም መጥቶ ነበር፤ ሲመለስም በሰረገላ ተቀምጦ የነቢዩን የኢሳይያስን መጽሐፍ ያነብ ነበር። መንፈስም ፊልጶስን። ወደዚህ ሰረገላ ቅረብና ተገናኝ አለው። ፊልጶስም ሮጦ የነቢዩን የኢሳይያስን መጽሐፍ ሲያነብ ሰማና። በውኑ የምታነበውን ታስተውለዋለህን? አለው። እርሱም። የሚመራኝ ሳይኖር ይህ እንዴት ይቻለኛል? አለው። ወጥቶም ከእርሱ ጋር ይቀመጥ ዘንድ ፊልጶስን ለመነው። ያነበውም የነበረ የመጽሐፉ ክፍል ይህ ነበረ፤ እንደ በግ ወደ መታረድ ተነዳ፥ የበግ ጠቦትም በሸላቹ ፊት ዝም እንደሚል፥ እንዲሁ አፉን አልከፈተም። በውርደቱ ፍርዱ ተወገደ፤ ሕይወቱ ከምድር ተወግዳለችና ትውልዱንስ ማን ይናገራል? ጃንደረባውም ለፊልጶስ መልሶ። እባክህ፥ ነቢዩ ይህን ስለ ማን ይናገራል? ስለ ራሱ ነውን ወይስ ስለ ሌላ? አለው። ፊልጶስም አፉን ከፈተ፥ ከዚህም መጽሐፍ ጀምሮ ስለ ኢየሱስ ወንጌልን ሰበከለት። በመንገድም ሲሄዱ ወደ ውኃ ደረሱ፤ ጃንደረባውም እነሆ በውኃ እንዳልጠመቅ የሚከለክለኝ ምንድር ነው? አለው። ፊልጶስም። በፍጹም ልብህ ብታምን፥ ተፈቅዶአል አለው። መልሶም። ኢየሱስ ክርስቶስ የእግዚአብሔር ልጅ እንደ ሆነ አምናለሁ አለ። ሰረገላውም ይቆም ዘንድ አዘዘ፥ ፊልጶስና ጃንደረባው ሁለቱም ወደ ውኃ ወረዱ፥ አጠመቀውም። ከውኃውም ከወጡ በኋላ የጌታ መንፈስ ፊልጶስን ነጠቀው፤ ጃንደረባውም ሁለተኛ አላየውም፥ ደስ ብሎት መንገዱን ይሄድ ነበርና። ፊልጶስ ግን በአዛጦን ተገኘ፥ ወደ ቂሣርያም እስኪመጣ ድረስ እየዞረ በከተማዎች ሁሉ ወንጌልን ይሰብክ ነበር።",
+        "readingEng": "Acts 8:26–40 \n And the angel of the Lord spake unto Philip, saying, Arise, and go toward the south unto the way that goeth down from Jerusalem unto Gaza, which is desert. \n And he arose and went: and, behold, a man of Ethiopia, an eunuch of great authority under Candace queen of the Ethiopians, who had the charge of all her treasure, and had come to Jerusalem for to worship, \n Was returning, and sitting in his chariot read Esaias the prophet. \n Then the Spirit said unto Philip, Go near, and join thyself to this chariot. \n And Philip ran thither to him, and heard him read the prophet Esaias, and said, Understandest thou what thou readest? \n And he said, How can I, except some man should guide me? And he desired Philip that he would come up and sit with him. \n The place of the scripture which he read was this, He was led as a sheep to the slaughter; and like a lamb dumb before his shearer, so opened he not his mouth: \n In his humiliation his judgment was taken away: and who shall declare his generation? for his life is taken from the earth. \n And the eunuch answered Philip, and said, I pray thee, of whom speaketh the prophet this? of himself, or of some other man? \n Then Philip opened his mouth, and began at the same scripture, and preached unto him Jesus. \n And as they went on their way, they came unto a certain water: and the eunuch said, See, here is water; what doth hinder me to be baptized? \n And Philip said, If thou believest with all thine heart, thou mayest. And he answered and said, I believe that Jesus Christ is the Son of God. \n And he commanded the chariot to stand still: and they went down both into the water, both Philip and the eunuch; and he baptized him. \n And when they were come up out of the water, the Spirit of the Lord caught away Philip, that the eunuch saw him no more: and he went on his way rejoicing. \n But Philip was found at Azotus: and passing through he preached in all the cities, till he came to Caesarea.",
+        "readingGeez": "ግብ. ሐዋ. ፰፥፳፮-ፍ.ም \n ወነበቦ መልአክ እግዚአብሔር ለፊልጶስ ወይቤሎ ተንሥእ ወሑር ጊዜ ቀትር ፍኖተ በድው ዘያወርድ እምኢየሩሳሌም ለጋዛ። ወተንሥአ ወሖረ ወረከበ ብእሴ እምሰብአ ኢትዮጵያ ኅፅዋ ለኅንደኬ ንግሥተ ኢትዮጵያ ወመጋቢሃ ውእቱ ላዕለ ኵሉ መዛግብቲሃ። ወሖረ ኢየሩሳሌም ይስግድ ወእንዘ ይገብእ ነበረ ዲበ ሠረገላሁ ወያነብብ መጽሐፈ ኢሳይያስ ነቢይ። ወይቤሎ መፈስ ቅዱስ ለፊልጶስ ሑር ትልዎ ለዝ ሠረገላ ወሮጸ ፊልጶስ ወበጽሐ ወስምዖ ያነብብ መጽሐፈ ኢሳይያስ ነቢይ ወይቤሎ መንፈስ ቅዱስ ለፊልጶስ ሑር ትልዎ ለዝ ሠረገላ። ወሮጸ ፊልጶስ ወበጽሐ ወስምዖ ያነብብ መጽሐፈ ኢስይያስ ነቢይ ወይቤሎ ፊልጶስ ተአምርኑ እንከ ዘታነብብ። ወይቤሎ ኅፅው በአይቴ አአምር ለእመ አልቦ ዘመሐረኒ። ወአስተብቍዖ ለፊልጶስ ከመ ይዕርግ ወይንበር ኅቡረ ምስሌሁ። ወነገረ መጽሐፍሰ ኅበ ያነብብ ከመዝ ይብል መጽአ ከመ በግዕ ይጠባሕ ወከመ በግዕ ዘኢይነብብ በቅድመ ዘይቀርዖ ከማሁ ኢከሠተ አፉሁ። በሕማሙ ወተንሥአ ልደቶ እስመ ተአተተ እምድር ሕይወቱ። ወተመይጠ ኅበ ፊልጶስ ውእቱ ወይቤሎ ብቍዓኒ ወንግረኒ በእንተ መኑ ይብል ነቢይ ከመዝ በእንተ ርእሱኑ ወሚመ በእንተ ካልዕ ወከሠተ አፉሁ ፊልጶስ ወአኅዘ ይምሐሮ በእንተ ኢየሱስ ወይፈክር ሎቱ በውእቱ መጽሐፍ። ወእንዘ የሐውሩ በጽሑ ኅበ ማይ ወይቤሎ። ውእቱ ኅፅው ነዋ ማይ ወመኑ ይክልአኒ ተጠምቆ። ወይቤሎ ፊልጶስ ይደልወከ ከም ትእመን በኵሉ ልቡናከ። ወተመይጠ ወይቤ አነ አአምነ ከመ ኢየሱስ ክርስቶስ ውእቱ ወልዱ ለእግዚአብሔር ወአዘዘ ያቅሙ ሠረገላሁ። ወአቀሙ ወወረዱ ኅቡረ ኅበ ማይ ፊልጶስ ወውእቱ ኅፅው ወአትመቆ። ወወጺአ እማይ መንፈሰ እግዚአብሔር መሰጠ ለፊልጶስ ወኢርእዮ እንከ ውእቱ ኅፅው ወአተወ ብሔሮ እንዘ ይትፌሣሕ። ወበጽሐ ፊልጶስ ሀገረ አዛጦን ወአንሶሰወ ወመሐረ በኵሉ አህጉር እስከ በጽሐ ቂሳርያ።",
+        "readingTitle": "ዘዓርብ"
+      },
+      {
+        "readingAmh": "ግብ. ሐዋ. ፲፯፥፪-፭ \n ጳውሎስም እንደ ልማዱ ወደ እነርሱ ገባ፥ ሦስት ሰንበትም ያህል ከእነርሱ ጋር ከመጻሕፍት እየጠቀሰ ይነጋገር ነበር፤ ሲተረጉምም ክርስቶስ መከራ እንዲቀበልና ከሙታን እንዲነሣ ይገባው ዘንድ እያስረዳ። ይህ እኔ የምሰብክላችሁ ኢየሱስ እርሱ ክርስቶስ ነው ይል ነበር። ከእነርሱም አንዳንዶቹ ተረድተው ከሚያመልኩም ከግሪክ ሰዎች ብዙ ከከበሩትም ሴቶች ጥቂቶች ያይደሉ፥ ከጳውሎስና ከሲላስ ጋር ተባበሩ።",
+        "readingEng": "Acts 17:2–5 \n And Paul, as his manner was, went in unto them, and three sabbath days reasoned with them out of the scriptures, \n Opening and alleging, that Christ must needs have suffered, and risen again from the dead; and that this Jesus, whom I preach unto you, is Christ. \n And some of them believed, and consorted with Paul and Silas; and of the devout Greeks a great multitude, and of the chief women not a few. \n But the Jews which believed not, moved with envy, took unto them certain lewd fellows of the baser sort, and gathered a company, and set all the city on an uproar, and assaulted the house of Jason, and sought to bring them out to the people.",
+        "readingGeez": "ግብ. ሐዋ. ፲፯፥፪-፭ \n ወቦአ ጳውሎስ ኅቤሆሙ በከመ ያለምድ ወነበረ ይትዋቀሶሙ ሠለስተ ሰናብተ እመጻሕፍት። ወይፌክር ሎሙ ወያበጽሕ ከመሂ ይትቀተል ክርስቶስ ወከመሂ ይትነሣእ እሙታን ወከመ ውእቱ ክርስቶስ ኢየሱስ ዘነገርኩክሙ ወቦ እምውስቴቶሙ እለ አምኑ ወተለውዎሙ ለጳውሎስ ወለሲላስ ወኄራቶሙ ለአረማውያን ብዙኃን ወአንስትኒ ወዐበይቶሙ ብዙኃን።",
+        "readingTitle": "ዘቀዳሚት"
+      }
+    ],
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 20,
+    "text": "መልአ ፡ ወዐብየ ፡ ወተለዓለ ፡ ቃለ ፡ እግዚአብሔር ፤ ወበዝኀ ፡ ወተወሰከ ፡ በቅድስት ፡ ቤተ ፡ ክርስቲያን ፤ ወበዝኁ ፡ ሕዝብ ፡ እለ ፡ የአምኑ ፡ በእግዚእነ ፡ ኢየሱስ ፡ ክርስቶስ ፡ ለዘሎቱ ፡ ስብሐት ፡ ለዓለመ ፡ ዓለም ፡ አሜን ።",
+    "amh": "የእግዚአብሔር ቃል ፈጽሞ መላ፤ ከፍ ከፍ አለ። በቅድስት ቤተ ክርስቲያንም በዝቶ ተጨመረ። ምስጋና ገንዘቡ በሚሆን በጌታችን በኢየሱስ ክርስቶስ ያመኑት ሕዝብም በዙ ለዘለዓለሙ አሜን።",
+    "title": "ግብረ ሐዋርያት",
+    "turn": "ይ.ካ. ንፍቅ",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 21,
+    "text": "ስቡሕ ፡ አንተ ፡ እግዚኦ ፡ ወመንክር ፡ ሥነ ፡ ስብሓቲከ ፡ ዘአንቀልቀልከ ፡ መሠረቱ ፡ ቤተ ፡ ሞቅሕ ፡ ወፈታሕከ ፡ መዋቅሕቲሁ ፡ ለጳውሎስ ። ፍትሐነ ፡ ይእዜኒ ፡ እማዕሠሪሁ ፡ ለጸላዒ ።",
+    "amh": "አቤቱ ፡ ክቡር ፡ ምስጉን ፡ ነህ ፡ የጌትነትህም ፡ ሥራ ፡ የተደነቀ ፡ ነው ።",
+    "title": "መርገፍ ዘግብረ ሐዋርያት ዘዘወትር",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am",
+      "filledFromOldText": [
+        "ወፈታሕከ መዋቅሕቲሁ ለጳውሎስ። ፍትሐነ ይእዜኒ እማዕሠሪሁ ለጸላዒ።"
+      ]
+    }
+  },
+  {
+    "sortOder": 22,
+    "text": "ልዑል ፡ እምልዑላን ፡ ወቅዱስ ፡ እምቅዱሳን ። ወለከ ፡ ይትቄረብ ፡ መዓዛ ፡ ዕጣን ፡ እምትጉሃን ፤ ሐዋርያት ፡ ይሴብሑከ ፡ እለ ፡ ተቀደሱ ፡ በሥርዐትከ ።",
+    "title": "መርገፍ ዘግብረ ሐዋርያት ዘቀዳሚት",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 23,
+    "text": "አንቅዕተ ፡ ሕግ ፡ ዘወንጌል ፡ አፍላግ ፡ አዕፁቀ ፡ ዘይት ፡ ወዘወይን ፡ ሐረግ ። ሠርፀ ፡ አሐዱ ፡ ጒንድ ፡ ሐዋርያቲሁ ፡ ለወልድ ፡ በዕለተ ፡ እሑድ ፡ ይባርኩነ ፡ በሰፊሐ ፡ እድ ፡ እስመ ፡ የማኖሙ ፡ አዕማድ ።",
+    "title": "መርገፍ ዘግብረ ሐዋርያት ዘእሑድ",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 24,
+    "text": "ተንሥኡ ፡ ለጸሎት ።",
+    "title": "ተንሥኡ ለጸሎት",
+    "turn": "ይ.ዲ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 25,
+    "text": "እግዚኦ ፡ ተሣሃለነ ።",
+    "title": "እግዚኦ ተሣሃለነ",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 26,
+    "text": "ሰላም ፡ ለኲልክሙ ።",
+    "title": "ሰላም ለኲልክሙ",
+    "turn": "ይ.ካ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 27,
+    "text": "ምስለ ፡ መንፈስከ ።",
+    "title": "ምስለ መንፈስከ",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 28,
+    "text": "እግዚአብሔር ፡ እግዚኦ ፡ ኢየሱስ ፡ ክርስቶስ ፡ አምላክነ ፡ ዘትቤሎሙ ፡ ለአርዳኢከ ፡ ቅዱሳን ፡ ወለሐዋርያቲከ ፡ ንጹሐን ፡ እስመ ፡ ብዙኃን ፡ ነቢያት ፡ ወጻድቃን ፡ ፈተው ፡ ይርአዩ ፡ አንትሙ ፡ ዘትሬእዩ ፡ ወኢርእዩ ፡ ወፈተው ፡ ይስምዑ ፡ አንትሙ ፡ ዘትሰምዑ ፡ ወኢሰምዑ ። ወለክሙሰ ፡ ብፁዓት ፡ አእይንቲክሙ ፡ እለ ፡ ርእያ ፡ ወአእዛኒክሙ ፡ እለ ፡ ሰምዓ ። ወከማሆሙ ፡ ለነኒ ፡ ረስየነ ፡ ድልዋነ ፡ ንስማዕ ፡ ወንግበር ፡ ቃለ ፡ ወንጌልከ ፡ ቅዱስ ፡ በጸሎቶሙ ፡ ለቅዱሳን ።",
+    "title": "እግዚአብሔር እግዚኦ ኢየሱስ ክርስቶስ",
+    "turn": "ይ.ካ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 29,
+    "text": "ጸልዩ ፡ በእንተ ፡ ወንጌል ፡ ቅዱስ ።",
+    "title": "ጸልዩ በእንተ ወንጌል ቅዱስ",
+    "turn": "ይ.ዲ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 30,
+    "text": "ረስየነ ፡ ድልዋነ ፡ ለሰሚዓ ፡ ወንጌል ፡ ቅዱስ ። አኮ ፡ ዘንሰምዕ ፡ ባሕቲቱ ፡ አላ ፡ ንግበር ፡ በከመ ፡ ሰማዕነ ። ከመ ፡ ይፍረይ ፡ ላዕሌነ ፡ ፍሬ ፡ ሠናየ ፡ ህየንተ ፡ አሐዱ ፡ ሠላሳ ፡ ወስሳ ፡ ወምዕተ ። ከመ ፡ ትስረይ ፡ አበሳነ ፡ ለሕዝብከ ፡ ወንኩን ፡ ድልዋነ ፡ ለመንግሥተ ፡ ሰማያት ።",
+    "title": "ረስየነ ድልዋነ ለሰሚዓ ወንጌል ቅዱስ",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 31,
+    "text": "ከመ ፡ ኃምስ ፡ ጠባባት ፡ ደናግል ፡ ወፈጺመነ ፡ ኵሎ ፡ ዘውስተ ፡ ወንጌል ፡ ንኩን ፡ ጽውዓነ ፡ ለበዓል ።",
+    "amh": "እንደ ፡ አምስቱ ፡ ብልሆች ፡ ደናግል ፡ የወንጌልን ፡ ትእዛዝ ፡ ሁሉ ፡ ፈጽመን ፡ ወደ ፡ ሠርጉ) ፡ በዓል ፡ እንድንጠራ ፡ አድርገን ።",
+    "title": "መርገፍ ዘወንጌል ዘዘወትር",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "Mets'hafe Se'atat (own transcription)",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 32,
+    "text": "አሜሃ ፡ መልዐ ፡ ፍሥሐ ፡ አፉነ ፤ ወተሐሥየ ፡ ልሳንነ ፤ አሜሃ ፡ ይቤሉ ፡ አሕዛብ ።",
+    "title": "ምስባክ ዘእሁድ",
+    "turn": "ይ.ዲ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 33,
+    "text": "መንፈቀ ፡ ሌሊት ፡ እትነሣዕ ፤ ከመ ፡ እግነይ ፡ ለከ ፡ በእንተ ፡ ኲነኔ ፡ ጽድቅከ ፤ ከማሆሙ ፡ አነ ፡ ለኲሎሙ ፡ እለ ፡ ይፈርሁከ ።",
+    "title": "ምስባክ ዘሰኑይ",
+    "turn": "ይ.ዲ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 34,
+    "text": "ወዘሕጎ ፡ ያነብብ ፡ መዓልተ ፡ ወሌሊተ ፤ ወይከውን ፡ ከመ ፡ ዕፅ ፡ እንተ ፡ ትክልት ፡ ኀበ ፡ ሙሐዘ ፡ ማይ ፤ እንተ ፡ ትሁብ ፡ ፍሬሃ ፡ በበጊዜሃ ።",
+    "title": "ምስባክ ዘሠሉስ",
+    "turn": "ይ.ዲ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 35,
+    "text": "ሌሊተ ፡ ተዛዋዕኩ ፡ ምስለ ፡ ልብየ ፡ ወአንቃሕክዋ ፡ ለነፍስየ ፤ ቦኑ ፡ ለዓለም ፡ ይገድፍ ፡ እግዚአብሔር ፤ ወኢይደግምኑ ፡ እንከ ፡ ተሣህሎ ።",
+    "title": "ምስባክ ዘረቡዕ",
+    "turn": "ይ.ዲ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 36,
+    "text": "ስምዓኒ ፡ እግዚኦ ፡ ጸሎትየ ፤ ወይብጻሕ ፡ ቅድሜከ ፡ ገዓርየ ፤ ወኢትሚጥ ፡ ገጸከ ፡ እምኔየ ።",
+    "title": "ምስባክ ዘሐሙስ",
+    "turn": "ይ.ዲ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 37,
+    "text": "ተዘከርኩ ፡ በሌሊት ፡ ስመከ ፡ እግዚኦ ፤ ወአቀብኩ ፡ ሕገከ ፤ ወይእቲ ፡ ኮነተኒ ።",
+    "title": "ምስባክ ዘዓርብ",
+    "turn": "ይ.ዲ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 38,
+    "text": "በሌሊት ፡ አንሥኡ ፡ እደዊክሙ ፡ በቤተ ፡ መቅደስ ፤ ወባርክዎ ፡ ለእግዚአብሔር ፤ ይባርክ ፡ እግዚአብሔር ፡ እምጽዮን ።",
+    "title": "ምስባክ ዘቀዳሚት ሰንበት",
+    "turn": "ይ.ዲ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 39,
+    "text": "ተዘከር ፡ ካዕበ ፡ እግዚኦ ፡ እለ ፡ አውሥኡነ ፡ ከመ ፡ ንዘከሮሙ ፡ ጊዜ ፡ ጸሎትነ ፡ ወአስተብቊዖትነ ፡ እንተ ፡ ነኃሥሥ ፡ እምኅቤከ ፡ ኦ ፡ እግዚአብሔር ፡ አምላክነ ፡ ለእለ ፡ ቀደሙነ ፡ ነዊመ ፡ አእርፎሙ ፡ ወለዱያንሂ ፡ ፍጡነ ፡ ፈውሶሙ ። እስመ ፡ አንተ ፡ ውእቱ ፡ ሕይወተ ፡ ኲልነ ፡ ወተስፋ ፡ ኲልነ ፡ ወባላሔ ፡ ኲልነ ፡ ወመንጽሔ ፡ ኲልነ ። ወለከ ፡ ንፌኑ ፡ አኰቴተ ፡ እስከ ፡ አርያም ፡ ለዓለመ ፡ ዓለም ።",
+    "title": "ተዘከር ካዕበ እግዚኦ",
+    "turn": "ይ.ካ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 40,
+    "text": "ሃሌ ፡ ሉያ ፡ ቁሙ ፡ ወአጽምዑ ፡ ወንጌለ ፡ ቅዱሰ ፡ ዜናሁ ፡ ለእግዚእነ ፡ ወመድኃኒነ ፡ ኢየሱስ ፡ ክርስቶስ ።",
+    "title": "ሃሌ ሉያ ቁሙ ወአጽምዑ",
+    "turn": "ይ.ዲ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 41,
+    "text": "ወንጌል ፡ ቅዱስ ፡ ዘዜነወ ፡ ማቴዎስ ፤ (ዘዜነወ ፡ ማርቆስ) ፤ (ዘዜነወ ፡ ሉቃስ) ፤ (ዘሰበከ ፡ ዮሐንስ) ፤ ቃለ ፡ ወልደ ፡ እግዚአብሔር ።",
+    "title": "ወንጌል ቅዱስ",
+    "turn": "ይ.ካ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 42,
+    "text": "ስብሐት ፡ ለከ ፡ ክርስቶስ ፡ እግዚእየ ፡ ወአምላኪየ ፡ ኵሎ ፡ ጊዜ ።",
+    "title": "ስብሐት ለከ ክርስቶስ",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 43,
+    "text": "አሳዳሪ ፡ ካህን ፡ የዕለቱን ፡ ወንጌል ፡ ያንብብ ።",
+    "title": "ንባብ",
+    "turn": "",
+    "readings": [
+      {
+        "readingAmh": "ዮሐ ፫፥፩-፳፪ \n ከፈሪሳውያንም ወገን የአይሁድ አለቃ የሆነ ኒቆዲሞስ የሚባል አንድ ሰው ነበረ፤ እርሱም በሌሊት ወደ ኢየሱስ መጥቶ። መምህር ሆይ፥ እግዚአብሔር ከእርሱ ጋር ከሆነ በቀር አንተ የምታደርጋቸውን እነዚህን ምልክቶች ሊያደርግ የሚችል የለምና መምህር ሆነህ ከእግዚአብሔር ዘንድ እንደ መጣህ እናውቃለን አለው። ኢየሱስም መልሶ። እውነት እውነት እልሃለሁ፥ ሰው ዳግመኛ ካልተወለደ በቀር የእግዚአብሔርን መንግሥት ሊያይ አይችልም አለው። ኒቆዲሞስም። ሰው ከሸመገለ በኋላ እንዴት ሊወለድ ይችላል? ሁለተኛ ወደ እናቱ ማኅፀን ገብቶ ይወለድ ዘንድ ይችላልን? አለው። ኢየሱስም መለሰ፥ እንዲህ ሲል። እውነት እውነት እልሃለሁ፥ ሰው ከውኃና ከመንፈስ ካልተወለደ በቀር ወደ እግዚአብሔር መንግሥት ሊገባ አይችልም። ከሥጋ የተወለደ ሥጋ ነው፥ ከመንፈስም የተወለደ መንፈስ ነው። ዳግመኛ ልትወለዱ ያስፈልጋችኋል ስላልሁህ አታድንቅ። ነፋስ ወደሚወደው ይነፍሳል፥ ድምፁንም ትሰማለህ፥ ነገር ግን ከወዴት እንደ መጣ ወዴትም እንዲሄድ አታውቅም፤ ከመንፈስ የተወለደ ሁሉ እንዲሁ ነው። ኒቆዲሞስ መልሶ። ይህ እንዴት ሊሆን ይችላል? አለው። ኢየሱስም መልሶ እንዲህ አለው። አንተ የእስራኤል መምህር ስትሆን ይህን አታውቅምን? እውነት እውነት እልሃለሁ፥ የምናውቀውን እንናገራለን ያየነውንም እንመሰክራለን፥ ምስክራችንንም አትቀበሉትም። ስለ ምድራዊ ነገር በነገርኋችሁ ጊዜ ካላመናችሁ፥ ስለ ሰማያዊ ነገር ብነግራችሁ እንዴት ታምናላችሁ? ከሰማይም ከወረደ በቀር ወደ ሰማይ የወጣ ማንም የለም፥ እርሱም በሰማይ የሚኖረው የሰው ልጅ ነው። ሙሴም በምድረ በዳ እባብን እንደ ሰቀለ እንዲሁ በእርሱ የሚያምን ሁሉ የዘላለም ሕይወት እንዲኖረው እንጂ እንዳይጠፋ የሰው ልጅ ይሰቀል ይገባዋል። በእርሱ የሚያምን ሁሉ የዘላለም ሕይወት እንዲኖረው እንጂ እንዳይጠፋ እግዚአብሔር አንድያ ልጁን እስኪሰጥ ድረስ ዓለሙን እንዲሁ ወዶአልና። ዓለም በልጁ እንዲድን ነው እንጂ፥ በዓለም እንዲፈርድ እግዚአብሔር ወደ ዓለም አልላከውምና። በእርሱ በሚያምን አይፈረድበትም፤ በማያምን ግን በአንዱ በእግዚአብሔር ልጅ ስም ስላላመነ አሁን ተፈርዶበታል። ብርሃንም ወደ ዓለም ስለ መጣ ሰዎችም ሥራቸው ክፉ ነበርና ከብርሃን ይልቅ ጨለማን ስለ ወደዱ ፍርዱ ይህ ነው። ክፉ የሚያደርግ ሁሉ ብርሃንን ይጠላልና፥ ሥራውም እንዳይገለጥ ወደ ብርሃን አይመጣም፤ እውነትን የሚያደርግ ግን ሥራው በእግዚአብሔር ተደርጎ እንደ ሆነ ይገለጥ ዘንድ ወደ ብርሃን ይመጣል።",
+        "readingEng": "John 3:1–22 \n There was a man of the Pharisees, named Nicodemus, a ruler of the Jews: \n The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him. \n Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God. \n Nicodemus saith unto him, How can a man be born when he is old? can he enter the second time into his mother's womb, and be born? \n Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God. \n That which is born of the flesh is flesh; and that which is born of the Spirit is spirit. \n Marvel not that I said unto thee, Ye must be born again. \n The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit. \n Nicodemus answered and said unto him, How can these things be? \n Jesus answered and said unto him, Art thou a master of Israel, and knowest not these things? \n Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness. \n If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you of heavenly things? \n And no man hath ascended up to heaven, but he that came down from heaven, even the Son of man which is in heaven. \n And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up: \n That whosoever believeth in him should not perish, but have eternal life. \n For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life. \n For God sent not his Son into the world to condemn the world; but that the world through him might be saved. \n He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God. \n And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil. \n For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved. \n But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God.",
+        "readingGeez": "ዮሐ ፫፥፩-፳፪ \n ወሀሎ ፩ዱ ብእሲ እምፈሪሳውያን ዘስሙ ኒቆዲሞስ መልአኮሙ ለአይሁድ። ወውእቱ መጽአ ኅበ እግዚእ ኢየሱስ ቀዲሙ ሌሊተ ወይቤሎ ረቢ ነአምር ከመ እምኅበ እግዚአብሔር መጻእከ ከመ ትኩን መምህረ እስመ አልቦ ዘይክል ይግበር ዘንተ ተአምረ ዘአንተ ትገብር ዘእንበለ ዘእግዚአብሔር ምስሌሁ። ወአውሥአ እግዚ ኢየሱስ ወይቤሎ አማን አማን እብለከ ዘኢተወልደ ዳግመ ኢይሬእያ ለመንግሥተ እግዚአብሔር። ወይቤሎ ኒቆዲሞስ እፎ ይክል ብእሲ ዳግመ ተወልዶ እምድኅረ ልኅቀ ይክልኑ በዊአ ወገቢአ ውስተ ከርሠእሙ ወይትወለድ ዳግመ። ወአውሥአ እግዚእየ ኢየሱስ ወይቤሎ አማን አማን እብለከ ዘኢተወልደ ዳግመ እማይ ወእመንፈስ ቅዱስ ኢይክል በዊአ ውስተ መንግሥተ እግዚአብሔር። እስመ ዘተወልደ እምሥጋ ሥጋ ውእቱ ወዘተወልደ እመንፈስ መንፈስ ውእቱ። ወበእንተ ዝንቱ ኢታንክር እስመ እቤለከ ሀለወክሙ ትትወለዱ ዳግመ እስመ መንፈስ ኅበ ፈቀደ ይነፍሕ ወቃሎ ወኅበሂ ትሰምዕ ወኢተአምር እምኅበ ይመጽእ ወኅበሂ የሐውር። ከማሁኬ ውእቱ ኵሉ ዘይትወለድ እመንፈሱ ቅዱስ። ወአውሥአ ኒቆዲሞስ ወይቤሎ እፎ ይትከሀል ዝንቱ ይኩን። ወአውሥአ እግዚእ ኢየሱስ ወይቤሎ አንተ ሊቆሙ ለእስራኤል ወዘንተ ነገረ ኢተአምር። አማን አማን እብለከ ከመ ዘነአምር ንነግር ወበዘርኢነ ሰማዕተ ንከውን ወሰምዐነሰ ተአብዩነ ነሢአ። ወሶበ እንዘ ዘበምድር እነግረክሙ ኢተአምኑኒ እፎ እንከ ተአምኑኒ እመ ነገርኩክሙ ዘበሰማያት። ወአልቦ ዘዓርገ ውስተ ሰማይ ዘእንበለ ዘወረደ እምሰማይ ወልደ እጓለ እመሕያው ዘውእቱ ይነብር ውስተ ሰማይ። ወበከመ ሙሴ ሰቀሎ ለዓርዌ ምድር በገዳም ከማሁ ሀለዎ ለወልደ እጓለ እመሕያው ይሰቀል። ከመ ኵሉ ዘየአምን ቦቱ ኢይተኃጐል አላ የሐዩ ለዓለም። እስመ ከመዝ አፍቀሮ እግዚአብሔር ለዓለም እስከ ወልዶ ዋህደ መጠወ ወወሀበ ቤዛ ለኵሉ ከመ ኵሉ ዘየአምን ቦቱ ኢይትኃጐል አላ ይረክብ ሕይወተ ዘለዓለም። እስመ ኢፈነዎ እግዚአብሔር ለወልዱ ውስተ ዓለም ከመ ይኰኖን ለዓለም ዘእንበለ ከመ ያሕይዎ ለዓለም በእንቲአሁ። ዘየአምን ቦቱ ኢይትኴነን ወዘሰ ኢየአምን ወድአ ትኰነነ እስመ ኢአምነ በስመ ወልደ እግዚአብሔር ዋህድ። ወዝ ውእቱ ኵነኔሁ እስመ ብርሃን መጽአ ዓለም ወአብደረ ሰብእ ጽልመተ አምብርሃን እስመ እኩይ ምግባሩ እስመ ኵሉ ዘእኩይ ምግባሩ። ይጸልእ ብርሃነ ወኢይመጽእ ኅበ ብርሃን ከመ ኢይትከሠቶ ምግባሩ እስመ እኩይ ውእቱ። ወዘሰ ጽድቀ ይገብር ይመጽእ ኅበ ብርሃን ከመ ያስተርኢ ምግባሩ እስመ በእንተ እግዚአብሔር ይገብር። \n ዘየአምን በወልድ ቦ ሕይወት ዘለዓለም።",
+        "readingTitle": "ዘእሁድ"
+      },
+      {
+        "readingAmh": "ማቴ. ፳፭፥፩-፲፬ \n በዚያን ጊዜ መንግሥተ ሰማያት መብራታቸውን ይዘው ሙሽራውን ሊቀበሉ የወጡ አሥር ቆነጃጅትን ትመስላለች። ከእነርሱም አምስቱ ሰነፎች አምስቱም ልባሞች ነበሩ። ሰነፎቹ መብራታቸውን ይዘው ከእነርሱ ጋር ዘይት አልያዙምና፤ ልባሞቹ ግን ከመብራታቸው ጋር በማሰሮአቸው ዘይት ያዙ። ሙሽራውም በዘገየ ጊዜ ሁሉ እንቅልፍ እንቅልፍ አላቸውና ተኙ። እኩል ሌሊትም ሲሆን። እነሆ፥ ሙሽራው ይመጣል፥ ትቀበሉት ዘንድ ውጡ የሚል ውካታ ሆነ። በዚያን ጊዜ እነዚያ ቆነጃጅት ሁሉ ተነሡና መብራታቸውን አዘጋጁ። ሰነፎቹም ልባሞቹን። መብራታችን ሊጠፋብን ነው፤ ከዘይታችሁ ስጡን አሉአቸው። ልባሞቹ ግን መልሰው። ምናልባት ለእኛና ለእናንተ ባይበቃስ፤ ይልቅስ ወደሚሸጡት ሄዳችሁ ለራሳችሁ ግዙ አሉአቸው። ሊገዙም በሄዱ ጊዜ ሙሽራው መጣ፥ ተዘጋጅተው የነበሩትም ከእርሱ ጋር ወደ ሰርግ ገቡ፥ ደጁም ተዘጋ። በኋላም ደግሞ የቀሩቱ ቈነጃጅት መጡና። ጌታ ሆይ ጌታ ሆይ፥ ክፈትልን አሉ። እርሱ ግን መልሶ። እውነት እላችኋለሁ፥ አላውቃችሁም አለ። ቀኒቱንና ሰዓቲቱን አታውቁምና እንግዲህ ንቁ።",
+        "readingEng": "Matthew 25:1–14 \n Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom. \n And five of them were wise, and five were foolish. \n They that were foolish took their lamps, and took no oil with them: \n But the wise took oil in their vessels with their lamps. \n While the bridegroom tarried, they all slumbered and slept. \n And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him. \n Then all those virgins arose, and trimmed their lamps. \n And the foolish said unto the wise, Give us of your oil; for our lamps are gone out. \n But the wise answered, saying, Not so; lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves. \n And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut. \n Afterward came also the other virgins, saying, Lord, Lord, open to us. \n But he answered and said, Verily I say unto you, I know you not. \n Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh.",
+        "readingGeez": "ማቴ. ፳፭፥፩-፲፬ \n አሜሃ ትምሰል መንግሥተ ሰማያት ዐሥሮነ ደናግለ እለ ነሥአ መኃትዊሆን ወወጽአ ለቀበላ መርዓዊ። ወኅምስ እምውስቴቶን አብዳት እማንቱ ወኃምስ ጠባባት። ወአብዳትሰ ነሢኦን መኃትዊሆን ኢነሥአ ቅብዐ ምስሌሆን ወጠባባትሰ ነሥአ ቅብዐ በገዳማዊሆን ምስለ መኃትዊሆን። ወጐንድዮ መርዓዊ ደቀሳ ወኖማ ወከዊኖ መንፈቀ ሌሊት ውውዓ ኮነ ናሁ መርዓዊ መጽአ ፃኡ ውስተ ቀበላሁ። ወእምዝ ነቅሓ እልኩ ደናግል ኵሎን ወአሠነያ መኃተዊሆን ወመጽአ ለቀበላ መርዓዊ። ወእልኩ አብዳት ይቤላሆን ለጠባባት ሀባነ ቅብአ እምቅብእክን እስመ ወኃትዊነ ጠፍአነ ወአውሥአሆን ጠባባት ወይቤላሆን አልቦ ዘያክል ለነ ወለክን አላ ሑራ ኅቤሆሙ ለእለ ይሠይጡ ወተሣየጠ ለክን። ወሐዊሮን ይሣየጣ በጽሐ መርዓዊ ወቦአ ምስሌሁ እልኩ እለድልዋት ውስተ ከብካብ ወአተአጽወ ኆኅት። ወድኅረ መጽኣ እልክቱኒ ደናግል ወይቤላ እግዚኦ እግዚኦ አርኅወነ። ወአውሥኦን ወይቤሎን አማን እብለክን ከመ ኢየአምረክን እስመ ስእንክን ተጊሀ ወአምስዮ ምስሌየ። ትግሁኬ እስመ ኢተአምሩ ዕለታ ወሰዓታ እንተ ባቲ ይመጽእ ወልደ ዕጓለ እመሕያው።",
+        "readingTitle": "ዘሰኑይ"
+      },
+      {
+        "readingAmh": "ማር. ፲፫፥፴፪-፴፯ \n ስለዚያች ቀን ወይም ስለዚያች ሰዓት ግን የሰማይ መላእክትም ቢሆኑ ልጅም ቢሆን ከአባት በቀር የሚያውቅ የለም። ጊዜው መቼ እንዲሆን አታውቁምና ተጠንቀቁ፤ ትጉ፤ ጸልዩም። ቤቱን ትቶ ወደ ሌላ አገር እንደ ሄደ ሰው ነው፥ ለባሮቹም ሥልጣን ለእያንዳንዱም ሥራውን ሰጥቶ በረኛውን እንዲተጋ አዘዘ። እንግዲህ በማታ ቢሆን ወይም በእኩለ ሌሊት ወይም ዶሮ ሲጮኽ ወይም በማለዳ ቢሆን ባለቤቱ መቼ እንዲመጣ አታውቁምና ድንገት መጥቶ ተኝታችሁ እንዳያገኛችሁ ስለዚህ ትጉ። ለእናንተም የምነግራችሁ ለሁሉ እላለሁ፤ ትጉ።",
+        "readingEng": "Mark 13:32–37 \n But of that day and that hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father. \n Take ye heed, watch and pray: for ye know not when the time is. \n For the Son of man is as a man taking a far journey, who left his house, and gave authority to his servants, and to every man his work, and commanded the porter to watch. \n Watch ye therefore: for ye know not when the master of the house cometh, at even, or at midnight, or at the cockcrowing, or in the morning: \n Lest coming suddenly he find you sleeping. \n And what I say unto you I say unto all, Watch.",
+        "readingGeez": "ማር. ፲፫፥፴፪-፴፯ \n ወበእንተሰ ይእቲ ዕለት ወይእቲ ሰዓት አልቦ ዘየአምራ ኢመላእክተ ሰማይ ወኢወልድ ዘእንበለ አብ ባሕቲቱ። ዑቁ ትግሁ ወጸልዩ እስመ ኢተአምሩ ማእዜ መዋዕለ ጊዜሁ እስመ ከመ ብእሲ ዘይነግድ ወይኃድግ ቤቶ ወይሁቦሙ ግብሮሙ ለአግብርቲሁ ለለአሐዱ እምኔሆሙ ወይኤገዞ ለአጻዊነ ከመ ይትጋህ ትግሁ እንከ እስመ ኢተአምሩ ማእዜ ይመጽእ በዓለ ቤት እመሂ ሠከ ወእመሂ መንፈቀ ሌሊት ወእመሂ ጊዜ ይነቁ ዶርሆ ወእመሂ ጸቢሕህ ኢይምጻእክሙ ግብተ ወኢይርከብክሙ እንዘ ትነውሙ ወናሁ እብለክሙ ለኵልክሙ ትግሁ።",
+        "readingTitle": "ዘሠሉስ"
+      },
+      {
+        "readingAmh": "ሉቃስ ፲፫፥፳፫-፴፩ \n አንድ ሰውም ጌታ ሆይ፥ የሚድኑ ጥቂቶች ናቸውን አለው። እርሱም እንዲህ አላቸው። በጠበበው በር ለመግባት ተጋደሉ፤ እላችኋለሁና፥ ብዙዎች ሊገቡ ይፈልጋሉ አይችሉምም። ባለቤቱ ተነሥቶ በሩን ከቈለፈ በኋላ፥ እናንተ በውጭ ቆማችሁ ጌታ ሆይ፥ ጌታ ሆይ፥ ክፈትልን እያላችሁ በሩን ልታንኳኩ ትጀምራላችሁ። እርሱም መልሶ ከወዴት እንደ ሆናችሁ አላውቃችሁም ይላችኋል። በዚያን ጊዜም በፊትህ በላን ጠጣንም በአደባባያችንም አስተማርህ ልትሉ ትጀምራላችሁ። እርሱም እላችኋለሁ፥ ከወዴት እንደ ሆናችሁ አላውቃችሁም፤ ሁላችሁ ዓመፀኞች፥ ከእኔ ራቁ ይላችኋል። አብርሃምንና ይስሐቅን ያዕቆብንም ነቢያትንም ሁሉ በእግዚአብሔር መንግሥት ባያችሁ ጊዜ፥ እናንተ ግን ወደ ውጭ ተጥላችሁ ስትቀሩ፥ በዚያ ልቅሶና ጥርስ ማፋጨት ይሆናል። ከምሥራቅና ከምዕራብም ከሰሜንና ከደቡብም ይመጣሉ፥ በእግዚአብሔርም መንግሥት በማዕድ ይቀመጣሉ። እነሆም፥ ከኋለኞች ፊተኞች የሚሆኑ አሉ፥ ከፊተኞችም ኋለኞች የሚሆኑ አሉ።",
+        "readingEng": "Luke 13:23–31 \n Then said one unto him, Lord, are there few that be saved? And he said unto them, \n Strive to enter in at the strait gate: for many, I say unto you, will seek to enter in, and shall not be able. \n When once the master of the house is risen up, and hath shut to the door, and ye begin to stand without, and to knock at the door, saying, Lord, Lord, open unto us; and he shall answer and say unto you, I know you not whence ye are: \n Then shall ye begin to say, We have eaten and drunk in thy presence, and thou hast taught in our streets. \n But he shall say, I tell you, I know you not whence ye are; depart from me, all ye workers of iniquity. \n There shall be weeping and gnashing of teeth, when ye shall see Abraham, and Isaac, and Jacob, and all the prophets, in the kingdom of God, and you yourselves thrust out. \n And they shall come from the east, and from the west, and from the north, and from the south, and shall sit down in the kingdom of God. \n And, behold, there are last which shall be first, and there are first which shall be last.",
+        "readingGeez": "ሉቃስ ፲፫፥፳፫-፴፩ \n ወይቤሎ አሕዱ እግዚኦ ውኁዳንኑ እንጋ እሙንቱ እለ ይድኅኑ። ወይቤሎሙ ተኅየሉ ትባኡ እንተ ጸባብ አንቀጽ እብለክሙ ብዙኃን እለ የኅሥሡ ይባኡ ወኢያክሉ። እስመ ይትነሣእ በዓለ ቤት ወየዓጹ ወየዓጹ ኆኅቶ ወይእተ ጊዜ ይእኅዙ ይቁሙ አፍኣ ወይጐደጕዱ እንዘ ይብሉ እግዚኦ እግዚኦ አርኅወነ ወያወሥእ ኢየአምረክሙ እምአይቴ አንትሙ። ወእምዝ ይእኅዙ ይብልዎ በላዕነሂ ወሰተይነሂ በቅድሜከ ወመሀርከ በመራኅብቲነ። ወይቤሎሙ እብለክሙ ኢየአምረክሙ እምአይቴ አንትሙ ረኅቁ እምኔየ ኵልክሙ ገብርተ ዓመፃ። ወሑሩ ውስተ ብካይ ወሐቅየ ስነን ወአመ ርኢክምዎሙ ለአብርሃም ወለይስሐቅ ወለያዕቆብ ወለኵሎሙ ነቢያት በመንግሥተ እግዚአብሔር ወልክሙሰ ያወጽኡክሙ አፍኣ። ወይመጽኡ እምጽባሕ ወእምዕራብ ወእምሰሜን ወእምደቡብ ወይትፌሥሑ በመንግሥተ እግዚአብሔር። ወይከውኑ ደኅርት ቀደምተ ወቀደምት ይከውኑ ደኃርተ።",
+        "readingTitle": "ዘረቡዕ"
+      },
+      {
+        "readingAmh": "ማቴ. ፳፬፥፴፮-ፍ.ም \n ስለዚያች ቀንና ስለዚያች ሰዓት ግን ከአባት ብቻ በቀር የሰማይ መላእክትም ቢሆኑ ልጅም ቢሆን የሚያውቅ የለም። የኖኅ ዘመን እንደ ነበረ የሰው ልጅ መምጣት እንዲሁ ይሆናልና። በዚያች ወራት ከጥፋት ውኃ በፊት፥ ኖኅ ወደ መርከብ እስከገባበት ቀን ድረስ፥ ሲበሉና ሲጠጡ ሲያገቡና ሲጋቡም እንደ ነበሩ፥ የጥፋት ውኃም መጥቶ ሁሉን እስከ ወሰደ ድረስ እንዳላወቁ፥ የሰው ልጅ መምጣት ደግሞ እንዲሁ ይሆናል። በዚያን ጊዜ ሁለት ሰዎች በእርሻ ይሆናሉ፤ አንዱ ይወሰዳል አንዱም ይቀራል፤ ሁለት ሴቶች በወፍጮ ይፈጫሉ፤ አንዲቱ ትወሰዳለች አንዲቱም ትቀራለች። ጌታችሁ በምን ሰዓት እንዲመጣ አታውቁምና እንግዲህ ንቁ። ያን ግን እወቁ፤ ባለቤት ከሌሊቱ በየትኛው ክፍል ሌባ እንዲመጣ ቢያውቅ ኖሮ፥ በነቃ ቤቱም ሊቈፈር ባልተወም ነበር። ስለዚህ እናንተ ደግሞ ተዘጋጅታችሁ ኑሩ፥ የሰው ልጅ በማታስቡበት ሰዓት ይመጣልና። እንኪያስ ምግባቸውን በጊዜው ይሰጣቸው ዘንድ ጌታው በቤተ ሰዎች ላይ የሾመው ታማኝና ልባም ባሪያ ማን ነው? ጌታው መጥቶ እንዲህ ሲያደርግ የሚያገኘው ያ ባሪያ ብፁዕ ነው፤ እውነት እላችኋለሁ፥ ባለው ሁሉ ላይ ይሾመዋል። ያ ክፉ ባሪያ ግን። ጌታዬ እስኪመጣ ይዘገያል ብሎ በልቡ ቢያስብ፥ ባልንጀሮቹን ባሮች ሊመታ ቢጀምር ከሰካሮችም ጋር ቢበላና ቢጠጣ፥ የዚያ ባሪያ ጌታ ባልጠበቃት ቀን ባላወቃትም ሰዓት ይመጣል፥ ከሁለትም ይሰነጥቀዋል፥ እድሉንም ከግብዞች ጋር ያደርግበታል፤ በዚያ ልቅሶና ጥርስ ማፋጨት ይሆናል።",
+        "readingEng": "Matthew 24:36–51 \n But of that day and hour knoweth no man, no, not the angels of heaven, but my Father only. \n But as the days of Noe were, so shall also the coming of the Son of man be. \n For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark, \n And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be. \n Then shall two be in the field; the one shall be taken, and the other left. \n Two women shall be grinding at the mill; the one shall be taken, and the other left. \n Watch therefore: for ye know not what hour your Lord doth come. \n But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up. \n Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh. \n Who then is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season? \n Blessed is that servant, whom his lord when he cometh shall find so doing. \n Verily I say unto you, That he shall make him ruler over all his goods. \n But and if that evil servant shall say in his heart, My lord delayeth his coming; \n And shall begin to smite his fellowservants, and to eat and drink with the drunken; \n The lord of that servant shall come in a day when he looketh not for him, and in an hour that he is not aware of, \n And shall cut him asunder, and appoint him his portion with the hypocrites: there shall be weeping and gnashing of teeth.",
+        "readingGeez": "ማቴ. ፳፬፥፴፮-ፍ.ም \n ወበእንተሰ ይእቲ ዕለት ወኪያሃ ሰዓት አልቦ ዘየአምራ ኢመላእክተ ሰማይ ወኢወልድ ዘእንበለ አብ ባሕቲቱ። ወበከመ ኮነ በመዋዕለ ኖኅ ከማሁ ይከውን ምጽአቱ ለወልድ እጓለ እምሕያው እስመ በከመ ኮነ በመዋዕለ ኖኅ እምቅድመ ማየ አይኅ ይበልዑ ወይሰትዩ ወያወስቡ ወይትዋሰቡ እስከ አመ ቦአ ኖኅ ውስተ ታቦት። ወኢያእመሩ እስከ አመ መጽአ ማየ አይኅ ወአጥፍአ ኵሎ ከማሁኬ ይከውን ምጽአቱ ለወልድ እጓለ እመሕያው። አሜሃ ፪ቱ ይሄልው ውስተ ፩ዱ ገራህት ፩ደ ይነሥኡ ወካልኦ ይኃድጉ። ወክልኤቲ የሐርጻ በአሐቲ ማሕረጽ አሐተ ይነሥኡ ወካልዕታ የኃድጉ። ወክልኤቱ ይሰክቡ ውስተ ፩ዱ ዓራት ፩ደ ይነሥኡ ወካልኦ የኅደጉ። ትግሁ እንከ እስመ ኢተአምሩ በዓይ ሰዓት ይመጽእ እግዚእክሙ። ወዘንተ ባሕቱ አእምሩ ሶበሁ የአምር በዓለ ቤት ጊዜ ይመጽእ ሰራቂ እምተግሀ ወእምሀለወ ወእምኢኅደገ ይክርዩ ቤቶ። ከማሁ አንትሙሂ ድልዋነክሙ ሀልዉ እስመ በጊዜ ኢተሐዘብክሙ ይመጽእ ወልደ ዕጓለ እመሕያው መኑ እንጋ ገብር ምእመን ወጠቢብ ዘይሰይሞ እግዚኡ ውስተ ኵሉ ንዋዩ ከመ የሀቦሙ ሲሳዮሙ በጊዜሁ። ብፁዕ ውእቱ ገብር ዘመጺኦ እግዚኡ ይረክቦ እንዘ ዘንተ ይገብር። አማን እብለክሙ ከመ ዲበ ኵሉ ንዋዩ ይሠይሞ ይጐነዲ አቲወ እግዚእየ ወይዘብጥ አብያጺሁ ወይበልዕ ወይሰቲ ምስለ ሰካርያነ። ወይመጽእ ለውእቱ ገብር በዕለተ ኢተሐዘበ ወበጊዜ ኢያእመረ ወይሠጥቆ እማዕከሉ ወይሬሲ መክፈልቶ ምስለ መደልዋን ኅበ ሀሎ ብካይ ወሐቅየ ስነን።",
+        "readingTitle": "ዘሐሙስ"
+      },
+      {
+        "readingAmh": "ሉቃ ፲፪፥፴፭-፵፱ \n ወገባችሁ የታጠቀ መብራታችሁም የበራ ይሁን፤ እናንተም ጌታቸው መጥቶ ደጁን ሲያንኳኳ ወዲያው እንዲከፍቱለት ከሰርግ እስኪመለስ ድረስ የሚጠብቁ ሰዎችን ምሰሉ ጌታቸው በመጣ ጊዜ ሲተጉ የሚያገኛቸው እነዚያ ባሪያዎች ብፁዓን ናቸው፤ እውነት እላችኋለሁ፥ ታጥቆ በማዕድ ያስቀምጣቸዋል ቀርቦም ያገለግላቸዋል። ከሌሊቱም በሁለተኛው ወይም በሦስተኛው ክፍል መጥቶ እንዲሁ ቢያገኛቸው፥ እነዚያ ባሪያዎች ብፁዓን ናቸው። ይህን ግን እወቁ ባለቤት በምን ሰዓት ሌባ እንዲመጣ ቢያውቅ ኖሮ፥ በነቃ፥ ቤቱም እንዲቆፈር ባልፈቀደም ነበር። እናንተ ደግሞ ተዘጋጅታችሁ ኑሩ፥ የሰው ልጅ በማታስቡበት ሰዓት ይመጣልና። ጴጥሮስም። ጌታ ሆይ፥ ይህን ምሳሌ ለእኛ ወይስ ደግሞ ለሁሉ ትናገራለህን? አለው። ጌታም አለ። እንኪያስ ምግባቸውን በጊዜው ይሰጣቸው ዘንድ ጌታው በቤተ ሰዎቹ ላይ የሚሾመው ታማኝና ልባም መጋቢ ማን ነው? ጌታው መጥቶ እንዲህ ሲያደርግ የሚያገኘው ያ ባሪያ ብፁዕ ነው። እውነት እላችኋለሁ፥ ባለው ሁሉ ላይ ይሾመዋል። ያ ባሪያ ግን። ጌታዬ እስኪመጣ ይዘገያል ብሎ በልቡ ቢያስብ ሎሌዎችንና ገረዶችንም ይመታ ይበላም ይጠጣም ይሰክርም ዘንድ ቢጀምር፥ የዚያ ባሪያ ጌታ ባልጠበቃት ቀን ባላወቃትም ሰዓት ይመጣል፥ ከሁለትም ይሰነጥቀዋል እድሉንም ከማይታመኑ ጋር ያደርጋል። የጌታውንም ፈቃድ አውቆ ያልተዘጋጀ እንደ ፈቃዱም ያላደረገ ያ ባሪያ እጅግ ይገረፋል፤ ያላወቀ ግን መገረፍ የሚገባውንም ያደረገ ጥቂት ይገረፋል። ብዙም ከተሰጠው ሰው ሁሉ ከእርሱ ብዙ ይፈለግበታል፥ ብዙ አደራም ከተሰጠው ከእርሱ አብዝተው ይሹበታል።",
+        "readingEng": "Luke 12:35–59 \n Let your loins be girded about, and your lights burning; \n And ye yourselves like unto men that wait for their lord, when he will return from the wedding; that when he cometh and knocketh, they may open unto him immediately. \n Blessed are those servants, whom the lord when he cometh shall find watching: verily I say unto you, that he shall gird himself, and make them to sit down to meat, and will come forth and serve them. \n And if he shall come in the second watch, or come in the third watch, and find them so, blessed are those servants. \n And this know, that if the goodman of the house had known what hour the thief would come, he would have watched, and not have suffered his house to be broken through. \n Be ye therefore ready also: for the Son of man cometh at an hour when ye think not. \n Then Peter said unto him, Lord, speakest thou this parable unto us, or even to all? \n And the Lord said, Who then is that faithful and wise steward, whom his lord shall make ruler over his household, to give them their portion of meat in due season? \n Blessed is that servant, whom his lord when he cometh shall find so doing. \n Of a truth I say unto you, that he will make him ruler over all that he hath. \n But and if that servant say in his heart, My lord delayeth his coming; and shall begin to beat the menservants and maidens, and to eat and drink, and to be drunken; \n The lord of that servant will come in a day when he looketh not for him, and at an hour when he is not aware, and will cut him in sunder, and will appoint him his portion with the unbelievers. \n And that servant, which knew his lord's will, and prepared not himself, neither did according to his will, shall be beaten with many stripes. \n But he that knew not, and did commit things worthy of stripes, shall be beaten with few stripes. For unto whomsoever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more.",
+        "readingGeez": "ሉቃ ፲፪፥፴፭-፵፱ \n ወይኩን ቅኑተ ሐቌክሙ ወኅትወ መኃትዊክሙ። ወአንትሙኒ ከመ እደው እለ ይጸንሑ እግዚኦሙ እስከ የአቱ እምከብካብ ከመ መጺኦ ወጐድጕዶ ያርውዎ ሶቤሃ። ብፁዓን እሙንቱ አግብርት እለ ይረክቦሙ እግዚኦሙ መጺኦ እንዘ ከመዝ ይገብሩ ወይተግሁ አማን እብለክሙ ከመ ይቀንት ሐቌሁ ወያረፍቆሙ ወያንአሶሱ ማዕከሎሙ ወይትለአኮሙ። ወእመኒ በካልእት ወእመኒ በሣልስት ሰዓተ ሌሊት ሶበ መጽአ ወረከቦሙ ከመዝ ብፁዓን እሙንቱ እልክቱ አግብርት። ወዘንተ ባሕቱ አእምሩ ሶበሁ የአምር በዓለ ቤት እንተ ጊዜ ይመጽእ ሰራቂ እምተግሀ ወእምሀለወ ወእምኢያብሐ ይክርዩ ቤቶ። ወአንተሙኒ ድልዋኒክሙ ሀልው (ንበሩ) እስመ በጊዜ ኢተሐዘብክሙ ይመጽእ ወልደ እጓለ እመሕያው። ወይቤሎም ጴጥሮስ እግዚኦ ለነኑ ትሜስል ዘንተ ምሳሌ አው ለኵሉኑ። ወይቤሎ እግዚእነ መኑ እንጋ ውእቱ መጋቢ ኄር ወምእመን ወጠቢብ ዘይሰይሞ እግዚኡ ላዕለ ኵሉ ሰብአ ቤቱ ከመ የሀቦሙ ሲሳዮሙ በበጊዜሁ። ብፁዕ ውእቱ ገብር ዘመጺኦ እግዚኡ ይረክቦ እንዘ ከመዝ ይገብር አማን እብለክሙ ከመ ላዕለ ኵሉ ንዋዩ ያሜግቦ ወእመሰ ይቤ ውእቱ ገብር እኩይ በልቡ ይጐነዲ አቲወ እግዚእየ ወይእኅዝ ይዝብጥ ወያመንዝዝ ደቀ ወአዋልደ ዘቤተ እግዚኡ ወይበልዕ ወይሰቲ ምስለ ሰካርያን ወይሰክር ወይበጽሕ እግዚኡ ለውእቱ ገብር በዕለተ ኢተሐዘበ ወበጊዜ ኢያእመረ ወይመትሮ እማዕከሉ ወያገብእ መክፈልቶ ምስለ እለ ኢየአምኑ። ወለገብርሰ ዘየአምር ፈቃደ እግዚኡ ወኢይገብር ወኢያስተዳሉ ዘከመ ይፈቅድ ብዙኅ እምቅሠፍሩ። ወዘሰ ኢየአምር ለእመ ኢገብር ውኁድ መቅሠፍሩ። ወለኵሉ ዘብዙኅ ወሀብዎ ብዙኅ ይትኅሠሥዎ ወለዘኒ ውኁድ አማኅፀንዎ ውኁድ ይትኅሠሥዎ።",
+        "readingTitle": "ዘዓርብ"
+      },
+      {
+        "readingAmh": "ዮሐ. ፭፥፭-፳፫ \n በዚያም ከሠላሳ ስምንት ዓመት ጀምሮ የታመመ አንድ ሰው ነበረ፤ ኢየሱስ ይህን ሰው ተኝቶ ባየ ጊዜ፥ እስከ አሁን ብዙ ዘመን እንዲሁ እንደ ነበረ አውቆ። ልትድን ትወዳለህን አለው። ድውዩም ጌታ ሆይ፥ ውኃው በተናወጠ ጊዜ በመጠመቂያይቱ ውስጥ የሚያኖረኝ ሰው የለኝም ነገር ግን እኔ ስመጣ ሳለሁ ሌላው ቀድሞኝ ይወርዳል ብሎ መለሰለት። ኢየሱስም ተነሣና አልጋህን ተሸክመህ ሂድ አለው። ወዲያውም ሰውዬው ዳነ አልጋውንም ተሸክሞ ሄደ። ያም ቀን ሰንበት ነበረ። ስለዚህ አይሁድ የተፈወሰውን ሰው ሰንበት ነው አልጋህንም ልትሸከም አልተፈቀደልህም አሉት። እርሱ ግን ያዳነኝ ያ ሰው። አልጋህን ተሸክመህ ሂድ አለኝ ብሎ መለሰላቸው። እነርሱም አልጋህን ተሸክመህ ሂድ ያለህ ሰው ማን ነው ብለው ጠየቁት። ዳሩ ግን በዚያ ስፍራ ሕዝብ ሰለ ነበሩ ኢየሱስ ፈቀቅ ብሎ ነበርና የተፈወሰው ሰው ማን እንደ ሆነ አላወቀም። ከዚህ በኋላ ኢየሱስ በመቅደስ አገኘውና እነሆ ድነሃል፤ ከዚህ የሚብስ እንዳይደርስብህ ወደ ፊት ኃጢአት አትሥራ አለው። ሰውዬው ሄዶ ያዳነው ኢየሱስ እንደ ሆነ ለአይሁድ ነገረ። ስለዚህም በሰንበት ይህን ስላደረገ አይሁድ ኢየሱስን ያሳድዱት ነበር ሊገድሉትም ይፈልጉ ነበር። ኢየሱስ ግን አባቴ እስከ ዛሬ ይሠራል እኔም ደግሞ እሠራለሁ ብሎ መለሰላቸው። እንግዲህ ሰንበትን ስለ ሻረ ብቻ አይደለም፥ ነገር ግን ደግሞ ራሱን ከእግዚአብሔር ጋር አስተካክሎ እግዚአብሔር አባቴ ነው ስላለ፥ ስለዚህ አይሁድ ሊገድሉት አብዝተው ይፈልጉት ነበር። ስለዚህ ኢየሱስ መለሰ እንዲህም አላቸው። እውነት እውነት እላችኋለሁ፥ አብ ሲያደርግ ያየውን ነው እንጂ ወልድ ከራሱ ሊያደርግ ምንም አይችልም፤ ያ የሚያደርገውን ሁሉ ወልድ ደግሞ ይህን እንዲሁ ያደርጋልና። አብ ወልድን ይወዳልና፥ የሚያደርገውንም ሁሉ ያሳየዋል፤ እናንተም ትደነቁ ዘንድ ከዚህ የሚበልጥ ሥራ ያሳየዋል። አብ ሙታንን እንደሚያነሣ ሕይወትም እንደሚሰጣቸው፥ እንዲሁ ወልድ ደግሞ ለሚወዳቸው ሕይወትን ይሰጣቸዋል።",
+        "readingEng": "John 5:5–23 \n And a certain man was there, which had an infirmity thirty and eight years. \n When Jesus saw him lie, and knew that he had been now a long time in that case, he saith unto him, Wilt thou be made whole? \n The impotent man answered him, Sir, I have no man, when the water is troubled, to put me into the pool: but while I am coming, another steppeth down before me. \n Jesus saith unto him, Rise, take up thy bed, and walk. \n And immediately the man was made whole, and took up his bed, and walked: and on the same day was the sabbath. \n The Jews therefore said unto him that was cured, It is the sabbath day: it is not lawful for thee to carry thy bed. \n He answered them, He that made me whole, the same said unto me, Take up thy bed, and walk. \n Then asked they him, What man is that which said unto thee, Take up thy bed, and walk? \n And he that was healed wist not who it was: for Jesus had conveyed himself away, a multitude being in that place. \n Afterward Jesus findeth him in the temple, and said unto him, Behold, thou art made whole: sin no more, lest a worse thing come unto thee. \n The man departed, and told the Jews that it was Jesus, which had made him whole. \n And therefore did the Jews persecute Jesus, and sought to slay him, because he had done these things on the sabbath day. \n But Jesus answered them, My Father worketh hitherto, and I work. \n Therefore the Jews sought the more to kill him, because he not only had broken the sabbath, but said also that God was his Father, making himself equal with God. \n Then answered Jesus and said unto them, Verily, verily, I say unto you, The Son can do nothing of himself, but what he seeth the Father do: for what things soever he doeth, these also doeth the Son likewise. \n For the Father loveth the Son, and sheweth him all things that himself doeth: and he will shew him greater works than these, that ye may marvel. \n For as the Father raiseth up the dead, and quickeneth them; even so the Son quickeneth whom he will. \n For the Father judgeth no man, but hath committed all judgment unto the Son: \n That all men should honour the Son, even as they honour the Father. He that honoureth not the Son honoureth not the Father which hath sent him.",
+        "readingGeez": "ዮሐ. ፭፥፭-፳፫ \n ወሀሎ ህየ አሐዱ ብእሲ ዘ፴ወ፰ቱ ክረምቱ እምዘደወየ። ወኪያሁ ርእዮ እግዚእ ኢየሱስ ክርስቶስ ይሰክብ ውስተ ዓራቱ አእመረ ከመ ጐንደየ ውስተ ደዌሁ ወይቤሎ ትፈቅድኑ ትሕየው። ወአውሥአ ውእቱ ትፈቅድኑ ትሕየው። ወአውሥአ ውእቱ ድውይ ወይቤሎ እወ እግዚኦ አላ ሰብእ አልብየ ከመ ሶበ ይትሐወክ ማይ ያውርደኒ ወይደየኒ ውስተ ምጥማቃት ወሶበ እመጽእ አነ ባዕድ ይቀድመኒ ወሪደ። ወይቤሎ እግዚእ ኢየሱስ ተንሥእ ወንሣእ ዓራተከ ወሑር። ወሐይወ ሶቤሃ ውእቱ ብእሲ ወነሥአ ዓራቶ ወሖረ። ወሰንበት አሜሃ ይእቲ ዕለት ወይቤልዎ አይሁድ ለዘሐይወ ሰንበት ውእቱ ዮም ወኢይከውነከ ትንሣእ ወትፁር ዐራተከ። ወአውሥአ ወይቤሎሙ ዘአሕየወኒ ውእቱ ይቤለኒ ፁር ዓራተከ ወሑር። ወተስእልዎ ወይቤልዎ መኑ ውእቱ ብእሲሁ ዘይቤለከ ተንሥእ ወፁር ዓራተከ ወሑር። ወውእቱሰ ዘሐይወ ኢያእመረ መኑ ውእቱ ዘአሕየዎ እስመ ተሰወረ እግዚእ ኢየሱስ ማዕከለ ብዙኃን ሰብእ እለ ሀለዉ በውእቱ መካን። ወእምዝ ረከቦ እግዚእ እየሱስ ለውእቱ ዘሐይወ እንዘ ይሜህር በምኵራብ። ወይቤሎ ናሁኬ ሐዮከ ዑቅ ኢተአብስ ዳግመ ከመ ዘየአኪ እምዝ ኢይርከብከ። ወሖረ ውእቱ ብእሲ ወነገሮሙ ለአይሁድ ከመ እግዚእ ኢየሱስ ውእቱ ዘአሕየዎ። ወበእንተ ዝንቱ ያስተዋድይዎ አይሁድ ለእግዚ ኢየሱስ ወየኃሥሥዎ ይቅትልዎ እስመ ከመዝ ይገብር በሰንበት። ወአውሥአ እግዚእ ኢየሱስ ወይቤሎሙ አቡየሂ እስከ ይእዜ ይገብር ወአነሂ እገብር ወበእንተ ዝንቱ ፈድፋደ የኅሥሡ አይሁድ ይቅትልዎ እስመ አኮክመ ሰንበተ ባሕቲቶ ዘይሥእር ዳዕሙ ዓዲ አባሁ ይሬስዮ ለእግዚአብሔር ወያዔሪ ርእሶ ምስለ እግዚአብሔር። ወእምዝ አውሥአ እግዚእ ኢየሱስ ወይቤሎሙ አማን አማን እብለክሙ ኢይክል ወልድ ገቢረ ዘእምኅቤሁ ወኢምንተኒ ዘእንበለ ዘርእዮ ለአብ ይገብር እስመ ግብረ ዘይገብር አብ ወልድኒ ኪያሁ ይገብር በአምሳሉ እስመ አብ ያፈቅር ውልዶ ወኵሎ ያሬእዮ ዘውእቱ ይገብር ወዘየዓቢ እምዘ ያሬእዮ ግብረ ከመ አንትሙ ታንክሩ ወበከመ አብ ያነሥኦሙ ለሙታን ወያሐይዎሙ ከማሁ ወልድኒ ለዘፈቀደ ያሐዩ እስመ አብሰ አይኴንን ወኢመነሂ አላ ኵሉ ኵነኔሁ አወፈዮ ለወልዱ \n ዘየአምን በወልድ ቦ ሕይወት ዘለዓለም።",
+        "readingTitle": "ዘቀዳሚት"
+      }
+    ],
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 44,
+    "text": "ረስየነ ፡ ድልዋነ ፡ ንባእ ፡ ውስተ ፡ ሰንበተ ፡ ሰንበታቲከ ፤ ምስለ ፡ ኲሎሙ ፡ ቅዱሳኒከ ፡ ንኩን ፡ ጽውዓነ ፡ ለበዓልከ ፤ ተመርጒዘነ ፡ ንሕነ ፡ መስቀለከ ፡ ጸዊረነ ፡ ናንሶሱ ፡ ወንጌለከ ።",
+    "title": "መርገፍ ዘወንጌል ዘቀዳሚት",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  },
+  {
+    "sortOder": 45,
+    "text": "ሃሌ ፡ ሉያ ፡ ሃሌ ፡ ሉያ ፡ ሃሌ ፡ ሃሌ ፡ ሉያ ፡ ኮከበ ፡ ሰመናይከ ። ፀሐየ ፡ ጽድቅ ፡ ዘሐፀነከ ፡ ውስተ ፡ ሕፅኑ ፡ ዘአርፈቀከ ፡ ኮከበ ፡ ሰመይናከ ። በአፉሁ ፡ ዘሰዐመከ ፡ ወበቅናቱ ፡ ዘአቅነተከ ፡ ኮከበ ፡ ሰመይናከ ። ኅቡአቲሁ ፡ ዘአርአየከ ፡ ወንጌለ ፡ ጸጋሁ ፡ ዘአወፈየከ ፤ ኮከበ ፡ ሰመይናከ ፡ ዮሐንስ ፡ መኑ ፡ ከማከ ፡ አስተምሕር ፡ ለነ ፡ ሰአልናከ ።",
+    "title": "መርገፍ ዘወንጌል ዘእሁድ",
+    "turn": "ይ.ሕ.",
+    "metadata": {
+      "schemaVersion": 1,
+      "source": "EOTC traditional liturgy",
+      "language": "gez-am"
+    }
+  }
+]
