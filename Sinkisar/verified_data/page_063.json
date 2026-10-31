@@ -1,0 +1,8 @@
+{
+  "page_num": 63,
+  "pdf_index": 62,
+  "status": "verified",
+  "notes": "DUPLICATE SCAN: page_063.png is a second scan of the same printed page as page 062 (same header, same paragraphs ፰-፲፩, same arke). Compared by eye; wording identical, including the \"ሰማያዌ\" misprint. Text is kept once, in page_062.json; this page is intentionally empty so assembly does not repeat it. Source PDF pdf_index 61 and 62 are the same printed page.",
+  "geez": [],
+  "amharic": []
+}

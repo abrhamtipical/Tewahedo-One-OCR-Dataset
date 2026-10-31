@@ -1,0 +1,23 @@
+{
+  "page_num": 79,
+  "pdf_index": 78,
+  "status": "verified",
+  "notes": "Page 079. Arke at top = arke of John of Tseylem (day 19, p078 ended with no arke). Numeral ፳፮ inferred from running sequence (p078 ended ፳፭); the Ge'ez ¶፳፮ is the commemoration of the martyrs of Metra and King Yimrehane Kristos (second ወበዛቲ ዕለት on day 19), followed by its arke. Third arke (ሰላም ለስምዖን መንፈሰ ትንቢት) has no matching story on this page or p078: subject (Simeon / disciple John) unresolved, to be checked against the PDF; it is attached by position to ¶፳፮. Day 20 opens at ¶፩ (አመ ፳ሁ ለጥቅምት): Abba John Hagir (ሐጊር read from both Ge'ez and Amharic scan; meaning to confirm). Ge'ez flags: ይምርሐነ (scan reads ይምርሐን in Amharic, ይምርሐነ kept in Ge'ez), ማዕሰ (sic, as scanned, unclear), ኢተሌለየ, ወኢኮነ (scan ኮኑ/ኮነ ambiguous, read ኮነ), ሆከቶ (sic), ወሶቢ read ወሶቢ vs scan ወሶቦ-like (kept ወሶቢ), ወኢ፡ብዕል spacing as scanned. Amharic flags: ይምርሐነ ክርስቶስ (Amharic scan reads ይምርሐን; normalised to match Ge'ez, inferred), ቸኑር (likely ይኑር, kept as scanned), አነግሥታው (sic, scan reads አነግሥታው; probably አነሣሥቶት), ይሸውም (sic, probably ይህውም/ይህም), ሃያ for ፳ in the Amharic opener is the scan's ordinal as read. Arke 2: ዓሙ, ተኀትሙ, ተደሙ, ተክዕወ, ወንጥበ kept as scanned; line breaks of the arke resolved by comparing wide crop. Arke 1: ጽጉያ kept as scanned. Right edges of Amharic lines may be hidden by binding shadow. Page ends mid-sentence in ¶፬ (Ge'ez: ዛቲ ገዳም / Amharic: አይደለም); continues on p080 with trailing space then join. PDF cross-check pending.",
+  "geez": [
+    "አርኬ፤ ሰላም ፡ ለዮሐንስ ፡ በሥልጣን ፡ ቃሉ ፡ ዘአዘዛ ። ይኩን ፡ ደም ፡ ለፈለገ ፡ ጸይለም ፡ ውኂዛ ። ወሰላም ፡ ለረድኡ ፡ ጽጉያ ፡ ሠናይ ፡ መዓዛ ። እንተ ፡ ተውህበ ፡ ለሞት ፡ እንዘ ፡ ውእቱ ፡ ወሬዛ ። ለንፍሰ ፡ አእላፍ ፡ ከመ ፡ ይኩን ፡ ቤዛ ።",
+    "፳፮፤ ወበዛቲ ፡ ዕለት ፡ ካዕበ ፡ ተዝካሮሙ ፡ ለጻድቃን ፡ እለ ፡ መጥራ ፡ እለ ፡ ተጠብሑ ፡ በመጥባሕት ፡ ከመ ፡ አባግዕ ፡ ወተዝካሩ ፡ ዓዲ ፡ ለይምርሐነ ፡ ክርስቶስ ፡ ንጉሠ ፡ ኢትዮጵያ ፡ ወለእሉኒ ፡ ጻድቃን ፡ እለ ፡ መጥራ ፡ እስከ ፡ ይእዜ ፡ ማዕሰ ፡ ሥጋሆሙ ፡ ኢተሌለየ ፡ ወመግነዞሙ ፡ ኢበልየ ። ወበረከቶሙ ፡ ተሀሉ ፡ ምስሌነ ፡ ለዓለመ ፡ ዓለም ፡ አሜን ።",
+    "አርኬ፤ ሰላም ፡ ለይምርሐነ ፡ ዓመተ ፡ ምሕረት ፡ ዓሙ ። በቅብዓ ፡ ክህነት ፡ ወንግሥ ፡ ዘአባላቲሁ ፡ ተኀትሙ ። እስከ ፡ ብዙኃን ፡ ሕዝብ ፡ እመንክራቲሁ ፡ ተደሙ ። መንገለ ፡ ተክዕወ ፡ ወንጥበ ፡ ደሙ ። በቌለ ፡ ወይን ፡ ዘመንክር ፡ ጣዕሙ ።",
+    "አርኬ፤ ሰላም ፡ ለስምዖን ፡ መንፈሰ ፡ ትንቢት ፡ ዘተዓጽፈ ። ዜና ፡ አርዳኢሁ ፡ ሠለስቱ ፡ በከመ ፡ ተጽሕፈ ። አሐዱ ፡ በተዘርዎ ፡ ውስተ ፡ ዓውደ ፡ ዓለም ፡ ኀለፈ ። ወካልኡኒ ፡ ልብሰ ፡ ምንኵስና ፡ ገደፈ ። በገቢረ ፡ ሠናይ ፡ ባሕቲቱ ፡ ዮሐንስ ፡ ተርፈ ።",
+    "፩፤ በስመ ፡ አብ ፡ ወወልድ ፡ ወመንፈስ ፡ ቅዱስ ፡ አሐዱ ፡ አምላክ ፡ አመ ፡ ፳ሁ ፡ ለጥቅምት ፡ በዛቲ ፡ ዕለት ፡ አዕረፈ ፡ አብ ፡ ክቡር ፡ ወዐቢይ ፡ አባ ፡ ዮሐንስ ፡ ሐጊር ።",
+    "፪፤ ለዝንቱ ፡ ቅዱስ ፡ አበዊሁ ፡ ዘእምላዕላይ ፡ ግብጽ ፡ ወእሙንቱ ፡ ፈራህያን ፡ እግዚአብሔር ፡ ወኢኮነ ፡ ሎሙ ፡ ወልድ ፡ ዘእንበሌሁ ፡ ወኢ ፡ ብዕል ፡ ዝንቱ ፡ ዓለም ፡ ዳዕሙ ፡ ብዑላን ፡ በምግባረ ፡ ሠናይ ፡ ወሐፀንዎ ፡ ለዝንቱ ፡ ቅዱስ ፡ እንዘ ፡ ይሜህርዎ ፡ ሠናየ ፡ ሕፅነተ ።",
+    "፫፤ ወሶቢ ፡ ኮኖ ፡ መዋዕሊሁ ፡ ለዝንቱ ፡ ቅዱስ ፡ ፲ወ፰ተ ፡ ዓመተ ፡ ሆከቶ ፡ ጸጋ ፡ እግዚአብሔር ፡ ወሐረ ፡ ኀበ ፡ ገዳመ ፡ አስቄጥስ ፡ ከመ ፡ ይልበስ ፡ አስኬማ ፡ መላእክት ፡ ዘውእቱ ፡ ልብሰ ፡ ምንኵስና ።",
+    "፬፤ ወበጊዜሃ ፡ ህየ ፡ ተራከቦ ፡ ለአሐዱ ፡ አረጋዊ ፡ አብ ፡ ዘስሙ ፡ ባይሞይ ፡ ወሰገደ ፡ ሎቱ ፡ ዮሐንስ ፡ ወሰአሎ ፡ ከመ ፡ ይትወከፎ ፡ ኀቤሁ ፡ አረጋዊኒ ፡ ይቤሎ ፡ አ ፡ ወልድየ ፡ ኢርቱዕ ፡ ለከ ፡ ከመ ፡ ትንበር ፡ ዝየ ፡ እስመ ፡ ዛቲ ፡ ገዳም ፡"
+  ],
+  "amharic": [
+    "፳፮፤ በዚችም ፡ ቀን ፡ ዳግመኛ ፡ እንደ ፡ በግ ፡ ለታረዱ ፡ ለመጥራ ፡ ጻድቃን ፡ መታሰቢያቸው ፡ ነው ። ደግሞ ፡ የኢትዮጵያ ፡ ንጉሥ ፡ ይምርሐነ ፡ ክርስቶስ ፡ መታሰቢያው ፡ ነው ፡ እሊህም ፡ የመጥራ ፡ ጻድቃን ፡ እስከ ፡ ዛሬ ፡ ቆዳቸው ፡ ከሥጋቸው ፡ አልተለያየም ፡ መግነዛቸውም ፡ አላረጀም ። በረከታቸውም ፡ ከእኛ ፡ ጋር ፡ ቸኑር ፡ ለዘላለሙ ፡ አሜን ።",
+    "፩፤ አንድ ፡ አምላክ ፡ በሚሆን ፡ በአብ ፡ በወልድ ፡ በመንፈስ ፡ ቅዱስ ፡ ስም ፡ ጥቅምት ፡ ሃያ ፡ በዚች ፡ ቀን ፡ ክቡርና ፡ ገናና ፡ የሆን ፡ አባ ፡ ዮሐንስ ፡ ሐጊር ፡ አረፈ ።",
+    "፪፤ የዚህ ፡ ቅዱስ ፡ ወላጆቹ ፡ ከላይኛው ፡ ግብጽ ፡ ናቸው ፡ እነርሱም ፡ እግዚአብሔርን ፡ የሚፈሩ ፡ ናቸው ፡ ግን ፡ ከእርሱ ፡ በቀር ፡ ልጅ ፡ የላቸውም ፡ የዚህ ፡ ዓለምም ፡ ብልጽግና ፡ ቢሆን ፡ የላቸውም ፡ ነገር ፡ ግን ፡ በበጎ ፡ ሥራ ፡ ባለጸጎች ፡ ናቸው ። ይህንንም ፡ ቅዱስ ፡ እያስተማሩ ፡ በበጎ ፡ አስተዳደግ ፡ አሳደጉት ።",
+    "፫፤ የዚህም ፡ ቅዱስ ፡ ዕድሜው ፡ ዐሥራ ፡ ስምንት ፡ ዓመት ፡ ሲሆነው ፡ የእግዚአብሔር ፡ ቸርነት ፡ አነግሥታው ፡ የመላእክት ፡ የሆን ፡ አስኬማን ፡ ይለብስ ፡ ዘንድ ፡ ወደ ፡ አስቄጥስ ፡ ገዳም ፡ ሔደ ፡ ይሸውም ፡ የምንኵስና ፡ ልብስ ፡ ነው ።",
+    "፬፤ ከዚያም ፡ በደረሰ ፡ ጊዜ ፡ አባ ፡ ባይሞይ ፡ የሚባለውን ፡ አንዱን ፡ አረጋዊ ፡ አባት ፡ ተገናኘው ፡ ዮሐንስም ፡ ሰገደለትና ፡ ወደ ፡ እርሱ ፡ እንዲቀበለው ፡ ለመነው ፡ ሽማግሌውም ፡ አባት ፡ ልጄ ፡ ሆይ ፡ ያንተ ፡ በዚህ ፡ መኖር ፡ ልክ ፡ አይደለም ፡"
+  ]
+}
